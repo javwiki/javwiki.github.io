@@ -44,4 +44,4 @@ AIKA是日本AV行业中最具代表性的现役女优之一，被誉为"顶流�
 
 - <https://zh.wikipedia.org/wiki/AIKA_(AV女优)>
 - <https://ja.wikipedia.org/wiki/AIKA_(AV女優)>
-- <https://www.wikidata.org/wiki/Q10883564>
+- <https://www.wikidata.org/wiki/Q8916509>
