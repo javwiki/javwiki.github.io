@@ -60,7 +60,7 @@ Miru是日本AV行业中以技术著称的现役女优。2018年8月以"坂道�
 
 ## 社交媒体
 
-- **Twitter/X**: [@miru_sakamichi](https://twitter.com/miru_sakamichi)
+- **Twitter/X**: [@miruteer_29](https://twitter.com/miruteer_29)
 
 ## 参考资料
 
