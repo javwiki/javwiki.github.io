@@ -43,6 +43,6 @@
 
 ## 备注
 
-- 对于维基百科无条目的女优，可尝试从 JAVDB、minnano-av、厂商官网等渠道获取信息
+- 对于维基百科无条目的女优，可尝试从 [Seesaa Wiki](https://wiki.seesaa.jp/adult/)、JAVDB、minnano-av、厂商官网等渠道获取信息（Seesaa Wiki 需年龄验证）
 - 社交媒体信息可通过 X (Twitter)、Instagram 搜索确认
 - 引退女优的社交媒体如已删除，可标注"已删除"状态

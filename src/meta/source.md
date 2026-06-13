@@ -19,6 +19,7 @@
 | [JAVDB](https://javdb.com) | 中文 AV 资料库 | 番号、女优、厂商信息，评分数据 |
 | [Javlibrary](https://www.javlibrary.com) | 多语言 AV 资料库 | 评分和评论，作品列表 |
 | [AV-Wiki](https://av-wiki.net) | 日文 AV 资料库 | 厂商和作品信息 |
+| [Seesaa Wiki](https://wiki.seesaa.jp/adult/) | 日文 AV 维基百科 | 女优详细资料（需年龄验证） |
 | [みんなの AV](https://www.minnano-av.com) | 日文 AV 资料库 | 女优信息，作品列表 |
 | [Xslist](https://www.xslist.org) | 多语言 AV 资料库 | 女优信息，作品列表，经纪公司信息 |
 | [DMM](https://www.dmm.co.jp) | 日本 AV 发行平台 | 官方作品信息，销量数据 |
