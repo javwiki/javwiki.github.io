@@ -54,6 +54,11 @@ Julia 是日本 AV 行业中最具代表性的巨乳女优之一，被誉为"爆
 
 - 2016年 DMM.R18 成人奖：特别赏
 
+## 社交媒体
+
+- **Twitter/X**: [@JULIA_fans](https://twitter.com/JULIA_fans)
+- **微博**: [JULIA官方微博](https://weibo.com/juliafans)
+
 ## 参考资料
 
 - <https://ja.wikipedia.org/wiki/JULIA_(AV女優)>
