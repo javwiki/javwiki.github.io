@@ -56,8 +56,10 @@ Julia 是日本 AV 行业中最具代表性的巨乳女优之一，被誉为"爆
 
 ## 社交媒体
 
-- **Twitter/X**: [@JULIA_fans](https://twitter.com/JULIA_fans)
-- **微博**: [JULIA官方微博](https://weibo.com/juliafans)
+- **Twitter/X**: [@JULIA_1stid](https://x.com/JULIA_1stid)（主账号）
+- **Twitter/X**: [@JULIA_2ndid](https://x.com/JULIA_2ndid)（副账号）
+- **Instagram**: [@julia_cmore_official](https://instagram.com/julia_cmore_official)
+- **微博**: [JULIA_Cmore](https://weibo.com/u/5032694046)
 
 ## 参考资料
 
