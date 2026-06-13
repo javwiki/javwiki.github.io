@@ -58,6 +58,10 @@ Miru是日本AV行业中以技术著称的现役女优。2018年8月以"坂道�
 
 - 2019年 FANZA成人奖：优秀新人女优赏
 
+## 社交媒体
+
+- **Twitter/X**: [@miru_sakamichi](https://twitter.com/miru_sakamichi)
+
 ## 参考资料
 
 - <https://ja.wikipedia.org/wiki/Miru_(AV女優)>
