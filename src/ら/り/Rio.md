@@ -1,3 +1,7 @@
+---
+tags: [C罩, T-POWERS, MAX-A, S1, IdeaPocket]
+---
+
 # Rio
 
 ## 基本信息
