@@ -37,15 +37,14 @@ jobs:
           cargo install mdbook
           cargo install mdbook-summarizer
           cargo install mdbook-tagging
-      - name: Generate SUMMARY.md with mdbook-summarizer
-        run: |
-          mdbook-summarizer --src src
-          echo "SUMMARY.md generated"
-          head -20 src/SUMMARY.md
       - name: Generate tag index pages with mdbook-tagging
         run: |
           mdbook-tagging generate .
           echo "Tag pages generated"
+      - name: Generate SUMMARY.md with mdbook-summarizer
+        run: |
+          mdbook-summarizer --src src
+          echo "SUMMARY.md generated"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
