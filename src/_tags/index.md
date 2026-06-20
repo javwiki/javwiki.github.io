@@ -7,23 +7,21 @@
 | [AINA Group](AINA-Group.md) | 1 |
 | [ALLURE](ALLURE.md) | 1 |
 | [ARCHE Production](ARCHE-Production.md) | 1 |
-| [Alice JAPAN](Alice-JAPAN.md) | 3 |
-| [Alice Japan](Alice-Japan.md) | 2 |
+| [Alice Japan](Alice-Japan.md) | 5 |
 | [AliceJapan](AliceJapan.md) | 1 |
 | [Attackers](Attackers.md) | 11 |
 | [Bstar](Bstar.md) | 3 |
 | [B罩](B罩.md) | 5 |
 | [C-more](C-more.md) | 1 |
-| [C-more ENTERTAINMENT](C-more-ENTERTAINMENT.md) | 1 |
+| [C-more ENTERTAINMENT](C-more-ENTERTAINMENT.md) | 2 |
 | [C-more エンターテイメント](C-more-エンターテイメント.md) | 2 |
 | [C70罩](C70罩.md) | 1 |
 | [Capsule Agency](Capsule-Agency.md) | 1 |
 | [C罩](C罩.md) | 20 |
 | [D65罩](D65罩.md) | 1 |
 | [DAHLIA](DAHLIA.md) | 3 |
-| [DAS](DAS.md) | 1 |
+| [DAS](DAS.md) | 2 |
 | [DINO](DINO.md) | 1 |
-| [Das!](Das.md) | 1 |
 | [Diaz Group](Diaz-Group.md) | 1 |
 | [DiazGroup](DiazGroup.md) | 1 |
 | [Duoエンターテイメント](Duoエンターテイメント.md) | 1 |
@@ -45,7 +43,7 @@
 | [J罩](J罩.md) | 1 |
 | [K75罩](K75罩.md) | 1 |
 | [KUKI](KUKI.md) | 2 |
-| [Kawaii](Kawaii.md) | 1 |
+| [Kawaii](Kawaii.md) | 4 |
 | [K罩](K罩.md) | 1 |
 | [LIFE PROMOTION](LIFE-PROMOTION.md) | 1 |
 | [LIGHT](LIGHT.md) | 3 |
@@ -54,25 +52,19 @@
 | [LiStar](LiStar.md) | 1 |
 | [L罩](L罩.md) | 1 |
 | [MARRION](MARRION.md) | 1 |
-| [MAX-A](MAX-A.md) | 3 |
-| [MAXING](MAXING.md) | 2 |
-| [MOODYZ](MOODYZ.md) | 21 |
+| [MAX-A](MAX-A.md) | 5 |
+| [MAXING](MAXING.md) | 3 |
+| [MOODYZ](MOODYZ.md) | 27 |
 | [MUTEKI](MUTEKI.md) | 3 |
 | [Madonna](Madonna.md) | 10 |
-| [Max-A](Max-A.md) | 2 |
-| [Maxing](Maxing.md) | 1 |
 | [Million](Million.md) | 3 |
-| [Mine'S](Mine-S.md) | 1 |
-| [Mine's](Mine-s.md) | 4 |
-| [Moodyz](Moodyz.md) | 6 |
+| [Mine's](Mine-s.md) | 5 |
 | [NAX](NAX.md) | 2 |
 | [NAX Promotion](NAX-Promotion.md) | 1 |
 | [OPPAI](OPPAI.md) | 7 |
 | [One's Double](One-s-Double.md) | 1 |
-| [PREMIUM](PREMIUM.md) | 1 |
-| [PRESTIGE](PRESTIGE.md) | 4 |
-| [Premium](Premium.md) | 6 |
-| [Prestige](Prestige.md) | 3 |
+| [PREMIUM](PREMIUM.md) | 7 |
+| [PRESTIGE](PRESTIGE.md) | 7 |
 | [S1](S1.md) | 33 |
 | [S1 NO.1 STYLE](S1-NO.1-STYLE.md) | 6 |
 | [S1 NO.1 STYLE专属](S1-NO.1-STYLE专属.md) | 1 |
@@ -82,13 +74,10 @@
 | [SODstar](SODstar.md) | 1 |
 | [SODクリエイト](SODクリエイト.md) | 1 |
 | [S罩](S罩.md) | 1 |
-| [T-POWERS](T-POWERS.md) | 25 |
-| [T-Powers](T-Powers.md) | 1 |
+| [T-POWERS](T-POWERS.md) | 26 |
 | [TANK](TANK.md) | 1 |
-| [c-more ENTERTAINMENT](c-more-ENTERTAINMENT.md) | 1 |
 | [e2dive entertainment → ワンズダブル → バンビプロモーション](e2dive-entertainment--ワンズダブル--バンビプロモーション.md) | 1 |
 | [h.m.p](h.m.p.md) | 3 |
-| [kawaii](kawaii.md) | 3 |
 | [アイエナジー](アイエナジー.md) | 1 |
 | [アイデアポケット→ ARROWS → バンビプロモーション](アイデアポケット-ARROWS--バンビプロモーション.md) | 1 |
 | [アタッカーズ](アタッカーズ.md) | 3 |
@@ -101,7 +90,7 @@
 | [クリスタル映像](クリスタル映像.md) | 1 |
 | [ジールグループ](ジールグループ.md) | 1 |
 | [セレブの友](セレブの友.md) | 1 |
-| [ダスッ!](ダスッ.md) | 3 |
+| [ダスッ](ダスッ.md) | 3 |
 | [ティーパワーズ](ティーパワーズ.md) | 8 |
 | [ナンパJAPAN](ナンパJAPAN.md) | 1 |
 | [バンビプロモーション](バンビプロモーション.md) | 1 |

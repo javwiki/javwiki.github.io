@@ -1,5 +1,5 @@
 ---
-tags: [D罩, T-POWERS, S1, Moodyz]
+tags: [D罩, T-POWERS, S1, MOODYZ]
 ---
 
 # AIKA
@@ -18,7 +18,7 @@ tags: [D罩, T-POWERS, S1, Moodyz]
 - **类别**: Censored（有码系）
 - **活跃年代**: 2014年至今
 - **经纪公司**: T-POWERS
-- **主要片商**: S1, Moodyz
+- **主要片商**: S1, MOODYZ
 
 ## 简介
 
