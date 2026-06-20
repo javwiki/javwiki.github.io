@@ -15,20 +15,17 @@
 | [C-more](C-more.md) | 1 |
 | [C-more ENTERTAINMENT](C-more-ENTERTAINMENT.md) | 2 |
 | [C-more エンターテイメント](C-more-エンターテイメント.md) | 2 |
-| [C70罩](C70罩.md) | 1 |
 | [Capsule Agency](Capsule-Agency.md) | 1 |
-| [C罩](C罩.md) | 20 |
-| [D65罩](D65罩.md) | 1 |
+| [C罩](C罩.md) | 21 |
 | [DAHLIA](DAHLIA.md) | 3 |
 | [DAS](DAS.md) | 2 |
 | [DINO](DINO.md) | 1 |
 | [Diaz Group](Diaz-Group.md) | 1 |
 | [DiazGroup](DiazGroup.md) | 1 |
 | [Duoエンターテイメント](Duoエンターテイメント.md) | 1 |
-| [D罩](D罩.md) | 14 |
+| [D罩](D罩.md) | 15 |
 | [E-BODY](E-BODY.md) | 1 |
-| [E70罩](E70罩.md) | 1 |
-| [E罩](E罩.md) | 16 |
+| [E罩](E罩.md) | 17 |
 | [FALENO](FALENO.md) | 5 |
 | [FALENO star](FALENO-star.md) | 1 |
 | [FALENOstar](FALENOstar.md) | 1 |
@@ -41,10 +38,9 @@
 | [IdeaPocket](IdeaPocket.md) | 16 |
 | [I罩](I罩.md) | 2 |
 | [J罩](J罩.md) | 1 |
-| [K75罩](K75罩.md) | 1 |
 | [KUKI](KUKI.md) | 2 |
 | [Kawaii](Kawaii.md) | 4 |
-| [K罩](K罩.md) | 1 |
+| [K罩](K罩.md) | 2 |
 | [LIFE PROMOTION](LIFE-PROMOTION.md) | 1 |
 | [LIGHT](LIGHT.md) | 3 |
 | [LINX](LINX.md) | 3 |
