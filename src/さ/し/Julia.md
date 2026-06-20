@@ -1,3 +1,7 @@
+---
+tags: [J罩, C-more エンターテイメント, E-BODY, MOODYZ, 溜池ゴロー, OPPAI, ワンズファクトリー]
+---
+
 # Julia
 
 ## 基本信息

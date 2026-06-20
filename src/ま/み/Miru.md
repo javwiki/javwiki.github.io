@@ -1,3 +1,7 @@
+---
+tags: [E罩, C-more ENTERTAINMENT, S1]
+---
+
 # Miru
 
 ## 基本信息
