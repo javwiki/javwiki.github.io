@@ -43,7 +43,7 @@ jobs:
           echo "Tag pages generated"
       - name: Generate SUMMARY.md with mdbook-summarizer
         run: |
-          mdbook-summarizer --src src
+          mdbook-summarizer --src src --auto-readme
           echo "SUMMARY.md generated"
       - name: Setup Pages
         id: pages
