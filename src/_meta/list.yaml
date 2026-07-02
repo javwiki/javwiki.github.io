@@ -72,6 +72,10 @@ items:
     row: あ
     col: あ
     completeness: 100%
+  - name: 荒木レナ
+    row: あ
+    col: あ
+    completeness: 65%
   - name: 伊藤舞雪
     row: あ
     col: い
@@ -180,6 +184,10 @@ items:
     row: か
     col: こ
     completeness: 100%
+  - name: 加藤ももか
+    row: か
+    col: か
+    completeness: 100%
   - name: 桜井步
     row: さ
     col: さ
@@ -227,6 +235,14 @@ items:
   - name: Julia
     row: さ
     col: し
+    completeness: 100%
+  - name: 千乃あずみ
+    row: た
+    col: ち
+    completeness: 100%
+  - name: 九十九メイ
+    row: た
+    col: つ
     completeness: 100%
   - name: 高桥圣子
     row: た
@@ -293,6 +309,10 @@ items:
     col: は
     completeness: 100%
   - name: 羽咲美晴
+    row: は
+    col: は
+    completeness: 100%
+  - name: 羽生ありさ
     row: は
     col: は
     completeness: 100%
@@ -376,6 +396,10 @@ items:
     row: ま
     col: も
     completeness: 100%
+  - name: 守屋よしの
+    row: ま
+    col: も
+    completeness: 65%
   - name: 山手梨爱
     row: や
     col: や
@@ -397,6 +421,10 @@ items:
     col: ゆ
     completeness: 100%
   - name: 吉高宁宁
+    row: や
+    col: よ
+    completeness: 100%
+  - name: 吉根ゆりあ
     row: や
     col: よ
     completeness: 100%
