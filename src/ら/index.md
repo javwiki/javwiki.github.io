@@ -4,8 +4,4 @@
 
 ## 段索引
 
-- [ら](./ら/index.md)
 - [り](./り/index.md)
-- [る](./る/index.md)
-- [れ](./れ/index.md)
-- [ろ](./ろ/index.md)
