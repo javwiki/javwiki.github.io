@@ -6,7 +6,8 @@
 
 | 来源 | 说明 | 主要用途 |
 | --- | --- | --- |
-| [ja.wikipedia.org](https://ja.wikipedia.org) | 日语维基百科 | 女优、厂商、作品的基础资料，经年表、获奖记录 |
+| [ja.wikipedia.org](https://ja.wikipedia.org) | 日语维基百科 | 女优、厂商、作品的基础资料，含年表、获奖记录 |
+| [Weblio](https://www.weblio.jp) | 在线辞典（转载日文维基百科全文） | 日语维基百科的替代方案，当维基百科无法访问时可使用此来源获取相同内容 |
 | [zh.wikipedia.org](https://zh.wikipedia.org) | 中文维基百科 | 补充中文语境下的资料，海外影响力信息 |
 | [Wikidata](https://www.wikidata.org) | 结构化数据仓库 | 交叉验证和补充 infobox 字段，获取唯一标识符 |
 

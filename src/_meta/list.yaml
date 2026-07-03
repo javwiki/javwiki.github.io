@@ -1,24 +1,8 @@
 title: 女优列表
 items:
-  - name: AIKA
-    row: あ
-    col: あ
-    completeness: 100%
   - name: あずみ恋
     row: あ
     col: あ
-    completeness: 100%
-  - name: 朝桐光
-    row: あ
-    col: さ
-    completeness: 100%
-  - name: 朝美穗香
-    row: あ
-    col: さ
-    completeness: 100%
-  - name: 麻美由真
-    row: あ
-    col: ま
     completeness: 100%
   - name: 葵司
     row: あ
@@ -29,6 +13,10 @@ items:
     col: あ
     completeness: 100%
   - name: 葵百合香
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: AIKA
     row: あ
     col: あ
     completeness: 100%
@@ -52,6 +40,10 @@ items:
     row: あ
     col: あ
     completeness: 100%
+  - name: 蒼井空
+    row: あ
+    col: あ
+    completeness: 100%
   - name: 彩美旬果
     row: あ
     col: あ
@@ -62,13 +54,9 @@ items:
     completeness: 100%
   - name: 天海翼
     row: あ
-    col: た
+    col: あ
     completeness: 100%
   - name: 天使萌
-    row: あ
-    col: た
-    completeness: 100%
-  - name: 红音萤
     row: あ
     col: あ
     completeness: 100%
@@ -76,6 +64,18 @@ items:
     row: あ
     col: あ
     completeness: 65%
+  - name: 朝桐光
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: 朝美穗香
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: 麻美由真
+    row: あ
+    col: あ
+    completeness: 100%
   - name: 伊藤舞雪
     row: あ
     col: い
@@ -102,7 +102,7 @@ items:
     completeness: 100%
   - name: 上原亚衣
     row: あ
-    col: い
+    col: う
     completeness: 100%
   - name: 宇流木さら
     row: あ
@@ -132,9 +132,9 @@ items:
     row: あ
     col: お
     completeness: 100%
-  - name: 香水纯
-    row: か
-    col: か
+  - name: 小野六花
+    row: あ
+    col: お
     completeness: 100%
   - name: 河北彩花
     row: か
@@ -156,6 +156,14 @@ items:
     row: か
     col: か
     completeness: 100%
+  - name: 奏音花音
+    row: か
+    col: か
+    completeness: 100%
+  - name: 加藤ももか
+    row: か
+    col: か
+    completeness: 100%
   - name: 君岛美绪
     row: か
     col: き
@@ -172,6 +180,10 @@ items:
     row: か
     col: き
     completeness: 65%
+  - name: 紅音萤
+    row: か
+    col: く
+    completeness: 100%
   - name: 黑木香
     row: か
     col: く
@@ -184,9 +196,13 @@ items:
     row: か
     col: こ
     completeness: 100%
-  - name: 加藤ももか
+  - name: 五条恋
     row: か
-    col: か
+    col: こ
+    completeness: 100%
+  - name: 香水纯
+    row: か
+    col: こ
     completeness: 100%
   - name: 桜井步
     row: さ
@@ -236,6 +252,10 @@ items:
     row: さ
     col: し
     completeness: 100%
+  - name: 鈴村あいり
+    row: さ
+    col: す
+    completeness: 100%
   - name: 千乃あずみ
     row: た
     col: ち
@@ -253,6 +273,10 @@ items:
     col: た
     completeness: 100%
   - name: 泷泽萝拉
+    row: た
+    col: た
+    completeness: 100%
+  - name: 壇玲奈
     row: た
     col: た
     completeness: 100%
@@ -283,10 +307,6 @@ items:
   - name: 永野一夏
     row: な
     col: な
-    completeness: 100%
-  - name: 小野六花
-    row: な
-    col: の
     completeness: 100%
   - name: 新有菜
     row: な
@@ -330,15 +350,19 @@ items:
     completeness: 100%
   - name: 深田咏美
     row: は
-    col: は
+    col: ふ
     completeness: 100%
   - name: 枫花
     row: は
-    col: は
+    col: ふ
     completeness: 100%
   - name: 冬月枫
     row: は
-    col: は
+    col: ふ
+    completeness: 100%
+  - name: 古川伊织
+    row: は
+    col: ふ
     completeness: 100%
   - name: 本庄铃
     row: は
@@ -346,7 +370,7 @@ items:
     completeness: 100%
   - name: ベアトリクス
     row: は
-    col: は
+    col: べ
     completeness: 100%
   - name: 松本一香
     row: ま
@@ -385,6 +409,10 @@ items:
     col: み
     completeness: 100%
   - name: 水卜樱
+    row: ま
+    col: み
+    completeness: 100%
+  - name: 南梨央奈
     row: ま
     col: み
     completeness: 100%
@@ -440,3 +468,7 @@ items:
     row: ら
     col: り
     completeness: 100%
+
+# 五十音排序规则：参见 src/_meta/五十音排序规则.md
+# 条目顺序：あ行 → か行 → さ行 → た行 → な行 → は行 → ま行 → や行 → ら行 → わ行
+# 段顺序：あ段 → い段 → う段 → え段 → お段

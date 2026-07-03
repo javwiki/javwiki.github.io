@@ -6,6 +6,3 @@
 
 - [な](./な/index.md)
 - [に](./に/index.md)
-- [ぬ](./ぬ/index.md)
-- [ね](./ね/index.md)
-- [の](./の/index.md)
