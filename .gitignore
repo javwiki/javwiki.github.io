@@ -56,6 +56,10 @@ dkms.conf
 
 SUMMARY.md
 
+# local agent state
+.reasonix/
+.workbuddy/
+
 # mdbook output
 book/
 
