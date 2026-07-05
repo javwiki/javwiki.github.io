@@ -11,7 +11,7 @@
 | [T-POWERS](T-POWERS.md) | 三上悠亚、河北彩花、石川澪 |
 | [C-more](C-more.md) | 天使萌、枫花 |
 | [LINX](LINX.md) | 桃乃木香奈、葵百合香 |
-| [Mine'S](Mine_S.md) | 葵司、彩美旬果、上原亚衣 |
+| [Mine'S](Mine'S.md) | 葵司、彩美旬果、上原亚衣 |
 | [ARROWS](ARROWS.md) | 深田咏美 |
 | [8MAN](8MAN.md) | 有栖花绯、相泽南 |
 | [Bambi Promotion](Bambi%20Promotion.md) | 楪可怜、安位薰 |

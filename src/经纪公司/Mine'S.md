@@ -4,7 +4,7 @@ name: Mine'S
 company: マインズ
 ---
 
-# Mine_S
+# Mine'S
 
 ## 基本信息
 
