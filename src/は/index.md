@@ -5,6 +5,7 @@
 ## 段索引
 
 - [は](./は/index.md)
+- [ひ](./ひ/index.md)
 - [ふ](./ふ/index.md)
 - [べ](./べ/index.md)
 - [ほ](./ほ/index.md)
