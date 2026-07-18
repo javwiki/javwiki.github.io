@@ -8,4 +8,5 @@
 - [ち](./ち/index.md)
 - [つ](./つ/index.md)
 - [と](./と/index.md)
+- [て](./て/index.md)
 - [ま](./ま/index.md)
