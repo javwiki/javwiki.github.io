@@ -1,2 +1,0 @@
-[permissions]
-allow = ["Edit", "Bash(cd \"D:\\javwiki.github.io\" && mdbook-summarizer --src src --auto-readme 2>&1 && mdbook-tagging generate . 2>&1 && mdbook build 2>&1)"]
