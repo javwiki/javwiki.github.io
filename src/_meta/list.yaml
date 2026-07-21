@@ -136,6 +136,10 @@ items:
     row: あ
     col: お
     completeness: 100%
+  - name: おりん
+    row: あ
+    col: お
+    completeness: 65%
   - name: 河北彩花
     row: か
     col: か
@@ -305,6 +309,14 @@ items:
     col: な
     completeness: 100%
   - name: 永野一夏
+    row: な
+    col: な
+    completeness: 100%
+  - name: 七瀬いおり
+    row: な
+    col: な
+    completeness: 100%
+  - name: 七海ひな
     row: な
     col: な
     completeness: 100%
