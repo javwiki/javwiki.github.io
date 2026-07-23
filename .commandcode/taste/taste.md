@@ -1,0 +1,6 @@
+- Values a clean, logical directory structure where each category (e.g., works vs. series) has its own dedicated directory and content is not duplicated across directories. Confidence: 0.7
+- Prefers individual work pages to include a dedicated 剧情简介 (plot summary) section with a narrative description of the work's content/story. Confidence: 0.6
+- Prefers to completely wipe and start from scratch when existing content is fundamentally incorrect, rather than patching or incrementally fixing it. Confidence: 0.8
+- When correcting work metadata that was obtained incorrectly from web search, prefers to provide a specific reference URL (e.g., from an aggregator site like 18mh.net) as the authoritative source rather than verbally listing corrections. Confidence: 0.3
+- Communicates requests by providing only the bare JAV code (e.g., "AVOP-404") with zero additional instructions or context, expecting the assistant to autonomously handle the full workflow. Confidence: 0.8
+- Expects the assistant to autonomously execute the complete workflow for each JAV code: web research → create individual work markdown file with frontmatter fields (type, title, number, studio, release_date) and sections (基本信息 table, 剧情简介, 作品特征) → update the README index. Confidence: 0.8
