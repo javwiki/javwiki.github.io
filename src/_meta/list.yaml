@@ -1,54 +1,14 @@
 title: 女优列表
 items:
-  - name: あずみ恋
-    row: あ
-    col: あ
-    completeness: 100%
-  - name: 葵司
-    row: あ
-    col: あ
-    completeness: 100%
-  - name: 葵伊吹
-    row: あ
-    col: あ
-    completeness: 100%
-  - name: 葵百合香
-    row: あ
-    col: あ
-    completeness: 100%
   - name: AIKA
     row: あ
     col: あ
     completeness: 100%
-  - name: 安位薰
+  - name: あきばもも
     row: あ
     col: あ
     completeness: 100%
-  - name: 浅野心春
-    row: あ
-    col: あ
-    completeness: 100%
-  - name: 有栖花绯
-    row: あ
-    col: あ
-    completeness: 100%
-  - name: 有冈美羽
-    row: あ
-    col: あ
-    completeness: 100%
-  - name: 相泽南
-    row: あ
-    col: あ
-    completeness: 100%
-  - name: 蒼井空
-    row: あ
-    col: あ
-    completeness: 100%
-  - name: 彩美旬果
-    row: あ
-    col: あ
-    completeness: 100%
-  - name: 明日花绮罗
+  - name: あずみ恋
     row: あ
     col: あ
     completeness: 100%
@@ -56,14 +16,30 @@ items:
     row: あ
     col: あ
     completeness: 100%
-  - name: 天使萌
+  - name: 安位薰
     row: あ
     col: あ
     completeness: 100%
-  - name: 荒木レナ
+  - name: 彩美旬果
     row: あ
     col: あ
-    completeness: 65%
+    completeness: 100%
+  - name: 新有菜
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: 明日花绮罗
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: 有冈美羽
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: 有栖花绯
+    row: あ
+    col: あ
+    completeness: 100%
   - name: 朝桐光
     row: あ
     col: あ
@@ -72,9 +48,45 @@ items:
     row: あ
     col: あ
     completeness: 100%
+  - name: 浅野心春
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: 相泽南
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: 苍井空
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: 荒木レナ
+    row: あ
+    col: あ
+    completeness: 65%
+  - name: 葵伊吹
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: 葵司
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: 葵百合香
+    row: あ
+    col: あ
+    completeness: 100%
   - name: 麻美由真
     row: あ
     col: あ
+    completeness: 100%
+  - name: 一条みお
+    row: あ
+    col: い
+    completeness: 100%
+  - name: 五日市芽依
+    row: あ
+    col: い
     completeness: 100%
   - name: 伊藤舞雪
     row: あ
@@ -84,19 +96,15 @@ items:
     row: あ
     col: い
     completeness: 100%
-  - name: 石川澪
-    row: あ
-    col: い
-    completeness: 100%
   - name: 石原希望
     row: あ
     col: い
     completeness: 100%
-  - name: 饭岛爱
+  - name: 石川澪
     row: あ
     col: い
     completeness: 100%
-  - name: 五日市芽依
+  - name: 饭岛爱
     row: あ
     col: い
     completeness: 100%
@@ -108,22 +116,10 @@ items:
     row: あ
     col: う
     completeness: 100%
-  - name: 大槻响
+  - name: おりん
     row: あ
     col: お
-    completeness: 100%
-  - name: 奥田咲
-    row: あ
-    col: お
-    completeness: 100%
-  - name: 小泽玛利亚
-    row: あ
-    col: お
-    completeness: 100%
-  - name: 小仓由菜
-    row: あ
-    col: お
-    completeness: 100%
+    completeness: 65%
   - name: 乙都咲乃
     row: あ
     col: お
@@ -132,23 +128,51 @@ items:
     row: あ
     col: お
     completeness: 100%
+  - name: 大槻响
+    row: あ
+    col: お
+    completeness: 100%
+  - name: 奥田咲
+    row: あ
+    col: お
+    completeness: 100%
+  - name: 小仓由菜
+    row: あ
+    col: お
+    completeness: 100%
+  - name: 小栗操
+    row: あ
+    col: お
+    completeness: 100%
+  - name: 小泽玛利亚
+    row: あ
+    col: お
+    completeness: 100%
+  - name: 小那海あや
+    row: あ
+    col: お
+    completeness: 100%
   - name: 小野六花
     row: あ
     col: お
     completeness: 100%
-  - name: おりん
-    row: あ
-    col: お
-    completeness: 65%
+  - name: 奏音花音
+    row: か
+    col: か
+    completeness: 100%
+  - name: 川北彩花
+    row: か
+    col: か
+    completeness: 100%
+  - name: 枫花
+    row: か
+    col: か
+    completeness: 100%
   - name: 河北彩花
     row: か
     col: か
     completeness: 100%
   - name: 河合明日菜
-    row: か
-    col: か
-    completeness: 100%
-  - name: 川北彩花
     row: か
     col: か
     completeness: 100%
@@ -160,19 +184,27 @@ items:
     row: か
     col: か
     completeness: 100%
-  - name: 奏音花音
+  - name: 香水纯
     row: か
     col: か
     completeness: 100%
-  - name: あきばもも
-    row: あ
-    col: あ
+  - name: 北川ゆず
+    row: か
+    col: き
+    completeness: 100%
+  - name: 北川绘里香
+    row: か
+    col: き
     completeness: 100%
   - name: 君岛美绪
     row: か
     col: き
     completeness: 100%
   - name: 君色花音
+    row: か
+    col: き
+    completeness: 100%
+  - name: 君野ここ
     row: か
     col: き
     completeness: 100%
@@ -183,14 +215,26 @@ items:
   - name: 木村愛心
     row: か
     col: き
-    completeness: 65%
-  - name: 紅音萤
+    completeness: 100%
+  - name: 九井スナオ
+    row: か
+    col: こ
+    completeness: 100%
+  - name: 工藤ララ
+    row: か
+    col: く
+    completeness: 100%
+  - name: 红音萤
     row: か
     col: く
     completeness: 100%
   - name: 黑木香
     row: か
     col: く
+    completeness: 100%
+  - name: 五条恋
+    row: か
+    col: こ
     completeness: 100%
   - name: 小凑四叶
     row: か
@@ -200,23 +244,11 @@ items:
     row: か
     col: こ
     completeness: 100%
-  - name: 五条恋
+  - name: 小島みなみ
     row: か
     col: こ
     completeness: 100%
-  - name: 香水纯
-    row: か
-    col: こ
-    completeness: 100%
-  - name: 桜井步
-    row: さ
-    col: さ
-    completeness: 100%
-  - name: 桜木凛
-    row: さ
-    col: さ
-    completeness: 100%
-  - name: 樱空桃
+  - name: 佐佐木明希
     row: さ
     col: さ
     completeness: 100%
@@ -224,27 +256,31 @@ items:
     row: さ
     col: さ
     completeness: 100%
-  - name: 佐佐木明希
+  - name: 岬奈奈美
     row: さ
     col: さ
     completeness: 100%
-  - name: 筱田优
+  - name: 樱井步
     row: さ
-    col: し
+    col: さ
     completeness: 100%
-  - name: 椎名空
+  - name: 樱木凛
     row: さ
-    col: し
+    col: さ
     completeness: 100%
-  - name: 白石茉莉奈
+  - name: 樱空桃
     row: さ
-    col: し
+    col: さ
     completeness: 100%
-  - name: 白峰美羽
+  - name: 笹倉杏
     row: さ
-    col: し
+    col: さ
     completeness: 100%
-  - name: 白上咲花
+  - name: 西条琉璃
+    row: さ
+    col: さ
+    completeness: 100%
+  - name: Julia
     row: さ
     col: し
     completeness: 100%
@@ -252,13 +288,73 @@ items:
     row: さ
     col: し
     completeness: 100%
-  - name: Julia
+  - name: 城星凜
+    row: さ
+    col: し
+    completeness: 100%
+  - name: 椎名空
+    row: さ
+    col: し
+    completeness: 100%
+  - name: 白上咲花
+    row: さ
+    col: し
+    completeness: 100%
+  - name: 白峰美羽
+    row: さ
+    col: し
+    completeness: 100%
+  - name: 白浜果歩
+    row: さ
+    col: し
+    completeness: 100%
+  - name: 白石茉莉奈
+    row: さ
+    col: し
+    completeness: 100%
+  - name: 白鳥香里奈
+    row: さ
+    col: し
+    completeness: 100%
+  - name: 筱田优
+    row: さ
+    col: し
+    completeness: 100%
+  - name: 篠田优
+    row: さ
+    col: し
+    completeness: 100%
+  - name: 篠田步美
     row: さ
     col: し
     completeness: 100%
   - name: 鈴村あいり
     row: さ
     col: す
+    completeness: 100%
+  - name: 壇玲奈
+    row: た
+    col: た
+    completeness: 100%
+  - name: 橘芹那
+    row: た
+    col: た
+    completeness: 100%
+  - name: 泷泽萝拉
+    row: た
+    col: た
+    completeness: 100%
+  - name: 玉城マイ
+    row: た
+    col: た
+    completeness: 100%
+  - name: 田野忧
+    row: た
+    col: た
+    completeness: 100%
+  - name: 高桥圣子
+    row: た
+    col: た
     completeness: 100%
   - name: 千乃あずみ
     row: た
@@ -268,23 +364,23 @@ items:
     row: た
     col: つ
     completeness: 100%
-  - name: 高桥圣子
+  - name: 月雲よる
     row: た
-    col: た
+    col: つ
     completeness: 100%
-  - name: 田野忧
+  - name: 蕾
     row: た
-    col: た
+    col: つ
     completeness: 100%
-  - name: 泷泽萝拉
+  - name: 天使萌
     row: た
-    col: た
+    col: て
     completeness: 100%
-  - name: 壇玲奈
+  - name: 天馬ゆい
     row: た
-    col: た
+    col: て
     completeness: 100%
-  - name: 户田真琴
+  - name: 东条夏
     row: た
     col: と
     completeness: 100%
@@ -292,7 +388,7 @@ items:
     row: た
     col: と
     completeness: 100%
-  - name: 东条夏
+  - name: 户田真琴
     row: た
     col: と
     completeness: 100%
@@ -300,15 +396,7 @@ items:
     row: な
     col: な
     completeness: 100%
-  - name: 渚光希
-    row: な
-    col: な
-    completeness: 100%
-  - name: 成濑心美
-    row: な
-    col: な
-    completeness: 100%
-  - name: 永野一夏
+  - name: 七海ひな
     row: な
     col: な
     completeness: 100%
@@ -316,11 +404,27 @@ items:
     row: な
     col: な
     completeness: 100%
-  - name: 七海ひな
+  - name: 成濑心美
     row: な
     col: な
     completeness: 100%
-  - name: 新有菜
+  - name: 永瀬ゆい
+    row: な
+    col: な
+    completeness: 100%
+  - name: 永野一夏
+    row: な
+    col: な
+    completeness: 100%
+  - name: 渚光希
+    row: な
+    col: な
+    completeness: 100%
+  - name: 二宫光
+    row: な
+    col: に
+    completeness: 100%
+  - name: 新山らん
     row: な
     col: に
     completeness: 100%
@@ -328,11 +432,15 @@ items:
     row: な
     col: に
     completeness: 100%
-  - name: 二宫光
+  - name: 野々浦暖
     row: な
-    col: に
+    col: の
     completeness: 100%
-  - name: 波多野结衣
+  - name: 初美沙希
+    row: は
+    col: は
+    completeness: 100%
+  - name: 早川瀬里奈
     row: は
     col: は
     completeness: 100%
@@ -340,11 +448,11 @@ items:
     row: は
     col: は
     completeness: 100%
-  - name: 羽咲美晴
+  - name: 波多野结衣
     row: は
     col: は
     completeness: 100%
-  - name: 羽生ありさ
+  - name: 羽咲美晴
     row: は
     col: は
     completeness: 100%
@@ -352,21 +460,25 @@ items:
     row: は
     col: は
     completeness: 100%
-  - name: 初美沙希
-    row: は
-    col: は
-    completeness: 100%
   - name: 莲实克蕾儿
     row: は
     col: は
     completeness: 100%
-  - name: 深田咏美
+  - name: Hitomi
     row: は
-    col: ふ
+    col: ひ
     completeness: 100%
-  - name: 枫花
+  - name: 姫咲はな
     row: は
-    col: ふ
+    col: ひ
+    completeness: 100%
+  - name: 姫川ゆうな
+    row: は
+    col: ひ
+    completeness: 100%
+  - name: 冬愛ことね
+    row: た
+    col: と
     completeness: 100%
   - name: 冬月枫
     row: は
@@ -376,39 +488,39 @@ items:
     row: は
     col: ふ
     completeness: 100%
-  - name: 本庄铃
+  - name: 深田咏美
     row: は
-    col: ほ
+    col: ふ
+    completeness: 100%
+  - name: 藤かんな
+    row: は
+    col: ふ
     completeness: 100%
   - name: ベアトリクス
     row: は
     col: べ
     completeness: 100%
+  - name: 本庄铃
+    row: は
+    col: ほ
+    completeness: 100%
   - name: 松本一香
     row: ま
     col: ま
     completeness: 100%
-  - name: 三上悠亚
+  - name: 真木今日子
     row: ま
-    col: み
-    completeness: 100%
-  - name: 水菜丽
-    row: ま
-    col: み
-    completeness: 100%
-  - name: 岬奈奈美
-    row: ま
-    col: み
-    completeness: 100%
-  - name: 美谷朱音
-    row: ま
-    col: み
+    col: ま
     completeness: 100%
   - name: Miru
     row: ま
     col: み
     completeness: 100%
-  - name: 未步奈奈
+  - name: 三上悠亚
+    row: ま
+    col: み
+    completeness: 100%
+  - name: 南梨央奈
     row: ま
     col: み
     completeness: 100%
@@ -416,7 +528,11 @@ items:
     row: ま
     col: み
     completeness: 100%
-  - name: 美乃雀
+  - name: 宮島めい
+    row: ま
+    col: み
+    completeness: 100%
+  - name: 未步奈奈
     row: ま
     col: み
     completeness: 100%
@@ -424,9 +540,37 @@ items:
     row: ま
     col: み
     completeness: 100%
-  - name: 南梨央奈
+  - name: 水菜丽
     row: ま
     col: み
+    completeness: 100%
+  - name: 美乃すずめ
+    row: ま
+    col: み
+    completeness: 100%
+  - name: 美乃雀
+    row: ま
+    col: み
+    completeness: 100%
+  - name: 美園和花
+    row: ま
+    col: み
+    completeness: 100%
+  - name: 美谷朱音
+    row: ま
+    col: み
+    completeness: 100%
+  - name: 蜜美杏
+    row: ま
+    col: み
+    completeness: 100%
+  - name: 惠理
+    row: ま
+    col: め
+    completeness: 100%
+  - name: 守屋よしの
+    row: ま
+    col: も
     completeness: 100%
   - name: 桃乃木香奈
     row: ま
@@ -436,11 +580,11 @@ items:
     row: ま
     col: も
     completeness: 100%
-  - name: 守屋よしの
+  - name: 百永さりな
     row: ま
     col: も
-    completeness: 65%
-  - name: 山手梨爱
+    completeness: 100%
+  - name: 八掛うみ
     row: や
     col: や
     completeness: 100%
@@ -448,7 +592,19 @@ items:
     row: や
     col: や
     completeness: 100%
-  - name: 由爱可奈
+  - name: 山手梨爱
+    row: や
+    col: や
+    completeness: 100%
+  - name: 弥生みづき
+    row: や
+    col: や
+    completeness: 100%
+  - name: 优月真里奈
+    row: や
+    col: ゆ
+    completeness: 100%
+  - name: 夢乃あいか
     row: や
     col: ゆ
     completeness: 100%
@@ -460,7 +616,19 @@ items:
     row: や
     col: ゆ
     completeness: 100%
-  - name: 吉高宁宁
+  - name: 由來千歲
+    row: や
+    col: ゆ
+    completeness: 100%
+  - name: 由爱可奈
+    row: や
+    col: ゆ
+    completeness: 100%
+  - name: 由良かな
+    row: や
+    col: ゆ
+    completeness: 100%
+  - name: 吉川爱美
     row: や
     col: よ
     completeness: 100%
@@ -472,11 +640,15 @@ items:
     row: や
     col: よ
     completeness: 100%
-  - name: 凛音とうか
+  - name: 吉高宁宁
+    row: や
+    col: よ
+    completeness: 100%
+  - name: Rio
     row: ら
     col: り
-    completeness: 10%
-  - name: Rio
+    completeness: 100%
+  - name: 凛音とうか
     row: ら
     col: り
     completeness: 100%
