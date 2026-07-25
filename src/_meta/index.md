@@ -4,16 +4,15 @@
 
 ## 文档
 
-- [番号系统](./番号.md)
-- [厂商](./厂商.md)
-- [经纪公司](./经纪公司.md)
-- [企划](./企划.md)
-- [术语](./术语.md)
+- [番号系统](../番号/README.md)
+- [厂商](../厂商/README.md)
+- [经纪公司](../经纪公司/README.md)
+- [术语](../术语/README.md)
 - [女优列表](./list.md) — 文本列表（与 list.yaml 同步）
 - [五十音排序规则](./五十音排序规则.md) — list.yaml 排序规则的项目标准
 - [信息来源](./source.md)
 
 ## 奖项
 
-- [FANZA 成人奖](./奖项/fanza.md)
-- [ADULTOPIA 大人国](./奖项/ADULTOPIA.md)
+- [FANZA 成人奖](../奖项/fanza.md)
+- [ADULTOPIA 大人国](../奖项/ADULTOPIA.md)

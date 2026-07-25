@@ -455,7 +455,11 @@ items:
   - name: 羽咲美晴
     row: は
     col: は
-    completeness: 100%
+    completeness: 20%
+  - name: 羽生ありさ
+    row: は
+    col: は
+    completeness: 20%
   - name: 羽田爱
     row: は
     col: は
