@@ -11,7 +11,7 @@ items:
   - name: あずみ恋
     row: あ
     col: あ
-    completeness: 100%
+    completeness: 65%
   - name: 天海翼
     row: あ
     col: あ
@@ -51,7 +51,7 @@ items:
   - name: 浅野心春
     row: あ
     col: あ
-    completeness: 100%
+    completeness: 65%
   - name: 相泽南
     row: あ
     col: あ
@@ -63,7 +63,7 @@ items:
   - name: 荒木レナ
     row: あ
     col: あ
-    completeness: 65%
+    completeness: 100%
   - name: 葵伊吹
     row: あ
     col: あ
@@ -95,7 +95,7 @@ items:
   - name: 市川雅美
     row: あ
     col: い
-    completeness: 100%
+    completeness: 65%
   - name: 石原希望
     row: あ
     col: い
@@ -119,7 +119,7 @@ items:
   - name: おりん
     row: あ
     col: お
-    completeness: 65%
+    completeness: 100%
   - name: 乙都咲乃
     row: あ
     col: お
@@ -163,7 +163,7 @@ items:
   - name: 川北彩花
     row: か
     col: か
-    completeness: 100%
+    completeness: 65%
   - name: 枫花
     row: か
     col: か
@@ -335,7 +335,7 @@ items:
   - name: 壇玲奈
     row: た
     col: た
-    completeness: 100%
+    completeness: 65%
   - name: 橘芹那
     row: た
     col: た
@@ -415,7 +415,7 @@ items:
   - name: 永野一夏
     row: な
     col: な
-    completeness: 100%
+    completeness: 65%
   - name: 渚光希
     row: な
     col: な
@@ -455,11 +455,11 @@ items:
   - name: 羽咲美晴
     row: は
     col: は
-    completeness: 20%
+    completeness: 100%
   - name: 羽生ありさ
     row: は
     col: は
-    completeness: 20%
+    completeness: 100%
   - name: 羽田爱
     row: は
     col: は
@@ -503,7 +503,7 @@ items:
   - name: ベアトリクス
     row: は
     col: べ
-    completeness: 100%
+    completeness: 65%
   - name: 本庄铃
     row: は
     col: ほ
@@ -531,7 +531,7 @@ items:
   - name: 宫下玲奈
     row: ま
     col: み
-    completeness: 100%
+    completeness: 65%
   - name: 宮島めい
     row: ま
     col: み
