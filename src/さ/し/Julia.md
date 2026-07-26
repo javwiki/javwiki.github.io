@@ -1,5 +1,6 @@
 ---
 tags: [J罩, C-more エンターテイメント, E-BODY, MOODYZ, 溜池ゴロー, OPPAI, ワンズファクトリー]
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Trend_Girls_Photo_Session_%28September_15%2C_2024%29IMG_9959.jpg/330px-Trend_Girls_Photo_Session_%28September_15%2C_2024%29IMG_9959.jpg
 ---
 
 # Julia

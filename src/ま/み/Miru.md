@@ -1,5 +1,6 @@
 ---
 tags: [E罩, C-more ENTERTAINMENT, S1]
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TRE20250809Videoframe_1151117.png/330px-TRE20250809Videoframe_1151117.png
 ---
 
 # Miru
