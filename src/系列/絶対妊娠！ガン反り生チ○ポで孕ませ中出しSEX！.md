@@ -35,4 +35,5 @@ first_release: 2015
 ## 参考资料
 
 - <https://www.honnaka.jp/>
-- 各作品番号页
+- [MISSAV 系列页面](https://missav.ai/ja/series/%E7%B5%B6%E5%AF%BE%E5%A6%8A%E5%A8%A0%EF%BC%81%E3%82%AC%E3%83%B3%E5%8F%8D%E3%82%8A%E7%94%9F%E3%83%81%E2%97%8B%E3%83%9D%E3%81%A7%E5%AD%95%E3%81%BE%E3%81%9B%E4%B8%AD%E5%87%BA%E3%81%97SEX%EF%BC%81)
+- 各作品番号页（HND-262、HND-278 等）
