@@ -166,7 +166,7 @@ def get_wiki_pageimage(wiki_name, site_domain):
     """从 Wikipedia 页面获取 pageimage（仅当页面存在且有图片）"""
     params = urllib.parse.urlencode({
         'action': 'query', 'prop': 'pageimages',
-        'titles': wiki_name, 'format': 'json', 'pithumbsize': 400
+        'titles': wiki_name, 'format': 'json', 'pithumbsize': 500
     })
     url = f'https://{site_domain}/w/api.php?{params}'
     try:

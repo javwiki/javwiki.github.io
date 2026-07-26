@@ -1,8 +1,11 @@
 ---
 tags: [E罩, C-more ENTERTAINMENT, S1]
+thumbnail: https://cmore.jp/official/img/model/miru/miru.jpg
 ---
 
 # Miru
+
+<img src="https://cmore.jp/official/img/model/miru/miru.jpg" alt="Miru" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
 
 ## 基本信息
 
