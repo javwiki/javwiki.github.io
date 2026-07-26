@@ -1,11 +1,8 @@
 ---
 tags: [E罩, C-more ENTERTAINMENT, S1]
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TRE20250809Videoframe_1151117.png/330px-TRE20250809Videoframe_1151117.png
 ---
 
 # Miru
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TRE20250809Videoframe_1151117.png/330px-TRE20250809Videoframe_1151117.png" alt="Miru" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
 
 ## 基本信息
 

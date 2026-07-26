@@ -1,11 +1,8 @@
 ---
 tags: [D罩, T-POWERS, S1, MOODYZ]
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Trend_Girls_Photo_Session_%28September_14%2C_2024%29IMG_4164.jpg/330px-Trend_Girls_Photo_Session_%28September_14%2C_2024%29IMG_4164.jpg
 ---
 
 # AIKA
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Trend_Girls_Photo_Session_%28September_14%2C_2024%29IMG_4164.jpg/330px-Trend_Girls_Photo_Session_%28September_14%2C_2024%29IMG_4164.jpg" alt="AIKA" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
 
 ## 基本信息
 
