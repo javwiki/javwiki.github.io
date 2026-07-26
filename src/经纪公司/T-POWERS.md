@@ -32,7 +32,6 @@ company: ティーパワーズ
 | 荒木レナ | あ行 | MOODYZ |
 | 相泽南 | あ行 | S1 |
 | 天海翼 | あ行 | IdeaPocket |
-| 天海翼 | あ行 | IdeaPocket |
 | 有冈美羽 | あ行 | OPPAI |
 | 葵伊吹 | あ行 | S1 |
 | 神咲诗织 | か行 | Million |
