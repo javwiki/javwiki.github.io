@@ -1,8 +1,11 @@
 ---
 tags: [C罩, T-POWERS, MAX-A, S1, IdeaPocket]
+thumbnail: https://i.namu.wiki/i/_4XxbpPbgO-XuGaqKIK7eFfgEk369tcMWuXQbHw6GQ-ngU5AjaQsUJdPg4MDwye8g-JZh9ZOntHgLDAYJlYrvWKjUUn_M43UGjk7yYRg7aU_hysTTHwUdIqSHX3FAJ_fSMJ-Moo8gm5oclIxvCTqKQ.webp
 ---
 
 # Rio
+
+<img src="https://i.namu.wiki/i/_4XxbpPbgO-XuGaqKIK7eFfgEk369tcMWuXQbHw6GQ-ngU5AjaQsUJdPg4MDwye8g-JZh9ZOntHgLDAYJlYrvWKjUUn_M43UGjk7yYRg7aU_hysTTHwUdIqSHX3FAJ_fSMJ-Moo8gm5oclIxvCTqKQ.webp" alt="Rio" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
 
 ## 基本信息
 

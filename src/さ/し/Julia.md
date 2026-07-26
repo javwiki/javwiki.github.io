@@ -1,8 +1,11 @@
 ---
 tags: [J罩, C-more エンターテイメント, E-BODY, MOODYZ, 溜池ゴロー, OPPAI, ワンズファクトリー]
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Julia,_Japanese_porn_actress.jpg/500px-Julia,_Japanese_porn_actress.jpg
 ---
 
 # Julia
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Julia,_Japanese_porn_actress.jpg/500px-Julia,_Japanese_porn_actress.jpg" alt="Julia" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
 
 ## 基本信息
 
