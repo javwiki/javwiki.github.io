@@ -5,6 +5,8 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Trend_Girls
 
 # Julia
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Trend_Girls_Photo_Session_%28September_15%2C_2024%29IMG_9959.jpg/330px-Trend_Girls_Photo_Session_%28September_15%2C_2024%29IMG_9959.jpg" alt="Julia" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
+
 ## 基本信息
 
 - **姓名**: Julia
