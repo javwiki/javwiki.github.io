@@ -30,13 +30,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Cache mdBook tools
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/bin/mdbook
+            ~/.cargo/bin/mdbook-summarizer
+            ~/.cargo/bin/mdbook-tagging
+          key: ${{ runner.os }}-mdbook-tools-${{ hashFiles('.github/workflows/mdbook.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-mdbook-tools-
       - name: Install mdBook, mdbook-summarizer and mdbook-tagging
         run: |
-          curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
-          rustup update
-          cargo install mdbook
-          cargo install mdbook-summarizer
-          cargo install mdbook-tagging
+          command -v mdbook >/dev/null || cargo install mdbook
+          command -v mdbook-summarizer >/dev/null || cargo install mdbook-summarizer
+          command -v mdbook-tagging >/dev/null || cargo install mdbook-tagging
       - name: Generate tag index pages with mdbook-tagging
         run: |
           mdbook-tagging generate .
