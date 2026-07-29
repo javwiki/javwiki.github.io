@@ -30,21 +30,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Cache mdBook tools
+      - name: Set weekly cache key
+        run: echo "CARGO_CACHE_WEEK=$(date -u +%G-%V)" >> "$GITHUB_ENV"
+      - name: Cache Cargo downloads and installed tools
         uses: actions/cache@v4
         with:
           path: |
-            ~/.cargo/bin/mdbook
-            ~/.cargo/bin/mdbook-summarizer
-            ~/.cargo/bin/mdbook-tagging
-          key: ${{ runner.os }}-mdbook-tools-${{ hashFiles('.github/workflows/mdbook.yml') }}
+            ~/.cargo/bin
+            ~/.cargo/git/db
+            ~/.cargo/registry/cache
+            ~/.cargo/registry/index
+          # Rotate the cache weekly so unpinned tools can keep receiving updates.
+          key: cargo-tools-${{ runner.os }}-${{ env.CARGO_CACHE_WEEK }}
           restore-keys: |
-            ${{ runner.os }}-mdbook-tools-
+            cargo-tools-${{ runner.os }}-
       - name: Install mdBook, mdbook-summarizer and mdbook-tagging
         run: |
-          command -v mdbook >/dev/null || cargo install mdbook
-          command -v mdbook-summarizer >/dev/null || cargo install mdbook-summarizer
-          command -v mdbook-tagging >/dev/null || cargo install mdbook-tagging
+          rustup update stable
+          cargo install --locked mdbook
+          cargo install --locked mdbook-summarizer
+          cargo install --locked mdbook-tagging
       - name: Generate tag index pages with mdbook-tagging
         run: |
           mdbook-tagging generate .
