@@ -47,9 +47,9 @@ jobs:
       - name: Install mdBook, mdbook-summarizer and mdbook-tagging
         run: |
           rustup update stable
-          cargo install --locked mdbook
-          cargo install --locked mdbook-summarizer
-          cargo install --locked mdbook-tagging
+          cargo install --force --locked mdbook
+          cargo install --force --locked mdbook-summarizer
+          cargo install --force --locked mdbook-tagging
       - name: Generate tag index pages with mdbook-tagging
         run: |
           mdbook-tagging generate .
