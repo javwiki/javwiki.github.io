@@ -4,7 +4,6 @@ title: AVOP-404
 number: AVOP-404
 studio: SOD Create
 release_date: 2019年1月
-
 ---
 
 # AVOP-404
