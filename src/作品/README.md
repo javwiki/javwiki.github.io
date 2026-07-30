@@ -13,6 +13,8 @@
 | [IPX-177](IPX-177.md) | Idea Pocket | 絶対領域妹调教 |
 | [IPZ-612](IPZ-612.md) | Idea Pocket | 美女教师痴女题材 |
 | [IPZ-901](IPZ-901.md) | Idea Pocket | 紧身裙女教师诱惑 |
+| [JUFD-387](JUFD-387.md) | Fitch | 淫語寸止め焦らし痴女 |
+| [JUFD-531](JUFD-531.md) | Fitch | 狂おしい受精 生中出し |
 | [JUFE-016](JUFE-016.md) | Fitch | 密着唾液痴女 |
 | [KBI-001](KBI-001.md) | KANBi | 米倉穂香出道作 |
 | [SDDE-704](SDDE-704.md) | SOD Create | 生意気ギャルアナル中出し |
