@@ -4,7 +4,6 @@ title: JUFE-016
 number: JUFE-016
 studio: Fitch
 release_date: 2019年2月
-
 ---
 
 # JUFE-016

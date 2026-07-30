@@ -320,10 +320,6 @@ items:
     row: さ
     col: し
     completeness: 60%
-  - name: 筱田优
-    row: さ
-    col: し
-    completeness: 100%
   - name: 篠田优
     row: さ
     col: し
@@ -560,10 +556,6 @@ items:
     row: ま
     col: み
     completeness: 100%
-  - name: 美乃雀
-    row: ま
-    col: み
-    completeness: 100%
   - name: 美園和花
     row: ま
     col: み
@@ -656,6 +648,10 @@ items:
     row: や
     col: よ
     completeness: 100%
+  - name: 米倉穂香
+    row: や
+    col: よ
+    completeness: 65%
   - name: Rio
     row: ら
     col: り

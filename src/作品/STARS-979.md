@@ -4,7 +4,6 @@ title: STARS-979
 number: STARS-979
 studio: SOD Create
 release_date: 2024年1月
-
 ---
 
 # STARS-979

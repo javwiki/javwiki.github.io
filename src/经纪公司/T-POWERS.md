@@ -6,14 +6,6 @@ company: ティーパワーズ
 
 # T-POWERS
 
-```yaml
----
-type: agency
-name: T-POWERS
-company: ティーパワーズ
----
-```
-
 ## 基本信息
 
 - **全称**: T-POWERS
