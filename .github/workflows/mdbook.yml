@@ -36,20 +36,19 @@ jobs:
         uses: actions/cache@v4
         with:
           path: |
-            ~/.cargo/bin
             ~/.cargo/git/db
             ~/.cargo/registry/cache
             ~/.cargo/registry/index
           # Rotate the cache weekly so unpinned tools can keep receiving updates.
-          key: cargo-tools-${{ runner.os }}-${{ env.CARGO_CACHE_WEEK }}
+          key: cargo-registry-${{ runner.os }}-${{ env.CARGO_CACHE_WEEK }}
           restore-keys: |
-            cargo-tools-${{ runner.os }}-
+            cargo-registry-${{ runner.os }}-
       - name: Install mdBook, mdbook-summarizer and mdbook-tagging
         run: |
           rustup update stable
-          cargo install --force --locked mdbook
-          cargo install --force --locked mdbook-summarizer
-          cargo install --force --locked mdbook-tagging
+          cargo install --locked mdbook
+          cargo install --locked mdbook-summarizer
+          cargo install --locked mdbook-tagging
       - name: Generate tag index pages with mdbook-tagging
         run: |
           mdbook-tagging generate .
