@@ -15,6 +15,7 @@
 | [IPZ-901](IPZ-901.md) | Idea Pocket | 紧身裙女教师诱惑 |
 | [JUFE-016](JUFE-016.md) | Fitch | 密着唾液痴女 |
 | [KBI-001](KBI-001.md) | KANBi | 米倉穂香出道作 |
+| [SDDE-704](SDDE-704.md) | SOD Create | 生意気ギャルアナル中出し |
 | [SDMUA-070](SDMUA-070.md) | — | 萝莉牛奶农场物语 |
 | [STARS-979](STARS-979.md) | SOD Create | 美人ホテリエNTR |
 
