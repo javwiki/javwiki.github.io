@@ -1,13 +1,11 @@
-# MOODYZ
-
-```yaml
 ---
 type: studio
 name: MOODYZ
 short_name: MD
 company: ムーディーズ
 ---
-```
+
+# MOODYZ
 
 ## 基本信息
 

@@ -1,13 +1,11 @@
-# S1 NO.1 STYLE
-
-```yaml
 ---
 type: studio
 name: S1 NO.1 STYLE
 short_name: S1
 company: エスワン ナンバーワンスタイル
 ---
-```
+
+# S1 NO.1 STYLE
 
 ## 基本信息
 

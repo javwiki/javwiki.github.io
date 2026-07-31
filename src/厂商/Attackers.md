@@ -1,13 +1,11 @@
-# Attackers
-
-```yaml
 ---
 type: studio
 name: Attackers
 short_name: AT
 company: アタッカーズ
 ---
-```
+
+# Attackers
 
 ## 基本信息
 

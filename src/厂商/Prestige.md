@@ -1,13 +1,11 @@
-# Prestige
-
-```yaml
 ---
 type: studio
 name: Prestige
 short_name: PG
 company: プレステージ
 ---
-```
+
+# Prestige
 
 ## 基本信息
 
