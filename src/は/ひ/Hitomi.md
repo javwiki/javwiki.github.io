@@ -1,5 +1,5 @@
 ---
-tags: [Q罩, ALLURE, SOD, MOODYZ, OPPAI]
+tags: [Q罩, ALLURE, SOD, MOODYZ, OPPAI, E-BODY, 溜池ゴロー, Attackers]
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tanaka_2017.jpg/500px-Hitomi_Tanaka_2017.jpg
 ---
 
@@ -25,7 +25,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tana
 - **类别**: Censored（有码系）
 - **活跃年代**: 2008年至2022年
 - **经纪公司**: ALLURE
-- **主要片商**: SOD、MOODYZ、OPPAI、E-BODY、溜池GORO、Attackers
+- **主要片商**: SOD、MOODYZ、OPPAI、E-BODY、溜池ゴロー、Attackers
 
 ## 简介
 
@@ -57,7 +57,7 @@ Hitomi（原名：田中瞳，1986年7月18日—），前日本AV女优与写�
 | 2010 | 移籍OPPAI，同年起活跃于MOODYZ。 |
 | 2011 | 参与E-BODY《SSS-BODY》系列。 |
 | 2013 | 参与AB-MIRD-119〈超乳ボディVIPハーレムSPECIAL〉，与西条琉璃、冲田杏梨、青山菜菜共演。 |
-| 2014 | 罩杯增至O杯，多次参与溜池GORO系列。 |
+| 2014 | 罩杯增至O杯，多次参与溜池ゴロー系列。 |
 | 2015 | 三围达到116-59-84、Q杯，9月拍照时达到此数值。 |
 | 2016 | 长期与OPPAI与MOODYZ合作，多部O杯代表作品。 |
 | 2018 | 5月于Instagram公开与Emmure主唱帕尔梅里的恋情。 |
