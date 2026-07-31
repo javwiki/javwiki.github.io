@@ -1,10 +1,9 @@
 ---
 type: work
 title: EBOD-613 超美巨乳なネットカフェ店員をお店の中でハメまくったAV ゆい
-maker: E-BODY
-actress: 鷹宮ゆい
-release: 2017-12-23
-duration: 120
+number: EBOD-613
+studio: E-BODY
+release_date: 2017年12月23日
 tags: [业余, 巨乳, 第一人称摄影, 各种职业]
 thumbnail: https://c0.jdbstatic.com/samples/9d/9DBm6_l_0.jpg
 ---

@@ -279,7 +279,7 @@ items:
   - name: 西条琉璃
     row: さ
     col: さ
-    completeness: 100%
+    completeness: 65%
   - name: Julia
     row: さ
     col: し
@@ -307,7 +307,7 @@ items:
   - name: 白浜果歩
     row: さ
     col: し
-    completeness: 100%
+    completeness: 65%
   - name: 白石茉莉奈
     row: さ
     col: し
@@ -315,7 +315,7 @@ items:
   - name: 白鳥香里奈
     row: さ
     col: し
-    completeness: 100%
+    completeness: 65%
   - name: 澁谷果歩
     row: さ
     col: し

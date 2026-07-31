@@ -1,5 +1,5 @@
 ---
-tags: [E罩, C-more ENTERTAINMENT, S1]
+tags: [E罩, C-more, S1]
 thumbnail: https://cmore.jp/official/img/model/miru/miru.jpg
 ---
 

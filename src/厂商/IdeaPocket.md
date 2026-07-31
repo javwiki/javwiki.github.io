@@ -1,13 +1,11 @@
-# IdeaPocket
-
-```yaml
 ---
 type: studio
 name: IdeaPocket
 short_name: IP
 company: アイデアポケット
 ---
-```
+
+# IdeaPocket
 
 ## 基本信息
 

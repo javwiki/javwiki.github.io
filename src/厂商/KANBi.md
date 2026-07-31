@@ -1,13 +1,11 @@
-# KANBi
-
-```yaml
 ---
 type: studio
 name: KANBi
 short_name: KB
 company: 甘美
 ---
-```
+
+# KANBi
 
 ## 基本信息
 
