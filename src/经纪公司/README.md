@@ -7,12 +7,12 @@
 | 经纪公司 | 旗下代表女优 |
 | --- | --- |
 | [T-POWERS](T-POWERS.md) | 三上悠亚、河北彩花、石川澪 |
-| [C-more](C-more.md) | 天使萌、枫花 |
+| [C-more](C-more.md) | 枫花、枫可怜 |
 | [LINX](LINX.md) | 桃乃木香奈、葵百合香 |
 | [Mine'S](Mine_S.md) | 葵司、彩美旬果、上原亚衣 |
 | [ARROWS](ARROWS.md) | 深田咏美 |
 | [8MAN](8MAN.md) | 有栖花绯、相泽南 |
-| [Bambi Promotion](Bambi%20Promotion.md) | 楪可怜、安位薰 |
+| [Bambi Promotion](Bambi%20Promotion.md) | 天使萌、楪可怜、安位薰 |
 | [LIFE PROMOTION](LIFE%20PROMOTION.md) | 五日市芽依 |
 | [ACT Promotion](ACT%20Promotion.md) | 乙都咲乃 |
 | [NAX](NAX.md) | 奏音花音、伊藤舞雪 |
@@ -48,7 +48,6 @@
 - **全称**: CRUSE GROUP
 - **特点**: 业界知名经纪公司
 - **业务**: 女优经纪、作品制作等
-- **知名女优**: 天使萌等
 
 ### LINX
 

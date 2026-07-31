@@ -351,7 +351,7 @@ items:
   - name: 鷹宮ゆい
     row: た
     col: た
-    completeness: 60%
+    completeness: 80%
   - name: 千乃あずみ
     row: た
     col: ち
@@ -643,7 +643,7 @@ items:
   - name: 米倉穂香
     row: や
     col: よ
-    completeness: 65%
+    completeness: 100%
   - name: Rio
     row: ら
     col: り
