@@ -47,7 +47,7 @@ website: http://spa-japan.net/
 
 ## 正会員一覧（一部）
 
-| 经纪公司 | 
+| 经纪公司 |
 | --- |
 | エベレスト |
 | ARM PROMOTION |
