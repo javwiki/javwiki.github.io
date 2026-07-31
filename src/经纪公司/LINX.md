@@ -14,7 +14,7 @@ name: LINX
 
 | 姓名 | 五十音 | 主要片商 |
 | --- | --- | --- |
-| 桃乃木香奈 | も行 | IdeaPocket |
+| 桃乃木香奈 | ま行 | IdeaPocket |
 | 葵百合香 | あ行 | Madonna |
 | 宇流木さら | あ行 | Madonna |
 
