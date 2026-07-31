@@ -11,7 +11,7 @@ items:
   - name: あずみ恋
     row: あ
     col: あ
-    completeness: 65%
+    completeness: 100%
   - name: 天海翼
     row: あ
     col: あ
@@ -48,10 +48,6 @@ items:
     row: あ
     col: あ
     completeness: 100%
-  - name: 浅野心春
-    row: あ
-    col: あ
-    completeness: 65%
   - name: 相泽南
     row: あ
     col: あ
@@ -160,10 +156,6 @@ items:
     row: か
     col: か
     completeness: 100%
-  - name: 川北彩花
-    row: か
-    col: か
-    completeness: 65%
   - name: 枫花
     row: か
     col: か
@@ -315,7 +307,7 @@ items:
   - name: 白鳥香里奈
     row: さ
     col: し
-    completeness: 65%
+    completeness: 100%
   - name: 澁谷果歩
     row: さ
     col: し
@@ -335,7 +327,7 @@ items:
   - name: 壇玲奈
     row: た
     col: た
-    completeness: 65%
+    completeness: 100%
   - name: 橘芹那
     row: た
     col: た
@@ -419,7 +411,7 @@ items:
   - name: 永野一夏
     row: な
     col: な
-    completeness: 65%
+    completeness: 100%
   - name: 渚光希
     row: な
     col: な
@@ -535,7 +527,7 @@ items:
   - name: 宫下玲奈
     row: ま
     col: み
-    completeness: 65%
+    completeness: 100%
   - name: 宮島めい
     row: ま
     col: み
