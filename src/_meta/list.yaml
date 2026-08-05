@@ -208,10 +208,6 @@ items:
     row: か
     col: き
     completeness: 100%
-  - name: 九井スナオ
-    row: か
-    col: こ
-    completeness: 100%
   - name: 工藤ララ
     row: か
     col: く
@@ -223,6 +219,10 @@ items:
   - name: 黑木香
     row: か
     col: く
+    completeness: 100%
+  - name: 九井スナオ
+    row: か
+    col: こ
     completeness: 100%
   - name: 五条恋
     row: か
@@ -388,6 +388,10 @@ items:
     row: た
     col: と
     completeness: 100%
+  - name: 冬愛ことね
+    row: た
+    col: と
+    completeness: 100%
   - name: 七泽美亚
     row: な
     col: な
@@ -475,10 +479,6 @@ items:
   - name: 姫川ゆうな
     row: は
     col: ひ
-    completeness: 100%
-  - name: 冬愛ことね
-    row: た
-    col: と
     completeness: 100%
   - name: 冬月枫
     row: は
