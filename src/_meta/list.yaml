@@ -91,7 +91,7 @@ items:
   - name: 市川雅美
     row: あ
     col: い
-    completeness: 65%
+    completeness: 100%
   - name: 石原希望
     row: あ
     col: い
@@ -271,7 +271,7 @@ items:
   - name: 西条琉璃
     row: さ
     col: さ
-    completeness: 65%
+    completeness: 80%
   - name: Julia
     row: さ
     col: し
@@ -299,7 +299,7 @@ items:
   - name: 白浜果歩
     row: さ
     col: し
-    completeness: 65%
+    completeness: 80%
   - name: 白石茉莉奈
     row: さ
     col: し
@@ -311,7 +311,7 @@ items:
   - name: 澁谷果歩
     row: さ
     col: し
-    completeness: 60%
+    completeness: 100%
   - name: 篠田优
     row: さ
     col: し
@@ -499,7 +499,7 @@ items:
   - name: ベアトリクス
     row: は
     col: べ
-    completeness: 65%
+    completeness: 80%
   - name: 本庄铃
     row: は
     col: ほ
