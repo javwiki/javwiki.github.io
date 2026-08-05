@@ -152,6 +152,10 @@ items:
     row: あ
     col: お
     completeness: 100%
+  - name: 折原ほのか
+    row: あ
+    col: お
+    completeness: 100%
   - name: 奏音花音
     row: か
     col: か
@@ -237,6 +241,10 @@ items:
     col: こ
     completeness: 100%
   - name: 小島みなみ
+    row: か
+    col: こ
+    completeness: 100%
+  - name: 児玉るみ
     row: か
     col: こ
     completeness: 100%
