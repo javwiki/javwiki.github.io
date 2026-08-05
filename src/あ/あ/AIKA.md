@@ -1,5 +1,5 @@
 ---
-tags: [D罩, T-POWERS, S1, MOODYZ]
+tags: [D杯, T-POWERS, S1, MOODYZ]
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Trend_Girls_Photo_Session_(September_14,_2024)IMG_4164.jpg/500px-Trend_Girls_Photo_Session_(September_14,_2024)IMG_4164.jpg
 ---
 
