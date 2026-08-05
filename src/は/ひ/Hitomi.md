@@ -1,5 +1,5 @@
 ---
-tags: [Q罩, ALLURE, SOD, MOODYZ, OPPAI, E-BODY, 溜池ゴロー, Attackers]
+tags: [Q杯, ALLURE, SOD, MOODYZ, OPPAI, E-BODY, 溜池ゴロー, Attackers]
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tanaka_2017.jpg/500px-Hitomi_Tanaka_2017.jpg
 ---
 
