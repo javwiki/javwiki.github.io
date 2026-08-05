@@ -1,6 +1,11 @@
+---
+type: award
+title: ADULTOPIA 大人国
+---
+
 # ADULTOPIA 大人国
 
-ADULTOPIA（大人國成人展）是台湾举办的成人展览活动，2024年起在高雄和桃园举办。该活动设有BEST HEALING SMILE AWARD等奖项，邀请日本及亚洲各地AV女优参加。
+ADULTOPIA（大人国成人展）是台湾举办的成人展览活动，2024年起在高雄和桃园举办。该活动设有BEST HEALING SMILE AWARD等奖项，邀请日本及亚洲各地AV女优参加。
 
 ## 活动信息
 
