@@ -18,11 +18,13 @@ company: Diaz Group
 
 Diaz Group是日本AV业界知名的经纪公司，旗下拥有多位知名女优。公司注重发掘和培养新人，旗下女优活跃于各大AV制作公司。
 
-## 旗下知名女优
+## 旗下女优
 
-| 艺名 | 读音 | 主要片商 |
+| 姓名 | 五十音 | 主要片商 |
 | --- | --- | --- |
-| （待补充） | （待补充） | （待补充） |
+| 友田彩也香 | た行 | Kawaii*、MOODYZ、Million、Attackers、MARRION、MAX-A、FALENO、DAHLIA |
+| 由爱可奈 | や行 | MAXING、MOODYZ、Attackers、Madonna、DAHLIA |
+| 明日花绮罗（前所属） | あ行 | h.m.p、Prestige、S1 |
 
 ## 参考资料
 
