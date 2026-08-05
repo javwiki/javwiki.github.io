@@ -16,9 +16,9 @@
 | [LIFE PROMOTION](LIFE%20PROMOTION.md) | 五日市芽依 |
 | [ACT Promotion](ACT%20Promotion.md) | 乙都咲乃 |
 | [NAX](NAX.md) | 奏音花音、伊藤舞雪 |
-| [BIRD](BIRD.md) | 待补充 |
-| [CRUSE GROUP](CRUSE%20GROUP.md) | 待补充 |
-| [Diaz Group](Diaz%20Group.md) | 待补充 |
+| [BIRD](BIRD.md) | 暂无收录 |
+| [CRUSE GROUP](CRUSE%20GROUP.md) | 美谷朱音（前） |
+| [Diaz Group](Diaz%20Group.md) | 友田彩也香、由爱可奈、明日花绮罗（前） |
 
 ## 主要经纪公司
 
