@@ -1,6 +1,6 @@
 ---
 type: agency
-name: Mine'S
+name: Mine's
 company: マインズ
 ---
 
