@@ -9,15 +9,15 @@
 | [T-POWERS](T-POWERS.md) | 三上悠亚、河北彩花、石川澪 |
 | [C-more](C-more.md) | 枫花、枫可怜 |
 | [LINX](LINX.md) | 桃乃木香奈、葵百合香 |
-| [Mine'S](Mine_S.md) | 葵司、彩美旬果、上原亚衣 |
+| [Mine's](Mine_S.md) | 葵司、彩美旬果、上原亚衣 |
 | [ARROWS](ARROWS.md) | 深田咏美 |
 | [8MAN](8MAN.md) | 有栖花绯、相泽南 |
-| [Bambi Promotion](Bambi%20Promotion.md) | 天使萌、楪可怜、安位薰 |
-| [LIFE PROMOTION](LIFE%20PROMOTION.md) | 五日市芽依 |
-| [ACT Promotion](ACT%20Promotion.md) | 乙都咲乃 |
+| [Bambi Promotion](Bambi Promotion.md) | 天使萌、楪可怜、安位薰 |
+| [LIFE PROMOTION](LIFE PROMOTION.md) | 五日市芽依 |
+| [ACT Promotion](ACT Promotion.md) | 乙都咲乃 |
 | [NAX](NAX.md) | 奏音花音、伊藤舞雪 |
-| [CRUSE GROUP](CRUSE%20GROUP.md) | 美谷朱音（前） |
-| [Diaz Group](Diaz%20Group.md) | 友田彩也香、由爱可奈、明日花绮罗（前） |
+| [CRUSE GROUP](CRUSE GROUP.md) | 美谷朱音（前） |
+| [Diaz Group](Diaz Group.md) | 友田彩也香、由爱可奈、明日花绮罗（前） |
 
 ## 主要经纪公司
 
@@ -35,9 +35,9 @@
 - **业务**: 女优经纪、作品制作等
 - **知名女优**: 深田咏美等
 
-### Mine'S
+### Mine's
 
-- **全称**: Mine'S
+- **全称**: Mine's
 - **特点**: 业界知名经纪公司
 - **业务**: 女优经纪、作品制作等
 - **知名女优**: 葵司等
