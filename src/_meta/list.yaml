@@ -236,11 +236,23 @@ items:
     row: か
     col: く
     completeness: 100%
+  - name: 五条恋
+    row: か
+    col: こ
+    completeness: 100%
+  - name: 香坂紗梨
+    row: か
+    col: こ
+    completeness: 100%
   - name: 九井スナオ
     row: か
     col: こ
     completeness: 100%
-  - name: 五条恋
+  - name: 児玉るみ
+    row: か
+    col: こ
+    completeness: 100%
+  - name: 小島みなみ
     row: か
     col: こ
     completeness: 100%
@@ -249,14 +261,6 @@ items:
     col: こ
     completeness: 100%
   - name: 小向美奈子
-    row: か
-    col: こ
-    completeness: 100%
-  - name: 小島みなみ
-    row: か
-    col: こ
-    completeness: 100%
-  - name: 児玉るみ
     row: か
     col: こ
     completeness: 100%
