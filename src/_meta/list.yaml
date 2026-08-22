@@ -388,6 +388,10 @@ items:
     row: た
     col: つ
     completeness: 100%
+  - name: ティア
+    row: た
+    col: て
+    completeness: 100%
   - name: 天使萌
     row: た
     col: て
