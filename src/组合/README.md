@@ -8,3 +8,4 @@ JAV 相关的偶像团体与音乐组合。由女优或写真偶像组成的团�
 - [桃色遊戯](./桃色遊戯.md)
 - [超心动♡宣传部](./超心动♡宣传部.md)
 - [BLACK DIAMOND](./BLACK_DIAMOND.md)
+- [SEXY-J](./SEXY-J.md)
