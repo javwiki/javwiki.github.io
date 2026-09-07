@@ -39,6 +39,19 @@ description: 维护 javwiki.github.io 的 mdBook 内容与构建流程。用于�
 
 验证身份时，**作品标题**是重要线索：标题中的人设（如「神戸の人妻」）可能是制作方为作品设定的人物背景，**不代表演员的真实个人信息**（如实际出生地）。遇到此类信息须以 Wikipedia 或经纪公司官方资料为准。
 
+5. **Yahoo.co.jp + Playwright**——女优资料搜集（官方档案、本人博客、作品收录页、知惠袋问答）。浏览器 daemon 不可用时，用 Python Playwright（headless + ja-JP locale + 桌面 UA）：
+   - 搜索：`https://search.yahoo.co.jp/search?p={quote(查询)}&ei=UTF-8`（翻页加 `&b=N`）；过滤 `search.yahoo.co.jp`、`r.ms.yahoo`、`login.yahoo` 等站内导航链。
+   - 抓取：事务所官方档案、本人博客（楽天/ameblo）、FOD/U-NEXT/Filmarks 出演一览、Wayback 存档；`domcontentloaded + 2~3s` 后取 `innerText` 前 4–6k 字。
+   - 查询词至少覆盖：本名/艺名、改名后名字、所属团体（如 OFA21）、`ブログ`、`知恵袋`。
+
+## 资料可靠性分级
+
+- **本人一手**（事务所档案、本人博客/SNS）：可直接写入，内联注明来源。
+- **权威二次**（有出处的 wiki、Filmarks/FOD/U-NEXT 收录页）：可写入，附参考链接。
+- **粉丝整理**（引退まとめ等）：仅用于补年表/旧艺名，必须标注"据 XX 整理"，不作唯一来源。
+- **匿名问答与评论**（知惠袋、livedoor 评论）：不写入正文，仅作线索或参考链接；整形/丰胸/年龄造假类猜测一律不收录。
+- 同名异人必须排除（如 ameblo 上的同名普通博客）；社交账号换代（旧号/应援号）须验证后再写入。
+
 ## 新增或编辑女优
 
 1. 读取 `src/_meta/五十音排序规则.md`，按艺名读音的首假名确定 `src/{行}/{段}/{女优名}.md`。
@@ -84,7 +97,6 @@ description: 维护 javwiki.github.io 的 mdBook 内容与构建流程。用于�
 - 经纪公司：`src/经纪公司/{名称}.md`
 - 元资料及来源：先检查 `src/_meta/`
 - FANZA 月榜采集：先读 `scrapers/fanza/README.md`，输出到 `src/_meta/rankings/`
-
 新增任何页面后确认其可由相应索引或自动生成的 `SUMMARY.md` 到达。不要手工维护生成目录 `book/`、`_tags/` 或根目录 `SUMMARY.md`。
 
 ## 验证
@@ -96,6 +108,8 @@ git diff --check
 git diff --stat
 git diff -- src/
 ```
+
+范围型编辑后重读改动区首尾：确认无吞行、无重复行，表格表头与章节标题完好。
 
 内容改动至少确认内部相对链接存在。工具齐全时执行与 CI 相同的流程：
 
