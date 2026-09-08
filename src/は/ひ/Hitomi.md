@@ -12,8 +12,9 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tana
 - **姓名**: Hitomi（田中瞳）
 - **日文名**: ひとみ
 - **读音**: ひとみ
-- **英文名**: Hitomi Tanaka
-- **旧艺名**: 田中 瞳（田中瞳）
+- **英文名**: Hitomi Tanaka（海外名义）
+- **旧艺名**: 田中 瞳（写真时代；海外沿用 Hitomi Tanaka）
+- **昵称**: みんご（日维 infobox；pixiv 辞典同记）
 - **出生日期**: 1986年7月18日
 - **出生地**: 日本熊本県
 - **身高**: 156cm
@@ -23,9 +24,8 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tana
 - **瞳孔颜色**: 茶色
 - **鞋尺码**: 23.5 cm
 - **类别**: Censored（有码系）
-- **活跃年代**: 2008年至2022年
-- **经纪公司**: ALLURE
-- **主要片商**: SOD、MOODYZ、OPPAI、E-BODY、溜池ゴロー、Attackers
+- **活跃年代**: 2007年（写真）– 2022年4月（AV引退）
+- **经纪公司**: ALLURE（页内存；日维记ハーベスターズ，百度转述 HARVESTARS——后者低可靠性，维持并列）
 
 ## 简介
 
@@ -39,6 +39,11 @@ Hitomi（原名：田中瞳，1986年7月18日—），前日本AV女优与写�
 - 2014年罩杯增至O，并公开CT照片自证真奶。
 - 2018年5月公布与金属核乐团《Emmure》主唱帕尔梅里的恋情；2019年4月分手。
 - 2008年出道时身高156cm、三围97-59-83、J杯；后逐渐增长至O杯，再至Q杯。
+- 2007年11月以イメージビデオ《爆乳の衝撃》作写真出道（雫型J杯）；2008年5月31日发表退社（后删除）并一度删博客，8月再开，同年10月6日经博客宣布11月6日 SOD AV出道并改名 Hitomi。
+- 2008年下半期 DMM 通贩排名第6位；2009年7月以 SOD 卒業作《激イキ激吹きポルチオ》（30发潮吹き）结束专属。
+- 2010年4月4日起在エンタ!371主持冠名节目《Jのぷるるん伝説》（“おっぱい女王”）；2009年4月起在文化放送《がちっ娘》regular 出演。
+- 海外人气高：巨乳杂志《バチェラー》日本人31年ぶり封面、SCORELAND 会员（Model of the Year 3年连续＋2019年十年大奖 Model of the Decade）、美国杂志年度模特2年连续；乳房重7kg；法国漫画《Lastman》角色富江カタナ原型。
+- 2022年2月28日经 Twitter 宣布以4月发售作品引退。
 
 ## 作品特征
 
@@ -48,13 +53,10 @@ Hitomi（原名：田中瞳，1986年7月18日—），前日本AV女优与写�
 - 2019年起涉足VR作品（VRでMOODYZ发行）。
 - 2022年发行引退作品后完整引退。
 
-## 经历年表
-
-| 年份 | 经历 |
-| --- | --- |
-| 2007 | 以写真女星（グラドル）身份进入艺能界。 |
-| 2008 | 10月加盟SOD，正式AV出道，艺名改为「Hitomi」。 |
-| 2010 | 移籍OPPAI，同年起活跃于MOODYZ。 |
+| 2007 | 11月以イメージビデオ《爆乳の衝撃》作写真出道。 |
+| 2008 | 5月31日发表退社（后删除）；10月6日宣布11月6日 SOD AV出道并改名 Hitomi；下半期 DMM 通贩第6位。 |
+| 2009 | 4月文化放送《がちっ娘》regular；7月 SOD 卒業作后移籍嵐を呼ぶスーパーガール。 |
+| 2010 | 4月4日エンタ!371冠名节目《Jのぷるるん伝説》开播；移籍 OPPAI，同年起活跃于 MOODYZ。 |
 | 2011 | 参与E-BODY《SSS-BODY》系列。 |
 | 2013 | 参与AB-MIRD-119〈超乳ボディVIPハーレムSPECIAL〉，与西条琉璃、冲田杏梨、青山菜菜共演。 |
 | 2014 | 罩杯增至O杯，多次参与溜池ゴロー系列。 |
@@ -66,12 +68,14 @@ Hitomi（原名：田中瞳，1986年7月18日—），前日本AV女优与写�
 
 ## 获奖记录
 
-- 暂无公开获奖记录
+- 美国杂志 Model of the Year 2年连续；SCORELAND Model of the Year 3年连续、2019年 Model of the Decade（据日维；美国本土奖项，原页“暂无记录”有误）
 
 ## 参考资料
 
 - <https://zh.wikipedia.org/wiki/Hitomi_(AV%E5%A5%B3%E5%84%AA)>
-- <https://ja.wikipedia.org/wiki/Hitomi_(AV%E5%A5%B3%E5%84%AA)>
+- <https://ja.wikipedia.org/wiki/Hitomi_(AV%E5%A5%B3%E5%84%AA)>（注：裸标题 Hitomi 系歌手同名异人）
 - <https://www.wikidata.org/wiki/Q270138>
+- [FANZA Hitomi（田中瞳）视频一览（actress=27230）](https://video.dmm.co.jp/av/list/?actress=27230)
+- [FANZA Hitomi（田中瞳）DVD 一览](https://www.dmm.co.jp/mono/dvd/-/list/=/article=actress/id=27230/)
 - <https://twitter.com/hitomi_official>
 - <https://www.instagram.com/official_hitomitanaka/>
