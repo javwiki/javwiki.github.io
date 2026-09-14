@@ -235,7 +235,7 @@ def main():
         if not (len(parts) >= 2 and parts[0] in ROWS and len(parts[1]) == 1):
             continue
         for f in fnames:
-            if f.endswith('.md') and f not in ('index.md', 'README.md'):
+            if f.endswith('.md') and f != 'index.md':
                 files.append(os.path.join(root, f))
     
     print(f'总计: {len(files)} 个文件', flush=True)

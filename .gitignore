@@ -1,9 +1,5 @@
-SUMMARY.md
-
 # local agent state
 .workbuddy/
 
-# mdbook output
+# generated site output
 book/
-book-zensical/
-_tags/

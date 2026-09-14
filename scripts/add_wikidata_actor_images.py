@@ -20,7 +20,7 @@ def actor_pages():
             len(parts) >= 3
             and parts[0] in ROWS
             and len(parts[1]) == 1
-            and path.name not in {"index.md", "README.md"}
+            and path.name != "index.md"
         ):
             yield path
 
