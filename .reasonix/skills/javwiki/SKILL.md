@@ -1,6 +1,6 @@
 ---
 name: javwiki
-description: 维护 javwiki.github.io 的 mdBook 内容与构建流程。用于新增、编辑或审查女优、厂牌、经纪公司和排名条目，维护五十音索引、标签、图片与参考资料，以及验证本地构建或 GitHub Pages 部署。
+description: 维护 javwiki.github.io 的 Zensical 内容与构建流程。用于新增、编辑或审查女优、厂牌、经纪公司和排名条目，维护五十音索引、标签、图片与参考资料，以及验证本地构建或 GitHub Pages 部署。
 ---
 
 # JAV 百科维护
@@ -84,7 +84,7 @@ Yahoo 搜索轮次中必须带一轮 `知恵袋` 查询（`女优名 + 知恵袋
 
 ## 新增或编辑女优
 
-1. 读取 `src/_meta/五十音排序规则.md`，按艺名读音的首假名确定 `src/{行}/{段}/{女优名}.md`。
+1. 读取 `docs/_meta/五十音排序规则.md`，按艺名读音的首假名确定 `docs/{行}/{段}/{女优名}.md`。
 2. 查看同段 2–3 个条目，复用当前 frontmatter、标题与章节风格。
 3. 至少维护以下内容：
    - frontmatter：`tags`；只有图片已核验时才加 `thumbnail`。
@@ -94,7 +94,7 @@ Yahoo 搜索轮次中必须带一轮 `知恵袋` 查询（`女优名 + 知恵袋
    - `## 经历年表`
    - `## 参考资料`
 4. 仅在有可靠资料时增加人物、作品特征、获奖记录、社交媒体等章节。
-5. 新增条目时，把链接插入 `src/{行}/{段}/index.md` 的“条目”列表。行索引只维护段链接，通常无需加入单个女优。
+5. 新增条目时，把链接插入 `docs/{行}/{段}/index.md` 的“条目”列表。行索引只维护段链接，通常无需加入单个女优。
 6. 检查文件名、H1、姓名字段、图片 alt 文本和索引显示名是否一致。
 
 基本信息建议顺序：
@@ -123,11 +123,11 @@ Yahoo 搜索轮次中必须带一轮 `知恵袋` 查询（`女优名 + 知恵袋
 
 ## 其他条目
 
-- 厂牌：`src/厂牌/{名称}.md`
-- 经纪公司：`src/经纪公司/{名称}.md`
-- 元资料及来源：先检查 `src/_meta/`
-- FANZA 月榜采集：先读 `scrapers/fanza/README.md`，输出到 `src/_meta/rankings/`
-新增任何页面后确认其可由相应索引或自动生成的 `SUMMARY.md` 到达。不要手工维护生成目录 `book/`、`_tags/` 或根目录 `SUMMARY.md`。
+- 厂牌：`docs/厂牌/{名称}.md`
+- 经纪公司：`docs/经纪公司/{名称}.md`
+- 元资料及来源：先检查 `docs/_meta/`
+- FANZA 月榜采集：先读 `scrapers/fanza/README.md`，输出到 `docs/_meta/rankings/`
+新增任何页面后确认其可由相应 `index.md` 索引到达。Zensical 根据 `docs/` 目录结构生成导航，不要手工维护 `SUMMARY.md`、`book/` 或静态 `_tags/` 页面。需要标签时，在页面 frontmatter 使用 `tags`，并由 `zensical.toml` 的原生 Tags 插件处理。
 
 ## 验证
 
@@ -136,7 +136,7 @@ Yahoo 搜索轮次中必须带一轮 `知恵袋` 查询（`女优名 + 知恵袋
 ```bash
 git diff --check
 git diff --stat
-git diff -- src/
+git diff -- docs/
 ```
 
 范围型编辑后重读改动区首尾：确认无吞行、无重复行，表格表头与章节标题完好。
@@ -144,13 +144,11 @@ git diff -- src/
 内容改动至少确认内部相对链接存在。工具齐全时执行与 CI 相同的流程：
 
 ```bash
-mdbook-tagging generate .
-mdbook-summarizer --src src --auto-readme
-mdbook build
+uvx --from zensical==0.0.62 zensical build --clean --strict
 ```
 
 若缺少某个工具，运行可用的检查并明确报告未执行项；不要为一次内容编辑擅自全局安装工具。生成文件只在项目既有策略要求时提交。
 
 ## 发布
 
-只有用户明确要求发布或推送时才提交并推送。遵循仓库级 `AGENTS.md`；本项目发布到 `main` 后由 `.github/workflows/mdbook.yml` 部署。
+只有用户明确要求发布或推送时才提交并推送。遵循仓库级 `AGENTS.md`；本项目发布到 `main` 后由 `.github/workflows/zensical.yml` 部署。

@@ -58,7 +58,7 @@ sed -n '1,220p' scripts/add_image_display.py
 
 ```bash
 git diff --check
-git diff -- src/
+git diff -- docs/
 ```
 
 最后按 `../javwiki/SKILL.md` 的验证流程检查构建。不要因缺图而填入未经核验的候选 URL。
