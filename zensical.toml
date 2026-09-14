@@ -4,10 +4,11 @@ site_url = "https://javwiki.github.io/"
 site_description = "JAV（日本成人视频）综合百科。"
 site_author = "javwiki contributors"
 docs_dir = "src"
-site_dir = "book-zensical"
+site_dir = "book"
 repo_url = "https://github.com/javwiki/javwiki.github.io"
 repo_name = "javwiki/javwiki.github.io"
 edit_uri = "edit/main/src/"
+use_directory_urls = true
 
 [project.theme]
 variant = "classic"
@@ -19,6 +20,8 @@ features = [
   "navigation.top",
   "search.highlight",
 ]
+
+[project.plugins.tags]
 
 [project.markdown_extensions]
 attr_list = {}

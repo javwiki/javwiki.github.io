@@ -124,7 +124,7 @@ def main():
         if not is_actress_dir(rel):
             continue
         for f in fnames:
-            if f.endswith('.md') and f not in ('index.md', 'README.md'):
+            if f.endswith('.md') and f != 'index.md':
                 files.append(os.path.join(root, f))
     
     print(f"找到 {len(files)} 个女优文件", file=sys.stderr)

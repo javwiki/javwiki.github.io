@@ -40,7 +40,7 @@ def main():
         if not (len(parts) >= 2 and parts[0] in ROWS and len(parts[1]) == 1):
             continue
         for f in fnames:
-            if f.endswith('.md') and f not in ('index.md', 'README.md'):
+            if f.endswith('.md') and f != 'index.md':
                 fp = os.path.join(root, f)
                 if remove_thumbs(fp):
                     print(f'  已清除: {f}')

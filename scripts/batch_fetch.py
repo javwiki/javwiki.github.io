@@ -72,7 +72,7 @@ for root, dirs, fnames in os.walk('src'):
     parts = rel.replace(os.sep, '/').split('/')
     if len(parts) >= 2 and parts[0] in ROWS and len(parts[1]) == 1:
         for f in fnames:
-            if f.endswith('.md') and f not in ('index.md', 'README.md'):
+            if f.endswith('.md') and f != 'index.md':
                 fp = os.path.join(root, f)
                 with open(fp, 'r', encoding='utf-8') as fh:
                     content = fh.read()
