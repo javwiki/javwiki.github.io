@@ -1,0 +1,26 @@
+[project]
+site_name = "JAV 百科"
+site_url = "https://javwiki.github.io/"
+site_description = "JAV（日本成人视频）综合百科。"
+site_author = "javwiki contributors"
+docs_dir = "src"
+site_dir = "book-zensical"
+repo_url = "https://github.com/javwiki/javwiki.github.io"
+repo_name = "javwiki/javwiki.github.io"
+edit_uri = "edit/main/src/"
+
+[project.theme]
+variant = "classic"
+language = "zh"
+features = [
+  "navigation.instant",
+  "navigation.path",
+  "navigation.sections",
+  "navigation.top",
+  "search.highlight",
+]
+
+[project.markdown_extensions]
+attr_list = {}
+md_in_html = {}
+toc.permalink = true
