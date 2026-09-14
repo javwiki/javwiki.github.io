@@ -18,7 +18,7 @@ class FanzaActressRankingSpider:
 
     URL = "https://video.dmm.co.jp/av/ranking/?term=monthly&type=actress"
 
-    def __init__(self, output_dir: str = "../../src/_meta/rankings", proxy: str = "socks5://127.0.0.1:7890"):
+    def __init__(self, output_dir: str = "../../docs/_meta/rankings", proxy: str = "socks5://127.0.0.1:7890"):
         self.output_dir = Path(__file__).parent / output_dir
         self.output_dir.mkdir(parents=True, exist_ok=True)
         self.proxy = proxy
@@ -178,7 +178,7 @@ def main():
 
     parser = argparse.ArgumentParser(description="FANZA Actress Ranking Spider")
     parser.add_argument("--limit", type=int, default=100, help="Number of results (default: 100)")
-    parser.add_argument("--output", type=str, default="../../src/_meta/rankings", help="Output directory")
+    parser.add_argument("--output", type=str, default="../../docs/_meta/rankings", help="Output directory")
     parser.add_argument("--proxy", type=str, default="socks5://127.0.0.1:7890", help="Proxy server")
 
     args = parser.parse_args()

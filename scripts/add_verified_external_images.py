@@ -8,17 +8,17 @@ from add_wikidata_actor_images import add_image
 
 # Local article path -> image URL from the source already cited by the article.
 VERIFIED_IMAGES = {
-    "src/た/つ/九十九メイ.md": (
+    "docs/た/つ/九十九メイ.md": (
         "https://cdn.up-timely.com/image/6/actress_main/125780/"
         "cFa9Y6dfmJowrplks2D8nDXQtnZAcSt4KSwWbXwo.jpg"
     ),
-    "src/さ/し/白浜果歩.md": (
+    "docs/さ/し/白浜果歩.md": (
         "https://image-optimizer.osusume.dmm.co.jp/actress/sirahama_kaho.jpg"
     ),
-    "src/ま/も/守屋よしの.md": (
+    "docs/ま/も/守屋よしの.md": (
         "https://image.yingzhiben.info/avatar/27iG534UIfE0.jpg"
     ),
-    "src/は/べ/ベアトリクス.md": (
+    "docs/は/べ/ベアトリクス.md": (
         "https://nikkan-spa.hyper-cdn.jp/wp-content/uploads/2020/04/"
         "Beako-01-550x413.jpg"
     ),

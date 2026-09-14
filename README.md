@@ -8,7 +8,7 @@
 uvx --from zensical==0.0.62 zensical build --clean
 ```
 
-构建结果位于 `book/`。启动本地预览：
+构建结果位于 `site/`。启动本地预览：
 
 ```bash
 uvx --from zensical==0.0.62 zensical serve
