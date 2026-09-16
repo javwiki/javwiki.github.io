@@ -10,3 +10,4 @@ JAV 相关的偶像团体与音乐组合。由女优或写真偶像组成的团�
 - [BLACK DIAMOND](./BLACK_DIAMOND.md)
 - [SEXY-J](./SEXY-J.md)
 - [熟ザイル](./熟ザイル.md)
+- [me-me*](./me-me.md)
