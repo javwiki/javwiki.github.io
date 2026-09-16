@@ -11,7 +11,7 @@
 | [LINX](LINX.md) | 桃乃木香奈、葵百合香 |
 | [Mine's](Mine_S.md) | 葵司、彩美旬果、上原亚衣 |
 | [ARROWS](ARROWS.md) | 深田咏美 |
-| [8MAN](8MAN.md) | 有栖花绯、相泽南 |
+| [8MAN](8MAN.md) | 相泽南、凪ひかる（前） |
 | [Bambi Promotion](Bambi Promotion.md) | 天使萌、楪可怜、安位薰 |
 | [LIFE PROMOTION](LIFE PROMOTION.md) | 五日市芽依 |
 | [ACT Promotion](ACT Promotion.md) | 乙都咲乃 |

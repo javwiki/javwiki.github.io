@@ -36,10 +36,6 @@ items:
     row: あ
     col: あ
     completeness: 100%
-  - name: 有栖花绯
-    row: あ
-    col: あ
-    completeness: 100%
   - name: 朝桐光
     row: あ
     col: あ
@@ -465,6 +461,10 @@ items:
     col: な
     completeness: 100%
   - name: 渚光希
+    row: な
+    col: な
+    completeness: 100%
+  - name: 凪ひかる
     row: な
     col: な
     completeness: 100%
