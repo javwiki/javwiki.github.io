@@ -11,7 +11,7 @@
 | [LINX](LINX.md) | 桃乃木香奈、葵百合香 |
 | [Mine's](Mine_S.md) | 葵司、彩美旬果、上原亚衣 |
 | [ARROWS](ARROWS.md) | 深田咏美 |
-| [8MAN](8MAN.md) | 相泽南、凪ひかる（前） |
+| [8MAN / SO MODEL AGENT](8MAN.md) | 凪ひかる、藤かんな、美乃すずめ |
 | [Bambi Promotion](Bambi Promotion.md) | 天使萌、楪可怜、安位薰 |
 | [LIFE PROMOTION](LIFE PROMOTION.md) | 五日市芽依 |
 | [ACT Promotion](ACT Promotion.md) | 乙都咲乃 |
@@ -87,12 +87,12 @@
 - **业务**: 女优经纪、作品制作等
 - **知名女优**: 楪可怜等
 
-### 8MAN
+### 8MAN / SO MODEL AGENT
 
-- **全称**: 8MAN
-- **特点**: 业界知名经纪公司，以管理人气女优著称
+- **全称**: 8MAN（エイトマン）；现称 SO MODEL AGENT（ソウ モデルエージェント）
+- **特点**: 业界知名经纪公司，以管理人气女优著称；旧官网 8man.jp 现 301 跳转至 so-agent.jp
 - **业务**: 女优经纪、作品制作等
-- **知名女优**: 相泽南等
+- **知名女优**: 凪ひかる、藤かんな、美乃すずめ等
 
 ### Prime Agency
 
