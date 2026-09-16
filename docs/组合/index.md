@@ -11,3 +11,4 @@ JAV 相关的偶像团体与音乐组合。由女优或写真偶像组成的团�
 - [SEXY-J](./SEXY-J.md)
 - [熟ザイル](./熟ザイル.md)
 - [me-me*](./me-me.md)
+- [Million Girls Z](./Million%20Girls%20Z.md)
