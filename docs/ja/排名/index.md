@@ -1,21 +1,21 @@
 # ランキング
 
-月間女性ランキングなど、AVランキングの各種カテゴリに関するデータが含まれています。
+本ディレクトリには、月間人気女優ランキングなど、AV関連の各種ランキングデータを収録しています。
 
 ## データファイル
 
-ランクデータは YAML 形式で保存されます。各ファイルは次のフィールドを含みます。
+ランキングデータは YAML 形式で保存され、各ファイルには次のフィールドが含まれます。
 
-- `source` : データソース(例) . . . フランザ
-- `type` : ランキングの種類(例) . . . `actress_monthly_ranking`  ）
-- `url` ソースデータ URL
-- `fetched_at` : キャプチャ時間
-- `count` ランキングエントリー数
-- `rankings` : 各ランキング一覧、各ランキング一覧 `rank`  、  `name`  、  `actress_id`  、  `contents_count`  、  `latest_title` 待たせます。
+- `source`: データの出典（例：FANZA）
+- `type`: ランキングの種類（例：`actress_monthly_ranking`）
+- `url`: 元データの URL
+- `fetched_at`: 取得日時
+- `count`: ランキングの件数
+- `rankings`: ランキングの一覧。各項目には `rank`、`name`、`actress_id`、`contents_count`、`latest_title` などが含まれる
 
 ## ランキング一覧
 
-|ドキュメント|仕様|ソース|日 時 分|番号番号|
+| ファイル | 種類 | 出典 | 日付 | 件数 |
 | --- | --- | --- | --- | --- |
-| [女優評価202606. ヤムギ](actress-ranking-202606.yaml)|女子月ランク|フランザ|2026年6月| 100 |
-| [女優評価202607. ヤムギ](actress-ranking-202607.yaml)|女子月ランク|フランザ|2026年7月| 100 |
+| [actress-ranking-202606.yaml](actress-ranking-202606.yaml) | 女優月間ランキング | FANZA | 2026年6月 | 100 |
+| [actress-ranking-202607.yaml](actress-ranking-202607.yaml) | 女優月間ランキング | FANZA | 2026年7月 | 100 |

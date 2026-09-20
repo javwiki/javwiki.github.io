@@ -1,82 +1,82 @@
 # 情報源
 
-百科事典のエントリの準備で使用される情報の主なソース.
+百科事典の記事を作成する際に参照した主な情報源。
 
-## 統合情報キオスク
+## 総合資料サイト
 
-|ソース|注釈|主な用途|
+| 情報源 | 説明 | 主な用途 |
 | --- | --- | --- |
-| [ツイート ウィキペディア。 オルガ](https://ja.wikipedia.org)|日英ウィキペディア|女性、メーカー、作品に関する基本情報(年間スケジュール、賞品の記録など)|
-| [ウェビオ](https://www.weblio.jp)|オンライン辞書(日本語の Wikipedia のテキストから作成)|ウィキペディアが利用できなくなったときに同じコンテンツにアクセスするために使用できる日本のウィキペディア代替品|
-| [チャット ウィキペディア。 オルガ](https://zh.wikipedia.org)|ウィキペディア、中国|中国での追加情報、海外の影響に関する情報|
-| [ウィキデータ](https://www.wikidata.org)|構造データ倉庫|チェックを横断し、インフォボックスフィールドを補完して、唯一の識別子を取得|
+| [ja.wikipedia.org](https://ja.wikipedia.org) | 日本語版ウィキペディア | 女優、メーカー、作品の基本資料。年表や受賞記録を含む |
+| [Weblio](https://www.weblio.jp) | オンライン辞典（日本語版ウィキペディアの全文を転載） | 日本語版ウィキペディアの代替。ウィキペディアに接続できない場合も同じ内容を取得できる |
+| [zh.wikipedia.org](https://zh.wikipedia.org) | 中国語版ウィキペディア | 中国語圏の文脈における補足資料、海外での影響力に関する情報 |
+| [Wikidata](https://www.wikidata.org) | 構造化データのリポジトリ | 相互検証と infobox 項目の補完、一意な識別子の取得 |
 
-## プロフェッショナルなデータベース
+## 専門データベース
 
-|ソース|注釈|主な用途|
+| 情報源 | 説明 | 主な用途 |
 | --- | --- | --- |
-| [イーフッド](https://www.iafd.com)|インターネットアダルト映画データベース|英語のAVデータベース、作品や女性に関する情報がより良く|
-| [ベイビーペディア](https://www.babepedia.com)|女子リソースセンター|真実と基本的な情報|
-| [ジェイヴ・ビー・ビー・ビー・ビー・ビー・ジャパン](https://javdb.com)|中国語 AV ライブラリ|ナンバー、女性女性女性女性女性性、メーカー情報、評価データ|
-| [ジャンボリブラリー](https://www.javlibrary.com)|多言語AVデータベース|評価・コメント、作品の一覧|
-| [AV-Wiki(アビキ)](https://av-wiki.net)|日本語 AV データベース|ベンダーと作品情報|
-| [ウィキシー ウィキシー](https://wiki.seesaa.jp/adult/)|日系AV ウィキペディア|女性優越の詳細な情報(年齢確認が必要)|
-| [みんなのAV](https://www.minnano-av.com)|日本語 AV データベース|女性の情報、作品一覧|
-| [エスリスト](https://www.xslist.org)|多言語AVデータベース|女性情報、作品一覧、仲介情報。|
-| [ダイム](https://www.dmm.co.jp)|ジャパンAV配信プラットフォーム|オフィシャル・ワーク情報、販売データ|
+| [IAFD](https://www.iafd.com) | Internet Adult Film Database | 英語のAVデータベース。作品と女優の情報が比較的充実している |
+| [Babepedia](https://www.babepedia.com) | 英語の女優資料サイト | グラビアと基本資料 |
+| [JAVDB](https://javdb.com) | 中国語のAVデータベース | 品番、女優、メーカーの情報と評価データ |
+| [Javlibrary](https://www.javlibrary.com) | 多言語対応のAVデータベース | 評価とレビュー、作品一覧 |
+| [AV-Wiki](https://av-wiki.net) | 日本語のAVデータベース | メーカーと作品の情報 |
+| [Seesaa Wiki](https://wiki.seesaa.jp/adult/) | 日本語のAVウィキ | 女優の詳細資料（年齢確認が必要） |
+| [みんなの AV](https://www.minnano-av.com) | 日本語のAVデータベース | 女優情報、作品一覧 |
+| [Xslist](https://www.xslist.org) | 多言語対応のAVデータベース | 女優情報、作品一覧、プロダクション情報 |
+| [DMM](https://www.dmm.co.jp) | 日本のAV配信プラットフォーム | 公式の作品情報、販売数データ |
 
-## 製造業者のネットワーク
+## メーカー公式サイト
 
-|ソース|注釈|
+| 情報源 | 説明 |
 | --- | --- |
-| [エスワン](https://www.s1s1s1.com)|S1 なし 1 スタイル|
-| [モディズ](https://www.moodys.jp)|モディズ|
-| [アイデアポケット](https://www.ideapocket.com)|アイデアポケット|
-| [攻撃者](https://www.attackers.jp)|攻撃者|
-| [プレステージ](https://www.prestige-av.com)|プレステージ|
-| [マドンナ](https://www.madonna-av.com)|マドンナ|
-| [ソリューション](https://www.sod.co.jp)|ソリューション|
-| [フェアノ](https://www.faleno.tv)|フェアノ|
+| [S1](https://www.s1s1s1.com) | S1 NO.1 STYLE |
+| [Moodyz](https://www.moodys.jp) | Moodyz |
+| [IdeaPocket](https://www.ideapocket.com) | IdeaPocket |
+| [Attackers](https://www.attackers.jp) | Attackers |
+| [Prestige](https://www.prestige-av.com) | Prestige |
+| [Madonna](https://www.madonna-av.com) | Madonna |
+| [SOD](https://www.sod.co.jp) | SOD |
+| [FALENO](https://www.faleno.tv) | FALENO |
 
-## 受賞作品
+## 受賞
 
-|ソース|注釈|
+| 情報源 | 説明 |
 | --- | --- |
-| [安城 アダルトアワード](https://www.dmm.co.jp/adultaward/)|PANZA 主催 年間AVアワード|
-| [アダルト放送賞](https://adult-awards.com/)|スカイ・ペフェッキTV! ショーをスポンサーした大人は、報酬を贈呈しました。|
-| [AV の開いた](https://av-open.com)|作品のAVコンクール|
+| [FANZAアダルトアワード](https://www.dmm.co.jp/adultaward/) | FANZA が主催する年間AV賞 |
+| [スカパー!アダルト放送大賞](https://adult-awards.com/) | スカパー!（Sky PerfecTV!）が主催するアダルト放送大賞 |
+| [AV OPEN](https://av-open.com) | AV作品のコンテスト |
 
-## ソーシャルメディア
+## SNS
 
-|ソース|利用条件|
+| 情報源 | 用途 |
 | --- | --- |
-| [Twitter/X のツイート](https://twitter.com)|活動状況の確認、最新の開発|
-| [スタッフ](https://www.instagram.com)|- うん。 - うん。|
-| [ツイート](https://www.youtube.com)|インタビュー、バックスライド。|
+| [Twitter/X](https://twitter.com) | 活動状況や最新の動向の確認 |
+| [Instagram](https://www.instagram.com) | グラビア、イベント情報 |
+| [YouTube](https://www.youtube.com) | インタビュー、メイキング映像 |
 
-## 規範の使用
+## 使用ルール
 
-### 女性 's のメリットに関する情報収集
+### 女優情報の収集
 
-|情報の種類|推奨ソース|注目の|
+| 情報の種類 | 推奨する情報源 | 備考 |
 | --- | --- | --- |
-|基本情報(氏名、生年月日、生年月日、長さ等) ) ) )|ウィキペディア、JAVDB、Xslist|他のソースからクロスチェック, 主に Wikipedia|
-|カップ3枚|メーカー、JAVDB、箕面市、|データは、ソースから別のソースと異なる可能性があります|
-|会社の会社から|Xslist、JAVDB、ベンダーのネットワーク|会社の情報は大きく変化していますので、時間感度を保ちましょう。|
-|独占メーカー|製造業者、JAVDBのネットワーク|そういうことはできない。|
-|キューイング日付|ウィキペディア、JAVDB、ベンダーのネットワーク|作品の販売日|
-|誘導・活動|Twitter/X、Wikipedia、JAVDB|途中で右折します。|
-|受賞実績|ウィキペディア、ファンザ公式ネットワーク|公式サイトから|
-|体験表|ウィキペディア|ウィキペディアは、通常最も詳しく述べています。|
-|リアル/写真|Instagram、Twitter/X、ベンダーのネットワーク|オフィシャルチャンネルが優先されます|
+| 基本資料（名前、生年月日、身長など） | Wikipedia、JAVDB、Xslist | ウィキペディアを主とし、他の情報源で相互検証する |
+| スリーサイズ、カップ | 各メーカー公式サイト、JAVDB、minnano-av | 情報源によって数値が異なる場合がある |
+| 所属プロダクション | Xslist、JAVDB、メーカー公式サイト | プロダクションの情報は変更が多いため、鮮度に注意する |
+| 専属メーカー | メーカー公式サイト、JAVDB | メーカー公式サイトを基準とする |
+| デビュー日 | Wikipedia、JAVDB、メーカー公式サイト | デビュー作の発売日を基準とする |
+| 引退・活動状況 | Twitter/X、Wikipedia、JAVDB | 本人が公表した発言を基準とする |
+| 受賞記録 | Wikipedia、FANZA 公式サイト | 公式サイトの発表を基準とする |
+| 経歴年表 | Wikipedia | 日本語版ウィキペディアが通常最も詳細 |
+| グラビア・イメージ写真 | Instagram、Twitter/X、メーカー公式サイト | 公式チャンネルを優先する |
 
-### メッセージを開かせる
+### 情報の検証
 
-- 精度を確保するためのマルチソースクロスチェック
-- 正式なソースが優先されます
-- 最新データの利用を時間感度で優先的に行う
+- 複数の情報源で相互検証し、正確性を確保する
+- 公式の情報源を優先する
+- 鮮度に注意し、最新のデータを優先して使用する
 
-### 参照のフォーマット
+### 引用形式
 
 ウィキペディア:
 ```
@@ -84,12 +84,12 @@
 - <https://zh.wikipedia.org/wiki/女優名>
 ```
 
-ウィキデータ:
+Wikidata:
 ```
 - <https://www.wikidata.org/wiki/Q编号>
 ```
 
-専門のデータベース:
+専門データベース:
 ```
 - <https://www.iafd.com/女優名.rme>
 - <https://javdb.com/女優名>
