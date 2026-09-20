@@ -32,6 +32,10 @@ python spider.py --proxy socks5://127.0.0.1:7890
 python spider.py --output ./output
 ```
 
+默认输出到 `docs/zh/排名/actress-ranking-YYYYMM.yaml`（中文源目录）。
+同步时把生成的数据文件复制到 `docs/ja/排名/` 与 `docs/en/排名/`——
+这两份是数据文件，与中文源保持一致，键名与取值不翻译。
+
 ## 输出格式
 
 ```yaml

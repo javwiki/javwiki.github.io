@@ -7,6 +7,25 @@ description: 维护 javwiki.github.io 的 Zensical 内容与构建流程。用�
 
 在仓库根目录执行操作。先读取目标文件及相邻条目，沿用现有格式；不要凭模板覆盖条目中更丰富的字段。
 
+## 三语内容树
+
+内容分三份，中文是唯一源：[`docs/zh/`](../..) 为源，`docs/ja/` 与 `docs/en/` 是它的翻译。三者相对路径、文件名、目录名完全相同，因此**任何内容改动都要同步落到三个目录**。
+
+结构被 `scripts/check_i18n.py` 强制约束，`./scripts/build_site.sh` 与 CI 都会先跑它：
+
+- front matter 必须与中文源一致，唯一例外是 `title:`（页面与导航显示标题，按语言翻译）；
+- 标题层级序列、链接目标、图片 `src`、表格行列数、代码块数量必须与中文源一致；
+- 正文、标题文字、表格单元格、链接显示文字、`alt` 属性按语言翻译；
+- 代码块内容、文件名、目录名、链接目标不翻译。
+
+编辑顺序：先改 `docs/zh/`，再同步 `docs/ja/` 与 `docs/en/` 的同路径文件。
+
+- 日文页面的演员名以中文源条目的 `日文名` 字段为准（与 `scripts/ja_name_map.json` 合成的对照表一致），H1、`名前` 字段、链接显示文字、正文统一使用该写法。
+- 日文页面的 `### 中文翻译` 小节写作 `### 中国語訳`，正文仍为中文；`### 日文原文（missAV / FANZA）` 小节名与官方日文原文三语逐字相同，不在日文页面改名。
+- front matter 的 `tags` 保持中文源原值，不翻译。
+
+细节与质量限制见仓库根目录的 `TRANSLATION.md`。
+
 ## 内容原则
 
 - 把可核实事实与概括性描述分开；不把搜索摘要、粉丝站或 AI 生成文本当作事实来源。
@@ -84,7 +103,7 @@ Yahoo 搜索轮次中必须带一轮 `知恵袋` 查询（`女优名 + 知恵袋
 
 ## 新增或编辑女优
 
-1. 读取 `docs/_meta/五十音排序规则.md`，按艺名读音的首假名确定 `docs/{行}/{段}/{女优名}.md`。
+1. 读取 `docs/zh/_meta/五十音排序规则.md`，按艺名读音的首假名确定中文源位置 `docs/zh/{行}/{段}/{女优名}.md`。
 2. 查看同段 2–3 个条目，复用当前 frontmatter、标题与章节风格。
 3. 至少维护以下内容：
    - frontmatter：`tags`；只有图片已核验时才加 `thumbnail`。
@@ -94,8 +113,10 @@ Yahoo 搜索轮次中必须带一轮 `知恵袋` 查询（`女优名 + 知恵袋
    - `## 经历年表`
    - `## 参考资料`
 4. 仅在有可靠资料时增加人物、作品特征、获奖记录、社交媒体等章节。
-5. 新增条目时，把链接插入 `docs/{行}/{段}/index.md` 的“条目”列表。行索引只维护段链接，通常无需加入单个女优。
-6. 检查文件名、H1、姓名字段、图片 alt 文本和索引显示名是否一致。
+5. 新增条目时，把链接插入 `docs/zh/{行}/{段}/index.md` 的“条目”列表。行索引只维护段链接，通常无需加入单个女优。
+6. 同步到另外两棵树：在 `docs/ja/`、`docs/en/` 下建同名同路径文件，并按各自语言改写正文；日文的演员名按 `scripts/ja_name_map.json` 与中文源 `日文名` 字段确定。
+7. 三棵树都要维护列表：`docs/{lang}/_meta/list.md` 与 `docs/{lang}/_meta/list.yaml`（`list.yaml` 的 `items[]` 含 `name`/`row`/`col`/`completeness`）。
+8. 检查文件名、H1、姓名字段、图片 alt 文本和索引显示名是否一致。
 
 基本信息建议顺序：
 
@@ -123,11 +144,14 @@ Yahoo 搜索轮次中必须带一轮 `知恵袋` 查询（`女优名 + 知恵袋
 
 ## 其他条目
 
-- 厂牌：`docs/厂牌/{名称}.md`
-- 经纪公司：`docs/经纪公司/{名称}.md`
-- 元资料及来源：先检查 `docs/_meta/`
-- FANZA 月榜采集：先读 `scrapers/fanza/README.md`，输出到 `docs/_meta/rankings/`
-新增任何页面后确认其可由相应 `index.md` 索引到达。Zensical 根据 `docs/` 目录结构生成导航，不要手工维护 `SUMMARY.md`、`book/` 或静态 `_tags/` 页面。需要标签时，在页面 frontmatter 使用 `tags`，并由 `zensical.toml` 的原生 Tags 插件处理。
+以下均指中文源目录 `docs/zh/`，改完同步到 `docs/ja/`、`docs/en/` 的同路径文件：
+
+- 厂商（片商）：`docs/zh/厂商/{名称}.md`
+- 经纪公司：`docs/zh/经纪公司/{名称}.md`
+- 系列、组合、作品、导演、番号、法律、协会、奖项、活动、专题：同名目录下的对应页面
+- 元资料及来源：先检查 `docs/zh/_meta/`
+- FANZA 月榜采集：先读 `scrapers/fanza/README.md`，数据写入 `docs/zh/排名/`，并同步到另两棵树
+新增任何页面后确认其可由相应 `index.md` 索引到达。Zensical 根据 `docs/{lang}/` 目录结构生成导航，不要手工维护 `SUMMARY.md`、`book/` 或静态 `_tags/` 页面。需要标签时，在页面 frontmatter 使用 `tags`，并由 `zensical.toml` 的原生 Tags 插件处理。
 
 ## 验证
 
@@ -139,16 +163,22 @@ git diff --stat
 git diff -- docs/
 ```
 
+三语文档改动后先跑结构校验，它会逐页比对日文、英文与中文源的 front matter、标题层级、链接目标、表格形状与代码块：
+
+```bash
+python3 scripts/check_i18n.py
+```
+
 范围型编辑后重读改动区首尾：确认无吞行、无重复行，表格表头与章节标题完好。
 
 内容改动至少确认内部相对链接存在。工具齐全时执行与 CI 相同的流程：
 
 ```bash
-uvx --from zensical==0.0.62 zensical build --clean --strict
+./scripts/build_site.sh
 ```
 
-若缺少某个工具，运行可用的检查并明确报告未执行项；不要为一次内容编辑擅自全局安装工具。生成文件只在项目既有策略要求时提交。
+该脚本先跑 `check_i18n.py`，再以 strict 模式依次构建三个语言版本。若缺少某个工具，运行可用的检查并明确报告未执行项；不要为一次内容编辑擅自全局安装工具。生成文件只在项目既有策略要求时提交。
 
 ## 发布
 
-只有用户明确要求发布或推送时才提交并推送。遵循仓库级 `AGENTS.md`；本项目发布到 `main` 后由 `.github/workflows/zensical.yml` 部署。
+只有用户明确要求发布或推送时才提交并推送。本项目发布到 `main` 后由 `.github/workflows/zensical.yml` 执行 `./scripts/build_site.sh` 并部署到 GitHub Pages。
