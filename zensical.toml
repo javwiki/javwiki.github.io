@@ -5,8 +5,17 @@ site_description = "JAV（日本成人视频）综合百科。"
 site_author = "javwiki contributors"
 repo_url = "https://github.com/javwiki/javwiki.github.io"
 repo_name = "javwiki/javwiki.github.io"
-edit_uri = "edit/main/docs/"
+edit_uri = "edit/main/docs/zh/"
+docs_dir = "docs/zh"
+site_dir = "site"
 use_directory_urls = true
+
+[project.extra]
+alternate = [
+  { name = "中文", link = "/", lang = "zh" },
+  { name = "日本語", link = "/ja/", lang = "ja" },
+  { name = "English", link = "/en/", lang = "en" },
+]
 
 [project.theme]
 variant = "classic"

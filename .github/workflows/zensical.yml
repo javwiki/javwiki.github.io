@@ -23,8 +23,8 @@ jobs:
         uses: astral-sh/setup-uv@v6
         with:
           enable-cache: true
-      - name: Build with Zensical
-        run: uvx --from zensical==0.0.62 zensical build --clean --strict
+      - name: Build multilingual site with Zensical
+        run: ./scripts/build_site.sh
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
