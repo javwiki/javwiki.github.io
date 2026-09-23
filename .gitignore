@@ -1,5 +1,15 @@
 # local agent state
 .workbuddy/
+.reasonix/attachments/
 
 # generated site output
 site/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+
+# editors / OS
+.DS_Store
