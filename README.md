@@ -27,7 +27,7 @@ uvx --from zensical==0.0.62 zensical serve --config-file zensical.toml
 ## 校验
 
 ```bash
-python3 scripts/check_i18n.py
+python3 scripts/check_i18n.py   # 需 PyYAML，或用 uvx --with pyyaml python3 scripts/check_i18n.py
 ```
 
-检查三个语言目录的文件一一对应，并逐页比对日文、英文与中文源的 front matter、标题层级、链接目标、表格形状和代码块数量。`./scripts/build_site.sh` 与 CI 都会先执行这项检查。
+检查三个语言目录的文件一一对应，并逐页比对日文、英文与中文源的 front matter、标题层级、链接目标、表格形状和代码块数量；此外校验相对链接可解析、段索引覆盖完整、`_meta/list.yaml` 与 `排名/*.yaml` 可解析且与中文源一致、作品页受保护区逐字一致。`./scripts/build_site.sh` 与 CI 都会先执行这项检查。
