@@ -1,5 +1,5 @@
 ---
-tags: [Q杯, ALLURE, SOD, MOODYZ, OPPAI, E-BODY, 溜池ゴロー, Attackers]
+tags: [Q杯, ハーベスターズ, SOD, MOODYZ, OPPAI, E-BODY, 溜池ゴロー, Attackers]
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tanaka_2017.jpg/500px-Hitomi_Tanaka_2017.jpg
 ---
 
@@ -24,7 +24,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tana
 - **靴のサイズ**: 23.5 cm
 - **分類**: 有修正（Censored）
 - **活動期間**: 2007年（グラビア）– 2022年4月（AV引退）
-- **所属事務所**: ALLURE（本ページ内；日本語版Wikipediaはハーベスターズ、百度の転述はHARVESTARS——後者は信頼性が低く、併記を維持）
+- **所属事務所**: ハーベスターズ（旧称 ALLURE / アリュール）
 
 ## プロフィール
 

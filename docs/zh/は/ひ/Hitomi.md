@@ -1,5 +1,5 @@
 ---
-tags: [Q杯, ALLURE, SOD, MOODYZ, OPPAI, E-BODY, 溜池ゴロー, Attackers]
+tags: [Q杯, ハーベスターズ, SOD, MOODYZ, OPPAI, E-BODY, 溜池ゴロー, Attackers]
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tanaka_2017.jpg/500px-Hitomi_Tanaka_2017.jpg
 ---
 
@@ -25,7 +25,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tana
 - **鞋尺码**: 23.5 cm
 - **类别**: Censored（有码系）
 - **活跃年代**: 2007年（写真）– 2022年4月（AV引退）
-- **经纪公司**: ALLURE（页内存；日维记ハーベスターズ，百度转述 HARVESTARS——后者低可靠性，维持并列）
+- **经纪公司**: ハーベスターズ（旧称 ALLURE / アリュール）
 
 ## 简介
 

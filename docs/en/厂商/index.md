@@ -52,6 +52,15 @@ JAV manufacturers are producers and distributors of works, and different plant t
 - **Features**: Prestige's wife and mature-woman specialty label
 - **Style**: Wife themes, mature-woman themes, beautiful mature women
 
+### [KMP](KMP.md)
+
+- **Abbreviation**: KMP
+- **Operator**: K.M.Produce (ケイ・エム・プロデュース)
+- **Founded**: 2002
+- **Features**: veteran manufacturer, the largest player in VR, known for converting popular non-exclusive actresses into exclusive talent
+- **Style**: diverse; sub-labels include million and 宇宙企画
+- **Notable actresses**: 七瀬いおり、弥生みづき ほか
+
 ### Madonna
 
 - ** Abbreviations: JU

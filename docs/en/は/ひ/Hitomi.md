@@ -1,5 +1,5 @@
 ---
-tags: [Q杯, ALLURE, SOD, MOODYZ, OPPAI, E-BODY, 溜池ゴロー, Attackers]
+tags: [Q杯, ハーベスターズ, SOD, MOODYZ, OPPAI, E-BODY, 溜池ゴロー, Attackers]
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tanaka_2017.jpg/500px-Hitomi_Tanaka_2017.jpg
 ---
 
@@ -25,7 +25,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tana
 - ** Shoes size**: 23. 5 cm
 - ** Category**: Consored (with code)
 - **Inactive years**: 2007 (in writing) – April 2022 (AV retreat)
-- ** Broker**: Allure (page memory; dailies, recitation of HALVESTARS - the latter is low-reliability and maintains parallels)
+- ** Broker**: ハーベスターズ (formerly ALLURE / アリュール)
 
 ## Introduction
 
