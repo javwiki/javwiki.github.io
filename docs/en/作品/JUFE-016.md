@@ -30,10 +30,10 @@ The female student, Yuyuri, introduced the family teacher, Zheng Yu, and two men
 
 ### Original Japanese (missAV / FANZA)
 
-The ‘Friend of the female student, ‘Premote of the ‘Premium’, introduced the ‘Female’ family teacher, ‘2 men’, ‘students’, ‘students’. The living man, who has a good time, has a good time in his life, and has a good time in his life, and a good time in his life, and a good time in his life, he has a good time in his life. The government and the living man are so full of shit and shit! I've seen a cursing family teacher in my eyes!
+> 女子大生の紗梨は友人の紹介で家庭教師のバイトを始め2人の男子生徒を受け持っていた。生徒達が自分の指導でテストの成績を上げ成長していく姿に紗梨はやりがいを感じているのだが、彼女にはそれ以上の喜び、誰にも言えない秘密の悦びがあった…。それは、生徒達に肉体を密着させびっしょりと濡れた卑猥な滑り舌で全身を舐め回し金玉に溜まったザーメンを絞り尽くす事！可愛い見た目とは裏腹に快楽を貪る淫乱家庭教師！
 
 ### Chinese translation
 
-Female university students, who started as hometeachers after a friend, took two male students. She felt very successful to see students grow up and grow up under her own guidance; but she had a greater secret joy that she could not speak to anyone... that was to put the body close to the student, licking the body with wet, dirty tongues and draining the sperm accumulated in her balls without a drop! A cute, purr-skinned, purr-skinned governess!
+女大学生紗梨经朋友介绍开始做家庭教师，带两名男学生。看到学生们在自己指导下成绩提升、不断成长，她感到很有成就感；但她还有更大的、无法对任何人言说的秘密喜悦……那就是把身体紧贴学生，用湿漉漉、淫猥滑溜的舌头舔遍全身，把蛋蛋里积攒的精液一滴不剩地榨干！可爱外表下贪求快乐的淫乱家庭教师！
 
 

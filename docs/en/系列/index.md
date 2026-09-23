@@ -31,6 +31,7 @@ Series (Series) is a fixed-title series by AV manufacturers, usually with a unif
 | [The women are born and their servants are born.](./女子マネージャーは、僕達の性処理ペット。.md)| PRESTIGE | 2014 |Women managers in sports associations, sexual treatment|
 | [The servant.](./僕のペットは○○.md)| Fitch | 2011 |"The Breathing, Career-Settling Series."|
 | [- I'm pregnant! The Queen of the Sun is a baby!](./絶対妊娠！ガン反り生チ○ポで孕ませ中出しSEX！.md)|In this book.| 2015 |♪ I'm gonna be a baby ♪|
+| [中出し 射精執行官](./中出し射精執行官.md) | PREMIUM | 2019 | Creampie and ejaculation-officer themed series |
 
 ## Series relationships with manufacturers
 

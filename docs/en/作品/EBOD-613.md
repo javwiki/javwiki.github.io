@@ -33,11 +33,11 @@ The staff of the super-massive mini-cafés were completely attacked in the shop 
 
 ### Original Japanese (missAV / FANZA)
 
-The first time I was in the country, I was in the middle of a new era of the AV, and I was in the middle of a new era. The ordinary woman who is the first to enter the country and the second to the next! In the middle of the hole! The Qin-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-sensei-s-sensei-sensei-sensei-sensei-s-s-song-sensei-shu-si-shu-shu-shu-s-si-si-shu-shu-shu-shu-s-s-s-s-si-
+> あるAV男優の知り合いの女の子がめちゃくちゃ可愛いので今回ハメ撮りを依頼。普通に撮影するかと思いきや彼女のバイト先に突入して、バイト中の彼女とヤッてきやがった！おいおい！と思いつつもその娘がめちゃくちゃ綺麗な巨乳で反応もクソいいので今度はもう一人の男優を派遣してネットカフェの個室でギュウギュウ詰めの3Pすると声を必死に我慢してイキまくり！
 
 ### Chinese translation
 
-Please, the AV guy, who knows each other, met a lovely girl, and then made an appointment to make a video of the video. I thought it was just a regular shooting, and I didn't think I'd just go to her place of work and get fucked by her at work! I thought, "Hey, hey, hey, hey, hey! But the girl had a great tits and was very responsive, so she sent another guy to the Internet coffee booth, and she had a threesome in her bag, and she was sorely squealing and climaxing!
+拜托相熟的AV男优介绍，认识了一个超可爱的女孩，于是约好拍一支ハメ撮り（边做边拍的私密录像）。本来以为只是普通拍摄，没想到竟然直接杀进她的打工地点，和正在上班的她干了起来！心想“喂喂！”，但这姑娘巨乳又漂亮、反应还特别好，于是又派了另一名男优，在网络咖啡的包间里来了场挤得满满的3P，她拼命忍住叫声、高潮连连！
 
 ## References
 

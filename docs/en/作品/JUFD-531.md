@@ -31,10 +31,10 @@ The Zhutaka troupe plays a woman who is desperately eager for fertilization and 
 
 ### Original Japanese (missAV / FANZA)
 
-The sexual desire of the beautiful wife and her sperm lovers is a part of the life of the couple! The news of the pregnancy is now in the heart of the world, and the government has no idea what the problem is! The whole thing is... One, the dirty word of a friend! Two, you're a little bit of a tricky! Three, the demons are out of the question! The immediate feeling is that the heart of the world is in a state of complete love and love!
+> 性欲が強すぎる美人妻が夫の精子をおねだりするドスケベ夫婦生活！妊娠に関するさまざまな情報を仕入れたあゆみと金玉が空っぽになっちゃいそうな完全主観SEX三昧！全コーナーにおいて抜きやすくするために…。1、卑猥な言葉でザーメンをおねだり！2、貴方目線でイヤラし〜く中出し誘惑！3、抜くのに邪魔な男の声を完全排除！臨場感たっぷりに迫ってくるあゆみと一緒に腰が抜けるまでたっぷり愛し合ってください！
 
 ### Chinese translation
 
-The beautiful wife who is too horny to ask her husband for sperm is a obscenity couple! The heart of all the knowledge of conception, and the total subjective sex that you're about to empty your balls! Every link is designed to make it easier for you to shoot one, to demand semen in a dirty word! 2! Insinuate with your sight! Three, completely exclude the male voice that prevents the launch! Please love the heart of the moment when you are so close to the surface, until your legs are soft!
+性欲过强的美人妻向丈夫索取精子的超淫乱夫妻生活！收集了各种受孕知识的あゆみ，与你展开几乎要把蛋蛋榨空的完全主观性爱！每个环节都为了让你更容易射……1、用淫荡的话语索求精液！2、用你的视线淫靡地诱惑中出！3、完全排除妨碍发射的男声！请与临场感十足逼近眼前的あゆみ尽情相爱，直到腿软！
 
 

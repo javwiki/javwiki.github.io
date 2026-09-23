@@ -31,10 +31,10 @@ The high-class hotel girl, who is a seemingly elegant hotel practitioner, has an
 
 ### Original Japanese (missAV / FANZA)
 
-The ‘sweet’ is a popular ‘sweet’ job in the world of work, and the ‘sweet’ is a ‘sweet’ ‘sweet’ – the ‘sweet’ ‘sweet’ – who is the ‘sweet’ in the middle of the bed. The men are in the air, in the air, in the storage, in the time field, and in the bed of their demented daughters. The government has been monitoring the situation in the country.
+> 有名ホテルで‘ホテリエ’として働く麗は職場で彼女持ちや既婚者の男性を誘惑して寝取るという誰にも話せない趣味がある。ホテルの空部屋で、ワークススペースで、倉庫で…時間場所問わず、自分がムラムラした時は痴女って寝取る。そんな彼女のエスカレートしていく日常を覗き見ていく。
 
 ### Chinese translation
 
-A hobby that cannot be said to anyone is that of the hotel staff at a well-known hotel: the job field lures a girlfriend or a married male guest to take them to bed (NTR). The hotel's empty rooms, office areas, warehouses... whenever the time and place is right, the woman is a demented woman. Ben was watching her escalating daily life.
+在知名酒店担任酒店职员的麗，有一个无法对任何人说出口的癖好：在职场诱惑有女友或已婚的男性客人，把他们寝取（NTR）。酒店的空房间、办公区、仓库……不论时间地点，只要欲火上头就化身痴女下手。本作窥视她日益升级的日常。
 
 

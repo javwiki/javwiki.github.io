@@ -21,10 +21,10 @@ Behind a remote, rural pasture is an unknown secret — girls sent here are depr
 
 ### Original Japanese (missAV / FANZA)
 
-> [Breathing] Image x-Breathing > > < [Breathing] Images > > > > > > > > > > > 実Breathing > > > > > > #Breaking of intra-Breathing # #Breathing # #Freaking #Fresynthesis # #Fresynthesis # #Fresynthesis # #Fresynism # #Fresynthesis > > > > > > > > > > > > > > > > > > Quile > > > > > Quile > > > > Quile > > > Quile > > > Qresynation > > > > > > > Qrespecation >  The new presentation method is used. The body is part of the center. The Zeinobias are the most popular in the world. The young woman who disappeared from the ranch was a complete victim of a secret attack. The government is not going to be able to get pregnant.
+> 【断面図】実写映像×アニメーション断面図【中出しアニメーション】実写映像に膣内断面アニメーションを合成。新しい表現方法を採用。ぜひご体験くださいませ。【田中ねね×乙アリス×沙月恵奈】が織りなす、排他的凌●ストーリー。アンモラルな秘密の牧場内で少女たちを犯し尽くす。アナタは誰を孕ませたいか。
 
 ### Chinese translation
 
-The video is a visual and animated. The story of the exclusionary bullies. The girls were invaded in immoral secret pastures. - Who do you want to get pregnant?
+【断面图】实拍影像×动画断面图【中出动画】将阴道内部断面动画合成到实拍影像中，采用全新表现手法，敬请体验。【田中ねね×乙アリス×沙月恵奈】演绎的排他性凌●故事。在不道德的秘密牧场中将少女们侵犯殆尽。——你想让谁怀孕？
 
 

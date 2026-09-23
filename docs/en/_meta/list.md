@@ -1,273 +1,273 @@
 # Female List
 
-The following is in the order of the fiftieth. For more details.[The 50-score sequence.](./五十音排序规则.md) 。
+The following entries are ordered by gojūon. See [Gojūon sorting rules](./五十音排序规则.md) for details.
 
-## Okay.
+## あ行
 
-### Zip
+### あ段
 
 - AIKA
 - あきばもも
-- I'm so sorry.
-- The sky and the sea wings.
-- Anton!
-- Plumbing berries.
-- New food.
-- Tomorrow's flower.
-- Kami-yu.
-- - To Kiryu.
-- Hakoto.
-- Azawanan.
-- Aoi-kun.
-- A woody tree.
-- Aois.
-- Aoi.
-- Aoi lilies.
-- Ma Miyuan.
+- あずみ恋
+- 天海翼
+- 安位薰
+- 彩美旬果
+- 新有菜
+- 明日花绮罗
+- 有冈美羽
+- 朝桐光
+- 朝美穗香
+- 相泽南
+- 苍井空
+- 荒木レナ
+- 葵伊吹
+- 葵司
+- 葵百合香
+- 麻美由真
 
-### Centre
+### い段
 
-- A heart attack.
-- The City of 5 Days
-- Ito dance snow
-- Yukawa Yami
-- Ishihara Hope.
-- Ishikawa-kun!
-- Ichishima-yee.
-- Congratulations.
-### Snack
+- 一条みお
+- 五日市芽依
+- 伊藤舞雪
+- 市川雅美
+- 石原希望
+- 石川澪
+- 饭岛爱
+- 今賀はる
+### う段
 
-- Aiji, Uchi.
-- ♪ ♪ ♪ ♪ Woo-wood tonight ♪
-### Zip
+- 上原亚衣
+- 宇流木さら
+### お段
 
 - おりん
-- Acetusaki.
-- Apricot, Oda
-- The big bang.
-- I'm not sure I can do that.
-- Okuda-san.
-- Koji-kun!
-- Chestnut.
-- Ozawa-Maria.
-- Little sea guillotine.
-- Yuko.
-- The hyena.
-## Okay.
+- 乙都咲乃
+- 冲田杏梨
+- 大槻响
+- 奥菜アンナ
+- 奥田咲
+- 小仓由菜
+- 小栗操
+- 小泽玛利亚
+- 小那海あや
+- 小野六花
+- 折原ほのか
+## か行
 
-### Zip
+### か段
 
-- Play the florist
-- Maple blossoms.
-- Hebei Colour Flower
-- The raisin.
-- Sakaki-sweethew!
-- Yuma.
-- The perfume is pure.
-### Five paragraphs.
+- 奏音花音
+- 枫花
+- 河北彩花
+- 河合明日菜
+- 神咲诗织
+- 风间由美
+- 香水纯
+### き段
 
-- Hitch.
-- It's a chrysanthemum.
-- Kitagawa.
-- Akaura Kitakawa.
-- Mioshima.
-- ♪ The Queens ♪
-- Junno-kun!
-- Zenium
-- Heishima-Ei Ri
-- Kimura's love.
+- 希咲エマ
+- 菊乃らん
+- 北川ゆず
+- 北川绘里香
+- 君岛美绪
+- 君色花音
+- 君野ここ
+- 桐嶋りの
+- 希岛爱理
+- 木村愛心
 
-### Zip
+### く段
 
-- Kudo-kun!
-- Red-song.
-- Black wood.
+- 工藤ララ
+- 红音萤
+- 黑木香
 
-### Zip
+### こ段
 
-- Five love.
-- Pear.
-- I'm not a fool.
-- The Emperor of the Kingdom
-- It's a small island.
-- Small four leaves.
-- Mi Nako.
-## Tonight.
+- 五条恋
+- 香坂紗梨
+- 九井スナオ
+- 児玉るみ
+- 小島みなみ
+- 小凑四叶
+- 小向美奈子
+## さ行
 
-### This is the end.
+### さ段
 
-- Sasaki Mingxi.
-- Sayama-love.
-- Nami Chennai.
-- Sakurai.
-- Sakuramura.
-- Cherry.
-- - Apricot.
-- West Ribbon
-### Zip
+- 佐佐木明希
+- 佐山爱
+- 岬奈奈美
+- 樱井步
+- 樱木凛
+- 樱空桃
+- 笹倉杏
+- 西条琉璃
+### し段
 
 - Julia
-- Dong Yun Mei Ling
-- City Star.
-- Quest name
-- The white silk flower.
-- Mei Yu, White Peak
-- White twilight.
-- Whitestone Jasmine.
-- White bird fragrance.
-- ♪ I'm a twilight ♪
-- Yoo Kuda.
-- Minami Kuda.
-### Zip
+- 东云美玲
+- 城星凜
+- 椎名空
+- 白上咲花
+- 白峰美羽
+- 白浜果歩
+- 白石茉莉奈
+- 白鳥香里奈
+- 澁谷果歩
+- 篠田优
+- 篠田步美
+### す段
 
-- Suzuki-sama-san.
-## Okay.
+- 鈴村あいり
+## た行
 
-### Zip
+### た段
 
-- Kalinea!
-- Rikaikawa!
-- The orange celery.
-- Tserola.
-- Yujiang
-- - I'm worried about the field.
-- Son of Takahashi.
-- The eagle palace is in the middle of the
-### All
+- 壇玲奈
+- 立川理恵
+- 橘芹那
+- 泷泽萝拉
+- 玉城マイ
+- 田野忧
+- 高桥圣子
+- 鷹宮ゆい
+### ち段
 
-- I'm sorry.
-### Zip
+- 千乃あずみ
+### つ段
 
-- Moonno is here.
-- Moonno,
-- Ninety-nine.
-- Moon Cloud.
-- Ray.
-### Speculation
+- 月野りさ
+- 月野姫
+- 九十九メイ
+- 月雲よる
+- 蕾
+### て段
 
 - ティア
-- Angel-cream.
-- In the middle of a storm.
-### The Quarter
+- 天使萌
+- 天馬ゆい
+### と段
 
-- East Fong Ha
-- Toda is also a good girl.
-- Shinya Todo.
-- "As a friend of mine."
+- 东条夏
+- 友田彩也香
+- 户田真琴
+- 冬愛ことね
 
-## Okay.
+## な行
 
-### Zip
+### な段
 
-- 7th Zamia
-- The Seven Sea Zen
-- I'm not sure I'm going to be able to do this.
-- Masei.
-- Nagai-san.
-- Young-soo.
-- Nagano's summer.
-- Khun-hye!
-- Zenium
-### Zip
+- 七泽美亚
+- 七海ひな
+- 七瀬いおり
+- 成濑心美
+- 永井マリア
+- 永瀬ゆい
+- 永野一夏
+- 渚光希
+- 凪ひかる
+### に段
 
-- Imam Luang
-- New Mountain
-- Incobra.
-- ♪ West Palace Dream ♪
-### ♪ The band ♪
+- 二宫光
+- 新山らん
+- 仁科百华
+- 西宫梦
+### の段
 
-- Nobuura-kun!
-## Okay.
+- 野々浦暖
+## は行
 
-### Zoom
+### は段
 
-- JAMI SHAHI
-- Iwakawa, Lina.
-- Hashimoto has a dish.
-- The Hatano Yui.
-- Miyuki-chan.
-- The Yusheng Shing
-- Haneda Love
-- - Lian Silller.
+- 初美沙希
+- 早川瀬里奈
+- 桥本有菜
+- 波多野结衣
+- 羽咲美晴
+- 羽生ありさ
+- 羽田爱
+- 莲实克蕾儿
 
-### - I'm sorry.
+### ひ段
 
 - Hitomi
-- Zenium
-- I'm sorry, I'm sorry.
+- 姫咲はな
+- 姫川ゆうな
 
-### Zip
+### ふ段
 
-- Winter Moon Maple
-- Ilbo Kukawa.
-- Wingmi, Darka.
-- Fujimori.
-### Zip
+- 冬月枫
+- 古川伊织
+- 深田咏美
+- 藤かんな
+### べ段
 
 - ベアトリクス
-### - Oh, no.
+### ほ段
 
-- Ben Zhou bell
-## Line
+- 本庄铃
+## ま行
 
-### Speculation
+### ま段
 
-- Matsumoto!
-- Makiko Makiki.
-### Heart.
+- 松本一香
+- 真木今日子
+### み段
 
 - Miru
-- Yoya Sanjo
-- Nanjyor Onai.
-- Linnai, Your Majesty.
-- The Emperor of Miyashima.
-- No, no, no, no, no, no, no, no, no.
-- Shuu-sakura.
-- Miura-su Yi
-- "Sweetly."
-- Mizuno.
-- Gardens and flowers
-- Mizuya
-- Hearts of the hymns
-- Mimi-almond.
-### Specs
+- 三上悠亚
+- 南梨央奈
+- 宫下玲奈
+- 宮島めい
+- 未步奈奈
+- 水卜樱
+- 三浦芽依
+- 水菜丽
+- 美乃すずめ
+- 美園和花
+- 美谷朱音
+- みやび音羽
+- 蜜美杏
+### め段
 
-- Kei-ri.
-### Handband
+- 惠理
+### も段
 
-- The housekeeper.
-- Peachy-muchannai.
-- Peach Valley.
-- Sensai Qanai.
-- I'm not going to die.
-## Line
+- 守屋よしの
+- 桃乃木香奈
+- 桃谷りり
+- 森泽佳奈
+- 百永さりな
+## や行
 
-### Section
+### や段
 
-- I'm so sorry.
-- Omunai!
-- Pear of the Mountain.
-- I'm so happy.
-### Zip
+- 八掛うみ
+- 八木奈奈
+- 山手梨爱
+- 弥生みづき
+### ゆ段
 
-- Yuzuki-jinna.
-- Dreams are the center of the twilight.
-- Sunflower.
-- I'm sorry.
-- He's a thousand years old.
-- Ekona.
-- Yuyan.
-### Organisation
+- 优月真里奈
+- 夢乃あいか
+- 柚月向日葵
+- 楪可怜
+- 由來千歲
+- 由爱可奈
+- 由良かな
+### よ段
 
-- Yoshikawa Ami.
-- Jigan-kun.
-- Gisawa Ming-tung
-- Gigonning.
-- The rice barn smells good.
-## The sun is fine.
+- 吉川爱美
+- 吉根ゆりあ
+- 吉泽明步
+- 吉高宁宁
+- 米倉穂香
+## ら行
 
-### Zip
+### り段
 
 - Rio
-- Rin-Ling
+- 凛音とうか
 

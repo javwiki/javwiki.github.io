@@ -12,12 +12,15 @@ Brokering companies (companys) are AV women ' s intermediaries, which are respon
 | [Mine's](Mine_S.md) |Aoi, cedar, jade.|
 | [ARROWS](ARROWS.md) |Wingmi, Darka.|
 | [8MAN / SO MODEL AGENT](8MAN.md) |♪ Tofu, tofu, tono ♪|
-| [Bambi Promotion](Bambi Promotion.md) |Angels, poor, safe.|
-| [LIFE PROMOTION](LIFE PROMOTION.md) |The City of 5 Days|
-| [ACT Promotion](ACT Promotion.md) |Acetusaki.|
+| [Bambi Promotion](Bambi%20Promotion.md) |Angels, poor, safe.|
+| [LIFE PROMOTION](LIFE%20PROMOTION.md) |The City of 5 Days|
+| [ACT Promotion](ACT%20Promotion.md) |Acetusaki.|
 | [NAX](NAX.md) |Play the voice, Ito dance snow|
-| [CRUSE GROUP](CRUSE GROUP.md) |Mizuya (former)|
-| [Diaz Group](Diaz Group.md) |Todo-chan is also a good man, by Ai Ko Na, by the sun.|
+| [CRUSE GROUP](CRUSE%20GROUP.md) |Mizuya (former)|
+| [Diaz Group](Diaz%20Group.md) |Todo-chan is also a good man, by Ai Ko Na, by the sun.|
+| [LIGHT](LIGHT.md) | 西宫梦、松本一香、弥生みづき、石原希望、椎名空、千乃あずみ |
+| [Prime Agency](Prime%20Agency.md) | 仁科百华、樱木凛 |
+| [Allpro](Allpro.md) | 北川绘里香、羽田爱、篠田步美 |
 
 ## Main brokering companies
 
@@ -67,7 +70,7 @@ Brokering companies (companys) are AV women ' s intermediaries, which are respon
 - ** Feature**: Prominent brokerage companies in industry
 - ** Business**: Female broker, production, etc.
 
-### LIGHT
+### [LIGHT](LIGHT.md)
 
 - ** Full name**: LIGHT
 - ** Feature**: Prominent brokerage companies in industry
@@ -94,19 +97,19 @@ Brokering companies (companys) are AV women ' s intermediaries, which are respon
 - ** Business**: Female broker, production, etc.
 - ** Prominent female femininity**: 凪ひかる,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,  **,
 
-### Prime Agency
+### [Prime Agency](Prime%20Agency.md)
 
 - ** Full name**: Prime Agency
 - ** Feature**: Prominent brokerage companies in industry
 - ** Business**: Female broker, production, etc.
-- ** Reputable female **: Nagai and others
+- ** Reputable female **: 仁科百华、樱木凛 and others
 
-### Allpro
+### [Allpro](Allpro.md)
 
 - ** Full name**: Allpro
 - ** Feature**: Prominent brokerage companies in industry
 - ** Business**: Female broker, production, etc.
-- ** Reputable female **: Ishikawa Pei et al.
+- ** Reputable female **: 北川绘里香、羽田爱、篠田步美 and others
 
 ## Brokering company functions
 

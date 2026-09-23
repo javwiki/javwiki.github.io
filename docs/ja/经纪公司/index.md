@@ -7,17 +7,20 @@
 | プロダクション | 代表的な所属女優 |
 | --- | --- |
 | [T-POWERS](T-POWERS.md) | 三上悠亜、河北彩花、石川澪 |
-| [C-more](C-more.md) | 楓ふうか、楓カレン |
+| [C-more](C-more.md) | 楓ふうあ、楓カレン |
 | [LINX](LINX.md) | 桃乃木かな、葵百合香 |
 | [Mine's](Mine_S.md) | 葵つかさ、彩美旬果、上原亜衣 |
 | [ARROWS](ARROWS.md) | 深田えいみ |
 | [8MAN / SO MODEL AGENT](8MAN.md) | 凪ひかる、藤かんな、美乃すずめ |
-| [Bambi Promotion](Bambi Promotion.md) | 天使もえ、楪カレン、安位薫 |
-| [LIFE PROMOTION](LIFE PROMOTION.md) | 五日市芽依 |
-| [ACT Promotion](ACT Promotion.md) | 乙都咲乃 |
+| [Bambi Promotion](Bambi%20Promotion.md) | 天使もえ、楪カレン、安位薫 |
+| [LIFE PROMOTION](LIFE%20PROMOTION.md) | 五日市芽依 |
+| [ACT Promotion](ACT%20Promotion.md) | 乙都咲乃 |
 | [NAX](NAX.md) | 奏音かのん、伊藤舞雪 |
-| [CRUSE GROUP](CRUSE GROUP.md) | 美谷朱音（元所属） |
-| [Diaz Group](Diaz Group.md) | 友田彩也香、由愛可奈、明日花キララ（元所属） |
+| [CRUSE GROUP](CRUSE%20GROUP.md) | 美谷朱音（元所属） |
+| [Diaz Group](Diaz%20Group.md) | 友田彩也香、由愛可奈、明日花キララ（元所属） |
+| [LIGHT](LIGHT.md) | 西宮ゆめ、松本いちか、弥生みづき、石原希望、椎名そら、千乃あずみ |
+| [Prime Agency](Prime%20Agency.md) | 仁科 百華、桜木凛 |
+| [Allpro](Allpro.md) | 北川エリカ、羽田あい、篠田 あゆみ |
 
 ## 主なプロダクション
 
@@ -67,7 +70,7 @@
 - **特徴**: 業界で知られるプロダクション
 - **業務**: 女優のマネジメント、作品製作など
 
-### LIGHT
+### [LIGHT](LIGHT.md)
 
 - **正式名称**: LIGHT
 - **特徴**: 業界で知られるプロダクション
@@ -78,7 +81,7 @@
 - **正式名称**: C-more エンターテインメント
 - **特徴**: 業界で知られるプロダクションで、複数の人気女優を擁している
 - **業務**: 女優のマネジメント、作品製作、イベント企画など
-- **主な所属女優**: 楓ふうか、宮下玲奈など
+- **主な所属女優**: 楓ふうあ、宮下玲奈など
 
 ### Bambi Promotion
 
@@ -94,19 +97,19 @@
 - **業務**: 女優のマネジメント、作品製作など
 - **主な所属女優**: 凪ひかる、藤かんな、美乃すずめなど
 
-### Prime Agency
+### [Prime Agency](Prime%20Agency.md)
 
 - **正式名称**: Prime Agency
 - **特徴**: 業界で知られるプロダクション
 - **業務**: 女優のマネジメント、作品製作など
-- **主な所属女優**: 永井マリアなど
+- **主な所属女優**: 仁科 百華、桜木凛など
 
-### Allpro
+### [Allpro](Allpro.md)
 
 - **正式名称**: Allpro
 - **特徴**: 業界で知られるプロダクション
 - **業務**: 女優のマネジメント、作品製作など
-- **主な所属女優**: 石川澪など
+- **主な所属女優**: 北川エリカ、羽田あい、篠田 あゆみなど
 
 ## 事務所の役割
 

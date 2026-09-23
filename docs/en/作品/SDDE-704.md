@@ -31,10 +31,10 @@ SOD Created. The hot, aggressive, "leader"-like girl who was forced to take a sl
 
 ### Original Japanese (missAV / FANZA)
 
-The case is a case of a white man who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has been killed by a criminal who has committed a criminal who has committed a crime against a criminal who has committed a criminal who has committed a crime against him. The group of people who are in the middle of the conflict are in pain, and the men who are in the middle of the war are sending their hands to the Chinese and their raccoons to strip them of their raccoon and their letters.
+> カリスマギャルインフルエンサーとして活躍していたミライはある日、案件担当の営業に勧められたとあるサプリによって身体を硬直化され、アナル調教催●をされてしまう。洗脳により常にアナルが疼き、居ても立っても居られないミライは放送中にも関わらず、アナル剥き出しで大量浣腸をライブ配信してしまうのであった。
 
 ### Chinese translation
 
-As a hot-skinned, hot-skinned, hot-skinned, hot-skinned, obscurantist, who was one day recommended by the project manager, was given some form of acoustic, rigid, and was given anal instruction. The anus of brainwashing is tickling at times, the anus of sitting in a difficult situation is shown on live air and there are numerous cases of enema.
+作为辣妹网红大放异彩的ミライ某天被负责项目的业务员推荐服用了某种补剂，身体僵直，遭到肛门调教催○。洗脑后肛门时刻瘙痒难耐，坐立难安的ミライ竟在直播中露出肛门，进行了大量灌肠的直播事故。
 
 

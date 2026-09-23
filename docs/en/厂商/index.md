@@ -4,7 +4,7 @@ JAV manufacturers are producers and distributors of works, and different plant t
 
 ## Main vendor
 
-### S1 NO.1 STYLE
+### [S1 NO.1 STYLE](S1%20NO.1%20STYLE.md)
 
 - ** Abbreviations: S1
 - **Standing**: **Standing ** **Standing **
@@ -12,7 +12,7 @@ JAV manufacturers are producers and distributors of works, and different plant t
 - **System**: Purely beautiful, pure, high-quality production
 - ** "Females of the Year"**: 3 Ukusa Yua, Hashimoto has vegetables, Hebei colours, Ishikawa, Maeji, etc.
 
-### Moodyz
+### [Moodyz](MOODYZ.md)
 
 - ** Abbreviations: MD
 - **According to **:
@@ -20,7 +20,7 @@ JAV manufacturers are producers and distributors of works, and different plant t
 - **System**: Diversity, covering a wide range of subjects
 - ** Reputable female **: Ammi, Maple, etc. in the deep field
 
-### IdeaPocket
+### [IdeaPocket](IdeaPocket.md)
 
 - ** Abbreviations: IP
 - **According to **:
@@ -28,7 +28,7 @@ JAV manufacturers are producers and distributors of works, and different plant t
 - **System**: americana, lovership, high quality
 - ** Prominent female **: peaches and Sishima Ae Ri, etc.
 
-### Attackers
+### [Attackers](Attackers.md)
 
 - ** Abbreviations: AT
 - **According to**:
@@ -36,13 +36,21 @@ JAV manufacturers are producers and distributors of works, and different plant t
 - **System**: The Fiction, The Abuse, The Darkness
 - ** Remarkable femininity** : Lotus Claire et al.
 
-### Prestige
+### [Prestige](Prestige.md)
 
 - ** Abbreviations: PG
 - **According to **:
 - ** Feature**: Prominent in terms of human and entrepreneurial activities
 - **System**: Sudoku, strategizing, diversifying
 - ** Remarkable female **: 7Zamia, 6 Hana Ono, etc.
+
+### [KANBi](KANBi.md)
+
+- **Abbreviation**: KB
+- **Group**: Prestige
+- **Founded**: 2018
+- **Features**: Prestige's wife and mature-woman specialty label
+- **Style**: Wife themes, mature-woman themes, beautiful mature women
 
 ### Madonna
 
@@ -158,6 +166,12 @@ Some women are under exclusive contract with a particular manufacturer, where on
 ### Non-exclusive female femininity
 
 Most women are in a non-exclusive situation and can publish their work in a number of factories. In such cases, the female style of work is more diverse.
+
+## Relevant classifications
+
+- **[Series](../系列/)** — fixed-title series released by manufacturers
+- **[Agencies](../经纪公司/)** — talent agencies of the actresses
+- **[Works](../作品/)** — individual titles indexed by product number
 
 ## References
 

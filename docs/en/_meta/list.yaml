@@ -8,107 +8,107 @@ items:
     row: あ
     col: あ
     completeness: 100%
-  - Name: Love
+  - name: あずみ恋
     row: あ
     col: あ
     completeness: 100%
-  - Name: Sky Wing
+  - name: 天海翼
     row: あ
     col: あ
     completeness: 100%
-  - Name: Bygular
+  - name: 安位薰
     row: あ
     col: あ
     completeness: 100%
-  - Name: Plumbing fruit
+  - name: 彩美旬果
     row: あ
     col: あ
     completeness: 100%
-  - Name: New food
+  - name: 新有菜
     row: あ
     col: あ
     completeness: 100%
-  - Name: Tomorrow's flower
+  - name: 明日花绮罗
     row: あ
     col: あ
     completeness: 100%
-  - Name: Amee Oka
+  - name: 有冈美羽
     row: あ
     col: あ
     completeness: 100%
-  - Name: Goki-ray
+  - name: 朝桐光
     row: あ
     col: あ
     completeness: 100%
-  - Name: Hao-Yi-Yi-Yi
+  - name: 朝美穗香
     row: あ
     col: あ
     completeness: 100%
-  - Name: Azenan
+  - name: 相泽南
     row: あ
     col: あ
     completeness: 100%
-  - Name: Aoira
+  - name: 苍井空
     row: あ
     col: あ
     completeness: 100%
-  - Name: Wildwood
+  - name: 荒木レナ
     row: あ
     col: あ
     completeness: 100%
-  - Name: Kiyoshi
+  - name: 葵伊吹
     row: あ
     col: あ
     completeness: 100%
-  - Name: Aoi
+  - name: 葵司
     row: あ
     col: あ
     completeness: 100%
-  - Name: Aoi lilies
+  - name: 葵百合香
     row: あ
     col: あ
     completeness: 100%
-  - Name: Miyuki-kun
+  - name: 麻美由真
     row: あ
     col: あ
     completeness: 100%
-  - Name: A heart attack
+  - name: 一条みお
     row: あ
     col: い
     completeness: 100%
-  - Name: Five Days City Budee
+  - name: 五日市芽依
     row: あ
     col: い
     completeness: 100%
-  - Name: Ito dance snow
+  - name: 伊藤舞雪
     row: あ
     col: い
     completeness: 100%
-  - Name: Yami Municipal Twat
+  - name: 市川雅美
     row: あ
     col: い
     completeness: 100%
-  - Name: Ishihara Hope
+  - name: 石原希望
     row: あ
     col: い
     completeness: 100%
-  - Name: Ishikawa-Pei
+  - name: 石川澪
     row: あ
     col: い
     completeness: 100%
-  - Name: Ichishima Love
+  - name: 饭岛爱
     row: あ
     col: い
     completeness: 100%
-  - Name: Congratulations
+  - name: 今賀はる
     row: あ
     col: い
     completeness: 100%
-  - Name: Hae-Yo
+  - name: 上原亚衣
     row: あ
     col: う
     completeness: 100%
-  - Name: Wanderwood Today
+  - name: 宇流木さら
     row: あ
     col: う
     completeness: 100%
@@ -116,183 +116,187 @@ items:
     row: あ
     col: お
     completeness: 100%
-  - Name: Acetusi
+  - name: 乙都咲乃
     row: あ
     col: お
     completeness: 100%
-  - Name: Apricot Oda
+  - name: 冲田杏梨
     row: あ
     col: お
     completeness: 100%
-  - Name: Big bang
+  - name: 大槻响
     row: あ
     col: お
     completeness: 100%
-  - Name: Okuda-Saki
+  - name: 奥菜アンナ
     row: あ
     col: お
     completeness: 100%
-  - Name: Kojiru
+  - name: 奥田咲
     row: あ
     col: お
     completeness: 100%
-  - Name: Chestnut.
+  - name: 小仓由菜
     row: あ
     col: お
     completeness: 100%
-  - Name: Ozawamaria
+  - name: 小栗操
     row: あ
     col: お
     completeness: 100%
-  - Name: Little Naigi
+  - name: 小泽玛利亚
     row: あ
     col: お
     completeness: 100%
-  - Name: Six Flowers in Nobita
+  - name: 小那海あや
     row: あ
     col: お
     completeness: 100%
-  - Name: Shape
+  - name: 小野六花
     row: あ
     col: お
     completeness: 100%
-  - Name: Play the florist
+  - name: 折原ほのか
+    row: あ
+    col: お
+    completeness: 100%
+  - name: 奏音花音
     row: か
     col: か
     completeness: 100%
-  - Name: Maple
+  - name: 枫花
     row: か
     col: か
     completeness: 100%
-  - Name: Hebei Colour Flower
+  - name: 河北彩花
     row: か
     col: か
     completeness: 100%
-  - Name: Hokkai Sunrise
+  - name: 河合明日菜
     row: か
     col: か
     completeness: 100%
-  - Name: Sakura Weasel
+  - name: 神咲诗织
     row: か
     col: か
     completeness: 100%
-  - Name: Yuma Wind
+  - name: 风间由美
     row: か
     col: か
     completeness: 100%
-  - Name: Purity of perfume
+  - name: 香水纯
     row: か
     col: か
     completeness: 100%
-  - Name: Greek
+  - name: 希咲エマ
     row: か
     col: き
     completeness: 100%
-  - Name: Juicy
+  - name: 菊乃らん
     row: か
     col: き
     completeness: 100%
-  - Name: Kitagawa
+  - name: 北川ゆず
     row: か
     col: き
     completeness: 100%
-  - Name: Kiyuan Paintings
+  - name: 北川绘里香
     row: か
     col: き
     completeness: 100%
-  - Name: Mioshima
+  - name: 君岛美绪
     row: か
     col: き
     completeness: 100%
-  - Name: Jumpe
+  - name: 君色花音
     row: か
     col: き
     completeness: 100%
-  - Name: Junno
+  - name: 君野ここ
     row: か
     col: き
     completeness: 100%
-  - Name: Ta-da
+  - name: 桐嶋りの
     row: か
     col: き
     completeness: 100%
-  - Name: Heishima Ari
+  - name: 希岛爱理
     row: か
     col: き
     completeness: 100%
-  - Name: Kimura Love
+  - name: 木村愛心
     row: か
     col: き
     completeness: 100%
-  - Name: Kudo-Trill
+  - name: 工藤ララ
     row: か
     col: く
     completeness: 100%
-  - Name: Red-Singing
+  - name: 红音萤
     row: か
     col: く
     completeness: 100%
-  - Name: Black wood
+  - name: 黑木香
     row: か
     col: く
     completeness: 100%
-  - Name: Five love
+  - name: 五条恋
     row: か
     col: こ
     completeness: 100%
-  - Name: Pear
+  - name: 香坂紗梨
     row: か
     col: こ
     completeness: 100%
-  - Name: Kyui-Yi
+  - name: 九井スナオ
     row: か
     col: こ
     completeness: 100%
-  - Name: The first anniversary of the year
+  - name: 児玉るみ
     row: か
     col: こ
     completeness: 100%
-  - Name: The island is heartbroken
+  - name: 小島みなみ
     row: か
     col: こ
     completeness: 100%
-  - Name: Small Four
+  - name: 小凑四叶
     row: か
     col: こ
     completeness: 100%
-  - Name: Mi Nako, Koo-chan
+  - name: 小向美奈子
     row: か
     col: こ
     completeness: 100%
-  - Name: Sasaki Minxie
+  - name: 佐佐木明希
     row: さ
     col: さ
     completeness: 100%
-  - Name: Sassan Love
+  - name: 佐山爱
     row: さ
     col: さ
     completeness: 100%
-  - Name: Nanami
+  - name: 岬奈奈美
     row: さ
     col: さ
     completeness: 100%
-  - Name: Sakura Step
+  - name: 樱井步
     row: さ
     col: さ
     completeness: 100%
-  - Name: Sakura
+  - name: 樱木凛
     row: さ
     col: さ
     completeness: 100%
-  - Name: Cherry
+  - name: 樱空桃
     row: さ
     col: さ
     completeness: 100%
-  - Name: Barn apricing
+  - name: 笹倉杏
     row: さ
     col: さ
     completeness: 100%
-  - Name: West Lodge
+  - name: 西条琉璃
     row: さ
     col: さ
     completeness: 80%
@@ -300,107 +304,107 @@ items:
     row: さ
     col: し
     completeness: 100%
-  - Name: Dong Yun Mei Ling
+  - name: 东云美玲
     row: さ
     col: し
     completeness: 100%
-  - Name: City Starring
+  - name: 城星凜
     row: さ
     col: し
     completeness: 100%
-  - Name: Quest
+  - name: 椎名空
     row: さ
     col: し
     completeness: 100%
-  - Name: White Sakura
+  - name: 白上咲花
     row: さ
     col: し
     completeness: 100%
-  - Name: Mei Yu, White Peak
+  - name: 白峰美羽
     row: さ
     col: し
     completeness: 100%
-  - Name: White cucumber
+  - name: 白浜果歩
     row: さ
     col: し
     completeness: 80%
-  - Name: Whitestone Jasmine
+  - name: 白石茉莉奈
     row: さ
     col: し
     completeness: 100%
-  - Name: White Bird Quaintina
+  - name: 白鳥香里奈
     row: さ
     col: し
     completeness: 100%
-  - Name: Zeniya fruit
+  - name: 澁谷果歩
     row: さ
     col: し
     completeness: 100%
-  - Name: Yujita
+  - name: 篠田优
     row: さ
     col: し
     completeness: 100%
-  - Name: Minami Kuda
+  - name: 篠田步美
     row: さ
     col: し
     completeness: 100%
-  - Name: Suzura's middle school
+  - name: 鈴村あいり
     row: さ
     col: す
     completeness: 100%
-  - Name: Qingnai
+  - name: 壇玲奈
     row: た
     col: た
     completeness: 100%
-  - Name: Tatsukawa Rikumi
+  - name: 立川理恵
     row: た
     col: た
     completeness: 100%
-  - Name: Orange Celery.
+  - name: 橘芹那
     row: た
     col: た
     completeness: 100%
-  - Name: Tuzera
+  - name: 泷泽萝拉
     row: た
     col: た
     completeness: 100%
-  - Name: Jade City
+  - name: 玉城マイ
     row: た
     col: た
     completeness: 100%
-  - Name: Field misgivings
+  - name: 田野忧
     row: た
     col: た
     completeness: 100%
-  - Name: Son of Takahashi
+  - name: 高桥圣子
     row: た
     col: た
     completeness: 100%
-  - Name: In the palace
+  - name: 鷹宮ゆい
     row: た
     col: た
     completeness: 80%
-  - Name: Heart of the Earth
+  - name: 千乃あずみ
     row: た
     col: ち
     completeness: 100%
-  - Name: Moonno's Today
+  - name: 月野りさ
     row: た
     col: つ
     completeness: 100%
-  - Name: Moonno
+  - name: 月野姫
     row: た
     col: つ
     completeness: 100%
-  - Name: 99%
+  - name: 九十九メイ
     row: た
     col: つ
     completeness: 100%
-  - Name: Moon Cloud Month
+  - name: 月雲よる
     row: た
     col: つ
     completeness: 100%
-  - Name: Ray
+  - name: 蕾
     row: た
     col: つ
     completeness: 100%
@@ -408,115 +412,115 @@ items:
     row: た
     col: て
     completeness: 100%
-  - Name: Angel-cool
+  - name: 天使萌
     row: た
     col: て
     completeness: 100%
-  - Name: In the sky
+  - name: 天馬ゆい
     row: た
     col: て
     completeness: 100%
-  - Name: East Bank
+  - name: 东条夏
     row: た
     col: と
     completeness: 100%
-  - Name: Todo-Yokoka also smells good
+  - name: 友田彩也香
     row: た
     col: と
     completeness: 100%
-  - Name: Shinya Onuda
+  - name: 户田真琴
     row: た
     col: と
     completeness: 100%
-  - Name: Winter Love Friend
+  - name: 冬愛ことね
     row: た
     col: と
     completeness: 100%
-  - Name: 7th Zamia
+  - name: 七泽美亚
     row: な
     col: な
     completeness: 100%
-  - Name: Seven Seamaru
+  - name: 七海ひな
     row: な
     col: な
     completeness: 100%
-  - Name: Seven years of Zenium
+  - name: 七瀬いおり
     row: な
     col: な
     completeness: 100%
-  - Name: Masei-sama
+  - name: 成濑心美
     row: な
     col: な
     completeness: 100%
-  - Name: Nagai-kun
+  - name: 永井マリア
     row: な
     col: な
     completeness: 100%
-  - Name: Instinct
+  - name: 永瀬ゆい
     row: な
     col: な
     completeness: 100%
-  - Name: One summer Nagano
+  - name: 永野一夏
     row: な
     col: な
     completeness: 100%
-  - Name: Luang Xinjiang
+  - name: 渚光希
     row: な
     col: な
     completeness: 100%
-  - Name: Ta-da
+  - name: 凪ひかる
     row: な
     col: な
     completeness: 100%
-  - Name: Dimong Light
+  - name: 二宫光
     row: な
     col: に
     completeness: 100%
-  - Name: New Mountain
+  - name: 新山らん
     row: な
     col: に
     completeness: 100%
-  - Name: Incobrava
+  - name: 仁科百华
     row: な
     col: に
     completeness: 100%
-  - Name: Western Palace Dream
+  - name: 西宫梦
     row: な
     col: に
     completeness: 100%
-  - Name: Wild Zhubu-Hin
+  - name: 野々浦暖
     row: な
     col: の
     completeness: 100%
-  - Name: Jumi Shashi
+  - name: 初美沙希
     row: は
     col: は
     completeness: 100%
-  - Name: Ichikawa Shinina
+  - name: 早川瀬里奈
     row: は
     col: は
     completeness: 100%
-  - Name: Hashimoto has a dish.
+  - name: 桥本有菜
     row: は
     col: は
     completeness: 100%
-  - Name: Potano Yui
+  - name: 波多野结衣
     row: は
     col: は
     completeness: 100%
-  - Name: Misery of Yusaki
+  - name: 羽咲美晴
     row: は
     col: は
     completeness: 100%
-  - Name: Yu Yu-Hong
+  - name: 羽生ありさ
     row: は
     col: は
     completeness: 100%
-  - Name: Haneda Love
+  - name: 羽田爱
     row: は
     col: は
     completeness: 100%
-  - Name: Lian Silller
+  - name: 莲实克蕾儿
     row: は
     col: は
     completeness: 100%
@@ -524,27 +528,27 @@ items:
     row: は
     col: ひ
     completeness: 100%
-  - Name: Ta-da
+  - name: 姫咲はな
     row: は
     col: ひ
     completeness: 100%
-  - Name: 姫
+  - name: 姫川ゆうな
     row: は
     col: ひ
     completeness: 100%
-  - Name: Winter Moon Maple
+  - name: 冬月枫
     row: は
     col: ふ
     completeness: 100%
-  - Name: Iwig Kogawa
+  - name: 古川伊织
     row: は
     col: ふ
     completeness: 100%
-  - Name: Ammi Deepa
+  - name: 深田咏美
     row: は
     col: ふ
     completeness: 100%
-  - Name: Fujimori
+  - name: 藤かんな
     row: は
     col: ふ
     completeness: 100%
@@ -552,15 +556,15 @@ items:
     row: は
     col: べ
     completeness: 80%
-  - Name: Ben Shogun Bell
+  - name: 本庄铃
     row: は
     col: ほ
     completeness: 100%
-  - Name: Taste to Matsumoto
+  - name: 松本一香
     row: ま
     col: ま
     completeness: 100%
-  - Namiki-kun
+  - name: 真木今日子
     row: ま
     col: ま
     completeness: 100%
@@ -568,143 +572,143 @@ items:
     row: ま
     col: み
     completeness: 100%
-  - Name: Triple Yua
+  - name: 三上悠亚
     row: ま
     col: み
     completeness: 100%
-  - Name: Nanjyor Onai
+  - name: 南梨央奈
     row: ま
     col: み
     completeness: 100%
-  - Name: Liennai, the Emperor
+  - name: 宫下玲奈
     row: ま
     col: み
     completeness: 100%
-  - Name: In the palace island
+  - name: 宮島めい
     row: ま
     col: み
     completeness: 100%
-  - Name: No step
+  - name: 未步奈奈
     row: ま
     col: み
     completeness: 100%
-  - Name: Waterchurch
+  - name: 水卜樱
     row: ま
     col: み
     completeness: 100%
-  - Name: Sanpo Sulai
+  - name: 三浦芽依
     row: ま
     col: み
     completeness: 100%
-  - Name: Water-creaming
+  - name: 水菜丽
     row: ま
     col: み
     completeness: 100%
-  - Name: Miracle
+  - name: 美乃すずめ
     row: ま
     col: み
     completeness: 100%
-  - Name: Gardens and flowers
+  - name: 美園和花
     row: ま
     col: み
     completeness: 100%
-  - Name: Mizuya
+  - name: 美谷朱音
     row: ま
     col: み
     completeness: 100%
-  - Name: Hearts of the sound
+  - name: みやび音羽
     row: ま
     col: み
     completeness: 100%
-  - Name: Memory almonds
+  - name: 蜜美杏
     row: ま
     col: み
     completeness: 100%
-  - Name: Escruy
+  - name: 惠理
     row: ま
     col: め
     completeness: 100%
-  - Name: Housekeeper
+  - name: 守屋よしの
     row: ま
     col: も
     completeness: 100%
-  - Name: Peach-Minochannel
+  - name: 桃乃木香奈
     row: ま
     col: も
     completeness: 100%
-  - Name: Peach Valley Plumbing
+  - name: 桃谷りり
     row: ま
     col: も
     completeness: 100%
-  - Name: Sensai Qanai
+  - name: 森泽佳奈
     row: ま
     col: も
     completeness: 100%
-  - Name: Bremen-Hungl
+  - name: 百永さりな
     row: ま
     col: も
     completeness: 100%
-  - Name: Eight-Ahead.
+  - name: 八掛うみ
     row: や
     col: や
     completeness: 100%
-  - Name: Omunai
+  - name: 八木奈奈
     row: や
     col: や
     completeness: 100%
-  - Name: Peaches Love
+  - name: 山手梨爱
     row: や
     col: や
     completeness: 100%
-  - Name: Heartbreak
+  - name: 弥生みづき
     row: や
     col: や
     completeness: 100%
-  - Name: Yuzuki Shinnai
+  - name: 优月真里奈
     row: や
     col: ゆ
     completeness: 100%
-  - Name: Dreams in the middle of a dream
+  - name: 夢乃あいか
     row: や
     col: ゆ
     completeness: 100%
-  - Name: Sunflower
+  - name: 柚月向日葵
     row: や
     col: ゆ
     completeness: 100%
-  - Name: Poor
+  - name: 楪可怜
     row: や
     col: ゆ
     completeness: 100%
-  - Name: Thousands of years old
+  - name: 由來千歲
     row: や
     col: ゆ
     completeness: 100%
-  - Name: By Ai Ko Na
+  - name: 由爱可奈
     row: や
     col: ゆ
     completeness: 100%
-  - Name: Yuyan
+  - name: 由良かな
     row: や
     col: ゆ
     completeness: 100%
-  - Name: Yoshikawa Ami
+  - name: 吉川爱美
     row: や
     col: よ
     completeness: 100%
-  - Name: Giegancian
+  - name: 吉根ゆりあ
     row: や
     col: よ
     completeness: 100%
-  - Name: Gisawa Ming Step
+  - name: 吉泽明步
     row: や
     col: よ
     completeness: 100%
-  - Name: Gigonning
+  - name: 吉高宁宁
     row: や
     col: よ
     completeness: 100%
-  - Name: The rice smelt
+  - name: 米倉穂香
     row: や
     col: よ
     completeness: 100%
@@ -712,11 +716,11 @@ items:
     row: ら
     col: り
     completeness: 100%
-  - Name: Rin-Ling
+  - name: 凛音とうか
     row: ら
     col: り
     completeness: 100%
 
-# 50-score: see docs/ meta/50-score. - I'm sorry.
-# Entry order: Lines, lines, lines, lines, lines, lines, lines, lines, lines, lines, lines, lines, lines, lines, lines, lines, lines, lines, lines, lines, lines.
-# Order of paragraphs: Quantities, Quints, Quints, Quints, Quints, Quints
+# 五十音排序规则：参见 docs/_meta/五十音排序规则.md
+# 条目顺序：あ行 → か行 → さ行 → た行 → な行 → は行 → ま行 → や行 → ら行 → わ行
+# 段顺序：あ段 → い段 → う段 → え段 → お段

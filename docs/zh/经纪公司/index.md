@@ -12,12 +12,15 @@
 | [Mine's](Mine_S.md) | 葵司、彩美旬果、上原亚衣 |
 | [ARROWS](ARROWS.md) | 深田咏美 |
 | [8MAN / SO MODEL AGENT](8MAN.md) | 凪ひかる、藤かんな、美乃すずめ |
-| [Bambi Promotion](Bambi Promotion.md) | 天使萌、楪可怜、安位薰 |
-| [LIFE PROMOTION](LIFE PROMOTION.md) | 五日市芽依 |
-| [ACT Promotion](ACT Promotion.md) | 乙都咲乃 |
+| [Bambi Promotion](Bambi%20Promotion.md) | 天使萌、楪可怜、安位薰 |
+| [LIFE PROMOTION](LIFE%20PROMOTION.md) | 五日市芽依 |
+| [ACT Promotion](ACT%20Promotion.md) | 乙都咲乃 |
 | [NAX](NAX.md) | 奏音花音、伊藤舞雪 |
-| [CRUSE GROUP](CRUSE GROUP.md) | 美谷朱音（前） |
-| [Diaz Group](Diaz Group.md) | 友田彩也香、由爱可奈、明日花绮罗（前） |
+| [CRUSE GROUP](CRUSE%20GROUP.md) | 美谷朱音（前） |
+| [Diaz Group](Diaz%20Group.md) | 友田彩也香、由爱可奈、明日花绮罗（前） |
+| [LIGHT](LIGHT.md) | 西宫梦、松本一香、弥生みづき、石原希望、椎名空、千乃あずみ |
+| [Prime Agency](Prime%20Agency.md) | 仁科百华、樱木凛 |
+| [Allpro](Allpro.md) | 北川绘里香、羽田爱、篠田步美 |
 
 ## 主要经纪公司
 
@@ -67,7 +70,7 @@
 - **特点**: 业界知名经纪公司
 - **业务**: 女优经纪、作品制作等
 
-### LIGHT
+### [LIGHT](LIGHT.md)
 
 - **全称**: LIGHT
 - **特点**: 业界知名经纪公司
@@ -94,19 +97,19 @@
 - **业务**: 女优经纪、作品制作等
 - **知名女优**: 凪ひかる、藤かんな、美乃すずめ等
 
-### Prime Agency
+### [Prime Agency](Prime%20Agency.md)
 
 - **全称**: Prime Agency
 - **特点**: 业界知名经纪公司
 - **业务**: 女优经纪、作品制作等
-- **知名女优**: 永井マリア等
+- **知名女优**: 仁科百华、樱木凛等
 
-### Allpro
+### [Allpro](Allpro.md)
 
 - **全称**: Allpro
 - **特点**: 业界知名经纪公司
 - **业务**: 女优经纪、作品制作等
-- **知名女优**: 石川澪等
+- **知名女优**: 北川绘里香、羽田爱、篠田步美等
 
 ## 经纪公司职能
 

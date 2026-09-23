@@ -31,8 +31,8 @@ AV OPEN 2018. The entire Chinese version of the song, entitled "Guide to the Tou
 
 ### Original Japanese (missAV / FANZA)
 
-> This video is a cautionary textbook for everyone who came to Japan to draw pictures. > And to serve his loyalty, and to a certain extent he will flee. Watch your step. Tokyo - the most obscenity of the mindless. She's a crazy girl, who does not do anything to achieve her goals, and who appears in certain specific places. So the meat bar was put in the humid pit of a demented girl, and a fish water rod was tried. The madwoman will destroy everyone's sense of reason, and he is a dangerous species, and that's the Japanese one in the dark.
+> 本影片是一支專為計画来日本観光的各位制作的警世教材。為忠実伝達事実，其中将参雑些許不当発言。観看時請十分注意。東京-為極度変態痴女之巣。痴女，為達目的不択手段，出現在某些特定場所。為的就是将観光客硬硬的肉棒放進痴女湿湿的肉穴裡，一試魚水之歓。痴女将崩壊大家的理智線，属於危険人種，這，就是伝説中的日本痴女。
 
-Note: The work itself is pronunciated in Chinese and the official profile is Chinese and does not require translation.
+> 注：该作品本身为中文发音作品，官方简介即为中文，无需翻译。
 
 

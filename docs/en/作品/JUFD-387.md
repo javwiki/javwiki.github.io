@@ -33,10 +33,10 @@ The breast-milk wife of the Zhuda Carnival. The sexual advances and the indignit
 
 ### Original Japanese (missAV / FANZA)
 
-The topic is "The Breathing of the Breathing of the Breathing of the Fitch" and "The Breathing of the Breathing of the Breathing of the Breathing of the Breathing of the Breathing of the Breathing of the Breathing of the Breathing of the Breathing of the Brethren of the Breathing of the Breathing of the Breathing of the Breathing of the Breathing of the Breath of the Breath of the Brethren of the Brethren of the Brethren of the Breath of the Breath of the Breath of the Brething of the Brething of the Breth of the Breth of the Breth of the Breth of the Breth of the Breth of the Breth of the Breth of the Bres of the Breth of the Breth of the Breth of the Bres of the Brest of the Bre of the Bre The government has been trying to get the government to take a stand on the issue of the human rights of the child. The wife of the man is in danger! I'll see you in the middle of the dance. The man who lived in the house! The sleeping man is close to the foot of the bed and the sun is close to the sex! The whole community is responsible for the unlimited FUK! The wife of the man is dying to escape!
+> 話題の爆乳美熟女・篠田あゆみが「寸止め」シリーズでFitch初登場！部下の奥さんのあゆみさんの誘うような微笑みとしなやかで細身の肉体に似つかわしくない豊満なバストに翻弄されて…。部下の妻に触れられる寸前のギリギリパイズリ！お見舞いの焦らされ倒す挟射！帰宅した夫とのフェラのぞき！眠った夫の近くで脚コキ＆焦らされSEX！社内で亀頭責め＆無限寸止めFUCK！部下の妻に焦らされ過ぎて暴発寸前！
 
 ### Chinese translation
 
-The topic is a beautiful, beautiful woman, and the "Fitch" series is the first to land in the Fitch! The smile of the wife of the man is so sweet, and the full milk of her body is so thin that she can't fit in her arms......that she will be touched by the woman of the man's breast! They're being attacked by the police. Spilling on the wife and sucking on her husband's back! I'm getting a little bit of a flirt with my sleeping husband! I'm not going to be able to get a job like this. The wife of the men was pulled to the brink of an outbreak!
+话题爆乳美熟女·篠田あゆみ以“寸止め”（边缘控制）系列首次登陆Fitch！被部下之妻あゆみ诱人的微笑，与她纤细身材毫不相称的丰满爆乳玩弄于股掌之间……即将触碰到部下妻子的极限乳交！探病时被反复挑逗后的夹射！偷看妻子给归家丈夫口交！在熟睡的丈夫身边被足交挑逗＆边缘性爱！在公司里被龟头责罚＆无限寸止性爱！被部下的妻子撩拨到濒临爆发！
 
 
