@@ -239,6 +239,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](./五�
 - 桃乃木香奈
 - 桃谷りり
 - 森泽佳奈
+- 森ほたる
 - 百永さりな
 ## や行
 
