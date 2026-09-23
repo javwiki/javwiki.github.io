@@ -1,2 +1,3 @@
-playwright>=1.40.0
-pyyaml>=6.0
+# Compatibility manifest for pip users; uv.lock is the canonical lock file.
+playwright==1.63.0
+PyYAML==6.0.3

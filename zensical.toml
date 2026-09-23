@@ -20,8 +20,10 @@ alternate = [
 [project.theme]
 variant = "classic"
 language = "zh"
+custom_dir = "overrides"
 features = [
   "navigation.instant",
+  "navigation.prune",
   "navigation.path",
   "navigation.sections",
   "navigation.top",

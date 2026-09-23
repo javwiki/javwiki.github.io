@@ -9,11 +9,11 @@ JAE (Japan Adult Express) is an AV fan of the Festival of festivities held in To
 
 ### Original Japanese
 
-The Japanese government has been working with the Japanese government to promote the development of the Japanese economy and the development of the Japanese economy.
+> Japan Adult Expo（JAE）は、AVファン感謝祭として、日本のアダルト業界を牽引するAVメーカーが一同に集まり、アダルト業界全体の発展を目的として開催するものです。
 
 ### Chinese translation
 
-The Japan Adult Express (JAE) is an AV fan appreciation ceremony organized by the AV manufacturer, who leads the adult industry in Japan, to bring together the whole adult industry.
+Japan Adult Expo（JAE）是作为 AV 粉丝感谢祭，由引领日本成人行业的 AV 厂商齐聚一堂、以成人行业整体发展为目的而举办的活动。
 
 ## Basic information
 

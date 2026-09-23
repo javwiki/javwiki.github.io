@@ -26,17 +26,17 @@ docs/en/法律/民法.md
 
 文件名和目录名一律不翻译。这使三棵树可以直接逐文件比对，也避免语言切换时维护额外的路径映射。代价是中文目录名（如 `../女优/index.md`）会出现在日文和英文页面的链接里。
 
-每个语言目录共 348 个文件，按主题分布如下：
+每个语言目录共 357 个文件，按主题分布如下：
 
 | 目录 | 文件数 | 说明 |
 |---|---:|---|
-| `あ` `か` `さ` `た` `な` `は` `ま` `や` `ら` `わ` | 227 | 女优条目，按五十音两级索引 |
+| `あ` `か` `さ` `た` `な` `は` `ま` `や` `ら` `わ` | 228 | 女优条目，按五十音两级索引 |
 | `系列` | 27 | 系列作品条目 |
 | `作品` | 14 | 单个作品条目（按番号） |
-| `经纪公司` | 16 | 经纪公司条目 |
+| `经纪公司` | 23 | 经纪公司条目 |
 | `法律` | 11 | 相关法令条目 |
 | `组合` | 9 | 偶像组合条目 |
-| `厂商` | 7 | 片商条目 |
+| `厂商` | 8 | 片商条目 |
 | `活动` | 7 | 展会与活动条目 |
 | `协会` | 5 | 行业协会与自律组织 |
 | `_meta` | 5 | 维护用资料（见下） |
@@ -79,9 +79,9 @@ docs/zh/は/は/米倉穂香.md   →  [KBI-001](../../作品/KBI-001.md)  # 同
 
 `排名/actress-ranking-YYYYMM.yaml` 为抓取所得的数据文件（采集脚本见 `scrapers/fanza/`），字段名使用英文，属机器可读数据而非正文。
 
-页面导航由 Zensical 根据目录结构生成，不手工维护 `SUMMARY.md`、`book/` 或静态 `_tags/` 页面；标签通过页面 front matter 的 `tags` 与 `zensical.toml` 的原生 Tags 插件处理。
+页面导航由 Zensical 根据目录结构生成，并启用 `navigation.prune` 只完整渲染当前分支，不手工维护 `SUMMARY.md`、`book/` 或静态 `_tags/` 页面；标签通过页面 front matter 的 `tags` 与 `zensical.toml` 的原生 Tags 插件处理。`overrides/` 中的模板把语言 alternate 和语言选择器改为逐页对应路径。
 
-## 迁移规模
+## 迁移时规模（2026-09-20 基线）
 
 | 指标 | 中文 | 英文 | 日文 |
 |---|---:|---:|---:|
@@ -176,52 +176,56 @@ docs/zh/は/は/米倉穂香.md   →  [KBI-001](../../作品/KBI-001.md)  # 同
 
 ## 验证
 
-`scripts/check_i18n.py` 是内容校验的入口，依赖 PyYAML（`build_site.sh` 通过 `uvx --with pyyaml` 提供），执行四类检查：
+`scripts/check_i18n.py` 是内容校验的入口，依赖由根目录 `pyproject.toml` 与 `uv.lock` 固定。执行四类检查：
 
-1. **文件集合**：三个语言目录的文件相对路径必须完全一致，多一个或少一个都报错（覆盖全部 348 × 3 个文件）。
-2. **结构一致**：逐页比对 `docs/ja/`、`docs/en/` 与 `docs/zh/` 的 Markdown 页面——front matter（除 `title:`）、标题层级序列、链接目标与 `src` 集合、表格形状（每行竖线数）、代码块数量。共 690 页。
+1. **文件集合**：三个语言目录的文件相对路径必须完全一致，多一个或少一个都报错（覆盖全部 357 × 3 个文件）。
+2. **结构一致**：逐页比对 `docs/ja/`、`docs/en/` 与 `docs/zh/` 的 Markdown 页面——front matter（除 `title:`）、标题层级序列、按文档顺序排列的链接/自动链接/图片目标、表格形状（每行竖线数）、代码块数量与开启围栏的语言标记。共 708 页。
 3. **链接与索引完整性**（按语言独立检查，不与中文源比对）：
    - 链接目的地不得含裸空格——正则若截断成 `Bambi Promotion.md` → `Bambi`，比对两侧反而一致，属于静默盲区；
    - 所有相对链接必须能解析到文件或含 `index.md` 的目录，二级目录页的 `../../` 层级由此兜住；
-   - `{行}/{段}/index.md` 必须列出该段全部条目。
+   - `{行}/{段}/index.md` 必须列出该段全部条目；
+   - Markdown 中不得出现脚本、iframe、object、embed、form、事件属性或 `javascript:` 等主动 HTML（代码围栏示例除外）。
 4. **数据完整性**：
    - `_meta/list.yaml`、`排名/*.yaml` 必须能解析为 YAML；
-   - `list.yaml` 必须有 `title` 与 `items`，每条有 `name`/`row`/`col`/`completeness`，无重名，且三语条数一致；
+   - `list.yaml` 必须有 `title` 与 `items`，每条有非空的 `name`/`row`/`col`/`completeness`，无重名，且三语条数一致；
+   - `list.md` 的名称及顺序必须与本语 `list.yaml` 一致；中文源 `row`/`col`/`name` 必须对应真实演员页面，目标语言可翻译显示名，但 `row`/`col`/`completeness` 不得漂移；
+   - 中文源 `排名/*.yaml` 必须通过 schema 检查：顶层字段齐全、`count` 与行数相等、排名为连续 `1..N`、演员 ID 不重复、条目必填字段类型正确；
    - `排名/*.yaml` 必须与 `docs/zh/排名/` 逐字节一致；
-   - `作品/` 页的受保护区（日文原文、中文翻译两节）必须与中文源逐字节一致（忽略小节尾部空行数）。
+   - `作品/` 页及 `活动/JAE.md` 的受保护区（日文原文、中文翻译两节）必须与中文源逐字节一致（忽略小节尾部空行数）。
 
 ```bash
-uvx --with pyyaml python3 scripts/check_i18n.py
+uv run --locked --no-dev python scripts/check_i18n.py
 ```
 
 实测输出：
 
 ```text
-i18n trees match (348 files per language, 690 pages structurally checked)
+i18n trees match (357 files per language, 708 pages structurally checked)
 ```
 
-`./scripts/build_site.sh` 会先跑上述检查，再依次以 Zensical 0.0.62 的 strict 模式构建三个语言版本：
+`./scripts/build_site.sh` 会先跑上述检查，再依次以 Zensical 0.0.62 的 strict 模式构建三个语言版本，最后用 `check_site.py` 扫描全部生成页面的内部文件链接、锚点、逐页语言链接，并执行 HTML 160 KiB / 导航 320 链接的体积预算：
 
 ```bash
 ./scripts/build_site.sh
 ```
 
 ```text
-i18n trees match (348 files per language, 690 pages structurally checked)
+i18n trees match (357 files per language, 708 pages structurally checked)
 Build started
 No issues found
-Build finished in 3.85s
-（日文、英文同）
+Build finished in 3.18s
+（日文 3.23s，英文 3.81s；均为已预热依赖的本地实测）
+site links OK (1065 pages, 226638 link elements)
 ```
 
-CI（`.github/workflows/zensical.yml`）在推送到 `main` 与 `pull_request` 时执行同一脚本，只有前者才上传并部署 Pages，因此结构漂移会在构建前直接失败。workflow 的权限收敛到 job 级（默认 `contents: read`，deploy 才授予 `pages: write` + `id-token: write`），并给全部 actions 加了 commit SHA pin。
+CI（`.github/workflows/zensical.yml`）在推送到 `main`、面向 `main` 的 `pull_request` 以及手动触发时运行测试、依赖审计和同一构建脚本。只有 `main` 的非 PR 事件才上传并部署 Pages；手动选择其它分支仍可验证构建，但不能发布。workflow 的权限收敛到 job 级（默认 `contents: read`，deploy 才授予 `pages: write` + `id-token: write`），全部 actions 固定到 commit SHA，runner、uv 与 Python 版本也固定。
 
-迁移与本次修复完成后另做过的一次性检查：
+除仓库校验器外，以下辅助检查用于验证迁移结果：
 
 1. 扫描旧机翻残留词与重复退化模式（`とりあえず`、`全て正しいです`、`アパート`、`年 年 年`、`ヒエナ` 等）：日文正文中为 0。仍会命中的中文串只落在受保护区域——链接目标（如 `zh.wikipedia.org/wiki/AIKA_(AV女优)`）、front matter 的 `tags` 值、示例代码块内的路径、`### 中国語訳` 的中文对照正文。
 2. 扫描日文页面的中文残留词（`信息`、`视频`、`片商`、`女优`、`导演`、`出道` 等）：正文中为 0。
 3. 用 Playwright 渲染 `site/ja/` 抽查女优页、作品页、法令页、奖项页、厂商页与索引页，确认页面标题、章节名与正文均为日语。
-4. **校验脚本的反向测试**：在临时副本中分别注入裸空格链接、受保护区正文被改、`list.yaml` 非法 YAML、条数不一致、排名 YAML 被改、段索引漏列条目，六类故障全部被对应检查捕获并返回非零退出码，真实仓库同时通过。
+4. **自动回归测试**：`tests/test_check_i18n.py` 固化链接顺序、围栏语言、列表映射和排名 schema 的正反例；`tests/test_workflow.py` 锁定生产部署分支、runner 与锁文件构建约束。CI 每次执行 `pytest`、Ruff 和 `pip-audit`。
 
 以上检查只能确认结构一致、数据完整与站点可构建，都不能证明译文准确。
 
@@ -263,7 +267,7 @@ CI（`.github/workflows/zensical.yml`）在推送到 `main` 与 `pull_request` �
    若只想快速检查结构与数据，运行：
 
    ```bash
-   uvx --with pyyaml python3 scripts/check_i18n.py
+   uv run --locked --no-dev python scripts/check_i18n.py
    ```
 
 ### 人工校订清单

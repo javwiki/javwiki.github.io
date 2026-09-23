@@ -4,13 +4,15 @@
 
 | 文件 | 用途 |
 |---|---|
-| `build_site.sh` | 构建入口。先跑 `check_i18n.py`，再以 `zensical==0.0.62` 的 `--strict` 模式依次构建中文、日文、英文三个版本。 |
-| `check_i18n.py` | 内容结构与数据完整性校验（需 PyYAML，已由 `build_site.sh` 通过 `uvx --with pyyaml` 提供）。检查项见 `TRANSLATION.md` 的「验证」一节。 |
+| `build_site.sh` | 构建入口。自动切换到仓库根目录，使用 `uv.lock` 固定环境，先跑 `check_i18n.py`，再以 Zensical 的 `--strict` 模式依次构建中文、日文、英文三个版本，最后运行 `check_site.py`。 |
+| `check_i18n.py` | 内容结构与数据完整性校验。运行依赖由根目录 `pyproject.toml` 与 `uv.lock` 统一管理。检查项见 `TRANSLATION.md` 的「验证」一节。 |
+| `check_site.py` | 构建后校验三语静态页面的内部文件链接、锚点、逐页语言链接及 HTML/导航体积预算。 |
 | `ja_name_map.json` | 中文条目名 → 日文标准写法对照表，日文版重建与后续维护共用。 |
 
 ```bash
-./scripts/build_site.sh                # 校验 + 三语构建
-uvx --with pyyaml python3 scripts/check_i18n.py   # 只跑校验
+./scripts/build_site.sh
+uv run --locked --no-dev python scripts/check_i18n.py
+uv run --locked --group dev --group scraper pytest
 ```
 
 ## legacy/

@@ -10,6 +10,10 @@ __pycache__/
 *.py[cod]
 .venv/
 .cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
 
 # editors / OS
 .DS_Store

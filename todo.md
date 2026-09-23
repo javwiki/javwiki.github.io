@@ -45,7 +45,7 @@
 - `经纪公司/ハーベスターズ.md` —— 核实 ALLURE 为ハーベスターズ旧社名（有限会社アリュール，フィットワン分离开独立、2018 年更名，日文维基成员表含 みづなれい/Hitomi），故按「改名后用现名」口径建ハーベスターズ页；Hitomi、水菜丽 的 tag 已从 `ALLURE` 统一为 `ハーベスターズ`（三语）
 - 同步：`经纪公司/index.md` 与 `厂商/index.md` 补行与简介；`协会/日本プロダクション協会.md` 正会员表与退会名单对已有条目页加链接；`Bambi Promotion.md` 成员表修正（天使萌→现属 Bstar、楪可怜→现属 T-POWERS、北川ゆず→现属 ACT、あきばもも→现属 ARCHE，白上咲花补入现属）
 
-以上均三语同步，`check_i18n.py` 与三语 strict 构建通过（356 files/language）。
+以上均三语同步，`check_i18n.py` 与三语 strict 构建通过（357 files/language）。
 
 ## 5. 其他
 

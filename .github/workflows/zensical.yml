@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 15
     permissions:
       contents: read
@@ -27,24 +27,34 @@ jobs:
         uses: astral-sh/setup-uv@d0cc045d04ccac9d8b7881df0226f9e82c39688e # v6.8.0
         with:
           enable-cache: true
+          version: "0.12.5"
+          python-version: "3.12.14"
+      - name: Run tests
+        run: uv run --locked --group dev --group scraper pytest
+      - name: Lint active Python code
+        run: |
+          uv run --locked --group dev ruff format --check scripts/check_i18n.py scripts/check_site.py scrapers/fanza/spider.py tests
+          uv run --locked --group dev ruff check scripts/check_i18n.py scripts/check_site.py scrapers/fanza/spider.py tests
+      - name: Audit locked Python dependencies
+        run: uv run --locked --group dev --group scraper pip-audit
       - name: Build multilingual site with Zensical
         run: ./scripts/build_site.sh
       - name: Setup Pages
-        if: github.event_name != 'pull_request'
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         id: pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5.0.0
       - name: Upload artifact
-        if: github.event_name != 'pull_request'
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1
         with:
           path: ./site
 
   deploy:
-    if: github.event_name != 'pull_request'
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     needs: build
     permissions:
