@@ -1,21 +1,21 @@
-# Rank
+# Rankings
 
-This catalogue includes data on the various categories of AV rankings, such as the monthly female ranking.
+This directory collects AV-related ranking data, such as monthly actress popularity rankings.
 
-## Data Files
+## Data files
 
-Rank data is stored in YAML format, each file contains the following fields:
+Ranking data is stored as YAML. Each file contains the following fields:
 
-- `source` : Data sources (e.g. FANZA)
-- `type` : Type of ranking (e. g. `actress_monthly_ranking` ）
-- `url` Source data URL
-- `fetched_at` : Capture Time
-- `count` Number of ranking entries
-- `rankings` : List of rankings, each containing `rank` 、 `name` 、 `actress_id` 、 `contents_count` 、 `latest_title` Wait.
+- `source`: the data source (e.g. FANZA)
+- `type`: the ranking type (e.g. `actress_monthly_ranking`)
+- `url`: URL of the source data
+- `fetched_at`: fetch timestamp
+- `count`: number of ranking rows
+- `rankings`: the ranking list; each item carries `rank`, `name`, `actress_id`, `contents_count`, `latest_title` and more
 
-## List of rankings
+## Ranking list
 
-|Documentation|Type|Source|Date|Number|
+| File | Type | Source | Date | Rows |
 | --- | --- | --- | --- | --- |
-| [actress-ranking-202606.yaml](actress-ranking-202606.yaml) |Women's Months rank| FANZA |June 2026| 100 |
-| [actress-ranking-202607.yaml](actress-ranking-202607.yaml) |Women's Months rank| FANZA |July 2026| 100 |
+| [actress-ranking-202606.yaml](actress-ranking-202606.yaml) | Monthly actress ranking | FANZA | June 2026 | 100 |
+| [actress-ranking-202607.yaml](actress-ranking-202607.yaml) | Monthly actress ranking | FANZA | July 2026 | 100 |

@@ -1,15 +1,15 @@
-# Director
+# Directors
 
-Direct entries, sorted by 50 or Chinese spellings.
+Director entries, ordered by gojūon or Chinese pinyin.
 
-- [Return Home Page](../index.md)
+- [Back to the home page](../index.md)
 
 ## Index
 
-- [The fog.](./朝霧浄.md)
-- [Sneaking pool.](./溜池ゴロー.md)
+- [朝霧浄](./朝霧浄.md)
+- [溜池ゴロー](./溜池ゴロー.md)
 
-## Entry Format
+## Entry format
 
 ```yaml
 ---

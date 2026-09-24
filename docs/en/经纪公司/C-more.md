@@ -8,16 +8,16 @@ company: C-more エンターテインメント
 
 ## Basic information
 
-- ** Full name**: C-more & C-ray
-- ** Feature**: Prominent broker company with many personalities under the flag
+- **Full name**: C-more エンターテインメント
+- **Profile**: A well-known industry agency with several popular actresses on its roster
 
-## The woman under the flag.
+## Roster
 
-|Name|Fifty.|Main producer|
+| Name | Gojūon | Main studios |
 | --- | --- | --- |
-|Maple blossoms.|Okay.| Fitch |
-|Linnai, Your Majesty.|Line|Sneaking pool.|
-|Poor Maple.|Okay.| FALENO |
+| Kaede Fua | Ka row | Fitch |
+| Reina Miyashita | Ma row | 溜池ゴロー |
+| 枫可怜 | A row | FALENO |
 
 ## References
 

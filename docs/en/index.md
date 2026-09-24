@@ -1,66 +1,66 @@
 # JAV encyclopedia
 
-JAV (Japan Adult Video) Comprehensive encyclopedia.
+A comprehensive encyclopedia of JAV (Japanese adult video).
 
-## Content Classification
+## Content categories
 
-### Actor.
+### Performers
 
-- **[Yu Yu](./女优/index.md) ** - Actress entries by 50s
-- **[Men!](./男优/index.md) ** - Actors Entry
+- **[AV actresses](./女优/index.md)** — actress entries, ordered by the Japanese syllabary
+- **[AV actors](./男优/index.md)** — actor entries
 
 ### Works
 
-- **[Works](./作品/) ** — Individual entries (in square numbers)
-- **[Series](./系列/) ** - Entries in the series
-- **[Group](./组合/) ** - Group/group entry
-- **[Director](./导演/) ** — Director Entries
-- **[- The sign.](./番号/) ** — Description of the code number system
+- **[Works](./作品/)** — individual releases (by product code)
+- **[Series](./系列/)** — series entries
+- **[Groups](./组合/)** — group entries
+- **[Directors](./导演/)** — director entries
+- **[Product codes](./番号/)** — how the product-code system works
 
 ### Organizations
 
-- **[Vendor](./厂商/) ** — Production company (spoker)
-- **[Brokering companies](./经纪公司/) ** — Brokering Company (company)
-- **[Associations](./协会/) ** - Industry associations and self-regulatory organizations
+- **[Studios](./厂商/)** — production companies (studios)
+- **[Agencies](./经纪公司/)** — talent agencies (jimusho)
+- **[Associations](./协会/)** — industry associations and self-regulatory bodies
 
-### References
+### Reference
 
-- **[Awards](./奖项/) ** - AV Industry Award (FANZA Adult Award, Adult Broadcasting Award, etc.)
-- **[Activities](./活动/) ** - Foreign Adult Exhibition and Writing Truth Fair (TRE International Adult Fair, TSE Taiwan Real Life Fair, etc.)
-- **[Rank](./排名/) ** - Data on female top ranking
-- **[Terminology](./术语/) ** — Common terminology and abbreviations
-- **[Law](./法律/) ** — Relevant laws and regulations
+- **[Awards](./奖项/)** — AV industry awards (FANZA Adult Award, Adult Broadcasting Award, etc.)
+- **[Events](./活动/)** — overseas adult exhibitions and photo expos (TRE Taipei International Adult Expo, TSE Taiwan Sexy Expo, etc.)
+- **[Rankings](./排名/)** — actress ranking data
+- **[Glossary](./术语/)** — common terms and abbreviations
+- **[Laws](./法律/)** — relevant laws and regulations
 
-### Topic
+### Features
 
-- **[Topic](./专题/) ** - In-depth selection of industrial trends and industry observations
+- **[Features](./专题/)** — in-depth articles on industry trends and business observation
 
-## Indexing Method
+## Indexing scheme
 
-The entries for this encyclopedia are classified in line **50**:
+Actress entries are grouped by the **row** of the Japanese syllabary (gojūon) that the first kana of the name's reading belongs to:
 
-|Okay.|Paragraph|
+| Row | Column |
 |---|---|
-|** All right, I'm fine.**| あ い う え お |
-|** All right, I'm fine.**|Five-year-olds (including twilight)|
-|**Today**|Today's the day of the year.|
-|** All right, I'm fine.**|All (several)|
-|** All right, I'm fine.**| な に ぬ ね の |
-|** Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes.|My tumbler (softly, small, sky, and argon)|
-|** Line**| ま み む め も |
-|** Line**| や ゆ よ |
-|** In the middle of the day**| ら り る れ ろ |
-|** All right, I'm fine.**| わ を ん |
+| **A row (あ行)** | あ い う え お |
+| **Ka row (か行)** | か き く け こ (includes が ぎ ぐ げ ご) |
+| **Sa row (さ行)** | さ し す せ そ (includes ざ じ ず ぜ ぞ) |
+| **Ta row (た行)** | た ち つ て と (includes だ ぢ づ で ど) |
+| **Na row (な行)** | な に ぬ ね の |
+| **Ha row (は行)** | は ひ ふ へ ほ (includes ば び ぶ べ ぼ and ぱ ぴ ぷ ぺ ぽ) |
+| **Ma row (ま行)** | ま み む め も |
+| **Ya row (や行)** | や ゆ よ |
+| **Ra row (ら行)** | ら り る れ ろ |
+| **Wa row (わ行)** | わ を ん |
 
-Each entry is included in the corresponding sub-directories with its first pseudonym**.
+Each entry is filed under the column that holds the **first kana** of the name's reading.
 
 ## References
 
-- [FANZA ranking](./排名/)
+- [FANZA rankings](./排名/)
 
-## Build Status
+## Build status
 
-- Female entry: under construction
-- Males: to be built
-- Works/series: to be built
-- Directed by: To be built
+- Actress entries: in progress
+- Actor entries: not yet started
+- Works / series: not yet started
+- Directors: not yet started

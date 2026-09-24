@@ -1,79 +1,79 @@
-# Common terminology
+# Glossary
 
-This document contains the terminology and abbreviations of the profession that are common in AV Encyclopedia.
+This document collects the common industry terms and abbreviations used in this encyclopedia.
 
-## Female merit related
+## Actress-related
 
-|Terminology|Annotations|
+| Term | Description |
 | --- | --- |
-|It's exclusive to the woman.|Individual contracts with specific manufacturers, where only works are issued|
-|Plan for single-matured women|No exclusive contract.|
-|It's a real idol.|Models who film and write the real, image video.|
-|Back|Woman's end of the AV career|
-|Activity is discontinued.|Femmes suspended but not officially withdrawn|
-|Migration|The girl moved from one agency to another.|
-|Revert|Back to back and restart.|
-|New guy.|The new girl.|
-|He's a migrant.|The exclusive woman moved from one manufacturer to another.|
+| Exclusive actress (専属女優) | Under an exclusive contract with one studio; releases appear only for that studio |
+| Non-exclusive actress (企画単体女優) | No exclusive contract; may release with several studios |
+| Gravure idol | A model who shoots photobooks and image videos |
+| Retirement (引退) | An actress ends her AV career |
+| Hiatus (活動休止) | Activity suspended without formally retiring |
+| Agency change (移籍) | An actress moves from one agency to another |
+| Comeback | Returning to activity after retiring |
+| Newcomer | A newly debuted actress |
+| Exclusive transfer (専属移籍) | An exclusive actress moves from one studio to another |
 
-## The work is relevant.
+## Release-related
 
-|Terminology|Annotations|
+| Term | Description |
 | --- | --- |
-|Exclusive|The woman is only a producer.|
-|Planning|Creative planning and content design of works|
-|Zip.|It's a single woman's work.|
-|Accompaniment|A couple of girls.|
-|Quest|A collection of selected works.|
-| BEST |A collection of selected works.|
-| VR |Virtual reality work|
-| 4K |High resolution works|
-| 8K |Super-high resolution.|
-|Letters|Web-based digital distribution|
-| レンタル |Lease version|
-| セル |Traffic in version (buyout)|
-| デジタルモザイク |Number Marseilles.|
-|I'm not gonna let you go.|First perspective, self-portrait.|
-|Su-tung.|General, non-professional women|
-|Draw|Planning, planning.|
+| Exclusive (専属) | The actress releases only for a specific studio |
+| Plan (企划) | The creative concept and content design of a release |
+| Solo (単体) | A release built around a single actress |
+| Co-starring (共演) | Several actresses appear together |
+| Compilation (総集編) | A collection or best-of release |
+| BEST | A collection or best-of release |
+| VR | A virtual-reality release |
+| 4K | A release in high-definition 4K resolution |
+| 8K | A release in ultra-high-definition 8K resolution |
+| Digital distribution (配信) | Digital release over the network |
+| Rental (レンタル) | The rental version |
+| Retail (セル) | The retail (sell-through) version |
+| Digital mosaic (デジタルモザイク) | Digital mosaicing / pixelation censoring |
+| POV shooting (ハメ撮り) | First-person, self-shot style of filming |
+| Amateur (素人) | An ordinary person, not a professional actress |
+| Plan (企画) | Planning; the concept behind a release |
 
-## Vendor-related
+## Studio-related
 
-|Terminology|Annotations|
+| Term | Description |
 | --- | --- |
-|Card|Production and distribution of AV works|
-|The firm.|Brokers, managing female intermediaries|
-|Cards|Brand or series under the flag of a commercial|
+| Studio (片商) | The company that produces and distributes AV releases |
+| Agency (事务所) | The talent agency that manages actresses |
+| Label (厂牌) | A brand or series line under a studio |
 
-## Numbers relevant
+## Product-code-related
 
-|Terminology|Annotations|
+| Term | Description |
 | --- | --- |
-|- The sign.|The only number of the work.|
-|Prefix|Alphabetical portion of a sign, usually representing the manufacturer or series|
-|Serial number|Numbers in sign, representing distribution order|
+| Product code (番号) | The unique identification number of a release |
+| Prefix (前缀) | The letter part of the code, usually the studio or series |
+| Sequence number (序号) | The numeric part of the code, showing the release order |
 
 ## Common abbreviations
 
-|Abbreviations|Full name|Annotations|
+| Abbreviation | Full name | Description |
 | --- | --- | --- |
-| AV | Adult Video |Adult Video|
-| JAV | Japanese AV |Japanese Adult Video|
-| S1 | S1 NO.1 STYLE |Japan AV Vendor|
-| IP | IdeaPocket |Japan AV Vendor|
-| MD | MOODYZ |Japan AV Vendor|
-| AT | Attackers |Japan AV Vendor|
-| PG | PRESTIGE |Japan AV Vendor|
-| WF | Wanz Factory |Japan AV Vendor|
-| FL | FALENO |Japan AV Vendor|
-| SOD | SODクリエイト |Japan AV Vendor|
-| EB | E-BODY |Japan AV Vendor|
-| KW | kawaii* |Japan AV Vendor|
-| MK | MUTEKI |Japanese AV Vendor (uncoded transfer code exclusive)|
-| JU | Madonna |Japan AV Vendor (Francing Women)|
-| HM |In this book.|Japanese AV Vendor (in-line)|
-| DAS | ダスッ! |Japanese AV Vendor (in-line)|
-| BF | BeFree |Japan AV Vendor|
-| AK | アリスJAPAN |Japan AV Vendor|
-| MX | MAXING |Japan AV Vendor|
-| MA | MAX-A |Japan AV Vendor|
+| AV | Adult Video | Adult video |
+| JAV | Japanese AV | Japanese adult video |
+| S1 | S1 NO.1 STYLE | Japanese AV studio |
+| IP | IdeaPocket | Japanese AV studio |
+| MD | MOODYZ | Japanese AV studio |
+| AT | Attackers | Japanese AV studio |
+| PG | PRESTIGE | Japanese AV studio |
+| WF | Wanz Factory | Japanese AV studio |
+| FL | FALENO | Japanese AV studio |
+| SOD | SODクリエイト | Japanese AV studio |
+| EB | E-BODY | Japanese AV studio |
+| KW | kawaii* | Japanese AV studio |
+| MK | MUTEKI | Japanese AV studio (actresses moving from uncensored to censored work) |
+| JU | Madonna | Japanese AV studio (mature-women genre) |
+| HM | 本中 | Japanese AV studio (creampie genre) |
+| DAS | ダスッ! | Japanese AV studio (creampie genre) |
+| BF | BeFree | Japanese AV studio |
+| AK | アリスJAPAN | Japanese AV studio |
+| MX | MAXING | Japanese AV studio |
+| MA | MAX-A | Japanese AV studio |

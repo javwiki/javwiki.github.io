@@ -1,7 +1,7 @@
-# め Segment - Line
+# Me column (め段) — Ma row (ま行)
 
-This section includes the female femininity of the stage with the name "C" starting with "C" (C").
+This column lists actresses whose stage name begins with め (row ま, column め).
 
-## Entry
+## Entries
 
-- [Kei-ri.](惠理.md)
+- [Meguri](惠理.md)

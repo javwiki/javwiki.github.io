@@ -1,11 +1,11 @@
-# つ  —  —  —  — た た た  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —
+# Tsu column (つ段) — Ta row (た行)
 
-This section includes the female femininity of the stage with the name "Sill" starting with "Simple".
+This column lists actresses whose stage name begins with つ (row た, column つ).
 
-## Entry
+## Entries
 
-- [Moonno is here.](月野りさ.md)
-- [Moonno,](月野姫.md)
-- [Ninety-nine.](九十九メイ.md)
-- [Moon Cloud.](月雲よる.md)
-- [Ray.](蕾.md)
+- [Risa Tsukino](月野りさ.md)
+- [Hime Tsukino](月野姫.md)
+- [Mei Tsukumo](九十九メイ.md)
+- [Yoru Tsukumo](月雲よる.md)
+- [Tsubomi](蕾.md)

@@ -1,8 +1,8 @@
-# Zirconium — Line
+# U column (う段) — A row (あ行)
 
-The first one to be given the title of the stage is "Herman" (the "Honry-Sing" section).
+This column lists actresses whose stage name begins with う (row あ, column う).
 
-## Entry
+## Entries
 
-- [Aiji, Uchi.](上原亚衣.md)
-- [♪ ♪ ♪ ♪ Woo-wood tonight ♪](宇流木さら.md)
+- [Ai Uehara](上原亚衣.md)
+- [Sara Uruki](宇流木さら.md)

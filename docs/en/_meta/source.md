@@ -1,33 +1,33 @@
-# Sources of information
+# Sources
 
-The main source of information used in the preparation of encyclopedia entries.
+The main information sources consulted when writing encyclopedia entries.
 
-## Integrated information kiosks
+## General databases
 
-|Source|Annotations|Main uses|
+| Source | Description | Main use |
 | --- | --- | --- |
-| [ja.wikipedia.org](https://ja.wikipedia.org) |Japanese Wikipedia|Basic information on women, manufacturers and works, including annual schedules, records of awards|
-| [Weblio](https://www.weblio.jp) |Online dictionary (reproduced from the Japanese Wikipedia full text)|Japanese Wikipedia alternative, which can be used to access the same content when Wikipedia is unavailable|
-| [zh.wikipedia.org](https://zh.wikipedia.org) |Wikipedia, Chinese|Additional information in Chinese, information on overseas influence|
-| [Wikidata](https://www.wikidata.org) |Structured data warehouse|Cross-check and supplement the infobox field to get the only identifier|
+| [ja.wikipedia.org](https://ja.wikipedia.org) | Japanese Wikipedia | Baseline material on actresses, studios and releases, including timelines and award records |
+| [Weblio](https://www.weblio.jp) | Online dictionary (reposts the full text of Japanese Wikipedia) | A stand-in for Japanese Wikipedia; use it when Wikipedia itself is unreachable to get the same content |
+| [zh.wikipedia.org](https://zh.wikipedia.org) | Chinese Wikipedia | Supplementary material in a Chinese context; information on overseas reach |
+| [Wikidata](https://www.wikidata.org) | Structured data repository | Cross-checking and completing infobox fields; obtaining unique identifiers |
 
-## Professional database
+## Specialist databases
 
-|Source|Annotations|Main uses|
+| Source | Description | Main use |
 | --- | --- | --- |
-| [IAFD](https://www.iafd.com) | Internet Adult Film Database |English AV Database, with better information on works and women|
-| [Babepedia](https://www.babepedia.com) |English Women's Resource Centre|Truth and basic information|
-| [JAVDB](https://javdb.com) |Chinese AV Library|Number, female femininity, manufacturer information, rating data|
-| [Javlibrary](https://www.javlibrary.com) |Multilingual AV Database|Rating and comment, list of works|
-| [AV-Wiki](https://av-wiki.net) |Japanese AV Database|Vendors and works information|
-| [Seesaa Wiki](https://wiki.seesaa.jp/adult/) |Japanese AV Wikipedia|Detailed information on female excellence (age verification required)|
-| [みんなの AV](https://www.minnano-av.com) |Japanese AV Database|Woman's Information, List of Works|
-| [Xslist](https://www.xslist.org) |Multilingual AV Database|Women's information, list of works, brokering information.|
-| [DMM](https://www.dmm.co.jp) |Japan AV Distribution Platform|Official work information, sales data|
+| [IAFD](https://www.iafd.com) | Internet Adult Film Database | English AV database with extensive release and actress information |
+| [Babepedia](https://www.babepedia.com) | English-language actress database | Gravure and basic profile information |
+| [JAVDB](https://javdb.com) | Chinese-language AV database | Product codes, actress and studio information, rating data |
+| [Javlibrary](https://www.javlibrary.com) | Multilingual AV database | Ratings and comments, release lists |
+| [AV-Wiki](https://av-wiki.net) | Japanese AV database | Studio and release information |
+| [Seesaa Wiki](https://wiki.seesaa.jp/adult/) | Japanese AV wiki | Detailed actress material (age verification required) |
+| [みんなの AV](https://www.minnano-av.com) | Japanese AV database | Actress information, release lists |
+| [Xslist](https://www.xslist.org) | Multilingual AV database | Actress information, release lists, agency information |
+| [DMM](https://www.dmm.co.jp) | Japanese AV distribution platform | Official release information, sales data |
 
-## Network of manufacturers
+## Studio official sites
 
-|Source|Annotations|
+| Source | Description |
 | --- | --- |
 | [S1](https://www.s1s1s1.com) | S1 NO.1 STYLE |
 | [Moodyz](https://www.moodys.jp) | Moodyz |
@@ -40,43 +40,43 @@ The main source of information used in the preparation of encyclopedia entries.
 
 ## Awards
 
-|Source|Annotations|
+| Source | Description |
 | --- | --- |
-| [FANZA Adult Award](https://www.dmm.co.jp/adultaward/)|PANZA sponsored annual AV awards|
-| [Adult Broadcasting Award](https://adult-awards.com/)|Sky PerfecTV! The adults who sponsored the show offered a reward.|
-| [AV OPEN](https://av-open.com) |AV Competition for Works|
+| [FANZA Adult Award](https://www.dmm.co.jp/adultaward/) | The annual AV awards hosted by FANZA |
+| [Adult Broadcasting Awards](https://adult-awards.com/) | The adult broadcasting awards hosted by Sky PerfecTV! |
+| [AV OPEN](https://av-open.com) | AV release competition |
 
 ## Social media
 
-|Source|Use|
+| Source | Use |
 | --- | --- |
-| [Twitter/X](https://twitter.com) |Confirmation of the status of activities, latest developments|
-| [Instagram](https://www.instagram.com) |- Yeah. - Yeah.|
-| [YouTube](https://www.youtube.com) |Interviews, the backslides.|
+| [Twitter/X](https://twitter.com) | Confirming activity status and latest updates |
+| [Instagram](https://www.instagram.com) | Gravure and event information |
+| [YouTube](https://www.youtube.com) | Interviews and behind-the-scenes footage |
 
-## Use norms
+## Usage guidelines
 
-### Information gathering on women ' s merits
+### Collecting actress information
 
-|Information Type|Recommended source|Remarks|
+| Information | Recommended sources | Notes |
 | --- | --- | --- |
-|Basic information (name, date of birth, length, etc.)| Wikipedia、JAVDB、Xslist |Cross-checking from other sources, mainly Wikipedia|
-|Three-pane, cup.|Network of manufacturers, JAVDB, Minano-av|Data may differ from one source to another|
-|He's from his firm.|Xslist, JAVDB, Network of Vendors|The firm's information is changing so much, so keep it time-sensitive.|
-|Exclusive manufacturer|Network of manufacturers, JAVDB|I'm not sure I'm going to be able to do that.|
-|Queue date|Wikipedia, JAVDB, Network of Vendors|The date of sale of the work.|
-|Deduction/activity| Twitter/X、Wikipedia、JAVDB |I'll be right in the middle of this.|
-|Record of the award|Wikipedia, FANZA official network|Based on the official website|
-|Table of experience| Wikipedia |Japanese Wikipedia is usually the most detailed.|
-|Real/image photos|Instagram, Twitter/X, Network of Vendors|Official channels are preferred|
+| Basic profile (name, date of birth, height, etc.) | Wikipedia, JAVDB, Xslist | Wikipedia first; cross-check with the other sources |
+| Measurements, cup size | Studio official sites, JAVDB, minnano-av | Figures may differ between sources |
+| Agency | Xslist, JAVDB, studio official sites | Agency information changes often; mind the timestamp |
+| Exclusive studio | Studio official sites, JAVDB | Prefer the studio's official site |
+| Debut date | Wikipedia, JAVDB, studio official sites | Go by the release date of the debut title |
+| Retirement / activity status | Twitter/X, Wikipedia, JAVDB | Go by the performer's own public statements |
+| Award records | Wikipedia, FANZA official site | Go by official announcements |
+| Career timeline | Wikipedia | Japanese Wikipedia is usually the most detailed |
+| Photos / gravure images | Instagram, Twitter/X, studio official sites | Official channels first |
 
-### Can not open message
+### Verification
 
-- Multisource cross-check to ensure accuracy
-- Official sources are preferred
-- Be time-sensitive and prioritize the use of up-to-date data
+- Cross-check across several sources to make sure of accuracy
+- Prefer official sources
+- Mind freshness; prefer the most recent data
 
-### Reference Format
+### Citation format
 
 Wikipedia:
 ```
@@ -89,7 +89,7 @@ Wikidata:
 - <https://www.wikidata.org/wiki/Q编号>
 ```
 
-Professional database:
+Databases:
 ```
 - <https://www.iafd.com/女優名.rme>
 - <https://javdb.com/女優名>

@@ -1,56 +1,56 @@
 ---
 type: award
-title: 成人广播奖（スカパー!アダルト放送大賞）
+title: Adult Broadcasting Awards (スカパー!アダルト放送大賞)
 ---
 
-# Adult Radio Award (スカパー) The guy's got a big reward.
+# Adult Broadcasting Awards (スカパー!アダルト放送大賞)
 
-Adult Radio Award (スカパー) The guy who gave the reward was Japan Sky PerfecTV! The host adults present the industry award. Launched in 2005 (initially called "Jakes" in Japan") and changed to current name in 2008. The year 2020 was extended and since 2022 has been changed to the EX-Geek selection model. The voting format was abolished with effect from 2024 and replaced by the EX-Golden selection.
+The Adult Broadcasting Awards (スカパー!アダルト放送大賞) are awards for the adult broadcasting industry hosted by Sky PerfecTV! in Japan. They began in 2005 (originally called 日本アダルト放送大賞), were renamed to the current name in 2008, postponed in 2020 because of the pandemic, and changed to the EX Girls selection format from 2022. From 2024 the voting format was abolished and replaced entirely by the EX Girls selection.
 
-## Category of award
+## Award categories
 
-### Personal awards (2006-2020)
+### Individual awards (2006–2020)
 
-|Awards|Annotations|
+| Award | Notes |
 | --- | --- |
-|Women ' s Merits|Best AV of the year|
-|Newman and Girl.|The best new girl in the year.|
-|The Pre-Women Award.|The best woman in the year.|
-|The most important actresses.|The largest number of women in the year.|
-|Media Awards|Awards awarded by the media|
-|Plum! The guy who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one who's the one.|Best girl in the on-demand department.|
+| Best Actress | The year's best AV actress |
+| Best Newcomer | The year's best new actress |
+| Best Mature Actress | The year's best mature-genre actress |
+| Most Prolific Actress | The actress with the most releases that year |
+| Media Award | Awards presented by individual media outlets |
+| スカパー!オンデマンドアダルト賞 | Best actress in the on-demand category |
 
-### EX-Mansion (2022 to date)
+### EX Girls (2022–present)
 
-Since 2022, the award has been changed to the EX-Swiss selection model, where the channel recommends women ' s merit and eventually selects the MVA (Most Valable Access) designation.
+From 2022 the awards changed to the EX Girls selection format: actresses are recommended by each channel, and from them titles such as MVA (Most Valuable Actress) are chosen.
 
-## Successive female winners (2006-2020)
+## Past Best Actress winners (2006–2020)
 
-|Year|Winner|
+| Year | Winner |
 | --- | --- |
 | 2006 | あいだゆあ |
-| 2007 |The Zhubula.|
+| 2007 | 穂花 |
 | 2008 | Rio |
-| 2009 |Tomorrow's flower.|
-| 2010 |Hara-Yo-Li|
-| 2011 |- Sakura.|
-| 2012 |It's beautiful.|
-| 2013 |I'm so far away.|
-| 2014 |The Hatano Yuji.|
-| 2015 |The silo.|
-| 2016 |JAMI SHAHI|
+| 2009 | 明日花キララ |
+| 2010 | 原紗央莉 |
+| 2011 | 麻倉憂 |
+| 2012 | 成瀬心美 |
+| 2013 | さとう遥希 |
+| 2014 | 波多野結衣 |
+| 2015 | 紗倉まな |
+| 2016 | 初美沙希 |
 | 2017 | AIKA |
-| 2018 |Angel's hand.|
-| 2019 |Shinya!|
-| 2020 |Saakura!|
+| 2018 | 天使もえ |
+| 2019 | 戸田真琴 |
+| 2020 | 佐倉絆 |
 
-## EX-Mansion (2022 to date)
+## EX Girls (2022–present)
 
-|Year|Members|
+| Year | Members |
 | --- | --- |
-| 2022 |Hatano Yui, Zhuda, Zhumna (MVA)|
-| 2023 |The eyes of the summer, the heart of the village, the palace.|
-| 2024 |Kawakawa, Shinmura, Mori, Jigen,|
+| 2022 | 波多野結衣、篠田ゆう、本郷愛 (MVA) |
+| 2023 | 夏目響 (centre)、有村のぞみ、宮沢ちはる |
+| 2024 | 川上ゆう、新村あかり、森沢かな、吉根ゆりあ |
 
 ## References
 

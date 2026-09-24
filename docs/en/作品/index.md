@@ -1,30 +1,30 @@
 # Works
 
-Individual entries, classified by the number of the work or series.
+Entries for individual releases, filed by product code or series.
 
-- [Return Home Page](../index.md)
+- [Back to the home page](../index.md)
 
 ## Index
 
-|The work.|Cards|Annotations|
+| Product code | Label | Notes |
 | --- | --- | --- |
-| [ABP-984](ABP-984.md) | Prestige |Five-five, the best.|
-| [AVOP-404](AVOP-404.md) | SOD Create |All Chinese AV OPEN|
-| [EBOD-613](EBOD-613.md) | E-BODY |Super-magnant.|
-| [IPX-177](IPX-177.md) | Idea Pocket |The girl from the territory.|
-| [IPZ-612](IPZ-612.md) | Idea Pocket |The subject of the beautiful teacher demented.|
-| [IPZ-901](IPZ-901.md) | Idea Pocket |The tweeds of the women teachers.|
-| [JUFD-387](JUFD-387.md) | Fitch |The obscenity of the obscenity of the obscenity.|
-| [JUFD-531](JUFD-531.md) | Fitch |Queens are fertilized in the wild, and the fertilized in the flesh.|
-| [JUFE-016](JUFE-016.md) | Fitch |With a saliva.|
-| [KBI-001](KBI-001.md) | KANBi |The rice swabs are out of the way.|
-| [SDDE-704](SDDE-704.md) | SOD Create |The business guy is a big deal.|
-| [SDMUA-070](SDMUA-070.md) | — |Lori's Milk Farmer.|
-| [STARS-979](STARS-979.md) | SOD Create |Beautiful NTR.|
+| [ABP-984](ABP-984.md) | Prestige | 中出し射精執行官 05 |
+| [AVOP-404](AVOP-404.md) | SOD Create | An all-Chinese AV OPEN entry |
+| [EBOD-613](EBOD-613.md) | E-BODY | 超美巨乳ネットカフェ店員 |
+| [IPX-177](IPX-177.md) | Idea Pocket | 絶対領域 little-sister training |
+| [IPZ-612](IPZ-612.md) | Idea Pocket | A beautiful teacher / teasing-woman theme |
+| [IPZ-901](IPZ-901.md) | Idea Pocket | Tight-skirt teacher seduction |
+| [JUFD-387](JUFD-387.md) | Fitch | 淫語寸止め焦らし痴女 |
+| [JUFD-531](JUFD-531.md) | Fitch | 狂おしい受精 生中出し |
+| [JUFE-016](JUFE-016.md) | Fitch | 密着唾液痴女 |
+| [KBI-001](KBI-001.md) | KANBi | The debut title of Honoka Yonekura |
+| [SDDE-704](SDDE-704.md) | SOD Create | 生意気ギャルアナル中出し |
+| [SDMUA-070](SDMUA-070.md) | — | A little-sister milk-farm story |
+| [STARS-979](STARS-979.md) | SOD Create | 美人ホテリエNTR |
 
-## Entry Format
+## Entry format
 
-The entries contain basic information and associated entities.
+A work entry contains basic information plus the entities related to it.
 
 ```yaml
 ---

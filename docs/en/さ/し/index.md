@@ -1,18 +1,18 @@
-# Zoom — Tonight
+# Shi column (し段) — Sa row (さ行)
 
-The first female to be included in this section is the female chorus, which starts with the "single."
+This column lists actresses whose stage name begins with し (row さ, column し).
 
-## Entry
+## Entries
 
-- [♪ I'm a twilight ♪](澁谷果歩.md)
-- [White twilight.](白浜果歩.md)
-- [Quest name](椎名空.md)
-- [Whitestone Jasmine.](白石茉莉奈.md)
-- [Mei Yu, White Peak](白峰美羽.md)
-- [The white silk flower.](白上咲花.md)
-- [White bird fragrance.](白鳥香里奈.md)
-- [Dong Yun Mei Ling](东云美玲.md)
+- [Kaho Shibuya](澁谷果歩.md)
+- [Kaho Shirahama](白浜果歩.md)
+- [Sora Shiina](椎名空.md)
+- [Marina Shiraishi](白石茉莉奈.md)
+- [Miu Shiramine](白峰美羽.md)
+- [Emika Shirakami](白上咲花.md)
+- [Karina Shiratori](白鳥香里奈.md)
+- [Mirei Shinonome](东云美玲.md)
 - [Julia](Julia.md)
-- [City Star.](城星凜.md)
-- [Yoo Kuda.](篠田优.md)
-- [Minami Kuda.](篠田步美.md)
+- [Seri Kizuki](城星凜.md)
+- [Yu Shinoda](篠田优.md)
+- [Shinoda Ayumi](篠田步美.md)

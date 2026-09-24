@@ -12,24 +12,24 @@ thumbnail: https://c0.jdbstatic.com/samples/9d/9DBm6_l_0.jpg
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 |------|--------|
-|- The sign.| EBOD-613 |
-|Title|The super-massive-assed-assed-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass-ass--ass-ass-ass-ass-ass--ass-ass--ass-ass--ass--ass---------------------------------------------------------------------------------------------------------|
-|Card| E-BODY |
-|Date of issue|23 December 2017|
-|Length|120 min|
-|Category|Amateur, breast, first person photography, various occupations|
-|Rating|The Queen of the West is a great city. 33 (468 evaluations)|
+| Product code | EBOD-613 |
+| Title | 超美巨乳なネットカフェ店員をお店の中でハメまくったAV ゆい |
+| Studio | E-BODY |
+| Release date | 23 December 2017 |
+| Runtime | 120 minutes |
+| Categories | Amateur, big breasts, first-person shooting, various occupations |
+| Rating | 4.33 (468 ratings)|
 
-## Actor.
+## Cast
 
-- Woman:[The eagle palace is in the middle of the](../た/た/鷹宮ゆい.md)
-- Men: Ishikawa, Zhuang
+- Actress: [Yui Takanomiya](../た/た/鷹宮ゆい.md)
+- Actor: 石川サダフミ、てくの
 
 ## Introduction
 
-The staff of the super-massive mini-cafés were completely attacked in the shop (silent). The first person's amateur works, called Perspectives, were produced and distributed by E-BODY.
+Yui, a stunning big-breasted net-café clerk, is taken apart right inside the shop (ハメまくった). An amateur-style release shot in the first person and produced and distributed by E-BODY.
 
 ### Original Japanese (missAV / FANZA)
 
@@ -42,5 +42,5 @@ The staff of the super-massive mini-cafés were completely attacked in the shop 
 ## References
 
 - [missAV page](https://missav.com/ebod-613)
-- [JavDB Page](https://javdb.com/v/9DBm6)
-- [E-BODY official network](https://www.ebody.jp/)
+- [JavDB page](https://javdb.com/v/9DBm6)
+- [E-BODY official site](https://www.ebody.jp/)

@@ -1,20 +1,20 @@
-# Heart-- a good one.
+# Mi column (み段) — Ma row (ま行)
 
-The first part of the show is called "Care" (Care) for women.
+This column lists actresses whose stage name begins with み (row ま, column み).
 
-## Entry
+## Entries
 
-- [Yoya Sanjo](三上悠亚.md)
-- ["Sweetly."](水菜丽.md)
-- [Mizuya](美谷朱音.md)
-- [Hearts of the hymns](みやび音羽.md)
-- [Mizuno.](美乃すずめ.md)
-- [Gardens and flowers](美園和花.md)
+- [Yua Mikami](三上悠亚.md)
+- [Rei Mizuna](水菜丽.md)
+- [Akari Mitani](美谷朱音.md)
+- [Otoha Miyabi](みやび音羽.md)
+- [Mino Suzume](美乃すずめ.md)
+- [Waka Misono](美園和花.md)
 - [Miru](Miru.md)
-- [No, no, no, no, no, no, no, no, no.](未步奈奈.md)
-- [Linnai, Your Majesty.](宫下玲奈.md)
-- [The Emperor of Miyashima.](宮島めい.md)
-- [Shuu-sakura.](水卜樱.md)
-- [Miura-su Yi](三浦芽依.md)
-- [Nanjyor Onai.](南梨央奈.md)
-- [Mimi-almond.](蜜美杏.md)
+- [Nana Miho](未步奈奈.md)
+- [Reina Miyashita](宫下玲奈.md)
+- [Mei Miyajima](宮島めい.md)
+- [Sakura Miura](水卜樱.md)
+- [Mei Miura](三浦芽依.md)
+- [Riona Minami](南梨央奈.md)
+- [An Mitsumi](蜜美杏.md)

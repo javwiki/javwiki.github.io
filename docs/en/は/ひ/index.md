@@ -1,9 +1,9 @@
-# VPhone - Line
+# Hi column (ひ段) — Ha row (は行)
 
-The first female in the film is the female.
+This column lists actresses whose stage name begins with ひ (row は, column ひ).
 
-## Entry
+## Entries
 
-- [Hitomi](Hitomi.md)
-- [Zenium](姫咲はな.md)
-- [I'm sorry, I'm sorry.](姫川ゆうな.md)
+- [Hitomi Tanaka（海外名义）](Hitomi.md)
+- [Hana Himesaki](姫咲はな.md)
+- [Yuuna Himekawa](姫川ゆうな.md)

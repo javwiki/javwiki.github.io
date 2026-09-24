@@ -1,7 +1,6 @@
-# け  —  —  —  — か か か  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —
+# Ke column (け段) — Ka row (か行)
 
-This section includes the female femininity of the stage with the name "Sill" starting with "Simple".
+This column lists actresses whose stage name begins with け (row か, column け).
 
-## Entry
+## Entries
 
-No entry.

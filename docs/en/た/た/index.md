@@ -1,14 +1,14 @@
-# た  —  —  —  — た た た  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —
+# Ta column (た段) — Ta row (た行)
 
-This section includes the female femininity of the stage with the name "Sill" starting with "Simple".
+This column lists actresses whose stage name begins with た (row た, column た).
 
-## Entry
+## Entries
 
-- [Son of Takahashi.](高桥圣子.md)
-- [The eagle palace is in the middle of the](鷹宮ゆい.md)
-- [- I'm worried about the field.](田野忧.md)
-- [Tserola.](泷泽萝拉.md)
-- [The orange celery.](橘芹那.md)
-- [Kalinea!](壇玲奈.md)
-- [Rikaikawa!](立川理恵.md)
-- [Yujiang](玉城マイ.md)
+- [Shoko Takahashi](高桥圣子.md)
+- [Yui Takanomiya](鷹宮ゆい.md)
+- [Yu Tano](田野忧.md)
+- [Rora Misaki](泷泽萝拉.md)
+- [Serina Tachibana](橘芹那.md)
+- [Dan Reina](壇玲奈.md)
+- [Rie Tachikawa](立川理恵.md)
+- [Mai Tamaki](玉城マイ.md)

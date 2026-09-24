@@ -7,74 +7,74 @@ disbanded: 2016年3月20日
 
 # me-me*
 
-Me-me* (ミーム) is a Japanese musical group of women icons, made up of women of T-POWERS. The group, which is based on the concept of "Old Men in the Spectrum" — "Adolators in the Spectrum of the Spectrum" — (Idol Groups of Adults to View, Hear and Enjoy), also carries out singing, dancing, live performances and overseas activities in addition to filming.
+me-me* (ミーム) is a Japanese girls' idol music group made up of actresses affiliated with T-POWERS. Built on the idea of 「大人が見て・聞いて・楽しめるアイドル・グループ」 (an idol group adults can watch, listen to and enjoy), the members besides filming also sang, danced, performed live and appeared overseas.
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|Group Name| me-me*（ミーム） |
-|Type|The women's idol music group.|
-|He's from his firm.| T-POWERS |
-|Form|Year 2011|
-|First live show.|Shiba, 11 February 2012|
-|End of activity|20 March 2016, final performance|
-|Representation|Japanese and Taiwan and the Philippines performances and events|
+| Group name | me-me* (ミーム) |
+| Type | Girls' idol music group |
+| Agency | T-POWERS |
+| Formed | 2011 |
+| First live show | 11 February 2012, 芝浦 Studio cube 326 |
+| End of activities | Final show on 20 March 2016 |
+| Signature activities | Shows and events in Japan, Taiwan and the Philippines |
 
 ## Introduction
 
-The women of T-POWERS are the most highly qualified members of the group. The official field campaign began in February 2012, with the simultaneous release of You are advanced and the Star Syndication! "Miror" "I Love" is four singles. The group attended the Taiwan Adult Fair and a private performance in Taiwan, and was invited to host a charity concert in Manila, Philippines.
+me-me* was selected from T-POWERS-affiliated actresses who loved music and dance and had considerable popularity. Live activities began properly in February 2012, with the four singles 《You are addicted》《星になるのだっ！》《mirror》《I♡愛》 released at the same time. The group took part in the Taiwan adult expo and a solo show in Taiwan, and was also invited to hold a charity concert in Manila, Philippines.
 
-After the graduation of Tobei Gai-chan in September 2015, the four-person system was organized with Maika, Shiva, Kaya Moi-hwa and Yuiji Hatano. The final performance was held on 20 March 2016 in Future SEVEN, South Qingshan, and the four members and earlier suspended activities of Senseon Mi, graduated from the group, ending with the activities of Me-me*.
+After 藤北彩香 graduated in September 2015, the group continued as a four: Maika, 神咲诗织, 佳苗琉花 and Yui Hatano. Its final show was held at 南青山 Future SEVEN on 20 March 2016, where the four members and 成瀬心美, who had earlier suspended activities, graduated together, ending me-me*'s activities.
 
 ## Members
 
-### Initial membership
+### Initial members
 
-|Artist Name|Japanese name|Remarks|
+| Stage name | Japanese name | Notes |
 | --- | --- | --- |
-| Maika | Maika |Initial membership|
-| [Masei.](../な/な/成濑心美.md)|It's beautiful.|Public events for health reasons suspended in February 2012; final public stage graduation in 2016|
-|You're so sweet.|You're so sweet.|Graduated in March 2014|
-| [Sakaki-sweethew!](../か/か/神咲诗织.md)|Sakura.|Initial membership|
-| めぐり | めぐり |Graduated in September 2012|
+| Maika | Maika | Initial member |
+| [Kokomi Naruse](../な/な/成濑心美.md) | 成瀬心美 | Suspended public activity from February 2012 for health reasons; graduated at the final show in 2016 |
+| 桜ここみ | 桜ここみ | Graduated March 2014 |
+| [Shiori Kamisaki](../か/か/神咲诗织.md) | 神咲詩織 | Initial member |
+| めぐり | めぐり | Graduated September 2012 |
 
-### Members subsequently joined
+### Later members
 
-|Artist Name|Japanese name|During the mission|
+| Stage name | Japanese name | Tenure |
 | --- | --- | --- |
-| [The Hatano Yui.](../は/は/波多野结衣.md)|The Hatano Yuji.|Accession in 2013 and graduation in 2016|
-|Tobes.|Tobes.|Accession in 2013 and graduation in September 2015|
-|Yoshimi-Yuhua.|Yoshimi.|Accession in 2013 and graduation in 2016|
+| [Yui Hatano](../は/は/波多野结衣.md) | 波多野結衣 | Joined 2013, graduated 2016 |
+| 藤北彩香 | 藤北彩香 | Joined 2013, graduated September 2015 |
+| 佳苗るか | 佳苗るか | Joined 2013, graduated 2016 |
 
-## Works
+## Releases
 
-### Mono
+### Singles
 
-- 11 February 2012: You are identified
-- 11 February 2012: Star Trek! I'm not sure.
-- 11 February 2012:miror
-- 11 February 2012: Love I
-- 2014: DEVILOVE/ありがとうDream box
-- 2014: WOMAN
+- 11 February 2012: 《You are addicted》
+- 11 February 2012: 《星になるのだっ！》
+- 11 February 2012: 《mirror》
+- 11 February 2012: 《I♡愛》
+- 2014: 《DEVILOVE/ありがとう～Dream box～》
+- 2014: 《WOMAN》
 
 ### DVD
 
-- March 2015: Me-me* Love Night Dream Box - a regular public performance and a heart-leaving graduation in 2014.
+- March 2015: 《me-me* Love Night Dream Box》 — includes footage of the 2014 regular shows and 桜ここみ's graduation ceremony.
 
 ## Overseas activities
 
-- August 2013: Participated in Taiwan 'Stairway 2013 'Information Fair and the Taiwan Adult Fair.
-- 2014: A charity concert in Manila, Philippines, invited by Neptune for entertainment.
-- January 2015: A single performance in Taiwan "me-me Touch me." I'm not sure if I'm going to be able to get a job.
+- August 2013: took part in Taiwan's 「2013中區資訊展」 and the Taiwan adult expo.
+- 2014: invited by 海王星娱乐 to hold a charity concert in Manila, Philippines.
+- January 2015: held the solo show 「me-me Touch me. Taiwan Only」 in Taiwan.
 
 ## References
 
-- [Jpop Wiki：me-me](https://jpop.fandom.com/wiki/Me-me)
-- [CAMPFIRE: The first-time-in-the-mill producer of the Chinese mother's "me-me" is a woman who has been a woman of the same age.](https://camp-fire.jp/projects/4042/view)
-- [BARKS: Me-me* The opening of the first solo show](https://barks.jp/news/704257/)
-- [BARKS: Me-me* Queens](https://barks.jp/news/765631)
+- [Jpop Wiki: me-me](https://jpop.fandom.com/wiki/Me-me)
+- [CAMPFIRE: produce the first album of the sexy, cool dance vocal unit 「me-me*」!](https://camp-fire.jp/projects/4042/view)
+- [BARKS: me-me* holds its first solo show](https://barks.jp/news/704257/)
+- [BARKS: me-me* graduation live](https://barks.jp/news/765631)
 
-## Related Entry
+## Related entries
 
-- [Group](./index.md)
+- [Groups](./index.md)

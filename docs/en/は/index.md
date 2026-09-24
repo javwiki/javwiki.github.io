@@ -1,8 +1,8 @@
-# Okay.
+# Ha row (は行)
 
-The first name for the recording is a "showing" by the "showing" by the "single-single-single-single-single-singling-singling-song-singling-song-singling-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-sing-s-sing-sing-s-sing-sing-s-sing-s-s-s-sing-s-s-s-sing-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s
+This row lists actresses whose stage name begins with a kana of the は row, including voiced 「ば・び・ぶ・べ・ぼ」 and semi-voiced 「ぱ・ぴ・ぷ・ぺ・ぽ」.
 
-## Paragraph Index
+## Column index
 
 - [は](./は/index.md)
 - [ひ](./ひ/index.md)

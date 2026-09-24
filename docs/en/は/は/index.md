@@ -1,14 +1,14 @@
-# Zoom — Line
+# Ha column (は段) — Ha row (は行)
 
-The following is a female femininity whose name is taken up in this section and begins with "single" (swinging in the line).
+This column lists actresses whose stage name begins with は (row は, column は).
 
-## Entry
+## Entries
 
-- [The Hatano Yui.](波多野结衣.md)
-- [Iwakawa, Lina.](早川瀬里奈.md)
-- [Hashimoto Arina](桥本有菜.md)
-- [Miyuki-chan.](羽咲美晴.md)
-- [The Yusheng Shing](羽生ありさ.md)
-- [Haneda Love](羽田爱.md)
-- [JAMI SHAHI](初美沙希.md)
-- [- Lian Silller.](莲实克蕾儿.md)
+- [Yui Hatano](波多野结衣.md)
+- [Serina Hayakawa](早川瀬里奈.md)
+- [Arina Hashimoto](桥本有菜.md)
+- [Miharu Usa](羽咲美晴.md)
+- [Arisa Hanyu](羽生ありさ.md)
+- [Ai Haneda](羽田爱.md)
+- [Saki Hatsumi](初美沙希.md)
+- [Kurea Hasumi](莲实克蕾儿.md)

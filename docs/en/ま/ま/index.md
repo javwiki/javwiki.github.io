@@ -1,8 +1,8 @@
-# Zoom — Line
+# Ma column (ま段) — Ma row (ま行)
 
-This section includes the female chorus, starting with the "sing" (swing section).
+This column lists actresses whose stage name begins with ま (row ま, column ま).
 
-## Entry
+## Entries
 
-- [Matsumoto!](松本一香.md)
-- [Makiko Makiki.](真木今日子.md)
+- [Ichika Matsumoto](松本一香.md)
+- [Kyoko Maki](真木今日子.md)

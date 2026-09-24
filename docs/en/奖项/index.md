@@ -1,18 +1,18 @@
 # Awards
 
-Japan's main award for the AV industry.
+The main awards of the Japanese AV industry.
 
-## Main awards
+## Major awards
 
-|Awards|Host|Year|Annotations|
+| Award | Organiser | Years | Notes |
 | --- | --- | --- | --- |
-| [FANZA Adult Award](fanza.md)|FANZA (formerly DMM.) R18)| 2014-2019 |Japan ' s most important award for the AV industry, uncatalyzed after 2020|
-| [Adult Broadcasting Award](skypa.md)| Sky PerfecTV! |2005-present|Adult Award for Industry, changed to EX-Golder Selection since 2022|
-| [AV OPEN](https://av-open.com) | DMM |Unscheduled|AV Competition|
-| [ADULTOPIA, COMMUNITY](ADULTOPIA.md)|Taiwan|2024 to date|Taiwan Adult Exhibition|
+| [FANZA Adult Award](fanza.md) | FANZA (formerly DMM.R18) | 2014-2019 | The most important award in the Japanese AV industry; not held after 2020 |
+| [Adult Broadcasting Awards](skypa.md) | Sky PerfecTV! | 2005–present | The adult-broadcasting industry awards; changed to the EX Girls selection from 2022 |
+| [AV OPEN](https://av-open.com) | DMM | Irregular | An AV release competition |
+| [ADULTOPIA 大人国](ADULTOPIA.md) | Taiwan | 2024–present | An adult exhibition event held in Taiwan |
 
-## References
+## Sources
 
-- [FANZA Network of Adult Award Officers](https://www.dmm.co.jp/adultaward/)
-- [Network of Adult Broadcasting Awards](https://adult-awards.com/)
+- [FANZA Adult Award official site](https://www.dmm.co.jp/adultaward/)
+- [Adult Broadcasting Awards official site](https://adult-awards.com/)
 - [AV OPEN](https://av-open.com)

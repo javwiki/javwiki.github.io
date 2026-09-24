@@ -7,124 +7,124 @@ enforced: 2022年6月23日
 full_name: 性をめぐる個人の尊厳が重んぜられる社会の形成に資するために性行為映像制作物への出演に係る被害の防止を図り及び出演者の救済に資するための出演契約等に関する特則等に関する法律
 ---
 
-# AV was in the victim's life.
+# AV出演被害防止・救済法
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|Official name|The first month of sexual intercourse is a year of personal and social values that have created a financial and behavioural image of the crime, and the law that prevents the death of the victim and the late actor from saving the victim from the crime.|
-|General|AV's play is on the prevention of murder. Save the victim. Save the victim.|
-|Decree number|Orders and 4-year Law 78|
-|Establishment|15 June 2022|
-|Publication|22 June 2022|
-|Implementation|23 June 2022|
-|Managed|The Ingovermental Council of Women and Men|
+| Official name | 性をめぐる個人の尊厳が重んぜられる社会の形成に資するために性行為映像制作物への出演に係る被害の防止を図り及び出演者の救済に資するための出演契約等に関する特則等に関する法律 |
+| Common name | AV出演被害防止・救済法, AV被害救済法, AV新法 |
+| Statute number | 令和4年法律第78号 |
+| Passed | 15 June 2022 |
+| Promulgated | 22 June 2022 |
+| In force | 23 June 2022 |
+| Administered by | Gender Equality Bureau, Cabinet Office |
 
-## Summary
+## Overview
 
-The AV Act for the Prevention of Death and Rescue (hereinafter "the new AV" Act) is a law and regulation that was enacted in Japan on June 23, 2022. It is the first law in Japan specifically designed to prevent and remedy damage caused by the AV (adult video) performance.
+The AV出演被害防止・救済法 (below, the "AV New Law") is a Japanese law in force since 23 June 2022. It is Japan's first law dedicated to preventing harm caused by AV (adult video) performances and providing relief to those harmed.
 
-The law was introduced in 2022 by the amendment of the Japanese Civil Code (which reduced the age of majority from 20 to 18 years) and was designed to protect the AV performers from ill-treatment such as coercion, deception, coercion and the provision of legal avenues for redress to victims.
+The law followed the 2022 revision of the Japanese Civil Code (lowering the age of majority from 20 to 18); it aims to protect AV performers from coercion, deception, compulsion and other improper treatment, and to give victims a route to legal relief.
 
 ### Scope of application
 
-- ** Subject**: All AV actors are protected regardless of sex, age
-- **Applicable work**: all types of sexual images including regular AV, personal AV, and peer AV
-- ** Authority**: Office of the President of the Republic of the Republic of Macedonia
-- **Consultative line**: #8891 (Counsellor's AV consultation)
+- **Persons covered**: all AV performers are protected regardless of gender or age
+- **Works covered**: all kinds of sexual video works, including regular AV, personally shot AV, doujin AV and similar
+- **Administering body**: Gender Equality Bureau, Cabinet Office
+- **Helpline**: #8891 (Cabinet Office AV performance harm consultation line)
 
-## Main elements
+## Main provisions
 
-### Duty of the cause
+### Duties of businesses
 
-The following requirements must be observed by the persons involved in the production of AV:
+AV production-related businesses must observe the following:
 
-- When entering into an engagement contract, the following must be specified in writing:
-  - Name, content, distribution
-  - The names of the actors, their age, etc.
-  - Cost and payment
-  - The actor has the right to withdraw his consent.
-- The actor must be informed of the right to withdraw.
-- Coercion, deception, coercion, etc.
-- The human dignity of the actor must be respected.
+- When concluding a performance contract, the following must be specified in writing:
+  - The title, content and distribution method of the work
+  - The performer's name, age and other basic information
+  - The performance fee and how it is paid
+  - The performer's right to withdraw consent
+- The performer must be informed of the right to withdraw
+- Coercion, deception, compulsion and other improper contract-making are prohibited
+- The performer's personal dignity must be respected
 
-### The rights of the actor
+### Rights of performers
 
-The performer has the following legal rights:
+Performers hold the following statutory rights:
 
-- ** Right of withdrawal**: Within one year of the publication of the work, the performer may withdraw his permission to perform without conditions
-- ** Prohibition of publication after withdrawal**: the cause may not continue to issue the work after withdrawal
-- ** Right to claim damages**: compensation may be sought from the cause in case of damage suffered as a result of the breach
-- **Deleting the right to request**: the possibility of requesting the withdrawal of relevant images from the network, etc.
+- **Right of withdrawal**: within one year of the work's release, the performer may withdraw consent unconditionally
+- **Distribution after withdrawal prohibited**: after withdrawal, the business may not continue distributing the work
+- **Right to claim damages**: when harmed by unlawful conduct, the performer may claim damages from the business
+- **Right to demand deletion**: the performer may demand removal of the relevant images from the internet and similar channels
 
 ### Legal liability
 
-Those who violate this Act may face the following penalties:
+Businesses that violate the law may face:
 
-- Executive direction, administrative advice
-- Publication of information on offenders
-- Criminal penalties (based on circumstances)
+- Administrative guidance and administrative recommendations
+- Publication of the offender's information
+- Criminal penalties (depending on the circumstances)
 
-## Founded at latitude
+## How it was enacted
 
 ### Legislative background
 
-Before the new AV Act, there were a number of problems in the AV industry in Japan:
+Before the AV New Law, the Japanese AV industry had a number of problems:
 
-- Young women are tricked and coerced into playing AV.
-- The actor can't withdraw the signed work.
-- It's hard to get it out of the web.
-- Lack of effective legal remedies for victims
+- Young women deceived and coerced into AV performances
+- Performers unable to withdraw from works they had contracted
+- Content spread over the network that was hard to erase completely
+- Victims lacking effective legal remedies
 
-The Civil Code was amended in 2022 to reduce the age of majority to 18 years, and young people aged 18-19 years were also able to contract, but the corresponding protection mechanisms needed to be put in place.
+After the 2022 Civil Code revision lowered the age of majority to 18, 18–19-year-olds also gained capacity to contract, and matching protection mechanisms were urgently needed.
 
 ### Legislative process
 
-- February 2022: Bills submitted to the National Assembly
-- 15 June 2022: passed by Senate vote
-- 22 June 2022: Officially published
-- 23 June 2022: immediate
+- February 2022: the bill was submitted to the Diet
+- 15 June 2022: passed by the House of Councillors
+- 22 June 2022: formally promulgated
+- 23 June 2022: brought into force immediately
 
-### Post-establishment amendments
+### Revisions after enactment
 
-In accordance with the actual situation following its implementation, the law contains provisions for an "assessment within two years of its establishment" to make the necessary amendments and refinements in the light of the effects of its implementation.
+Based on how things stood after entry into force, the law provides for an evaluation within two years of enactment, so that it can be amended and improved according to the effects of enforcement.
 
-## Related issues
+## Related debates
 
-### Supporting comments
+### Support
 
-- **Human rights protection**: the Act fills a gap in legal protection for AV actors
-- ** Redress mechanism**: legal basis for withdrawal and compensation for coerced, deceptive actors
-- ** Industry regulation**: promoting the normative development of the AV industry
+- **Human-rights protection**: the law fills a gap in the legal protection of AV performers
+- **Relief mechanism**: gives performers subjected to coercion or deception a legal basis for withdrawal and compensation
+- **Industry standards**: promotes the standardisation of the AV industry
 
-### Objections and challenges
+### Opposition and doubts
 
-- ** Implications for regular AV**: some views are that the Act may have an impact on the normal production of AV
-- ** Personal filming of AVs**: Doubting the regulatory effect of informal AVs such as personal filming, and the same person
-- ** The law applies the boundary**: the exercise of the right of withdrawal may affect third-party users
+- **Impact on regular AV**: some believe the law may affect normally operating AV production
+- **Regulating personally shot AV**: doubts remain about the effect on non-standard AV such as personal shoots and doujin AV
+- **Boundaries of application**: exercising the right of withdrawal may affect third-party users
 
-### Impact of the revision of the Civil Code
+### Effect of the Civil Code revision
 
-The Civil Code amendment, which was introduced in April 2022, lowered the age of majority from 20 to 18 years. Prior to that, persons under 20 years of age had to sign a contract with the consent of their guardian; after the amendment, persons aged 18-19 could do so independently, but the corresponding consumer protection and AV protections had become new subjects.
+The Civil Code revision in force from April 2022 lowered the age of majority from 20 to 18. Before then, anyone under 20 needed a guardian's consent to contract; after the revision, 18–19-year-olds can contract independently, but consumer protection and AV-performance protection became new issues.
 
-## Relevant Law
+## Related laws
 
-|Law|Annotations|
+| Law | Notes |
 | --- | --- |
-| [Civil law](民法.md)|The basic civil legal relationships of age of majority, contractual capacity, etc. are provided for|
-| [The kid who buys the baby is forbidden.](児童買春・児童ポルノ禁止法.md)|Protection of children from sexual exploitation|
-| [The Psychic Prevention Act](売春防止法.md)|Suppression of prostitution and related acts|
-| [The Women in Hardship Support Act](困難女性支援法.md)|Comprehensive support for women facing various difficulties|
-| [The prohibition on buying a human being.](人身売買禁止条約.md)|International treaties, prohibiting trafficking in persons|
-| [The law of custom and industry.](風俗営業法.md)|Regulation of customary practices|
-| [Professional Peace Act](職業安定法.md)|Regulation of employment and labour assignments|
-| [The law of the Zenmen.](労働者派遣法.md)|Regulation of labour assignments|
-| [The guy with the tweezer used the precautionary method.](リベンジポルノ防止法.md)|Regulating the dissemination of private life images|
+| [民法](民法.md) | Sets the age of majority, capacity to contract and other basic civil legal relations |
+| [児童買春・児童ポルノ禁止法](児童買春・児童ポルノ禁止法.md) | Protects children from sexual exploitation |
+| [売春防止法](売春防止法.md) | Bans prostitution and related conduct |
+| [困難女性支援法](困難女性支援法.md) | Comprehensive support for women facing various hardships |
+| [人身売買禁止条約](人身売買禁止条約.md) | An international convention banning the trade in persons |
+| [風俗営業法](風俗営業法.md) | Regulates the adult-entertainment trade |
+| [職業安定法](職業安定法.md) | Regulates job placement and worker dispatch |
+| [労働者派遣法](労働者派遣法.md) | Regulates matters related to worker dispatch |
+| [リベンジポルノ防止法](リベンジポルノ防止法.md) | Regulates the distribution of images of private life |
 
 ## External links
 
 - <https://ja.wikipedia.org/wiki/AV出演被害防止・救済法>
-- <https://laws.e-gov.go.jp/law/504AC1000000078> (Original of e-Gov Decree)
-- <https://zh.wikipedia.org/wiki/AV出演被害防止、救济法> (Wikipedia)
+- <https://laws.e-gov.go.jp/law/504AC1000000078> (e-Gov statute text)
+- <https://zh.wikipedia.org/wiki/AV出演被害防止、救济法> (Chinese Wikipedia)
 - <https://www.wikidata.org/wiki/Q112914483>

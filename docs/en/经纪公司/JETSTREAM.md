@@ -8,19 +8,19 @@ company: ジェットストリーム（JETSTREAM，合同会社JTS）
 ## Basic information
 
 - **Full name**: JETSTREAM (ジェットストリーム)
-- **Legal entity**: JTS LLC (合同会社 JTS)
-- **History**: established in 2017 in Asaka, Saitama as JTS LLC, producing web videos and radio programmes and running events for its actresses; the head office moved to Shibuya, Tokyo in 2019 and to the present address in 2022
-- **Location**: Zōshigaya, Toshima, Tokyo
-- **Association**: member of Japan production guild (JPG)
-- **Official site**: <https://jetjetjet.tokyo/>
+- **Legal entity**: 合同会社 JTS (LLC JTS)
+- **History**: Established in Asaka, Saitama in 2017 as LLC JTS, producing web video and broadcasts alongside the activities of its actresses; moved to Shibuya, Tokyo in 2019 and to its current address in 2022
+- **Location**: Zoshigaya, Toshima, Tokyo
+- **Association**: Member of the Japan Production Association (JPG)
+- **Website**: <https://jetjetjet.tokyo/>
 
-## Members
+## Roster
 
 | Name | Gojūon | Main studios |
 | --- | --- | --- |
-| [一条みお](../あ/い/一条みお.md) | あ row | IdeaPocket |
-| [七瀬いおり](../な/な/七瀬いおり.md) | な row | K.M.Produce (million) / Madonna |
-| [冬愛ことね](../た/と/冬愛ことね.md) | た row | kawaii* / ダスッ! |
+| [Mio Ichijou](../あ/い/一条みお.md) | A row | IdeaPocket |
+| [Nanase Iori](../な/な/七瀬いおり.md) | Na row | ケイ・エム・プロデュース (million) / Madonna |
+| [Kotone Tōa](../た/と/冬愛ことね.md) | Ta row | kawaii* / ダスッ! |
 
 ## References
 

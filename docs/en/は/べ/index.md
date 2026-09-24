@@ -1,7 +1,7 @@
-# べ Segment — Line
+# Be column (べ段) — Ha row (は行)
 
-This section includes the female femininity of the stage, beginning with the "single" (single-single-swap, including the "song-swap").
+This column lists actresses whose stage name begins with べ (classed as row ば, column え; included in the は row).
 
-## Entry
+## Entries
 
-- [ベアトリクス](ベアトリクス.md)
+- [Beatrix](ベアトリクス.md)

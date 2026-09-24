@@ -1,188 +1,188 @@
-# Vendor
+# Studios
 
-JAV manufacturers are producers and distributors of works, and different plant trademarks represent different content styles, production quality and market positioning. Knowledge of the main producers helps to quickly determine the type and quality of the work.
+JAV studios produce and distribute the releases; different studios stand for different content styles, production values and market positions. Knowing the major studios makes it quick to judge a title's type and quality.
 
-## Main vendor
+## Major studios
 
 ### [S1 NO.1 STYLE](S1%20NO.1%20STYLE.md)
 
-- ** Abbreviations: S1
-- **Standing**: **Standing ** **Standing **
-- ** Feature: Industry top manufacturers, known for high quality production and top female eugenics
-- **System**: Purely beautiful, pure, high-quality production
-- ** "Females of the Year"**: 3 Ukusa Yua, Hashimoto has vegetables, Hebei colours, Ishikawa, Maeji, etc.
+- **Short name**: S1
+- **Company**: エスワン ナンバーワンスタイル
+- **Features**: A top-tier studio known for high production values and a top-class roster
+- **Style**: Pure bishoujo, innocent look, high production values
+- **Notable actresses**: Yua Mikami, Arina Hashimoto, Saika Kawakita, Mio Ishikawa, Tsukasa Aoi, etc.
 
 ### [Moodyz](MOODYZ.md)
 
-- ** Abbreviations: MD
-- **According to **:
-- ** Feature**: One of the largest producers in the industry, with a large number of works, with several sub-brands under the flag
-- **System**: Diversity, covering a wide range of subjects
-- ** Reputable female **: Ammi, Maple, etc. in the deep field
+- **Short name**: MD
+- **Company**: ムーディーズ
+- **Features**: One of the largest studios in the industry, with a huge output and several sub-labels
+- **Style**: Diverse, covering all kinds of themes
+- **Notable actresses**: Eimi Fukada, Kaede Fua, etc.
 
 ### [IdeaPocket](IdeaPocket.md)
 
-- ** Abbreviations: IP
-- **According to **:
-- ** Feature**: high-quality production and famous for beauty
-- **System**: americana, lovership, high quality
-- ** Prominent female **: peaches and Sishima Ae Ri, etc.
+- **Short name**: IP
+- **Company**: アイデアポケット
+- **Features**: Known for high production values and bishoujo-style titles
+- **Style**: Bishoujo, girlfriend feel, high production values
+- **Notable actresses**: Kana Momonogi, Airi Kijima, etc.
 
 ### [Attackers](Attackers.md)
 
-- ** Abbreviations: AT
-- **According to**:
-- ** Feature**: Predominantly known as the "Fact and Abuse "
-- **System**: The Fiction, The Abuse, The Darkness
-- ** Remarkable femininity** : Lotus Claire et al.
+- **Short name**: AT
+- **Company**: アタッカーズ
+- **Features**: Known for story-driven and subjugation-themed releases
+- **Style**: Story-driven, subjugation, dark themes
+- **Notable actresses**: Kurea Hasumi, etc.
 
 ### [Prestige](Prestige.md)
 
-- ** Abbreviations: PG
-- **According to **:
-- ** Feature**: Prominent in terms of human and entrepreneurial activities
-- **System**: Sudoku, strategizing, diversifying
-- ** Remarkable female **: 7Zamia, 6 Hana Ono, etc.
+- **Short name**: PG
+- **Company**: プレステージ
+- **Features**: Known for amateur-style and concept-driven releases
+- **Style**: Amateur-style, concept-driven, varied
+- **Notable actresses**: Mia Nanasawa, Rikka Ono, etc.
 
 ### [KANBi](KANBi.md)
 
-- **Abbreviation**: KB
-- **Group**: Prestige
+- **Short name**: KB
+- **Company**: Prestige group
 - **Founded**: 2018
-- **Features**: Prestige's wife and mature-woman specialty label
-- **Style**: Wife themes, mature-woman themes, beautiful mature women
+- **Features**: A Prestige brand dedicated to married women and mature models
+- **Style**: Married-woman, mature women, elegant mature looks
 
 ### [KMP](KMP.md)
 
-- **Abbreviation**: KMP
-- **Operator**: K.M.Produce (ケイ・エム・プロデュース)
+- **Short name**: KMP
+- **Company**: ケイ・エム・プロデュース
 - **Founded**: 2002
-- **Features**: veteran manufacturer, the largest player in VR, known for converting popular non-exclusive actresses into exclusive talent
-- **Style**: diverse; sub-labels include million and 宇宙企画
-- **Notable actresses**: 七瀬いおり、弥生みづき ほか
+- **Features**: A long-established studio; the largest player in VR, known for turning popular non-exclusive (kikaku) actresses into exclusives
+- **Style**: Varied; sub-labels include million and 宇宙企画
+- **Notable actresses**: Nanase Iori, Mizuki Yayoi, etc.
 
 ### Madonna
 
-- ** Abbreviations: JU
-- **According to**:
-- ** Feature**: Prominent in the lineage and in the lineage
-- **System**: know-how, wife, playbook
-- ** Reputable female ** : * * The wind is beautiful, white jasmine, etc.
+- **Short name**: JU
+- **Company**: マドンナ
+- **Features**: Known for mature-woman and married-woman releases
+- **Style**: Mature women, married women, story-driven
+- **Notable actresses**: Yumi Kazama, Marina Shiraishi, etc.
 
 ### Wanz Factory
 
-- ** Abbreviations: WF
-- **According to**:
-- ** Feature**: Multiverse work style
-- **System**: Diversity, covering a wide range of subjects
-- ** Reputable female ** by Aikane et al.
+- **Short name**: WF
+- **Company**: ワンズファクトリー
+- **Features**: A varied release style
+- **Style**: Varied, covering all kinds of themes
+- **Notable actresses**: Jun Mizukawa, etc.
 
 ### FALENO
 
-- ** Abbreviations: FL
-- **According to **:Appendix
-- ** Feature**: Emerging manufacturers, known for high-quality production
-- **System**: High-quality production, diversity
-- ** Prominent female **: poor, giganining, etc.
+- **Short name**: FL
+- **Company**: ファレノ
+- **Features**: A newer studio known for high production values
+- **Style**: High production values, varied
+- **Notable actresses**: Karen Yuzuriha, Nene Yoshitaka, etc.
 
-### In this book.
+### 本中
 
-- ** Abbreviations: HM / HN
-- **According to **:
-- ** Feature**: known for its work
-- **System**: middle-range, plot-oriented
+- **Short name**: HM / HN
+- **Company**: 本中
+- **Features**: Known for creampie releases
+- **Style**: Creampie, story-driven
 
 ### SOD (Soft On Demand)
 
-- ** Abbreviations: SOD
-- **According to **: SODクリエイト
-- ** Feature**: Prominent in creative business and prototypes, with multiple sub-brands under the banner
-- **System**: Protective, protégé, creative
-- ** Reputable female **: Shinya Todo, Ben-soon, etc.
+- **Short name**: SOD
+- **Company**: SODクリエイト
+- **Features**: Known for creative concepts and amateur-style releases, with several sub-labels
+- **Style**: Concept-driven, amateur-style, heavy on ideas
+- **Notable actresses**: Makoto Toda, Suzu Honjo, etc.
 
 ### E-BODY
 
-- ** Abbreviations: EB, United Nations Office at Geneva.
-- **According to **: E-BODY
-- ** Feature**: Prominently female
-- **System**: Body value, mega-milk
-- ** Reputable female **: Apricot and others
+- **Short name**: EB
+- **Company**: E-BODY
+- **Features**: Known for actresses with outstanding figures
+- **Style**: Physique-focused, big-breast genre
+- **Notable actresses**: Anri Okita, etc.
 
 ### kawaii*
 
-- ** Abbreviations: KW
-- **According to **:
-- ** Feature**: Pre-eminently known as the Cute, Clean and Pure
-- **System**: Cute, pure, young
-- ** Reputable female **: No step, no step, no time.
+- **Short name**: KW
+- **Company**: カワイイ
+- **Features**: Known for cute and innocent-looking actresses
+- **Style**: Cute, innocent look, young
+- **Notable actresses**: Nana Miho, etc.
 
 ### MUTEKI
 
-- ** Abbreviations: MK
-- ** Belonged to**: MUTEKI
-- ** Feature**: Uncoded manufacturer-owned proprietary platform with high visibility of outgoing works
-- New guy out, no code, no code.
-- ** Reputable female ** : Former platform for many well-known female *
+- **Short name**: MK
+- **Company**: MUTEKI
+- **Features**: An uncensored-to-censored exclusive platform whose debut titles draw a lot of attention
+- **Style**: Newcomer debuts, uncensored to censored
+- **Notable actresses**: Has served as the debut platform for a number of well-known actresses
 
 ### MAXING
 
-- ** Abbreviations: MEX
-- **According to**:
-- ** Feature**: Most known for diverse works
-- **Symmetry**: Diversity, high quality
+- **Short name**: MX
+- **Company**: マキシング
+- **Features**: Known for a varied body of work
+- **Style**: Varied, high production values
 
 ### MAX-A
 
-- ** Abbreviations: MA
-- **According to **:マックス
-- ** Feature**: Old-time manufacturer, known as the girl.
-- **System**: Quest, Pure School
+- **Short name**: MA
+- **Company**: マックス・エー
+- **Features**: A long-established studio known for bishoujo titles
+- **Style**: Bishoujo, innocent look
 
 ### Alice Japan
 
-- ** Abbreviations: AK,
-- **According to **: アリスJAPAN
-- ** Feature**: Old-fashioned manufacturers, diverse styles of work
-- **Symmetry**: Diversity, Classical Faculty
+- **Short name**: AK
+- **Company**: アリスJAPAN
+- **Features**: A long-established studio with a varied catalogue
+- **Style**: Varied, classic
 
-## Vendor classification
+## Studio categories
 
 ### By content type
 
-|Type|On behalf of the manufacturer|Characteristics|
+| Type | Representative studios | Character |
 | --- | --- | --- |
-|The Queens Department.| S1、IdeaPocket、kawaii* |Clean, high-quality production|
-|The plot.| Attackers、Madonna |It's a rich play. It's a very demanding show.|
-|Project direction| Moodyz、Prestige、SOD |The subject is diverse and creative.|
-|The familiar.| Madonna |She's a woman, a wife.|
-|Out of the system.|This is the one.|♪ And the theme ♪|
-|Body system| E-BODY |Body size, mammoth.|
+| Bishoujo (pretty-girl) style | S1、IdeaPocket、kawaii* | Innocent look, high production values |
+| Story-driven | Attackers、Madonna | Rich plots, demanding acting |
+| Concept-driven (kikaku) | Moodyz、Prestige、SOD | Varied themes, heavy on ideas |
+| Mature women | Madonna | Mature and married-woman themes |
+| Creampie | 本中、ダスッ! | Creampie themes |
+| Physique-focused | E-BODY | Physique first, big-breast genre |
 
-### By Quality
+### By production tier
 
-|Level|On behalf of the manufacturer|Characteristics|
+| Tier | Representative studios | Character |
 | --- | --- | --- |
-|Top| S1、IdeaPocket |High-quality production, top-level formation.|
-|First Line| Moodyz、Prestige、Attackers、FALENO |Quality stability, wealth of material|
-|Second line|Other manufacturers|Multi-purpose, pro-people price.|
+| Top | S1、IdeaPocket | High production values, top-tier line-up |
+| First tier | Moodyz、Prestige、Attackers、FALENO | Consistent quality, wide range of themes |
+| Second tier | Other studios | Varied themes, easy on the wallet |
 
-## Vendor-women relations
+## Studios and actresses
 
-### It's exclusive to the woman.
+### Exclusive actresses
 
-Some women are under exclusive contract with a particular manufacturer, where only the works are distributed. Female exclusive excellence is usually better resourced and promoted.
+Some actresses sign exclusive contracts with a specific studio and release only for it. Exclusive actresses usually get better resources and promotion.
 
-### Non-exclusive female femininity
+### Non-exclusive actresses
 
-Most women are in a non-exclusive situation and can publish their work in a number of factories. In such cases, the female style of work is more diverse.
+Most actresses are non-exclusive and may release with several studios. In that situation an actress's catalogue tends to be more varied.
 
-## Relevant classifications
+## Related categories
 
-- **[Series](../系列/)** — fixed-title series released by manufacturers
-- **[Agencies](../经纪公司/)** — talent agencies of the actresses
-- **[Works](../作品/)** — individual titles indexed by product number
+- **[Series](../系列/)** — fixed title series released by studios
+- **[Agencies](../经纪公司/)** — the agencies actresses belong to
+- **[Works](../作品/)** — individual releases, filed by product code
 
 ## References
 
-- Official websites of manufacturers
-- JAVDB and other information stations
+- The official website of each studio
+- Databases such as JAVDB

@@ -8,21 +8,21 @@ company: CRUSE GROUP
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|Official name| CRUSE GROUP |
-|Characteristics|Prominent brokering companies in industry|
-|Operations|Women's brokerage, production, etc.|
+| Official name | CRUSE GROUP |
+| Profile | A well-known industry agency |
+| Services | Actress management, release production, etc. |
 
 ## Introduction
 
-Cruse GROUP is a well-known broker in the AV industry in Japan, with many highly regarded women. Companies are focused on developing female-dominated individual brands and career development, and have a high degree of influence in the industry.
+CRUSE GROUP is a well-known agency in the Japanese AV industry with several popular actresses on its roster. The company focuses on building its actresses' personal brands and careers, and has considerable standing in the industry.
 
-## The woman under the flag.
+## Roster
 
-|Name|Fifty.|Main producer|
+| Name | Gojūon | Main studios |
 | --- | --- | --- |
-|Uygur Miyuki (former, 2017-2023)|Line|This is the first time I've seen you. (Dual exclusive)|
+| Akari Mitani (former member, 2017-2023) | Ma row | 本中, Das! (dual exclusive) |
 
 ## References
 

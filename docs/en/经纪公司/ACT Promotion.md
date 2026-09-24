@@ -7,11 +7,11 @@ name: ACT Promotion
 
 ## Basic information
 
-- ** Full name**: ACT Organization (ACT Office)
-- ** Feature**: Prominent brokerage companies in industry
+- **Full name**: ACT Promotion (ACT事務所)
+- **Profile**: A well-known industry agency
 
-## The woman under the flag.
+## Roster
 
-|Name|Fifty.|Main producer|
+| Name | Gojūon | Main studios |
 | --- | --- | --- |
-|Acetusaki.|Okay.| PRESTIGE |
+| Sakino Oto | A row | PRESTIGE |

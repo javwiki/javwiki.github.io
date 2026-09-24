@@ -8,12 +8,12 @@ company: NAX（New Actor Experience）
 
 ## Basic information
 
-- ** Full name**: NAX (New Actor Exchange)
-- ** Feature**: Prominent brokerage companies in industry
+- **Full name**: NAX (New Actor Experience)
+- **Profile**: A well-known industry agency
 
-## The woman under the flag.
+## Roster
 
-|Name|Fifty.|Main producer|
+| Name | Gojūon | Main studios |
 | --- | --- | --- |
-|Play the florist|Okay.|MOODYZ/This book/Fitch|
-|Ito dance snow|Okay.| Kawaii* |
+| Kanon Kanade | Ka row | MOODYZ, 本中, Fitch |
+| Mayuki Ito | A row | Kawaii* |

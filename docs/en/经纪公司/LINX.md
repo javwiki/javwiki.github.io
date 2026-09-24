@@ -7,16 +7,16 @@ name: LINX
 
 ## Basic information
 
-- ** Full name**: linX
-- ** Feature**: Prominent brokerage companies in industry
+- **Full name**: LINX
+- **Profile**: A well-known industry agency
 
-## The woman under the flag.
+## Roster
 
-|Name|Fifty.|Main producer|
+| Name | Gojūon | Main studios |
 | --- | --- | --- |
-|Peachy-muchannai.|Line| IdeaPocket |
-|Aoi lilies.|Okay.| Madonna |
-|♪ ♪ ♪ ♪ Woo-wood tonight ♪|Okay.| Madonna |
+| Kana Momonogi | Ma row | IdeaPocket |
+| Yurika Aoi | A row | Madonna |
+| Sara Uruki | A row | Madonna |
 
 ## References
 

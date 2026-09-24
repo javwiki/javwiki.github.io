@@ -1,38 +1,38 @@
 ---
 type: event
-title: TSE 台灣寫真博覽會
+title: TSE Taiwan Shot Expo
 ---
 
-# TSE Taiwan Real Fair
+# TSE Taiwan Shot Expo
 
-TSE (Taiwan Shot Expo, Taiwan Real Exposition) was the first of a writing fair in Taipei, Taiwan, in 2017, with the participation of the first of its kind, the "Such" and "AV" women, and the "Coser" and "Creative" participants from Taiwan, Korea, Thailand, etc. The event took the form of close interaction, such as shooting exchanges and signing photos.
+TSE (Taiwan Shot Expo, 台灣寫真博覽會) is a photo expo held in Taipei, Taiwan, first held in 2017 and centred on gravure idols (寫真女星) and AV actresses, with cosplayers and influencers from Taiwan, South Korea, Thailand and similar places also taking part. The event is built around close-range interaction such as photo shoots and signing sessions.
 
-The event was suspended as a result of the demolition of the venue (Thaibei III), resumed seven years after default in 2024 and was part of the same sponsorship system with TRE (the "TRE AV EVENT" project was established in late 2024).
+Because the venue (Taipei World Trade Center Hall 3) was demolished, the event was suspended for a time; it resumed in 2024 after roughly seven years, and shares an organizing system with TRE (the late-2024 edition carried a 「TRE AV EVENT」 feature).
 
 ## Basic information
 
-- ** Full name**: TSE Taiwan Real Fair (Taiwan Real Fair)
-- ** English name**: Taiwan Shot Express
-- ** Place of organization**: Taipei (World Trade III, Matsunaga Park, Southport Exhibition, etc.)
-- ** Initial**: 2017
-- ** Format**: Real shoot, sign-off photo, theme gallery interaction
+- **Full name**: TSE 台灣寫真博覽會 (Taiwanese photo expo)
+- **English name**: Taiwan Shot Expo
+- **Venue**: Taipei (Taipei World Trade Center Hall 3, Songshan Cultural and Creative Park, Nangang Exhibition Center, etc.)
+- **First held**: 2017
+- **Format**: photo shoots, signing and photo sessions, themed hall interaction
 
-## Previous activities
+## Past editions
 
-|Year|Time|Locations|Remarks|
+| Year | Date | Venue | Notes |
 | --- | --- | --- | --- |
-| 2017 |2-5 November|Taipei 3 World Trade Center|In the first session, the 100 Chinese writers from the Chinese Republic participated in the event.|
-| 2024 |26-28 January|Taipei Tobacco Creation Park, 2-5.|7 years, recommenced, Zi Xian Ling Dream, Ito Dance Snow, etc.|
-| 2024 |27-29 December|2nd Hall, North and South Port Exhibition|On the theme of the "Students of the School Festival" , Miru, Linnai Uymei, Tiangi, Nagasamina, Senshi Zhisumi, etc.|
+| 2017 | 2–5 November | Taipei World Trade Center Hall 3 | First edition; over a hundred gravure idols and actresses from Taiwan, Japan and Korea attended |
+| 2024 | 26–28 January | Warehouses 2–5, Songshan Cultural and Creative Park, Taipei | Resumed after roughly seven years; 凉森玲梦, Mayuki Ito and others attended |
+| 2024 | 27–29 December | 4F, Nangang Exhibition Center Hall 2, Taipei | Themed 「學服祭」; Miru, Reina Miyashita, 天木纯, 长泽茉里奈, 森咲智美 and others attended |
 
 ## Main features
 
-- ** Photographic exchange**: several thematic galleries and film scenes for participants to take a photo of the collection
-- ** Pluralistic framework**: Besides Japanese writing idols and AV women, we invite Coser and Net Red from Taiwan, Korea, Thailand, etc.
-- **Themes and projects**: past themes such as the holding of educational festivals and the promotion of projects with other adult exhibitions (e.g., TRE)
+- **Photo shoots**: several themed halls and shooting scenes where visitors can shoot and collect photos
+- **A line-up beyond Japan**: besides Japanese gravure idols and AV actresses, cosplayers and influencers from Taiwan, South Korea, Thailand and similar places are invited
+- **Themed features**: past editions have carried themes such as a school festival, with joint features with other adult expos (such as TRE)
 
 ## References
 
-- The Taiwan Media, Central, NoWnews, ETtoday, and others
-- The official community (hotexpo). I'm sorry, com. tw related account)
-- The Japanese news media and Japanese fans are reporting on TSE
+- Years of coverage by Taiwan media such as Central News Agency, NOWnews and ETtoday
+- Official social accounts (shotexpo.com.tw related accounts)
+- Coverage of TSE by Japanese media and Japanese fan sites

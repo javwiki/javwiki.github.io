@@ -5,33 +5,33 @@ studio: OPPAI
 first_release: 2014
 ---
 
-# The woman is now in the breast of a woman who has been seduced by a child.
+# 彼女のお姉さんは巨乳と中出しOKで僕を誘惑
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|Series name|The woman is now in the breast of a woman who has been seduced by a child.|
-|Cards| OPPAI（オッパイ）|
-|Year of launch|2014|
-|Theme|Sister, breasts, out, seduce.|
+| Series name | 彼女のお姉さんは巨乳と中出しOKで僕を誘惑 |
+| Label | OPPAI (オッパイ) |
+| First released | 2014 |
+| Theme | Older sister, big breasts, creampies, temptation |
 
 ## Introduction
 
-The Super Long-Live-Eurvimate Breast Induce Series under the banner OPPAI (オッパイ), launched in August 2014 with PPPD-308 (Bodano Yugil). The core is set by the sister of the girlfriend (the girl who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who uses the breast and the other who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who uses the one who is the one who uses the one who uses the other
+An extra-long-running big-breast temptation series under OPPAI (オッパイ), started in August 2014 with PPPD-308 (波多野結衣). The core setting is the girlfriend's older sister (彼女のお姉さん) using her big breasts and permission for creampies to seduce the male lead.
 
-The series, which has been published by 2026, has over 100 works (single-body, BEST and VR) as one of the most representative long-lived series of OPPAI cards. Published in 2014-2021 under the PPP number and converted into the PPPE number since 2022. A few other derivatives, entitled "The Mother of the Bride"... (the mother of the girlfriend), are available in the website.
+The series keeps "the older sister's temptation" as a fixed theme; by 2026 it has issued more than 100 works (including solo titles, BEST compilations and VR titles), making it one of OPPAI's most representative long-running series. It used PPPD codes from 2014 to 2021 and switched to PPPE codes from 2022. A small number of derivative works titled 「彼女のお母さん…」 (the girlfriend's mother) are filed under this series as well.
 
-## Series Characteristics
+## Features
 
-- Core setup: girlfriend's sister has actively seduced the lead man
-- Create a full series for OPPAI
-- 2014-2021 Issued under PPP (approximately 80)
-- From 2022 to the PPP code.
-- Including the BEST collection (PPBD +) and VR works
-- Very few derivatives, entitled "The Woman in the House"... are included in this series.
+- Core setting: the girlfriend's older sister actively seduces the male lead
+- The whole series is produced by OPPAI
+- Released under PPPD codes from 2014–2021 (about 80 titles)
+- Switched to PPPE codes from 2022
+- Includes BEST compilations (PPBD codes) and VR titles
+- A very small number of derivative titles starting 「彼女のお母さん…」 are filed under this series
 
 ## References
 
-- [JavDB Series Page](https://javdb.com/series/8Vza)
-- OPPAI Network of Officials
+- [JavDB series page](https://javdb.com/series/8Vza)
+- OPPAI official site

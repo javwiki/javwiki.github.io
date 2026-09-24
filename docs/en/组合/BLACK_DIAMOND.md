@@ -6,67 +6,67 @@ debut: 2023年3月
 
 # BLACK DIAMOND
 
-BLACK DIAMOND is a dance and singing group in Japan (the mother and the son of a girl), which was composed of four active members and one retired AV woman in March 2023. The group is targeted at "women's empowerment" and its members are mostly AV women of or withdrawn from the brokerage companies, with both iconic and musical affiliations.
+BLACK DIAMOND is a Japanese dance and vocal unit formed in March 2023 by four active and one retired AV actress. At debut the group was positioned around 「女性のエンパワーメント」 (female empowerment); its members are mostly AV actresses currently signed to, or retired from, various agencies, and the group has the character of both an idol and a music unit.
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|Group Name| BLACK DIAMOND |
-|Date of establishment|March 2023|
-|Type|Dance and singing group (women ' s group)|
-|Founding member|4 active + 1 withdrawn AV Female|
-|Music producer.|ACE1 (since January 2025)|
-|Official website| <https://black-diamond.bitfan.id/> |
+| Group name | BLACK DIAMOND |
+| Formed | March 2023 |
+| Type | Dance and vocal unit (girls' group) |
+| Founding members | 4 active + 1 retired AV actresses |
+| Music producer | ACE1 (from January 2025) |
+| Official website | <https://black-diamond.bitfan.id/> |
 
 ## Members
 
 ### Active members
 
-|Artist Name|Name|Mission time|
+| Stage name | Name | Joined |
 | --- | --- | --- |
-| L.V | [Sayama-love.](../さ/さ/佐山爱.md) Sawa-ho|Original members|
-| Marilyn | [Whitestone Jasmine.](../さ/し/白石茉莉奈.md)|March 2025|
-| RIONA |Hirse Riona|July 2025|
-| RUNA | RUNA |July 2025|
+| L.V | [Ai Sayama](../さ/さ/佐山爱.md) (佐山愛) | Founding member |
+| Marilyn | [Marina Shiraishi](../さ/し/白石茉莉奈.md) | March 2025 |
+| RIONA | 広瀬りおな (Hirose Riona) | July 2025 |
+| RUNA | RUNA | July 2025 |
 
-### Support members
+### Supporting members
 
-|Artist Name|Name|Mission time|
+| Stage name | Name | Joined |
 | --- | --- | --- |
-| MARIA | [Nagai-san.](../な/な/永井マリア.md)|February 2024|
+| MARIA | [Maria Nagai](../な/な/永井マリア.md) | February 2024 |
 
 ### Former members
 
-|Artist Name|Name|During the mission|
+| Stage name | Name | Tenure |
 | --- | --- | --- |
-| ARIS |Otsu Alice|Original members; self-emission in February 2024|
-| MIIRO |Momosaki Miiro, old art name, 7th Heart.|Original member; withdrawal November 2024|
-| MARY |Orange (Tachibana Mary, alias DJ Mary)|Original member; withdrawal March 2025|
-| ANRI | [Apricot, Oda](../あ/お/冲田杏梨.md) (Apricot Konata)|Original member; withdrawal November 2025|
-| RENA |Mizuno Natsuki|Mission in May 2025; withdrew in November 2025|
+| ARIS | 乙アリス (Otsu Alice) | Founding member; left of her own accord in February 2024 |
+| MIIRO | 百咲みいろ (Momosaki Miiro, former name 七咲みいろ) | Founding member; left in November 2024 |
+| MARY | 橘メアリー (Tachibana Mary, also DJ MARY) | Founding member; left in March 2025 |
+| ANRI | [Anri Okita](../あ/お/冲田杏梨.md) (沖田杏梨) | Founding member; left in November 2025 |
+| RENA | 水乃渚月 (Mizuno Natsuki) | Joined May 2025; left in November 2025 |
 
-## Experience
+## Timeline
 
-- ** March 2023: ** Grouping, which is based on the term "women's " .
-- ** June 2023**: start of selection of additional members.
-- ** February 2024: ARIS withdrew itself and MARIA joined as a supporting member.
-- ** November 2024**: MIIRO exit.
-- ** January 2025**: ACE1 joined as music producer; official launch of the new member contest, scheduled for 20 March.
-- ** March 2025**: MARY exits and Marilyn joins as a new member.
-- ** May 2025: * Accession.
-- ** July 2025**: RIONA, RUNA Accession.
-- ** November 2025**: RENA, ANRI exit.
+- **March 2023**: the group was formed, debuting with the positioning 「女性のエンパワーメント」.
+- **June 2023**: began selecting additional members.
+- **February 2024**: ARIS left; MARIA joined as a supporting member.
+- **November 2024**: MIIRO left.
+- **January 2025**: ACE1 joined as music producer; the official new-member guess-the-member game was announced, with the reveal set for 20 March.
+- **March 2025**: MARY left; Marilyn joined as a new member.
+- **May 2025**: RENA joined.
+- **July 2025**: RIONA and RUNA joined.
+- **November 2025**: RENA and ANRI left.
 
-## Works
+## Releases
 
 ### Album
 
-|Issue date|Title|
+| Release date | Title |
 | --- | --- |
-|19 May 2024| SHINING DIAMONDS |
+| 19 May 2024 | SHINING DIAMONDS |
 
-### Number Mono
+### Digital singles
 
 - 21 March 2023: Super Duper
 - 21 March 2023: hungry spider
@@ -77,15 +77,15 @@ BLACK DIAMOND is a dance and singing group in Japan (the mother and the son of a
 - 7 February 2024: TOXIC
 - 14 February 2024: Ecstasy
 - 21 February 2024: Get Down
-- 17 April 2025: Byebybyey
+- 17 April 2025: ByeByeBye
 
 ## References
 
 - [BLACK DIAMOND official website](https://black-diamond.bitfan.id/)
-- [BLACK DAMOND Official X](https://twitter.com/BD20230321)
-- [BLACK DAMOND Official YouTube](https://www.youtube.com/channel/UCQV5ZBsxSNrgMQtbhFD3NbQ)
-- [natalie: The mother's wife, the daughter of the daughter, is a woman.](https://natalie.mu/music/news/516120)
+- [BLACK DIAMOND official X](https://twitter.com/BD20230321)
+- [BLACK DIAMOND official YouTube](https://www.youtube.com/channel/UCQV5ZBsxSNrgMQtbhFD3NbQ)
+- [natalie: dance & vocal unit BLACK DIAMOND starts, aiming to exist with "female empowerment"](https://natalie.mu/music/news/516120)
 
-## Related Entry
+## Related entries
 
-- [Group](./index.md)
+- [Groups](./index.md)

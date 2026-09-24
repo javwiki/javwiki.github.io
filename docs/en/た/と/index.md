@@ -1,10 +1,10 @@
-# Zoom — Line
+# To column (と段) — Ta row (た行)
 
-The title of the show begins with the female advantage of the "sweet" section.
+This column lists actresses whose stage name begins with と (row た, column と).
 
-## Entry
+## Entries
 
-- [Shinya Todo.](户田真琴.md)
-- [Toda is also a good girl.](友田彩也香.md)
-- ["As a friend of mine."](冬愛ことね.md)
-- [East Fong Ha](东条夏.md)
+- [Makoto Toda](户田真琴.md)
+- [Ayaka Tomoda](友田彩也香.md)
+- [Kotone Tōa](冬愛ことね.md)
+- [Natsu Tojo](东条夏.md)

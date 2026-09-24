@@ -1,13 +1,13 @@
-# こ  —  —  —  — か か か  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —
+# Ko column (こ段) — Ka row (か行)
 
-This section includes the female femininity of the stage with the name "Sill" starting with "Simple".
+This column lists actresses whose stage name begins with こ (row か, column こ).
 
-## Entry
+## Entries
 
-- [Five love.](五条恋.md)
-- [Pear.](香坂紗梨.md)
-- [I'm not a fool.](九井スナオ.md)
-- [The Emperor of the Kingdom](児玉るみ.md)
-- [It's a small island.](小島みなみ.md)
-- [Small four leaves.](小凑四叶.md)
-- [Mi Nako.](小向美奈子.md)
+- [Ren Gojo](五条恋.md)
+- [Sari Kosaka](香坂紗梨.md)
+- [Kokonoi Sunao](九井スナオ.md)
+- [Rumi Kodama](児玉るみ.md)
+- [Minami Kojima](小島みなみ.md)
+- [Yotsuha Kominato](小凑四叶.md)
+- [Minako Komukai](小向美奈子.md)

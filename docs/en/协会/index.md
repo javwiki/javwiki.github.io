@@ -1,14 +1,14 @@
 # Associations
 
-Industrial associations and self-regulatory organizations in the AV industry in Japan.
+Industry associations and self-regulatory bodies of the Japanese AV industry.
 
-## Organisation
+## Organization list
 
-- [AV's firm.](./AV人権倫理機構.md) - AV Ethics for Human Rights (AV3E)
-- [ぱっぷす](./ぱっぷす.md) - Industry Group Skype (PAPS)
-- [Association of South Africans (SPA)](./プロダクション協会（SPA）.md) - Association of Production Companies
-- [Japan Association of Associations of the Japanese](./日本プロダクション協会.md) - Association of Japanese Production Companies
+- [AV人権倫理機構](./AV人権倫理機構.md) — AV human-rights and ethics body (AV3E)
+- [ぱっぷす](./ぱっぷす.md) — industry group ぱっぷす (PAPS)
+- [プロダクション協会（SPA）](./プロダクション協会（SPA）.md) — production companies association (SPA)
+- [日本プロダクション協会](./日本プロダクション協会.md) — Japan Production Association
 
-## Annotations
+## Notes
 
-These organizations are responsible for setting industry norms, upholding ethical standards, and handling complaints and disputes.
+These organizations draw up industry rules, uphold ethical standards, and handle complaints and disputes.

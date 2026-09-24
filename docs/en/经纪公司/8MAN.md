@@ -7,29 +7,29 @@ name: 8MAN
 
 ## Basic information
 
-- ** Full name**: 8MAN (エイトマ)
-- ** Present name**: SO MODEL AGENT
-- **As it is,**: Old official network <https://www.8man.jp/> Now 301 Jump to <https://so-agent.jp/> So, 8MAN has been renamed SO MODEL AGENT, the same firm.
-- ** Feature**: Prominent brokerage companies in industry, known for their excellent management skills
+- **Full name**: 8MAN (エイトマン)
+- **Now named**: SO MODEL AGENT (ソウ モデルエージェント)
+- **History**: The old site <https://www.8man.jp/> now 301-redirects to <https://so-agent.jp/>, i.e. 8MAN has been renamed SO MODEL AGENT — one and the same agency
+- **Profile**: A well-known industry agency known for managing popular actresses
 
-## The woman under the flag.
+## Roster
 
-Official Model column (in English) <https://so-agent.jp/model.php> (September 2026) 17 persons have been placed at this station:
+The official model list (<https://so-agent.jp/model.php>, September 2026) has 17 in total; those with entries on this site:
 
-|Name|Fifty.|Main producer|
+| Name | Gojūon | Main studios |
 | --- | --- | --- |
-| [Zenium](../な/な/凪ひかる.md)|Okay.| S1 |
-| [Fujimori.](../は/ふ/藤かんな.md)|Okay.| Madonna |
-| [Mizuno.](../ま/み/美乃すずめ.md)|Line| FALENO、DAHLIA |
+| [Nagi Hikaru](../な/な/凪ひかる.md) | Na row | S1 |
+| [Kanna Fuji](../は/ふ/藤かんな.md) | Ha row | Madonna |
+| [Mino Suzume](../ま/み/美乃すずめ.md) | Ma row | FALENO, DAHLIA |
 
-Other persons in the category (no entry): Zhongtai, Zhongtai, Zhongtai, Zhui, Zhui, Zhui, Zhui, Zhui, Zhuang, Zhui, Zhutang, Zhutai, Zhutai, Zhutai, Zhut Zhi.
+Other members on the roster (no entry yet): 鷲尾めい, つばさ舞, 八蜜凛, 藤井蘭々, 女神ジュン, 七海ティナ, 一色桃子, 鳳みゆ, 中森ななみ, 与田りん, 月乃ルナ, 星まりあ, 三浦奈々, 恋れん.
 
-### (Signed) Yuan
+### Former members
 
-- [Azawanan.](../あ/あ/相泽南.md) (retrenched)
+- [Minami Aizawa](../あ/あ/相泽南.md) (retired)
 
 ## References
 
-- [Official website](https://so-agent.jp/) (old) <https://www.8man.jp/> ）
-- [Model at a glance.](https://so-agent.jp/model.php)
-- [Official files](https://so-agent.jp/model/nagi_hikaru/)
+- [Official website](https://so-agent.jp/) (formerly <https://www.8man.jp/>)
+- [Model list](https://so-agent.jp/model.php)
+- [Official profile of Nagi Hikaru](https://so-agent.jp/model/nagi_hikaru/)

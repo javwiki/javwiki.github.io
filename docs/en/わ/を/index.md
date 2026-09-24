@@ -1,7 +1,6 @@
-# Zoom — Line
+# Wo column (を段) — Wa row (わ行)
 
-This section includes the female charisma, which begins with the "single."
+This column lists actresses whose stage name begins with を.
 
-## Entry
+## Entries
 
-No entry.

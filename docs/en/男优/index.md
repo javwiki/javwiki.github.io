@@ -1,16 +1,16 @@
-# Men!
+# AV actors
 
-Men's entries are sorted by a 50 or a Chinese spelling.
+Actor entries, ordered by gojūon or Chinese pinyin.
 
-- [Return Home Page](../index.md)
+- [Back to the home page](../index.md)
 
 ## Index
 
-- [Oshima](./大島.md)
-- [Matsuoka!](./松岡.md)
-- [Forests](./森林.md)
+- [大島](./大島.md)
+- [松岡](./松岡.md)
+- [森林](./森林.md)
 
-## Description of classification
+## Category notes
 
-- ** Male Excellence**: Male Actors, including Quakers, Businessmen, etc.
-- Reference to Entry Format[Female Entries Format](../あ/あ/荒木レナ.md) 。
+- **AV actors**: male performers, including debut artists and kikaku performers, etc.
+- For the entry format, see the [actress entry format](../あ/あ/荒木レナ.md).

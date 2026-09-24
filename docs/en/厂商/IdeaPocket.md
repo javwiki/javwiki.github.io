@@ -9,18 +9,18 @@ company: アイデアポケット
 
 ## Basic information
 
-- ** Abbreviations: IP
-- ** Full name**: IdeaPocket
-- **According to **:
-- ** Feature**: high-quality production and famous for beauty
-- **System**: americana, lovership, high quality
+- **Short name**: IP
+- **Full name**: IdeaPocket
+- **Company**: アイデアポケット
+- **Profile**: Known for high production values and bishoujo-style titles
+- **Style**: Bishoujo, girlfriend feel, high production values
 
-## It's exclusive to the woman.
+## Exclusive actresses
 
-- [Peachy-muchannai.](../ま/も/桃乃木香奈.md)
-- [Heishima-Ei Ri](../か/き/希岛爱理.md)
-- [The sky and the sea wings.](../あ/あ/天海翼.md)
-- Hizaki Jessica (entry to be created)
+- [Kana Momonogi](../ま/も/桃乃木香奈.md)
+- [Airi Kijima](../か/き/希岛爱理.md)
+- [Tsubasa Amami](../あ/あ/天海翼.md)
+- Jessica Kizaki (entry to be created)
 
 ## References
 

@@ -1,11 +1,11 @@
 ---
 type: event
-title: JAE 日本成人博览会
+title: JAE Japan Adult Expo
 ---
 
-# JAE Japan Adult Fair
+# JAE Japan Adult Expo
 
-JAE (Japan Adult Express) is an AV fan of the Festival of festivities held in Tokyo, Japan, officially known as the "AV Zan Zhig Yixpo for the Festival of Zaiwan Japan Adult Express". The event was organized by the Association of Financial Advancements (IPPA) and operated by the JAE Administration Authority and held annually from 2014 to 2017; in 2014/2016/2017, it was held in Tokyo in the Differ Ariake, and in 2015 in the PIT in the province of Suzhou, with a workshop on the interface between the factory and women ' s excellence.
+JAE (Japan Adult Expo) is an AV fan appreciation festival held in Tokyo, Japan; its official name is 「AVファン感謝祭 Japan Adult Expo」. The event is hosted by the 知的財産振興協会 (IPPA) and run by the JAE 運営事務局, one edition a year from 2014 to 2017; it was held at ディファ有明 (Differ Ariake) in Tokyo in 2014 / 2016 / 2017 and at 豊洲 PIT in 2015, with studio booths and actress interaction segments.
 
 ### Original Japanese
 
@@ -17,43 +17,43 @@ Japan Adult Expo（JAE）是作为 AV 粉丝感谢祭，由引领日本成人行
 
 ## Basic information
 
-- ** Full name**: AV thanks the Festival
-- ** Chinese name**: JAE Japan Adult Fair
-- ** Hosted: **: Society for Financial Empowerment of Legal Persons with Selected Non-Profit Activities (IPPA)
-- ** Operating**: Japan Adult Express Bureau
-- ** Nature: AV Fans Gradition, organized by the AV Manufacturers that lead the adult industry in Japan, for the purpose of adult industry development (new experiment since 2014, annual)
-- ** The venue**
-  - 2014/2016/207: Ming Differ Ariake, Ming 1-3-25 in the eastern district of the Tokyo River
-  - 2015: Sugizhou PIT (Kyoto East District, Zhao Zhao Zhao Zhui 6-1-23)
-- ** Official website**: jae. Tokyo (underjae2014/jae2015/jae2016/jae2017), Twitter @JapanAdultExpo, YouTube official channel
+- **Full name**: AVファン感謝祭 Japan Adult Expo
+- **Chinese name**: JAE 日本成人博览会
+- **Host**: 特定非営利活動法人 知的財産振興協会 (IPPA)
+- **Operator**: Japan Adult Expo 運営事務局
+- **Nature**: an AV fan appreciation festival bringing together the AV studios that lead Japan's adult industry, held for the development of the industry as a whole (a new attempt started in 2014, held annually)
+- **Venues**:
+  - 2014 / 2016 / 2017: ディファ有明 (Differ Ariake, 東京都江東区有明 1-3-25)
+  - 2015: 豊洲 PIT (東京都江東区豊洲 6-1-23)
+- **Website**: jae.tokyo (with jae2014 / jae2015 / jae2016 / jae2017 subsites), Twitter @JapanAdultExpo, official YouTube channel
 
-## Previous activities
+## Past editions
 
-|Year|Duration|Conference venue|fare (including taxes)|Remarks|
+| Year | Dates | Venue | Ticket price (tax incl.) | Notes |
 | --- | --- | --- | --- | --- |
-| 2014 |14-15 November|You're a smart girl.| — |Initial reminder; participation in the exhibition S1, MOODYZ, Zen, SOD, MAX-A, アリスJAPAN, KMP, Madonna, etc.|
-| 2015 |17-18 November|PIT|1 JUNE: ex-fiction 2,250/ same day 2,500; 2 JUNE: ex-fiction 3,600/ same day 4,000|The only time I was at the meeting was not in Differ Ariake; about 70 manufacturers were present.|
-| 2016 |November|You're a smart girl.|1 / 2 / / / / (e+, sales)|70 or more vendors present at exhibitions; Q& A; mixed-up lead to entry controls, questionnaires focused on overcrowding and queues|
-| 2017 |16-17 November|You're a smart girl.|1 Carte d ' Aide: 3,500 / Frontbar 6,000 / 8 000 on the same day (total limit of 2 days 3,000)|AV OPEN 2017 Awards 16th November 12th, JAE; special edition DVD|
+| 2014 | 14–15 November | ディファ有明 | — | First edition; S1, MOODYZ, アイデアポケット, SOD, MAX-A, アリスJAPAN, KMP, Madonna and others exhibited |
+| 2015 | 17–18 November | 豊洲 PIT | 1-day: advance ¥2,250 / door ¥2,500; 2-day: advance ¥3,600 / door ¥4,000 | The only edition not at Differ Ariake; about 70 studios exhibited |
+| 2016 | November | ディファ有明 | 1-day / 2-day tickets (sold via e+ and ローチケ) | More than 70 studios exhibited; a Q&A for overseas visitors; crowding led to entry controls, with questionnaires repeatedly citing congestion and queues |
+| 2017 | 16–17 November | ディファ有明 | 1-day only: lottery pre-sale ¥3,500 / advance ¥6,000 / door ¥8,000 (3,000 tickets in total for the two days) | The AV OPEN 2017 award ceremony was held at the JAE venue at 12:00 on 16 November; visitor bonus DVD |
 
-## Composition
+## What it contained
 
-- ** stage + factory booth**: Most sexy women admiring the stage, with an additional AV vendor offering a fan booth (official text: "Most of the women of the U.S. are present at the show, and the U.S. is present at the A.V. show, and the U.S. is present at the A.V.
-- ** Exhibits in 2017 (55 booths)**: S1, MOODYZ, アイポケ (アイデアポケット), SOD, PRESTIGE, KMP, MAX-A, アリスJAPAN, TMA, h. I'm sorry. The government has been working on the issue of the Internet, and the media has been working on the issue. VR, AVVR etc.
-- ** Example of actor in 2017**: Imaged girl #Thai Taihua, Zakai # Shigeshi, Zhubashi, Zhubashi, Zhujibashi, Zhujino, Hatano, #Molina, Zhu Daojia, #Taiji, #Gwai, #Gwai, #Gwa, #Gwai, #Gwa, #Gwa, #Gwa, #Gwa, #Siu, # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-- **2017 ticket background**: for grievances caused by the excess of space capacity and entry controls in 2016, read 1 coupons-only, limited to 3000, AV OPEN 2017, pre-selection vouchers (application 1-30 September, stubble-stick)
-- **Specific information on admission (2017)**: identification documents issued by the Office with photographs and baggage checks are required for only 18 years of age (not for high school students); filming is prohibited in principle, only when the exhibition/stage permits; alcoholic beverages, bottles, spray cans, dangerous items are prohibited; no parking area requires nearby toll parking areas
-- ** Anti-piracy links**: Internet-enabled IPPA banner "Stealft" led by IPPA, with a positive publicity profile
+- **Stage + studio booths**: most popular actresses took the stage, and AV studio booths were also set up to give fans time to mingle (official about text: 「多数のセクシー女優がステージに登場するとともに、ファンの皆様にはAVメーカーの出展ブースでも交流していただける時間も設けています」)
+- **2017 exhibitors (55 booths), examples**: S1, MOODYZ, アイポケ (アイデアポケット), SOD, PRESTIGE, KMP, MAX-A, アリスJAPAN, TMA, h.m.p, ラムタラ, GALLOP, DOC, MAGIC, DMM.VR, AVVR etc.
+- **2017 performers, examples**: image girls 大槻ひびき、神咲詩織、園田みおん; over a hundred actresses including 三上悠亜、高橋しょう子、橋本ありな、紗倉まな、波多野結衣、白石茉莉奈、戸田真琴; actors 大島丈、トニー大木、森林原人; also 加藤鷹、村西とおる etc.
+- **2017 ticketing background**: because 2016 far exceeded venue capacity and entry controls caused dissatisfaction, 2017 switched to 1-day tickets only, limited to 3,000; a pre-sale lottery application form was enclosed with AV OPEN 2017 merchandise (applications 1–30 September, drawn by Lawson Ticket)
+- **Entry rules (2017)**: 18 and over only (no high-school students); photo ID issued by a public office must be shown and bags checked; photography is prohibited in principle, allowed only where a booth or stage permits; alcohol, bottles and cans, spray cans and dangerous goods are prohibited; there is no parking lot — use nearby paid parking
+- **Anti-piracy tie-in**: the site carried IPPA's 「海賊版撲滅」 banner, led by IPPA, giving the event an industry flavour of promoting legitimate editions
 
 ## Main features
 
-- **Face of thanks**: interactive event for AV fans, live communication with Taiwan Adults Exhibition
-- ** Anti-piracy publicity**: the venue is linked to the IPPA Anti-piracy campaign
+- **Fan appreciation festival**: an interactive event for AV fans, in the same live-exchange format as Taiwan's adult expos
+- **Anti-piracy promotion**: the venue tied in with IPPA's anti-piracy (海賊版撲滅) campaigns
 
 ## References
 
-- [The blog is a blog of the local media. I'm sorry, tokyo.](http://www.jae.tokyo/)
-- [JAE2017 (about /maker / extramain / access)](http://www.jae.tokyo/jae2017/about.html)
-- [JAE2015 (about: in-session ticket/maker)](http://www.jae.tokyo/jae2015/about.html)
-- [JAE2014 (First reminder: 14-15 November 2014, Visible)](http://www.jae.tokyo/jae2014/)
-- IPPA (Known Society for Financial Advancement)
+- [JAE official portal (jae.tokyo)](http://www.jae.tokyo/)
+- [JAE2017 (about / maker / ticket prices / access)](http://www.jae.tokyo/jae2017/about.html)
+- [JAE2015 (about: dates, venue, ticket prices / maker)](http://www.jae.tokyo/jae2015/about.html)
+- [JAE2014 (first edition: 14–15 November 2014, Differ Ariake)](http://www.jae.tokyo/jae2014/)
+- Announcements related to IPPA (知的財産振興協会)

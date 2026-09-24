@@ -9,19 +9,19 @@ company: ムーディーズ
 
 ## Basic information
 
-- ** Abbreviations: MD
-- ** Full name**: MOODYZ
-- **According to **:
-- ** Feature**: One of the largest companies in the industry, with a large number of works, with several sub-brands under the flag
-- **System**: Diversity, covering a wide range of subjects
+- **Short name**: MD
+- **Full name**: MOODYZ
+- **Company**: ムーディーズ
+- **Profile**: One of the largest labels in the industry, with a huge output and several sub-brands
+- **Style**: Varied, covering all kinds of themes
 
-## It's exclusive to the woman.
+## Exclusive actresses
 
-- [Wingmi, Darka.](../は/ふ/深田咏美.md)
-- [Angel-cream.](../た/て/天使萌.md)
-- [Ishihara Hope.](../あ/い/石原希望.md)
-- [Red-song.](../か/く/红音萤.md)
-- [A woody tree.](../あ/あ/荒木レナ.md)
+- [Eimi Fukada](../は/ふ/深田咏美.md)
+- [Moe Amatsuka](../た/て/天使萌.md)
+- [Nozomi Ishihara](../あ/い/石原希望.md)
+- [Hotaru Akane](../か/く/红音萤.md)
+- [Araki Rena](../あ/あ/荒木レナ.md)
 
 ## References
 

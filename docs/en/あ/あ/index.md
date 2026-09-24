@@ -1,24 +1,24 @@
-# あ  —  —  —  — あ あ あ  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —
+# A column (あ段) — A row (あ行)
 
-This section includes the female femininity of the stage with the name "Sill" starting with "Simple".
+This column lists actresses whose stage name begins with あ (row あ, column あ).
 
-## Entry
+## Entries
 
 - [AIKA](AIKA.md)
-- [あきばもも](あきばもも.md)
-- [I'm so sorry.](あずみ恋.md)
-- [Aoi.](葵司.md)
-- [Aois.](葵伊吹.md)
-- [Aoi lilies.](葵百合香.md)
-- [Anton!](安位薰.md)
-- [Kami-yu.](有冈美羽.md)
-- [Azawanan.](相泽南.md)
-- [Aoi-kun.](苍井空.md)
-- [Plumbing berries.](彩美旬果.md)
-- [Tomorrow's flower.](明日花绮罗.md)
-- [The sky and the sea wings.](天海翼.md)
-- [A woody tree.](荒木レナ.md)
-- [New food.](新有菜.md)
-- [- To Kiryu.](朝桐光.md)
-- [Hakoto.](朝美穗香.md)
-- [Ma Miyuan.](麻美由真.md)
+- [Akiba Momo](あきばもも.md)
+- [Azumi Ren](あずみ恋.md)
+- [Tsukasa Aoi](葵司.md)
+- [Ibuki Aoi](葵伊吹.md)
+- [Yurika Aoi](葵百合香.md)
+- [Kaoru Yasui](安位薰.md)
+- [Miu Arioka](有冈美羽.md)
+- [Minami Aizawa](相泽南.md)
+- [Sola Aoi](苍井空.md)
+- [Ayami Shunka](彩美旬果.md)
+- [Kirara Asuka](明日花绮罗.md)
+- [Tsubasa Amami](天海翼.md)
+- [Araki Rena](荒木レナ.md)
+- [Arina Arata](新有菜.md)
+- [Asagiri Akari](朝桐光.md)
+- [Mihiro](朝美穗香.md)
+- [Yuma Asami](麻美由真.md)

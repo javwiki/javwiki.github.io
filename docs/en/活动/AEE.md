@@ -1,30 +1,30 @@
 ---
 type: event
-title: AVN 成人娱乐博览会
+title: AVN Adult Entertainment Expo
 ---
 
-# AVN Adult Recreation Fair
+# AVN Adult Entertainment Expo
 
-AVN Adult Entertainment Exposition (AVN Adult Enterprise Expo, AEE) is an adult entertainment industry fair in Las Vegas, United States, organized by AVN magazine and held every January for four days. The exhibition was one of the largest adult industry fairs in the United States, with trade transactions (B2B) and open segments (signatures, photo) for fans, and the AVN Adult Award (AVN Awods) was presented on the closing night of the exhibition.
+The AVN Adult Entertainment Expo (AEE) is an adult-entertainment trade show held in Las Vegas, United States, hosted by AVN magazine and held every January over four days. It is one of the largest adult-industry shows in the US, combining industry trade (B2B) with fan-facing open hours (signings, photos); the AVN Awards are presented on the closing night.
 
-Japan's AV industry has limited communication with the fair, but AEE, as one of the most representative adult fairs in the world, is often used as a reference point for national adult exhibitions (Taiwan Tre, TAE, etc.).
+The Japanese AV industry has only limited exchange with this show, but as one of the world's most representative adult expos, AEE is often used as a benchmark by adult expos in various countries (including Taiwan's TRE and TAE).
 
 ## Basic information
 
-- ** Full name**: AVN Adult Enterprise Express
-- ** Chinese: AVN Adult Recreation Fair**
-- ** Hosted: ** AVN magazine (AVN Media Network)
-- ** Place of event**: Las Vegas, USA
-- ** Time**: January of each year for four days
-- ** First Office**: 1990s (public coverage in 1998)
+- **Full name**: AVN Adult Entertainment Expo
+- **Chinese name**: AVN 成人娱乐博览会
+- **Host**: AVN magazine (AVN Media Network)
+- **Venue**: Las Vegas, United States
+- **When**: every January, over four days
+- **First held**: the 1990s (publicly reported by 1998)
 
-## Main information
+## Key facts
 
-- More than 30,000 visitors in 2007, with 355 participants
-- Before 2012, in Sands Express, in conjunction with the Consumer Electronics Exhibition (CES), and since 2012, in the Hard Rock Hotel, in the Resorts World Las Vegas
-- The award was presented on the closing night by AVN Awards, a professional and fan-oriented open-ended segment.
+- In 2007 attendance passed 30,000, with 355 exhibiting companies
+- Until 2012 it ran alongside the Consumer Electronics Show (CES) at the Sands Expo; from 2012 it moved to the Hard Rock Hotel, and is now held at Resorts World Las Vegas
+- It consists of industry days plus fan-facing open hours; the AVN Awards are presented on the closing night
 
 ## References
 
-- [AVN Adult Enterition Express](https://adultentertainmentexpo.com/)
+- [Official site of the AVN Adult Entertainment Expo](https://adultentertainmentexpo.com/)
 - [Wikipedia: AVN Adult Entertainment Expo](https://en.wikipedia.org/wiki/AVN_Adult_Entertainment_Expo)

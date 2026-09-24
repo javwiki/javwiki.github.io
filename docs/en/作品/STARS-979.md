@@ -10,24 +10,24 @@ release_date: 2024年1月
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|- The sign.| STARS-979 |
-|Name of the work|The beauty of the world is a very interesting and obscenity of the woman's lovers.|
-|Cards| SOD Create |
-|Date of issue|January 2024|
-|Actor|Oh, my God.|
+| Product code | STARS-979 |
+| Title | 美人ホテリエの隠れた趣味は、妻や恋人がいるお客様を囁き淫語で誘惑して寝取ることです。 |
+| Label | SOD Create |
+| Release date | January 2024 |
+| Performers | 神木麗 |
 
-## Story profile
+## Storyline
 
-The high-class hotel girl, who is a seemingly elegant hotel practitioner, has an unknown secret hobby - the exclusive targeting of male guests with wives or lovers, the temptation to whisper in the ear, and the gradual drag of them into the abyss. In the hidden corners of the hotel, she enjoyed the pleasure of sleeping with mature flesh and provocative words.
+神木麗 plays a senior hotel hôtelière: poised and elegant on the surface, she hides a secret hobby — singling out male guests who have wives or girlfriends, tempting them with whispered dirty talk and dragging them, step by step, into an affair. In the hidden corners of the hotel she uses her mature body and teasing words to savour the pleasure of NTR.
 
-## Features of the work
+## Features
 
-- ホテリエNTR subject
-- It's a monolithic work.
-- ♪ And the temptation to be ♪
-- Directed by Yoshiki Kimura
+- Hôtelière × NTR theme
+- A solo release by 神木麗
+- Seduction in pantyhose
+- Director: 木村弘幸
 
 ### Original Japanese (missAV / FANZA)
 
@@ -36,5 +36,4 @@ The high-class hotel girl, who is a seemingly elegant hotel practitioner, has an
 ### Chinese translation
 
 在知名酒店担任酒店职员的麗，有一个无法对任何人说出口的癖好：在职场诱惑有女友或已婚的男性客人，把他们寝取（NTR）。酒店的空房间、办公区、仓库……不论时间地点，只要欲火上头就化身痴女下手。本作窥视她日益升级的日常。
-
 

@@ -1,14 +1,14 @@
-# Group
+# Groups
 
-JAV related idol groups and music groups. Groups of women or characters, some of which have a record distribution and live performance.
+Idol groups and music units connected to JAV. Groups formed by actresses or gravure idols; some of them have released records and staged live shows.
 
-## Group
+## Groups
 
-- [She's got a fragrance.](./惠比寿★麝香葡萄.md)
-- [Peachy varnish.](./桃色遊戯.md)
-- [- The paralyzing department.](./超心动♡宣传部.md)
+- [Ebisu Muscats](./惠比寿★麝香葡萄.md)
+- [桃色遊戯](./桃色遊戯.md)
+- [超心动♡宣传部](./超心动♡宣传部.md)
 - [BLACK DIAMOND](./BLACK_DIAMOND.md)
 - [SEXY-J](./SEXY-J.md)
-- [You know, the guy who's good at it.](./熟ザイル.md)
+- [熟ザイル](./熟ザイル.md)
 - [me-me*](./me-me.md)
 - [Million Girls Z](./Million%20Girls%20Z.md)

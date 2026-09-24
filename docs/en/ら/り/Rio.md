@@ -2,63 +2,63 @@
 tags: [C杯, T-POWERS, MAX-A, S1, IdeaPocket]
 thumbnail: https://i.namu.wiki/i/_4XxbpPbgO-XuGaqKIK7eFfgEk369tcMWuXQbHw6GQ-ngU5AjaQsUJdPg4MDwye8g-JZh9ZOntHgLDAYJlYrvWKjUUn_M43UGjk7yYRg7aU_hysTTHwUdIqSHX3FAJ_fSMJ-Moo8gm5oclIxvCTqKQ.webp
 ---
-
 # Rio
 
 <img src="https://i.namu.wiki/i/_4XxbpPbgO-XuGaqKIK7eFfgEk369tcMWuXQbHw6GQ-ngU5AjaQsUJdPg4MDwye8g-JZh9ZOntHgLDAYJlYrvWKjUUn_M43UGjk7yYRg7aU_hysTTHwUdIqSHX3FAJ_fSMJ-Moo8gm5oclIxvCTqKQ.webp" alt="Rio" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
 
+
 ## Basic information
 
-- ** Name**: Rio
-- ** Japanese name**: りお
-- ** Pronunciation**: りお
-- ** English name**: Rio
-- **Since name: Yumutina, aka Suzuki koko
-- ** Nickname: ティナっち,  **
-- ** Date of birth: 29 October 1986
-- ** Place of birth**: Tokyo, Japan
-- ** height**: 154 cm
-- ** Three Circles**: B84 W58 H83
-- ** Cup**: C
-- ** Category**: Consored (with code)
-- **Initiative years**: 2005-2016
-- ** Broker**: T-POWERS
-- **Main player**: MAX-A, S1, IdeaPocket
+- **Name**: Rio
+- **Japanese name**: りお
+- **Reading**: りお
+- **English name**: Rio
+- **Real name**: 柚木蒂娜 (柚木ティナ), real name 铃木光子
+- **Nicknames**: ティナっち, Rioっち
+- **Date of birth**: 29 October 1986
+- **Place of birth**: Tokyo, Japan
+- **Height**: 154cm
+- **Measurements**: B84 W58 H83
+- **Cup**: C
+- **Category**: Censored (with code)
+- **Active**: 2005–2016
+- **Agency**: T-POWERS
+- **Main studios**: MAX-A, S1, IdeaPocket
 
 ## Introduction
 
-Rio is one of the most representative women of mixed blood in the AV industry in Japan. Her name was Yumutina, which was released in 2005 and changed to Rio in late 2007. The father is Japanese, the mother is Portuguese and the Portuguese. He studied at the Economic Department of the University of Independent Studies (at a break), and he was a Karaoke fan. In 2008, the opportunity to host individual television programmes was obtained with superhumanity, which allowed for a general performing career. Rio is a small female career of a long-term high standing in the industry, with a career span of almost 10 years.
+Rio is one of the most representative mixed-race actresses in the Japanese AV industry. Her original name was 柚木蒂娜; she debuted in 2005 and changed her name to Rio at the end of 2007. Her father is Japanese and her mother Portuguese, and she speaks Portuguese. She studied in the economics faculty of Dokkyo University (on leave), and her personal hobby is karaoke. In 2008 her enormous popularity earned her the chance to host her own TV programme, crossing into general entertainment work. Rio is one of the few actresses in the industry to keep high popularity over a long period; her career spans nearly ten years.
 
-## People
+## Personal notes
 
-- Rio is a Japanese-Portuguese, father is Japanese and mother is Portuguese.
-- She's Portuguese, she's studying with her mother.
-- He studied at the Department of Economics at the University of Independent Studies (at a break).
-- Personal hobby is karaoke.
-- Annual female prizes were awarded in 2008.
-- He was a member of the Shebei musk grapes.
-- In 2010, the band Skelt 8 BAMBINO was shown in a joint platform with Gisawa Ming-kwan and Mihiro.
+- Rio is of mixed Japanese and Portuguese descent; her father is Japanese and her mother Portuguese.
+- She speaks Portuguese, learned from her mother.
+- Studied in the economics faculty of Dokkyo University (on leave).
+- Personal hobby: karaoke.
+- Won the actress of the year award in 2008.
+- Was a member of 惠比寿麝香葡萄.
+- In 2010 she co-starred with Akiho Yoshizawa and Mihiro on a single by the band SKELT 8 BAMBINO.
 
-## Features of the work
+## Work features
 
-- Early attempts to diversify roles were made at a later stage, with the early image of mixed-blooded women as the main focus.
-- The work is well known for its quality and the drama is particularly remarkable.
-- The number of professional works is extensive and covers a wide variety of types.
+- Early on centred on a mixed-race beauty image, later gradually trying more varied roles.
+- Her work is known for high quality, with story-driven titles particularly strong.
+- A large catalogue across her career, covering many types.
 
-## Table of experience
+## Career timeline
 
-|Year|Experience|
+| Year | Events |
 | --- | --- |
-| 2005 |In November, she was on the Max-A channel in the name of Jeju Tina.|
-| 2006 |The Japanese industry is the best newer in 2006.|
-| 2007 |The name of the blogger is Río.|
-| 2008 |:: Obtained annual female prizes; was given the opportunity to host the personal television programme Rio-Zoo.|
-| 2009 |From MAX-A to IdeaPocket.|
-| 2016 |In January, the AV girl officially withdrew and ended her career.|
+| 2005 | Debuted at MAX-A in November as 柚木蒂娜. |
+| 2006 | Hailed by the Japanese AV industry as the best newcomer of 2006. |
+| 2007 | Changed her name to Rio at the end of the year. |
+| 2008 | Won the actress of the year award; got the chance to host her own TV programme 《Rioの楽園》. |
+| 2009 | Moved from MAX-A to IdeaPocket. |
+| 2016 | Formally retired in January, ending her AV actress career. |
 
-## Record of the award
+## Awards
 
-- 2008 Annual Female Premium
+- 2008 actress of the year award
 
 ## References
 

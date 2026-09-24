@@ -1,7 +1,6 @@
-# わ  —  —  —  — わ わ わ  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —
+# Wa column (わ段) — Wa row (わ行)
 
-The first step in the project is to create a new model for the women who are in the middle of the project.
+This column lists actresses whose stage name begins with わ.
 
-## Entry
+## Entries
 
-No entry.

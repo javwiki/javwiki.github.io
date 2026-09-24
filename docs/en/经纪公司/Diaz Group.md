@@ -8,23 +8,23 @@ company: Diaz Group
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|Official name| Diaz Group |
-|Characteristics|Prominent brokering companies in industry|
-|Operations|Women's brokerage, production, etc.|
+| Official name | Diaz Group |
+| Profile | A well-known industry agency |
+| Services | Actress management, release production, etc. |
 
 ## Introduction
 
-Diaz Group is a well-known broker in the AV industry in Japan, with many prominent women under its banner. The company focuses on the discovery and development of new recruits, and women are better active than the major AV production companies.
+Diaz Group is a well-known agency in the Japanese AV industry with a number of established actresses on its roster. The company focuses on finding and training newcomers, and its actresses are active across the major AV production companies.
 
-## The woman under the flag.
+## Roster
 
-|Name|Fifty.|Main producer|
+| Name | Gojūon | Main studios |
 | --- | --- | --- |
-|Toda is also a good girl.|Okay.| Kawaii*、MOODYZ、Million、Attackers、MARRION、MAX-A、FALENO、DAHLIA |
-|Ekona.|Line| MAXING、MOODYZ、Attackers、Madonna、DAHLIA |
-|Tomorrow's flower, Zhui.|Okay.| h.m.p、Prestige、S1 |
+| Ayaka Tomoda | Ta row | Kawaii*, MOODYZ, Million, Attackers, MARRION, MAX-A, FALENO, DAHLIA |
+| Jun Mizukawa | Ya row | MAXING, MOODYZ, Attackers, Madonna, DAHLIA |
+| Kirara Asuka (former member) | A row | h.m.p, Prestige, S1 |
 
 ## References
 

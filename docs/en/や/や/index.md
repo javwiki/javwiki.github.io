@@ -1,10 +1,10 @@
-# & Section - Line
+# Ya column (や段) — Ya row (や行)
 
-This section includes the female femininity of the stage, starting with the "single" section.
+This column lists actresses whose stage name begins with や (row や, column や).
 
-## Entry
+## Entries
 
-- [Omunai!](八木奈奈.md)
-- [I'm so sorry.](八掛うみ.md)
-- [Pear of the Mountain.](山手梨爱.md)
-- [I'm so happy.](弥生みづき.md)
+- [Nana Yagi](八木奈奈.md)
+- [Yatsugake Umi](八掛うみ.md)
+- [Ria Yamate](山手梨爱.md)
+- [Mizuki Yayoi](弥生みづき.md)

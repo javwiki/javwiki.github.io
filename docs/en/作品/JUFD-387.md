@@ -11,25 +11,25 @@ release_date: 2014年8月1日
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|- The sign.| JUFD-387 |
-|Name of the work|The obscenity has drawn the smug and obscenity of the woman who has been killed and the woman who has been killed.|
-|Series| [The word "smuggling" is the word of the "smuggling"](../系列/淫語で誘う寸止め焦らし痴女.md)|
-|Cards| Fitch |
-|Date of issue|1 August 2014|
-|Actor|♪ The heart of the Zhuda ♪|
+| Product code | JUFD-387 |
+| Title | 淫語で誘う寸止め焦らし痴女 ～僕を生殺しにして愉しむ部下の爆乳奥さん～ |
+| Series | [淫語で誘う寸止め焦らし痴女](../系列/淫語で誘う寸止め焦らし痴女.md) |
+| Label | Fitch |
+| Release date | 1 August 2014 |
+| Performers | 篠田あゆみ |
 
-## Story profile
+## Storyline
 
-The breast-milk wife of the Zhuda Carnival. The sexual advances and the indignity of the incipient coaxes, which are used to play between the hands of the husband's subordinates, enjoy the pleasure of domination in the extreme pleasure of life and death.
+Ayumi Shinoda plays the big-breasted wife of a subordinate. Using dirty talk and the tsundome (edge-of-climax) technique, she plays her husband's colleague with ease, savouring the pleasure of control in an extreme, seikatsushi-style manipulation of pleasure.
 
-## Features of the work
+## Features
 
-- "Sexual seduction of the curry-cracking demented."
-- Boobs, twigs, twigs, twilights, twilights, twilights, twilights, twilights, twilights, twilights, twilights, twilights, twilights, twilights, twits, twilights, twilights, twits, twits, twits.
-- ♪ The heart of the Qinda ♪
-- JavDB Rating 4. 31 (198)
+- The 淫語で誘う寸止め焦らし痴女 series
+- Big breasts × married woman × tease
+- A representative title of Ayumi Shinoda
+- JavDB rating 4.31 (198 ratings)
 
 ### Original Japanese (missAV / FANZA)
 
@@ -38,5 +38,4 @@ The breast-milk wife of the Zhuda Carnival. The sexual advances and the indignit
 ### Chinese translation
 
 话题爆乳美熟女·篠田あゆみ以“寸止め”（边缘控制）系列首次登陆Fitch！被部下之妻あゆみ诱人的微笑，与她纤细身材毫不相称的丰满爆乳玩弄于股掌之间……即将触碰到部下妻子的极限乳交！探病时被反复挑逗后的夹射！偷看妻子给归家丈夫口交！在熟睡的丈夫身边被足交挑逗＆边缘性爱！在公司里被龟头责罚＆无限寸止性爱！被部下的妻子撩拨到濒临爆发！
-
 

@@ -9,20 +9,20 @@ company: プレステージ
 
 ## Basic information
 
-- ** Abbreviations: PG
-- ** Full name**: Prestage
-- **According to **:
-- ** Feature**: Prominent in terms of human and entrepreneurial activities
-- **System**: Sudoku, strategizing, diversifying
+- **Short name**: PG
+- **Full name**: Prestige
+- **Company**: プレステージ
+- **Profile**: Known for amateur-style and concept-driven releases
+- **Style**: Amateur-style, concept-driven, varied
 
-## It's exclusive to the woman.
+## Exclusive actresses
 
-- [7th Zamia](../な/な/七泽美亚.md)
-- [Yuko.](../あ/お/小野六花.md)
-- [Plumbing berries.](../あ/あ/彩美旬果.md)
-- [Tomorrow's flower.](../あ/あ/明日花绮罗.md)
-- [Acetusaki.](../あ/お/乙都咲乃.md)
-- [The rice barn smells good.](../や/よ/米倉穂香.md) （KANBi）
+- [Mia Nanasawa](../な/な/七泽美亚.md)
+- [Rikka Ono](../あ/お/小野六花.md)
+- [Ayami Shunka](../あ/あ/彩美旬果.md)
+- [Kirara Asuka](../あ/あ/明日花绮罗.md)
+- [Sakino Oto](../あ/お/乙都咲乃.md)
+- [Honoka Yonekura](../や/よ/米倉穂香.md) (KANBi)
 
 ## References
 

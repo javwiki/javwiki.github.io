@@ -8,14 +8,14 @@ company: ライフプロモーション
 
 ## Basic information
 
-- ** Full name**: LIFE PROMOTION (ライフプロモーショ)
-- ** Feature**: Prominent brokerage companies in industry
+- **Full name**: LIFE PROMOTION (ライフプロモーション)
+- **Profile**: A well-known industry agency
 
-## The woman under the flag.
+## Roster
 
-|Name|Fifty.|Main producer|
+| Name | Gojūon | Main studios |
 | --- | --- | --- |
-|The City of 5 Days|Okay.|This is a good one.|
+| Mei Itsukaichi | A row | 本中 / Wanz Factory |
 
 ## References
 

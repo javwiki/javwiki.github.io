@@ -4,22 +4,22 @@ name: Mine's
 company: マインズ
 ---
 
-# Mine_S
+# Mine's
 
 ## Basic information
 
-- ** Full name**: Mine'S (マイ)
-- ** Feature**: Prominent brokerage companies in industry
+- **Full name**: Mine'S（マインズ）
+- **Profile**: A well-known industry agency
 
-## The woman under the flag.
+## Roster
 
-|Name|Fifty.|Main producer|
+| Name | Gojūon | Main studios |
 | --- | --- | --- |
-|Aoi.|Okay.| S1 |
-|Plumbing berries.|Okay.| S1 |
-|Aiji, Uchi.|Okay.|  |
-|Koji-kun!|Okay.| SODstar |
-|Acetusaki.|Okay.| PRESTIGE |
+| Tsukasa Aoi | A row | S1 |
+| Ayami Shunka | A row | S1 |
+| Ai Uehara | A row |  |
+| Yuna Ogura | A row | SODstar |
+| Sakino Oto | A row | PRESTIGE |
 
 ## References
 

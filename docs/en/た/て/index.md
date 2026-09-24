@@ -1,9 +1,9 @@
-# Zoom — Line
+# Te column (て段) — Ta row (た行)
 
-This section includes the female femininity of the stage with the name "sing" starting with "single."
+This column lists actresses whose stage name begins with て (row た, column て).
 
-## Entry
+## Entries
 
-- [ティア](ティア.md)
-- [In the middle of a storm.](天馬ゆい.md)
-- [Angel-cream.](天使萌.md)
+- [Tia](ティア.md)
+- [Yui Tenma](天馬ゆい.md)
+- [Moe Amatsuka](天使萌.md)

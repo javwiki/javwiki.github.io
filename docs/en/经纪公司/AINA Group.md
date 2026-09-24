@@ -9,15 +9,15 @@ company: AINA Group（アイナ）
 
 - **Full name**: AINA Group (アイナ)
 - **Location**: Shibuya, Tokyo
-- **Features**: the agency formerly behind 吉泽明步 and みひろ
-- **Association**: member of Japan production guild (JPG)
-- **Official site**: <http://www.aina.co.jp/>
+- **Profile**: The agency Akiho Yoshizawa, Mihiro and others once belonged to
+- **Association**: Member of the Japan Production Association (JPG)
+- **Website**: <http://www.aina.co.jp/>
 
-## Members
+## Roster
 
 | Name | Gojūon | Main studios |
 | --- | --- | --- |
-| [吉泽明步](../や/よ/吉泽明步.md) | や row | S1 / Alice Japan |
+| [Akiho Yoshizawa](../や/よ/吉泽明步.md) | Ya row | S1 / Alice Japan |
 
 ## References
 

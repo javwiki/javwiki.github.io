@@ -9,15 +9,15 @@ release_date: 2025年
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|- The sign.| SDMUA-070 |
-|Name of the work|The ranch is used to plant the herds of the Zing-Zing, the secret ranch.|
-|Actor|Tanaka Ning, Sazuki-wei, Elyss.|
+| Product code | SDMUA-070 |
+| Title | ロ○乳牧場モノガタリ 秘密の牧場と種付け繁殖される奴○少女たち |
+| Performers | 田中寧寧、沙月惠奈、乙愛麗絲 |
 
-## Story profile
+## Storyline
 
-Behind a remote, rural pasture is an unknown secret — girls sent here are deprived of their liberty and used as tools for reproduction in closed environments. The girls were trapped in the same play, Ningingin Tanaka, Shek Hae Nae and Elyss, and were forced to accept inhumane breeding at the disposal of the ranchers.
+Behind a remote countryside ranch lies a secret unknown to anyone — the girls sent here are stripped of their freedom and, in a closed environment, reduced to tools of breeding. 田中寧寧, 沙月惠奈 and 乙愛麗絲 each play a girl trapped on the ranch, forced by its owner into inhumane insemination and breeding.
 
 ### Original Japanese (missAV / FANZA)
 
@@ -26,5 +26,4 @@ Behind a remote, rural pasture is an unknown secret — girls sent here are depr
 ### Chinese translation
 
 【断面图】实拍影像×动画断面图【中出动画】将阴道内部断面动画合成到实拍影像中，采用全新表现手法，敬请体验。【田中ねね×乙アリス×沙月恵奈】演绎的排他性凌●故事。在不道德的秘密牧场中将少女们侵犯殆尽。——你想让谁怀孕？
-
 

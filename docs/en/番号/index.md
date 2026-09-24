@@ -1,64 +1,64 @@
-# Numeric system
+# The product-code system
 
-The code number is the identification number of JAV works, usually set by the filmmaker, the manufacturer or the distribution channel. The encyclopedia "participating" is marked as the primary key, allowing easy retrieval, weighting and cross-site checking.
+A product code (番号, bangō) is the identification number of a JAV release, usually assigned by the studio, label or distribution channel. In this encyclopedia the works listed under each performer use the product code as the primary key, which makes lookup, de-duplication and cross-site verification easier.
 
 ## Basic structure
 
-Common numbers are typically composed of "prefixes + numbers":
+A typical product code consists of an "alphabetic prefix plus numeric sequence":
 
 ```text
 IPZ-901
 ```
 
-Of which:
+Where:
 
-- `IPZ` Prefixes are usually used against filmmakers, issuers or distribution series.
-- `901` (b) is a serial number, which usually indicates the order of issuance under the series.
-- hyphenation in the middle `-` It's common writing, but different sites can write. `IPZ901` 。
+- `IPZ` is the prefix, usually corresponding to a studio, label or series.
+- `901` is the sequence number, usually the release order within that series.
+- The hyphen `-` in the middle is the common convention, but some sites write it as `IPZ901` instead.
 
-## Common type
+## Common types
 
-|Type|Example:|Annotations|
+| Type | Example | Notes |
 | --- | --- | --- |
-|It's a number.| IPZ-901、MIDE-123、SSIS-001 |The Japanese mainstream filmmaker has a number of the work.|
-|No code number.| HEYZO-1168、CARIB-012516-001 |Numbers used by uncoded paper dealers or overseas distribution sites.|
-|FC2 Number| FC2-PPV-1234567、FC2-1234567 |The FC2 PPV is often numbered with the number ID at its core.|
-|Combining/selection|BEST, Zen, COMP, etc.|The original commercial code is sometimes followed, and in some cases the combined exclusive number is used.|
-|Streaming Media Number| 041614_791、1PONDO-012516_001 |Could include dates, underlineds or internal ids of the platform.|
+| Censored code | IPZ-901、MIDE-123、SSIS-001 | Codes for censored releases issued by mainstream Japanese studios. |
+| Uncensored code | HEYZO-1168、CARIB-012516-001 | Codes used by uncensored studios and overseas release sites. |
+| FC2 code | FC2-PPV-1234567、FC2-1234567 | FC2 PPV release codes, usually built around a numeric ID. |
+| Compilation / best-of | BEST、総集編、COMP 等 | Sometimes reuses the original studio's code, sometimes a code reserved for compilations. |
+| Streaming code | 041614_791、1PONDO-012516_001 | May contain dates, underscores or platform-internal IDs. |
 
-## Prefix and film dealer
+## Prefixes and studios
 
-The stint does not always correspond to a commercial name. It is more often expressed as a brand, series or distribution line under a commercial flag. For example, multiple prefixes may be used by the same firm at the same time, and naming rules may be changed in different years.
+A prefix does not always equal the name of the studio. It more often identifies a label, series or release line inside one studio's catalogue. The same studio may use several prefixes at once, and naming conventions can change from one era to the next.
 
-Examples of common correspondence:
+Some common associations:
 
-|Prefix|Common Association|
+| Prefix | Commonly associated with |
 | --- | --- |
 | IPZ、IPX | IdeaPocket |
 | SSIS、SSNI | S1 NO.1 STYLE |
 | MIDE、MIDV | MOODYZ |
 | ABP、ABW | Prestige |
 | ATID、SHKD、RBD | Attackers |
-| ADN |This is a possible feature of the series, including the Scripts, the Attackers and others, and must be judged in conjunction with the distribution of information.|
+| ADN | May appear under Honch (本中), Tameike Goro, Attackers and other story-driven labels; judge it together with the release information. |
 | JUL、JUQ | Madonna |
 | WANZ | Wanz Factory |
 | FSDSS | FALENO |
-| HMN、HUNBL |In this book.|
+| HMN、HUNBL | Honch (本中) |
 
-## Entry norms
+## Entry conventions
 
-The following rules are recommended for encyclopedia entry:
+When recording product codes in this encyclopedia, follow these rules:
 
-- Use prefixes for uppercase letters, for example `IPZ-901` , avoid writing `ipz-901` 。
-- Keep hyphens commonly used in official or mainstream information stations, e.g. `IPZ-901` 。
-- FC2 Prioritization of Writing `FC2-PPV-数字` ; if the source is only written `FC2-数字` , in the original version.
-- The owner is not certain, but only has a number and title, and is not forced to infer attribution.
-- The collections are available for entry, but the title should, to the extent possible, indicate the "college" or the main co-executor.
-- When the same work is written differently, the mainstream information station or network of business officers are used.
+- Use an uppercase prefix, e.g. `IPZ-901`, rather than `ipz-901`.
+- Keep the hyphen used by official sources and mainstream databases, e.g. `IPZ-901`.
+- For FC2 releases, prefer `FC2-PPV-` followed by the number; if a source only writes `FC2-` followed by the number, keep the source's own form.
+- If the studio is uncertain, record only the code and the title; do not force an attribution.
+- Compilation releases may be recorded, but their titles should ideally be marked as compilations or best-of sets, or name the main co-stars.
+- When the same release appears in different spellings, follow the mainstream database or the studio's official site.
 
-## Search Recommendations
+## Lookup tips
 
-When searching the sign, you can also try to:
+When searching for a code, try these variants as well:
 
 ```text
 IPZ-901
@@ -66,11 +66,11 @@ IPZ901
 ipz 901
 ```
 
-Some sites will be omitted from the hyphen or the underlined, date numbering will be rewritten to different formats. When a work is unretributable, it is possible to confirm whether the prefix belongs to the same plant and then cross-reference it with the female prefix, the title keyword and the date of issue.
+Some sites drop the hyphen, or rewrite underscores and date numbers into other formats. If a release cannot be found, first check whether the prefix belongs to the same label, then cross-search by actress name, title keywords and release date.
 
-## Attention
+## Notes
 
-- The signposts can only identify the work and are not equivalent to the actor ' s identity or the ownership of the film.
-- The same woman may be shown across the board and across the board, so the list of works in the entry should be based on the work itself.
-- Old, re-issued and combined versions may be reused but new titles should be used to avoid the inclusion of the combination error as the original original production.
-- The codeless platform, the overseas platform and the FC2 numbering rules differ significantly and cannot be directly applied to prefix logic of the coded vendor.
+- A product code identifies a release only; it is neither a performer's identity nor proof of studio attribution.
+- The same actress may appear across studios and labels, so an entry's work list should stay anchored to the release itself.
+- Old titles, reissues and compilations may reuse footage under a new code; do not mistake a compilation for the original first release.
+- Numbering rules differ substantially between uncensored platforms, overseas platforms and FC2; the prefix logic of censored studios does not transfer directly.

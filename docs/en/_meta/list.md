@@ -1,274 +1,274 @@
-# Female List
+# AV actress list
 
 The following entries are ordered by gojūon. See [Gojūon sorting rules](./五十音排序规则.md) for details.
 
-## あ行
+## A row (あ行)
 
-### あ段
+### A column (あ段)
 
 - AIKA
-- あきばもも
-- あずみ恋
-- 天海翼
-- 安位薰
-- 彩美旬果
-- 新有菜
-- 明日花绮罗
-- 有冈美羽
-- 朝桐光
-- 朝美穗香
-- 相泽南
-- 苍井空
-- 荒木レナ
-- 葵伊吹
-- 葵司
-- 葵百合香
-- 麻美由真
+- Akiba Momo
+- Azumi Ren
+- Tsubasa Amami
+- Kaoru Yasui
+- Ayami Shunka
+- Arina Arata
+- Kirara Asuka
+- Miu Arioka
+- Asagiri Akari
+- Mihiro
+- Minami Aizawa
+- Sola Aoi
+- Araki Rena
+- Ibuki Aoi
+- Tsukasa Aoi
+- Yurika Aoi
+- Yuma Asami
 
-### い段
+### I column (い段)
 
-- 一条みお
-- 五日市芽依
-- 伊藤舞雪
-- 市川雅美
-- 石原希望
-- 石川澪
-- 饭岛爱
-- 今賀はる
-### う段
+- Mio Ichijou
+- Mei Itsukaichi
+- Mayuki Ito
+- Masami Ichikawa
+- Nozomi Ishihara
+- Mio Ishikawa
+- Ai Iijima
+- Haru Imaga
+### U column (う段)
 
-- 上原亚衣
-- 宇流木さら
-### お段
+- Ai Uehara
+- Sara Uruki
+### O column (お段)
 
-- おりん
-- 乙都咲乃
-- 冲田杏梨
-- 大槻响
-- 奥菜アンナ
-- 奥田咲
-- 小仓由菜
-- 小栗操
-- 小泽玛利亚
-- 小那海あや
-- 小野六花
-- 折原ほのか
-## か行
+- Orin
+- Sakino Oto
+- Anri Okita
+- Hibiki Otsuki
+- Anna Okina
+- Saki Okuda
+- Yuna Ogura
+- Misao Oguri
+- Maria Ozawa
+- Aya Onami
+- Rikka Ono
+- Orihara Honoka
+## Ka row (か行)
 
-### か段
+### Ka column (か段)
 
-- 奏音花音
-- 枫花
-- 河北彩花
-- 河合明日菜
-- 神咲诗织
-- 风间由美
-- 香水纯
-### き段
+- Kanon Kanade
+- Kaede Fua
+- Saika Kawakita
+- Asuna Kawai
+- Shiori Kamisaki
+- Yumi Kazama
+- Jun Kosui
+### Ki column (き段)
 
-- 希咲エマ
-- 菊乃らん
-- 北川ゆず
-- 北川绘里香
-- 君岛美绪
-- 君色花音
-- 君野ここ
-- 桐嶋りの
-- 希岛爱理
-- 木村愛心
+- Ema Kisaki
+- Ran Kikuno
+- Yuzu Kitagawa
+- Erika Kitagawa
+- Mio Kimijima
+- Kanon Kimiiro
+- Koko Kimino
+- Rino Kirishima
+- Airi Kijima
+- Kimura Ako
 
-### く段
+### Ku column (く段)
 
-- 工藤ララ
-- 红音萤
-- 黑木香
+- Lala Kudo
+- Hotaru Akane
+- Kaoru Kuroki
 
-### こ段
+### Ko column (こ段)
 
-- 五条恋
-- 香坂紗梨
-- 九井スナオ
-- 児玉るみ
-- 小島みなみ
-- 小凑四叶
-- 小向美奈子
-## さ行
+- Ren Gojo
+- Sari Kosaka
+- Kokonoi Sunao
+- Rumi Kodama
+- Minami Kojima
+- Yotsuha Kominato
+- Minako Komukai
+## Sa row (さ行)
 
-### さ段
+### Sa column (さ段)
 
-- 佐佐木明希
-- 佐山爱
-- 岬奈奈美
-- 樱井步
-- 樱木凛
-- 樱空桃
-- 笹倉杏
-- 西条琉璃
-### し段
+- Aki Sasaki
+- Ai Sayama
+- Nanami Misaki
+- Ayu Sakurai
+- Rin Sakuragi
+- Momo Sakura
+- An Sasakura
+- Saijo Ruri
+### Shi column (し段)
 
 - Julia
-- 东云美玲
-- 城星凜
-- 椎名空
-- 白上咲花
-- 白峰美羽
-- 白浜果歩
-- 白石茉莉奈
-- 白鳥香里奈
-- 澁谷果歩
-- 篠田优
-- 篠田步美
-### す段
+- Mirei Shinonome
+- Seri Kizuki
+- Sora Shiina
+- Emika Shirakami
+- Miu Shiramine
+- Kaho Shirahama
+- Marina Shiraishi
+- Karina Shiratori
+- Kaho Shibuya
+- Yu Shinoda
+- Shinoda Ayumi
+### Su column (す段)
 
-- 鈴村あいり
-## た行
+- Airi Suzumura
+## Ta row (た行)
 
-### た段
+### Ta column (た段)
 
-- 壇玲奈
-- 立川理恵
-- 橘芹那
-- 泷泽萝拉
-- 玉城マイ
-- 田野忧
-- 高桥圣子
-- 鷹宮ゆい
-### ち段
+- Dan Reina
+- Rie Tachikawa
+- Serina Tachibana
+- Rora Misaki
+- Mai Tamaki
+- Yu Tano
+- Shoko Takahashi
+- Yui Takanomiya
+### Chi column (ち段)
 
-- 千乃あずみ
-### つ段
+- Azumi Chino
+### Tsu column (つ段)
 
-- 月野りさ
-- 月野姫
-- 九十九メイ
-- 月雲よる
-- 蕾
-### て段
+- Risa Tsukino
+- Hime Tsukino
+- Mei Tsukumo
+- Yoru Tsukumo
+- Tsubomi
+### Te column (て段)
 
-- ティア
-- 天使萌
-- 天馬ゆい
-### と段
+- Tia
+- Moe Amatsuka
+- Yui Tenma
+### To column (と段)
 
-- 东条夏
-- 友田彩也香
-- 户田真琴
-- 冬愛ことね
+- Natsu Tojo
+- Ayaka Tomoda
+- Makoto Toda
+- Kotone Tōa
 
-## な行
+## Na row (な行)
 
-### な段
+### Na column (な段)
 
-- 七泽美亚
-- 七海ひな
-- 七瀬いおり
-- 成濑心美
-- 永井マリア
-- 永瀬ゆい
-- 永野一夏
-- 渚光希
-- 凪ひかる
-### に段
+- Mia Nanasawa
+- Nanami Hina
+- Nanase Iori
+- Kokomi Naruse
+- Maria Nagai
+- Yui Nagase
+- Ichika Nagano
+- Hikari Nagisa
+- Nagi Hikaru
+### Ni column (に段)
 
-- 二宫光
-- 新山らん
-- 仁科百华
-- 西宫梦
-### の段
+- Hikaru Ninomiya
+- Ran Niiyama
+- Momoka Nishina
+- Yume Nishinomiya
+### No column (の段)
 
-- 野々浦暖
-## は行
+- Non Nonoura
+## Ha row (は行)
 
-### は段
+### Ha column (は段)
 
-- 初美沙希
-- 早川瀬里奈
-- 桥本有菜
-- 波多野结衣
-- 羽咲美晴
-- 羽生ありさ
-- 羽田爱
-- 莲实克蕾儿
+- Saki Hatsumi
+- Serina Hayakawa
+- Arina Hashimoto
+- Yui Hatano
+- Miharu Usa
+- Arisa Hanyu
+- Ai Haneda
+- Kurea Hasumi
 
-### ひ段
+### Hi column (ひ段)
 
-- Hitomi
-- 姫咲はな
-- 姫川ゆうな
+- Hitomi Tanaka（海外名义）
+- Hana Himesaki
+- Yuuna Himekawa
 
-### ふ段
+### Fu column (ふ段)
 
-- 冬月枫
-- 古川伊织
-- 深田咏美
-- 藤かんな
-### べ段
+- Kaede Fuyutsuki
+- Iori Kogawa
+- Eimi Fukada
+- Kanna Fuji
+### Be column (べ段)
 
-- ベアトリクス
-### ほ段
+- Beatrix
+### Ho column (ほ段)
 
-- 本庄铃
-## ま行
+- Suzu Honjo
+## Ma row (ま行)
 
-### ま段
+### Ma column (ま段)
 
-- 松本一香
-- 真木今日子
-### み段
+- Ichika Matsumoto
+- Kyoko Maki
+### Mi column (み段)
 
 - Miru
-- 三上悠亚
-- 南梨央奈
-- 宫下玲奈
-- 宮島めい
-- 未步奈奈
-- 水卜樱
-- 三浦芽依
-- 水菜丽
-- 美乃すずめ
-- 美園和花
-- 美谷朱音
-- みやび音羽
-- 蜜美杏
-### め段
+- Yua Mikami
+- Riona Minami
+- Reina Miyashita
+- Mei Miyajima
+- Nana Miho
+- Sakura Miura
+- Mei Miura
+- Rei Mizuna
+- Mino Suzume
+- Waka Misono
+- Akari Mitani
+- Otoha Miyabi
+- An Mitsumi
+### Me column (め段)
 
-- 惠理
-### も段
+- Meguri
+### Mo column (も段)
 
-- 守屋よしの
-- 桃乃木香奈
-- 桃谷りり
-- 森泽佳奈
-- 森ほたる
-- 百永さりな
-## や行
+- Yoshino Moriya
+- Kana Momonogi
+- Riri Momotani
+- Kana Morisawa
+- Hotaru Mori
+- Sarina Momonaga
+## Ya row (や行)
 
-### や段
+### Ya column (や段)
 
-- 八掛うみ
-- 八木奈奈
-- 山手梨爱
-- 弥生みづき
-### ゆ段
+- Yatsugake Umi
+- Nana Yagi
+- Ria Yamate
+- Mizuki Yayoi
+### Yu column (ゆ段)
 
-- 优月真里奈
-- 夢乃あいか
-- 柚月向日葵
-- 楪可怜
-- 由來千歲
-- 由爱可奈
-- 由良かな
-### よ段
+- Yuzuki Marina
+- Aika Yumeno
+- Himawari Yuzuki
+- Karen Yuzuriha
+- Yura Chitose
+- Jun Mizukawa
+- Kana Yura
+### Yo column (よ段)
 
-- 吉川爱美
-- 吉根ゆりあ
-- 吉泽明步
-- 吉高宁宁
-- 米倉穂香
-## ら行
+- Aimi Yoshikawa
+- Yuria Yoshine
+- Akiho Yoshizawa
+- Nene Yoshitaka
+- Honoka Yonekura
+## Ra row (ら行)
 
-### り段
+### Ri column (り段)
 
 - Rio
-- 凛音とうか
+- Rinne Touka
 

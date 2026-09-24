@@ -1,8 +1,8 @@
-# り  — ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら ら
+# Ri column (り段) — Ra row (ら行)
 
-The women who are the first to be included in this section are the women who start with the "single" (singing-out section).
+This column lists actresses whose stage name begins with り (row ら, column り).
 
-## Entry
+## Entries
 
-- [Rin-Ling](凛音とうか.md)
+- [Rinne Touka](凛音とうか.md)
 - [Rio](Rio.md)

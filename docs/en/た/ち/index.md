@@ -1,7 +1,7 @@
-# All — line
+# Chi column (ち段) — Ta row (た行)
 
-This section includes the female femininity of the show, starting with "all" (all of it).
+This column lists actresses whose stage name begins with ち (row た, column ち).
 
-## Entry
+## Entries
 
-- [I'm sorry.](千乃あずみ.md)
+- [Azumi Chino](千乃あずみ.md)

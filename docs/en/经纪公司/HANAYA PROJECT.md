@@ -8,18 +8,18 @@ company: HANAYA PROJECT（ハナヤプロジェクト）
 ## Basic information
 
 - **Full name**: HANAYA PROJECT (ハナヤプロジェクト)
-- **History**: an agency of the Soft On Demand (SOD) group, founded in November 2018 when SOD's in-house actress department became independent
+- **History**: Founded in November 2018 when the actress department inside Soft On Demand (SOD) spun off as its own agency; part of the SOD group
 - **Location**: Nakano, Tokyo
-- **Features**: besides AV actress management, also manages restaurant staff and male performers of group businesses, and produces events
-- **Association**: member of Japan production guild (JPG)
-- **Official site**: <https://hanaya-project.co.jp/>
+- **Profile**: Besides AV actress management, it also manages staff at the group's restaurants and AV actors, and runs event planning
+- **Association**: Member of the Japan Production Association (JPG)
+- **Website**: <https://hanaya-project.co.jp/>
 
-## Members
+## Roster
 
 | Name | Gojūon | Main studios |
 | --- | --- | --- |
-| [九井スナオ](../か/こ/九井スナオ.md) | か row | MOODYZ |
-| [由良かな](../や/ゆ/由良かな.md) | や row | 本中 / Fitch |
+| [Kokonoi Sunao](../か/こ/九井スナオ.md) | Ka row | MOODYZ |
+| [Kana Yura](../や/ゆ/由良かな.md) | Ya row | 本中 / Fitch |
 
 ## References
 

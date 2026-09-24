@@ -9,23 +9,23 @@ company: エスワン ナンバーワンスタイル
 
 ## Basic information
 
-- ** Abbreviations: S1
-- ** Full name**: S1 NO. 1 Style
-- **Standing**: **Standing ** **Standing **
-- ** Feature: Industry top-level company, known for high-quality production and top-level female champions
-- **System**: Purely beautiful, pure, high-quality production
+- **Short name**: S1
+- **Full name**: S1 NO.1 STYLE
+- **Company**: エスワン ナンバーワンスタイル
+- **Profile**: A top-tier label known for high production values and a top-class roster
+- **Style**: Pure bishoujo, innocent look, high production values
 
-## It's exclusive to the woman.
+## Exclusive actresses
 
-- [Yoya Sanjo](../ま/み/三上悠亚.md)
-- [Hashimoto has a dish.](../は/は/桥本有菜.md)
-- [Hebei Colour Flower](../か/か/河北彩花.md)
-- [Ishikawa-kun!](../あ/い/石川澪.md)
-- [Aoi.](../あ/あ/葵司.md)
-- [Tomorrow's flower.](../あ/あ/明日花绮罗.md)
-- [Zenium](../な/な/凪ひかる.md)
-- [Angel-cream.](../た/て/天使萌.md)
-- [Plumbing berries.](../あ/あ/彩美旬果.md)
+- [Yua Mikami](../ま/み/三上悠亚.md)
+- [Arina Hashimoto](../は/は/桥本有菜.md)
+- [Saika Kawakita](../か/か/河北彩花.md)
+- [Mio Ishikawa](../あ/い/石川澪.md)
+- [Tsukasa Aoi](../あ/あ/葵司.md)
+- [Kirara Asuka](../あ/あ/明日花绮罗.md)
+- [Nagi Hikaru](../な/な/凪ひかる.md)
+- [Moe Amatsuka](../た/て/天使萌.md)
+- [Ayami Shunka](../あ/あ/彩美旬果.md)
 
 ## References
 

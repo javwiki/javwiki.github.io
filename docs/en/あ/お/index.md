@@ -1,18 +1,18 @@
-# お  —  —  —  — あ あ あ  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —
+# O column (お段) — A row (あ行)
 
-This section includes the female femininity of the stage with the name "Sill" starting with "Simple".
+This column lists actresses whose stage name begins with お (row あ, column お).
 
-## Entry
+## Entries
 
-- [The big bang.](大槻响.md)
-- [I'm not sure I can do that.](奥菜アンナ.md)
-- [Okuda-san.](奥田咲.md)
-- [Ozawa-Maria.](小泽玛利亚.md)
-- [Koji-kun!](小仓由菜.md)
-- [Chestnut.](小栗操.md)
-- [Little sea guillotine.](小那海あや.md)
-- [Acetusaki.](乙都咲乃.md)
-- [Apricot, Oda](冲田杏梨.md)
-- [Yuko.](小野六花.md)
-- [The hyena.](折原ほのか.md)
-- [おりん](おりん.md)
+- [Hibiki Otsuki](大槻响.md)
+- [Anna Okina](奥菜アンナ.md)
+- [Saki Okuda](奥田咲.md)
+- [Maria Ozawa](小泽玛利亚.md)
+- [Yuna Ogura](小仓由菜.md)
+- [Misao Oguri](小栗操.md)
+- [Aya Onami](小那海あや.md)
+- [Sakino Oto](乙都咲乃.md)
+- [Anri Okita](冲田杏梨.md)
+- [Rikka Ono](小野六花.md)
+- [Orihara Honoka](折原ほのか.md)
+- [Orin](おりん.md)

@@ -1,15 +1,15 @@
-# Topic
+# Features
 
-In-depth articles on trends in JAV industry, business models and industry observations usually address the interaction between women, brokerage companies, manufacturers and platforms.
+In-depth articles on JAV industry trends, business models and sector observation, usually covering the interplay between actresses, agencies, studios and platforms.
 
-## List of entries
+## Entry list
 
-|Topic|Area|Annotations|
+| Feature | Area | Description |
 | --- | --- | --- |
-| [AV Women and TikTok Living](AV女优与TikTokLIVE.md)|Industrial trends|Why is the AV-based women in TikTok live?|
+| [AV actresses and TikTok LIVE](AV女优与TikTokLIVE.md) | Industry trends | Why more and more AV actresses are joining TikTok to stream LIVE |
 
-## Related Entry
+## Related entries
 
-- [Yu Yu](../女优/index.md)
-- [Brokering companies](../经纪公司/index.md)
-- [Activities](../活动/index.md)
+- [AV actresses](../女优/index.md)
+- [Agencies](../经纪公司/index.md)
+- [Events](../活动/index.md)

@@ -7,14 +7,14 @@ name: ARROWS
 
 ## Basic information
 
-- ** Full name**: ARROWS
-- ** Feature**: Industry-renowned brokerage companies, larger
+- **Full name**: ARROWS
+- **Profile**: A well-known industry agency of considerable size
 
-## The woman under the flag.
+## Roster
 
-|Name|Fifty.|Main producer|
+| Name | Gojūon | Main studios |
 | --- | --- | --- |
-|Wingmi, Darka.|Okay.| S1/MOODYZ |
+| Eimi Fukada | Ha row | S1/MOODYZ |
 
 ## References
 

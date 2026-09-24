@@ -1,8 +1,8 @@
-# Tonight.
+# Sa row (さ行)
 
-The first fake name for the show is for the "Handover" woman.
+This row lists actresses whose stage name begins with a kana of the さ row.
 
-## Paragraph Index
+## Column index
 
 - [さ](./さ/index.md)
 - [し](./し/index.md)

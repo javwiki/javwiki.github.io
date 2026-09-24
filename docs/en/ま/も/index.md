@@ -1,12 +1,12 @@
-# Hand — Line
+# Mo column (も段) — Ma row (ま行)
 
-The title of the show begins with "hand" (showing) and is used to include female femininity.
+This column lists actresses whose stage name begins with も (row ま, column も).
 
-## Entry
+## Entries
 
-- [Peachy-muchannai.](桃乃木香奈.md)
-- [Peach Valley.](桃谷りり.md)
-- [Sensai Qanai.](森泽佳奈.md)
-- [森ほたる](森ほたる.md)
-- [The housekeeper.](守屋よしの.md)
-- [I'm not going to die.](百永さりな.md)
+- [Kana Momonogi](桃乃木香奈.md)
+- [Riri Momotani](桃谷りり.md)
+- [Kana Morisawa](森泽佳奈.md)
+- [Hotaru Mori](森ほたる.md)
+- [Yoshino Moriya](守屋よしの.md)
+- [Sarina Momonaga](百永さりな.md)

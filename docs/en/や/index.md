@@ -1,8 +1,8 @@
-# Line
+# Ya row (や行)
 
-The first fake name for the show is a "show" for the female.
+This row lists actresses whose stage name begins with a kana of the や row.
 
-## Paragraph Index
+## Column index
 
 - [や](./や/index.md)
 - [ゆ](./ゆ/index.md)

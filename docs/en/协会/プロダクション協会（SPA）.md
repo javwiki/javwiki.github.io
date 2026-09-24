@@ -8,46 +8,46 @@ members: 32社
 website: https://spa-japan.net/
 ---
 
-# The Association of the Red Cross and Red Crescent Societies
+# プロダクション協会
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|Official name|The Association of the Red Cross and Red Crescent Societies|
-|General|Second Association of the Ministry of Foreign Affairs,|
-|Establishment|Late March 2018|
-|Type|Any body|
-|Number of members|32nd Association|
-|Website| <https://spa-japan.net/> |
+| Official name | プロダクション協会 |
+| Common name | 第二プロダクション協会, SPA |
+| Established | End of March 2018 |
+| Type | Voluntary organization |
+| Members | 32 companies |
+| Website | <https://spa-japan.net/> |
 
-## Summary
+## Overview
 
-The Association of Southeast Asian Nations (SPA) or the Second Association of Southeast Asian Nations (APC) is an industry group established by the Association of Foreign Ministers (AV) Brokers (AV) in late March 2018. Unlike the Japan Association of the Japanese Democratic People ' s Republic of Korea (JPG), which was established in 2017, SPA is an organization that does not belong to an arbitrary group and does not accept the affiliation of groups and individuals other than business organizations.
+プロダクション協会 (below, "SPA" or "第二プロダクション協会") is an industry group set up at the end of March 2018 by a group of volunteer AV agencies. Unlike the 日本プロダクション協会 (JPG) established in 2017, SPA is not itself a voluntary organization and does not admit groups or individuals outside corporate bodies.
 
-Its purpose is to promote the health of the AV brokering business, protect the human rights of artists, including performers, maximize respect for the right to self-determination, promote the regularization and regulation of contracts, and further health and renewal of the industry.
+Its purpose is to advance the sound operation of the AV agency business, protect the human rights of performers, respect self-determination to the fullest, push for standardized and rule-based contracts, and further refresh and sound the industry.
 
-## Founded at latitude
+## How it was founded
 
-Following the establishment of the Japan Association of the Japanese Association of the Juche (JPG) in April 2017, some brokering companies were unable or unwilling to join JPG due to various factors (e.g. not corporate organizations). These brokers, in an effort to promote the soundness of the industry, established a joint association in late March 2018. There were 24 member companies at the time of their establishment.
+After the 日本プロダクション協会 (JPG) was established in April 2017, some agencies could not or did not wish to join it for various reasons (such as not being incorporated bodies). To advance the health of the industry, these agencies jointly established プロダクション協会 at the end of March 2018. There were 24 member companies at founding.
 
 ## Main activities
 
-### Contract regularization
+### Contract standardization
 
-- Use of the Uniform Contract (generally identical to the Statute of the Japan Association of Trade Unions)
-- Allowing brokerage companies to set individual regulations according to their own circumstances
-- Promoting transparency and standardization of contracts
+- Use of a unified contract form (basically the same rules as the Japan Production Association)
+- Each agency may set individual provisions to fit its own circumstances
+- Pushing for transparent, rule-based contracts
 
-### Self-regulation.
+### Self-discipline
 
-- Promoting human rights protection for actors
-- Respect for the actor's self-determination.
-- Ensuring transparency in the contractual process
+- Promoting protection of performers' human rights
+- Respecting performers' right to self-determination
+- Ensuring transparency in the contracting process
 
-## One member, one member
+## Member companies (partial)
 
-|Brokering companies|
+| Agency |
 | --- |
 | エベレスト |
 | ARM PROMOTION |
@@ -69,7 +69,7 @@ Following the establishment of the Japan Association of the Japanese Association
 | ワイズプロモーション |
 | LOOP ENTERTAINMENNT |
 | スターエージェント |
-|The best of the best of the best.|
+| フリー女優連盟 |
 | RAID |
 | エースプロモーション |
 | ボディーコーポレーション |
@@ -78,26 +78,26 @@ Following the establishment of the Japan Association of the Japanese Association
 | ステッププロモーション |
 | STARTUP |
 
-## Criticism and controversy
+## Criticism and controversies
 
-### Difference with JPG
+### Differences from JPG
 
-The SPA allows non-business groups (such as the Women in the Great Union) to join, which is the main difference from JPG. At the same time, the SPA allows more flexibility to brokers by allowing them to set individual requirements according to their own circumstances.
+SPA allows non-corporate groups (such as フリー女優連盟) to join — this is the main difference from JPG. At the same time, SPA lets each agency set individual provisions to fit its own circumstances, giving it greater flexibility.
 
-### AV Men's Criticism
+### Criticism from AV actors
 
-The AV Men Yum Yum Yum Yum Yum Yuming, who criticized the SPA as a "retrograde path for the AV community", argued that "there can be no fully uniform norms from the outset", noting that individual regulations by companies could lead to a blurring of industry norms.
+AV actor 辻丸耕平 criticises SPA as "the AV industry's escape hatch", arguing that "a completely uniform set of rules was impossible from the start", and pointing out that company-specific provisions blur the industry's standards.
 
-## The best of the best of the best.
+## フリー女優連盟
 
-In November 2018, the SPA was launched by the Zhuang Dynasty, the three-generation Zhuang Dynasty. The Alliance is a group that supports and protects free AV actresses.
+In November 2018 the 「フリー女優連盟」, launched by かさいあみ and 三代目葵マリー, joined SPA. The alliance is a group that supports and protects freelance AV actresses.
 
-## Related Links
+## Related links
 
-- Japan Association of Associations of the Japanese People (JPG)
-- AV's firm.
-- The EOCS is now in the middle of the war.
-- Japanese Image Production & Trafficking in Human Beings (JVPS)
+- 日本プロダクション協会 (JPG)
+- AV人権倫理機構
+- コンピュータソフトウェア倫理機構 (EOCS)
+- 日本映像制作・販売倫理機構 (JVPS)
 
 ## External links
 

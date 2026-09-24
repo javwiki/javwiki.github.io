@@ -1,8 +1,8 @@
-# Okay.
+# A row (あ行)
 
-The first fake name for the show is a "show" for the woman.
+This row lists actresses whose stage name begins with a kana of the あ row.
 
-## Paragraph Index
+## Column index
 
 - [あ](./あ/index.md)
 - [い](./い/index.md)

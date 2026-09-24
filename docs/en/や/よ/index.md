@@ -1,11 +1,11 @@
-# Step — Line
+# Yo column (よ段) — Ya row (や行)
 
-The first step in the show is to start with a "mix" (singing-up section).
+This column lists actresses whose stage name begins with よ (row や, column よ).
 
-## Entry
+## Entries
 
-- [Yoshikawa Ami.](吉川爱美.md)
-- [Jigan-kun.](吉根ゆりあ.md)
-- [Gisawa Ming-tung](吉泽明步.md)
-- [Gigonning.](吉高宁宁.md)
-- [The rice barn smells good.](米倉穂香.md)
+- [Aimi Yoshikawa](吉川爱美.md)
+- [Yuria Yoshine](吉根ゆりあ.md)
+- [Akiho Yoshizawa](吉泽明步.md)
+- [Nene Yoshitaka](吉高宁宁.md)
+- [Honoka Yonekura](米倉穂香.md)

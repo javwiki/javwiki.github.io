@@ -5,26 +5,26 @@ studio: Fitch
 first_release: 2019
 ---
 
-# The ejaculation dominates the main star of the world, Joi.
+# 射精を支配される究極主観JOI
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|Series name|The ejaculation dominates the main star of the world, Joi.|
-|Cards| Fitch（フィッチ）|
-|Year of launch|2019|
-|Theme|JOI, Subjective Angle, Ejaculation Control, Demented|
+| Series name | 射精を支配される究極主観JOI |
+| Label | Fitch (フィッチ) |
+| First released | 2019 |
+| Theme | JOI, first-person viewpoint, ejaculation control, teasing |
 
 ## Introduction
 
-The JoI (Jerk Off Investment) series under the flag of Fitch was launched in February 2019 with the JUFE-017. The central concept is that women are superior to the lower view (upper line) and use the word "joi " to provide self-combination guidance to the audience, which is entirely at the mercy of the audience.
+A JOI (Jerk Off Instruction) series under Fitch (フィッチ), started in February 2019 with JUFE-017. The core concept is an actress who, looking down at the viewer (上から目線), gives masturbation instructions with dirty talk (JOI), completely controlling the viewer's ejaculation.
 
-The series is based on the "Oxyster JOI" plus "Episode Control" and emphasizes the "Presentity Point of View + Decoying". In 2024, there was a compendium of JFB-451.
+The series' uniform selling point is 「究極主観JOI（ultimate first-person JOI）+ 射精支配 (ejaculation control)」, playing up the tease's superior viewpoint plus dirty-talk guidance. A compilation JFB-451 appeared in 2024.
 
-## List of works (parts)
+## Releases (partial)
 
-|- The sign.|Yu Yu|Issue date|
+| Code | Actress | Release date |
 |------|------|--------|
 | JUFE-017 | — | 2019-02-01 |
 | JUFE-071 | — | 2019-07-01 |
@@ -49,9 +49,9 @@ The series is based on the "Oxyster JOI" plus "Episode Control" and emphasizes t
 | JUFE-547 | — | 2024-01-17 |
 | JUFE-552 | — | 2024-02-20 |
 | JUFE-558 | — | 2024-04-02 |
-| JFB-451 |General| 2024-11-05 |
+| JFB-451 | compilation | 2024-11-05 |
 
 ## References
 
-- [JavDB Series Page](https://javdb.com/series/DWKp)
-- Fitch Network
+- [JavDB series page](https://javdb.com/series/DWKp)
+- Fitch official site

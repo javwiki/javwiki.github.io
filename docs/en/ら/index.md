@@ -1,7 +1,7 @@
-# The sun is fine.
+# Ra row (ら行)
 
-The first fake name for the entries in this line belongs to the "Sing-a-P" woman.
+This row lists actresses whose stage name begins with a kana of the ら row.
 
-## Paragraph Index
+## Column index
 
 - [り](./り/index.md)

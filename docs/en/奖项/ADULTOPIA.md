@@ -3,24 +3,24 @@ type: award
 title: ADULTOPIA 大人国
 ---
 
-# ADULTOPIA, COMMUNITY
+# ADULTOPIA 大人国
 
-ADULTOPIA (Adult Adults ' Fair) is an adult exhibition held in Taiwan and has been held in Takahsiung and Mau Garden since 2024. The event featured awards such as Best HEALING SMILE AWARD, which invited women from Japan and all over Asia to participate.
+ADULTOPIA (大人国成人展) is an adult exhibition held in Taiwan, taking place in Kaohsiung and Taoyuan from 2024. The event carries awards such as the BEST HEALING SMILE AWARD and invites AV actresses from Japan and across Asia.
 
-## Activity information
+## Event information
 
-|Year|Locations|Remarks|
+| Year | Venue | Notes |
 | --- | --- | --- |
-| 2024 |Takahsiung!|First|
-| 2025 |Taipei!| |
-| 2026 |Peach Garden. MESS Peach Garden.|A number of Japanese women participated.|
+| 2024 | Kaohsiung | First edition |
+| 2025 | Taipei | |
+| 2026 | Taoyuan · MESS桃園 | Several Japanese actresses attended |
 
 ## Awards
 
-|Awards|Annotations|
+| Award | Notes |
 | --- | --- |
-| BEST HEALING SMILE AWARD |The best smile award.|
+| BEST HEALING SMILE AWARD | The most healing smile |
 
 ## References
 
-- Japanese female student participation in Taiwan ADULTOPIA
+- Coverage of Japanese actresses attending Taiwan's ADULTOPIA

@@ -1,18 +1,18 @@
-# References
+# Reference material
 
-This catalogue contains the description documents used for encyclopedia maintenance, documentation and entry preparation.
+This directory collects the reference documents used to maintain the encyclopedia, organize sources and write entries.
 
-## Document
+## Documents
 
-- [Numeric system](../番号/index.md)
-- [Vendor](../厂商/index.md)
-- [Brokering companies](../经纪公司/index.md)
-- [Terminology](../术语/index.md)
-- [Female List](./list.md) - Text List (with list. Yaml Sync)
-- [The 50-score sequence.](./五十音排序规则.md) I'm sorry, listen. Project criteria for the yaml sorting rules
-- [Sources of information](./source.md)
+- [Product-code system](../番号/index.md)
+- [Studios](../厂商/index.md)
+- [Agencies](../经纪公司/index.md)
+- [Glossary](../术语/index.md)
+- [Actress list](./list.md) — plain-text list (kept in sync with list.yaml)
+- [Gojūon sorting rules](./五十音排序规则.md) — the item standard behind list.yaml's sorting rules
+- [Sources](./source.md)
 
 ## Awards
 
 - [FANZA Adult Award](../奖项/fanza.md)
-- [ADULTOPIA, COMMUNITY](../奖项/ADULTOPIA.md)
+- [ADULTOPIA 大人国](../奖项/ADULTOPIA.md)

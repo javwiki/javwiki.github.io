@@ -1,9 +1,9 @@
-# く  —  —  —  — か か か  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —
+# Ku column (く段) — Ka row (か行)
 
-This section includes the female femininity of the stage with the name "Sill" starting with "Simple".
+This column lists actresses whose stage name begins with く (row か, column く).
 
-## Entry
+## Entries
 
-- [Red-song.](红音萤.md)
-- [Black wood.](黑木香.md)
-- [Kudo-kun!](工藤ララ.md)
+- [Hotaru Akane](红音萤.md)
+- [Kaoru Kuroki](黑木香.md)
+- [Lala Kudo](工藤ララ.md)

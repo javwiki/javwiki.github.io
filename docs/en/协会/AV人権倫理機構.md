@@ -1,6 +1,6 @@
 ---
 type: organization
-title: AV人権倫理機構
+title: AV Human Rights & Ethics Organization
 short_title: AV人権機構
 established: 2017年10月1日
 dissolved: 2024年3月31日
@@ -9,131 +9,131 @@ purpose: AV業界の発展と健全化
 website: https://avjinken.jp/
 ---
 
-# AV's firm.
+# AV人権倫理機構
 
 ## Basic information
 
-|Item|Contents|
+| Item | Content |
 | --- | --- |
-|Official name|AV's firm.|
-|English name| Adult Video Human Rights & Ethics Organization |
-|Establishment|1 October 2017|
-|Dismissed.|31 March 2024|
-|Type|Arbitrary body (non-profit)|
-|Representative Board members|Yoko Shida.|
-|Area of activities|Japan|
-|Website| <https://avjinken.jp/> |
+| Official name | AV人権倫理機構 |
+| English name | Adult Video Human Rights & Ethics Organization |
+| Established | 1 October 2017 |
+| Dissolved | 31 March 2024 |
+| Type | Voluntary organization (non-profit) |
+| Representative director | 志田陽子 |
+| Area of activity | Japan |
+| Website | <https://avjinken.jp/> |
 
-## Summary
+## Overview
 
-The AV's Business Council (hereinafter the AV's) is a Japanese non-profit organization established on October 1, 2017 to promote the development and development of the AV industry. The Agency officially ceased its activities on 31 March 2024.
+The AV人権倫理機構 (below, the "AV人権機構") was a Japanese non-profit organization established on 1 October 2017 to promote the development and sound growth of the AV industry. The organization formally ended its activities on 31 March 2024.
 
-As a third party, the AV Institute is responsible for setting ethical norms and procedural rules for the AV industry, and for operating such operations as stop windows for the sale of works. The institution is not an AV industry group per se, but a third-party supervisory body composed of legal practitioners and researchers.
+As a third-party body, the AV人権機構 drafted ethical standards and procedural rules for the AV industry and ran services such as the window for requesting sales suspension of releases. The organization was not itself an industry group: it was a third-party supervisory body made up of legal practitioners and researchers.
 
 ## History
 
-- April 1, 2017 - established as a third-party committee, the Committee of the People Knowing the Reform of the AV Industry
-- October 1, 2017 - Following the AV reform into the business of the Commission of the Conscious, the AV Foundation was officially established.
-- March 26, 2018 - Japan Image Production JVPS, Second Association of the Japanese Association of the Japanese People
-- June 11, 2018 - the EOCS is now full membership.
-- 4 June 2019 - Establishment of AVAN as an external agency responsible for bookkeeping, secondary use of remuneration, etc.
-- 23 March 2022 - Notification to member manufacturers and brokerage companies strongly recommending that the age of entry be limited to 20 years or older, as a result of the revision of the Civil Code, which resulted in a reduction in the age of majority
-- 31 March 2024 — Official suspension
+- 1 April 2017 - Founded as the third-party committee 「AV業界改革推進有識者委員会」
+- 1 October 2017 - Inherited the work of the AV業界改革推進有識者委員会; the AV人権倫理機構 formally established
+- 26 March 2018 - 日本映像制作・販売倫理機構 (JVPS) and 第二プロダクション協会 became regular members
+- 11 June 2018 - コンピュータソフトウェア倫理機構 (EOCS) became a regular member
+- 4 June 2019 - AVAN (Adult Video Actress & Actors Network) set up as an external bureau, handling contract-document custody, secondary-use remuneration and similar business
+- 23 March 2022 - With the lowering of the age of majority by the Civil Code revision, issued a notice strongly recommending member studios and agencies to limit performers to age 20 and above
+- 31 March 2024 - Formally ended activities
 
 ## Main activities
 
-### Ethical norm-setting
+### Ethical standard-setting
 
-- Development of basic ethical and procedural rules for the AV industry
-- Compliance guidance and circulars to member companies
-- Promote the regularization and transparency of the performance contract
+- Drafting the basic ethics and procedural rules of a proper AV industry
+- Issuing compliance guidance and notices to member companies
+- Pushing for standardized, transparent performance contracts
 
-### Visualizing policy responses
+### Transparency measures
 
-- Videos of interviews and contract signing processes to eliminate the AV ' s strong issues
-- Operate secondary camera settings for surveillance
+- To eradicate coerced AV performances, promoting the video-recording of interviews and contract signing
+- Operating the installation of secondary monitoring cameras
 
-### Stop window for the sale of works
+### Sales-suspension window
 
-- Operation of a dedicated window to process requests from the performer to stop sales
-- By 2020, the sale of about 10,000 works had been discontinued
+- Running a dedicated window handling sales-suspension requests filed by performers
+- By 2020, around 10,000 releases had been suspended from sale
 
-### Age limit for engagement
+### Age limit for performers
 
-- After the 2022 Civil Code amendment (age of majority reduced to 18 years), a circular was issued to members strongly recommending that the age of entry be limited to 20 years or older
-- According to the 2022 circular, the 18-19 age group has been reduced to 0
+- After the 2022 Civil Code revision (age of majority lowered to 18), issued a notice to members strongly recommending a performer age limit of 20 and above
+- Following the 2022 notice, titles involving 18–19-year-olds dropped to zero
 
-## Organizational structure
+## Organization
 
-### Board of Governors
+### Directors
 
-|Positions|Name|belong to|
+| Role | Name | Affiliation |
 | --- | --- | --- |
-|Representative Board members|Yoko Shida.|Professor, University of the Fine Arts, Mushino, Vice-President, Association of Women Jurists, Japan|
-|Board of Governors|Hehabji-san.|Professor, Vice-Rector, Law Sociologist, Yokohama University|
-|Board of Governors|Quesuo Yamaguchi.|Lawyer. Lawyer California.|
-|Board of Governors|The song.|Counselor.|
+| Representative director | 志田陽子 | Professor at Musashino Art University; vice-chair of the Japan Association of Women Lawyers |
+| Director | 河合幹雄 | Professor and vice-president of Tooin University of Yokohama; sociologist of law |
+| Director | 山口貴士 | Lawyer; admitted in California |
+| Director | 歌門彩 | Lawyer |
 
-### Membership groups
+### Member organizations
 
-- The National Public Prosecutor's Office (NPO)
-- General Society Legal Person Japan Association of Japan (JPG)
-- The Japanese Image Production and Trafficking Agency (JVPS)
-- Second Association of South-East Asian Nations (SPA)
-- The best of the best of the best.
-- The general social agency, the General Social Services Agency, is working on the European Commission.
+- NPO法人 知的財産振興協会 (IPPA)
+- 一般社団法人 日本プロダクション協会 (JPG)
+- 一般社団法人 日本映像制作・販売倫理機構 (JVPS)
+- 第二プロダクション協会 (SPA)
+- フリー女優連盟
+- 一般社団法人 コンピュータソフトウェア倫理機構 (EOCS)
 
-## AN (external)
+## AN (external bureau)
 
-AN (Adult Video Access & Actors Network) is the external agency of the AV's firm established on 4 June 2019 to protect the human rights of the AV's female femininity and ensure that the performers are free to decide to perform.
+AN (Adult Video Actress & Actors Network) was the external bureau of the AV人権倫理機構 established on 4 June 2019, with the purpose of protecting the human rights of AV actresses and ensuring that performers can decide to appear of their own free will.
 
-### AN function
+### Functions of AN
 
-- Every time we shoot, we confirm the actor's will.
-- Issue confirmation form for materiality notes
-- Custody of the categories of contract book between the actor and the broker (preventing tampering)
-- Process secondary payment-related operations
+- Confirming the performer's willingness to appear at every shoot
+- Issuing important-matters explanation confirmation forms
+- Custody of contracts between performers and their agencies (to prevent agencies from altering them)
+- Handling business related to secondary-use remuneration
 
-### An's forebear.
+### AN's predecessor
 
-An was formerly represented by a general social activist, Kawanako.
+AN's predecessor was 表現者ネットワーク, the general incorporated association represented by 川奈まり子.
 
-## End of activities and follow-up
+## End of activities and what followed
 
-On 31 March 2024, the AV firm officially ceased its activities. According to the notification sent by the agency to the person concerned:
+On 31 March 2024 the AV人権倫理機構 formally ended its activities. According to the notice the organization sent to concerned parties:
 
-- Since 30 September 2024, the Agency has ceased the use of the "right AV" trademark
-- The known Association for Financial Advancement and Advancement was restructured into the "Application for Image Industries Union."
-- The sale of the original works of the institution is discontinued, the second time the performer uses the pay-for-work business is inherited by the Union.
+- From 30 September 2024 the organization stopped use of the 「適正AV」 trademark
+- 知的財産振興協会 was reorganized as 「適正映像事業者連合会」
+- The organization's sales-suspension business and its payment of performers' secondary-use remuneration were inherited by the 連合会
 
-The differences in the operational guidelines between the institution and the Federation eventually led to the decision to dissolve the institution.
+Differences in operating policy between the organization and the federation ultimately led to the decision to dissolve.
 
-## Evaluation and impact
+## Assessment and impact
 
-### Positive evaluation
+### Positive assessments
 
-- The promotion of heavy boxing in the AV industry has effectively reduced the number of murders.
-- New AV Act established as a trade rule to provide legal protection for performers
-- Promote the regularization and transparency of contracts and improve the working environment for actors
+- Pushed the AV industry to crack down on coercion and effectively reduced incidents of harm to performers
+- Established the AV New Law as an industry rule, giving performers legal protection
+- Pushed for standardized, transparent contracts and improved performers' working conditions
 
-### Criticism and questions
+### Criticism and problems
 
-- The exclusion of some informal AVs (same person AVs, etc.)
-- The results are limited, and the goal of zero for 18-19 years of age is not sustained in the long term
-- The institution operates on the self-regulation of its member groups and lacks enforcement
+- Part of the non-standard AV field (doujin AV etc.) was marginalised
+- Practical effects were limited: the goal of zero titles involving 18–19-year-olds could not be sustained long-term
+- The organization relied on member groups' self-discipline and lacked enforcement power
 
-## Related groups
+## Related organizations
 
-- Japan Association of Associations of the Japanese People (JPG)
-- The Accomplice Image Business Association
-- The EOCS is now in the middle of the war.
-- Japanese Image Production & Trafficking in Human Beings (JVPS)
-- Japan's Criminal Investigation Board (JCRC)
+- 日本プロダクション協会 (JPG)
+- 適正映像事業者連合会
+- コンピュータソフトウェア倫理機構 (EOCS)
+- 日本映像制作・販売倫理機構 (JVPS)
+- 日本コンテンツ審査センター (JCRC)
 
 ## External links
 
-- <https://avjinken.jp/> (services discontinued)
-- <https://x.com/avkaikaku>（X/Twitter）
-- <https://newavan.org/> (AN official website)
+- <https://avjinken.jp/> (service discontinued)
+- <https://x.com/avkaikaku> (X/Twitter)
+- <https://newavan.org/> (AN official site)
 - <https://ja.wikipedia.org/wiki/AV人権倫理機構>
 - <https://www.wikidata.org/wiki/Q60988388>

@@ -9,20 +9,20 @@ company: 甘美
 
 ## Basic information
 
-- ** Abbreviations: KB
-- ** Full name**: Kanbi (Gambia)
-- ** Member of: Prestige Group
-- ** Founded at **: 2018
-- ** Feature: Prestage Female Under Flag, Specialized Brand
-- ** Style**: Women, women, women
+- **Short name**: KB
+- **Full name**: KANBi (甘美)
+- **Company**: Prestige group
+- **Founded**: 2018
+- **Profile**: A Prestige brand dedicated to married women and mature models
+- **Style**: Married-woman, mature women, elegant mature looks
 
-## Delegates Series
+## Representative series
 
-- KANBI exclusive series (KBI)
+- The KANBi exclusive series (KBI)
 
-## It's exclusive to the woman.
+## Exclusive actresses
 
-- [The rice barn smells good.](../や/よ/米倉穂香.md)
+- [Honoka Yonekura](../や/よ/米倉穂香.md)
 
 ## References
 

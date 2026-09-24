@@ -1,10 +1,10 @@
-# に  —  —  —  — な な な  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —
+# Ni column (に段) — Na row (な行)
 
-This section includes the female femininity of the stage with the name "Sill" starting with "Simple".
+This column lists actresses whose stage name begins with に (row な, column に).
 
-## Entry
+## Entries
 
-- [New Mountain](新山らん.md)
-- [Incobra.](仁科百华.md)
-- [♪ West Palace Dream ♪](西宫梦.md)
-- [Imam Luang](二宫光.md)
+- [Ran Niiyama](新山らん.md)
+- [Momoka Nishina](仁科百华.md)
+- [Yume Nishinomiya](西宫梦.md)
+- [Hikaru Ninomiya](二宫光.md)

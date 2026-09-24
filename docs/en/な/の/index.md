@@ -1,7 +1,7 @@
-# Zoom — Line
+# No column (の段) — Na row (な行)
 
-The title of the show begins with "show" (showing in the line).
+This column lists actresses whose stage name begins with の (row な, column の).
 
-## Entry
+## Entries
 
-- [Nobuura-kun!](野々浦暖.md)
+- [Non Nonoura](野々浦暖.md)

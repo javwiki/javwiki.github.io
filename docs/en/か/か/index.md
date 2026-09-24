@@ -1,13 +1,13 @@
-# か  —  —  —  — か か か  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —  —
+# Ka column (か段) — Ka row (か行)
 
-This section includes the female femininity of the stage with the name "Sill" starting with "Simple".
+This column lists actresses whose stage name begins with か (row か, column か).
 
-## Entry
+## Entries
 
-- [Hebei Colour Flower](河北彩花.md)
-- [The raisin.](河合明日菜.md)
-- [Sakaki-sweethew!](神咲诗织.md)
-- [Yuma.](风间由美.md)
-- [Play the florist](奏音花音.md)
-- [The perfume is pure.](香水纯.md)
-- [Maple blossoms.](枫花.md)
+- [Saika Kawakita](河北彩花.md)
+- [Asuna Kawai](河合明日菜.md)
+- [Shiori Kamisaki](神咲诗织.md)
+- [Yumi Kazama](风间由美.md)
+- [Kanon Kanade](奏音花音.md)
+- [Jun Kosui](香水纯.md)
+- [Kaede Fua](枫花.md)

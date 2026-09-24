@@ -1,61 +1,61 @@
 ---
 type: award
-title: FANZA 成人奖
+title: FANZA Adult Award
 ---
 
 # FANZA Adult Award
 
-The PANZA Adult Award is a Japanese e-commerce website, PANZA (formerly DMM.) R18) The annual AV award, one of the most important awards for the Japanese AV industry, is sponsored by the Ministry of Foreign Affairs of Japan. The award was held in 2014 and was renamed FANZA by DM in 2019. ** No further reminders have been made for various reasons since 2020**.
+The FANZA Adult Award (FANZAアダルトアワード) is an annual AV award hosted by the Japanese e-commerce site FANZA (formerly DMM.R18); it is one of the most important awards in the Japanese AV industry. The awards have been held since 2014; DMM renamed them FANZA in 2019. **They have not been held since 2020 for various reasons.**
 
-Change of name:
-- 2014: DMM Boys
-- 2015-2018: DMM. R18, dude.
-- 2019: FANZA GUY
-- 2020 to date: no reminder
+Name history:
+- 2014: DMMアダルトアワード
+- 2015–2018: DMM.R18アダルトアワード
+- 2019: FANZAアダルトアワード
+- 2020–present: not held
 
-## Category of award
+## Award categories
 
-### Personal awards
+### Individual awards
 
-|Awards|Annotations|
+| Award | Notes |
 | --- | --- |
-|Best Female Award|Best AV women in the year (in Platinum/Gold 2014)|
-|The Women of Excellence Award|Female Outstanding Award (usually 1-2)|
-|Best Newman and Woman.|The best new girl in the year.|
-|The New Man and Women Award.|Women ' s Award for the Excellence of the New Humanity (new since 2017)|
-|Special awards|Special Contribution Award|
-|Topical Award|The annual topic person.|
-|Media Awards|The best women in the media.|
-|Weekly Advertising|The weekly Playboy Buyer Votes Decision (Personal Award since 2018)|
-|The guy's got a real deal.|The special publisher decided to do it.|
+| Best Actress | The year's best AV actress (split into platinum and gold divisions in 2014) |
+| Excellence Award | Award for excellence (usually 1–2 recipients) |
+| Best Newcomer | The year's best new actress |
+| Newcomer Excellence Award | Award for newcomer excellence (established from 2017) |
+| Special Award | Award for special contribution |
+| Topic Award | The year's person of the topic |
+| Media Award | Best actress chosen by media voting |
+| 週刊プレイボーイ賞 | Chosen by a vote among 週刊 Playboy purchasers (from 2018; counted as an individual award) |
+| スペシャルプレゼンター賞 | Left entirely to the special presenter's judgment |
 
-### Award for works
+### Work awards
 
-|Awards|Annotations|
+| Award | Notes |
 | --- | --- |
-|Best work award.|Best work of the year.|
+| Best Work | The year's best release (separate divisions for mail order, streaming and rental) |
 
-## The best ever.
+## Past Best Actress winners
 
-|Year|Winner|Remarks|
+| Year | Winner | Notes |
 | --- | --- | --- |
-| 2014 |Haut-O-K (Platinum)/ Breathing fruit (Gold)| DMMアダルトアワード |
-| 2015 |Jiryu.| DMM.R18アダルトアワード |
-| 2016 |The big bang.| |
-| 2017 |Yoya Sanjo| |
-| 2018 |Hashimoto has a dish.| |
-| 2019 |Azawanan.| FANZAアダルトアワード |
+| 2014 | Ai Uehara (platinum) / Ayami Shunka (gold) | DMMアダルトアワード |
+| 2015 | 湊莉久 | DMM.R18アダルトアワード |
+| 2016 | Hibiki Otsuki | |
+| 2017 | Yua Mikami | |
+| 2018 | Arina Hashimoto | |
+| 2019 | Minami Aizawa | FANZAアダルトアワード |
 
-## The best new girl ever.
+## Past Best Newcomer winners
 
-|Year|Winner|
+| Year | Winner |
 | --- | --- |
-| 2014 |Whitestone Jasmine.|
-| 2015 |Angel-cream.|
-| 2016 |Yoya Sanjo|
-| 2017 |Son of Takahashi.|
-| 2018 |Cherry.|
-| 2019 |The raisin.|
+| 2014 | Marina Shiraishi |
+| 2015 | Moe Amatsuka |
+| 2016 | Yua Mikami |
+| 2017 | Shoko Takahashi |
+| 2018 | Momo Sakura |
+| 2019 | Asuna Kawai |
 
 ## References
 

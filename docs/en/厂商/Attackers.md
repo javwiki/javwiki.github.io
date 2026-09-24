@@ -9,17 +9,17 @@ company: アタッカーズ
 
 ## Basic information
 
-- ** Abbreviations: AT
-- ** Full name**: Attackers
-- ** Chinese**: Attacker
-- **According to**:
-- ** Feature**: Predominantly known as the "Fact and Abuse "
-- **System**: The Fiction, The Abuse, The Darkness
+- **Short name**: AT
+- **Full name**: Attackers
+- **Chinese name**: 攻击者
+- **Company**: アタッカーズ
+- **Profile**: Known for story-driven and subjugation-themed releases
+- **Style**: Story-driven, subjugation, dark themes
 
-## It's exclusive to the woman.
+## Exclusive actresses
 
-- [- Lian Silller.](../は/は/莲实克蕾儿.md)
-- [Heishima-Ei Ri](../か/き/希岛爱理.md)
+- [Kurea Hasumi](../は/は/莲实克蕾儿.md)
+- [Airi Kijima](../か/き/希岛爱理.md)
 
 ## References
 
