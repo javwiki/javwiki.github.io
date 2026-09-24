@@ -8,6 +8,9 @@
 | `check_i18n.py` | 内容结构与数据完整性校验。运行依赖由根目录 `pyproject.toml` 与 `uv.lock` 统一管理。检查项见 `TRANSLATION.md` 的「验证」一节。 |
 | `check_site.py` | 构建后校验三语静态页面的内部文件链接、锚点、逐页语言链接及 HTML/导航体积预算。 |
 | `ja_name_map.json` | 中文条目名 → 日文标准写法对照表，日文版重建与后续维护共用。 |
+| `en_display_names.py` | 从中文源 `英文名` 字段生成英文显示名，应用到 `docs/en` 的 H1、`alt`、链接显示名与 `_meta/list.{md,yaml}`（幂等）。 |
+| `en_index_pages.py` | 依据中文源重建 47 个五十音行/段索引页与 `docs/en/_meta/list.md` 标题。 |
+| `assemble_actress.py` | 装配女优页：合并中文源 front matter 与 `<img>`（`alt` 本地化为英文名）并即时跑结构校验；不要与写文件同批执行（会竞争）。 |
 
 ```bash
 ./scripts/build_site.sh

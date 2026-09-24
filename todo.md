@@ -53,7 +53,7 @@
 - `Mine_S.md` 因文件名避让单引号使用下划线，条目名统一为 `Mine's`
 - 别名页 `は/は/桥本有菜.md` 与主条目 `あ/あ/新有菜.md` 互链用了 `../../`（二级目录层级），改这两个文件时注意
 
-## 6. 英文版正文待重译（新增）
+## 6. 英文版正文待重译 ✅ 已完成（2026-09-24）
 
 英文版是中文 → 英文的机器翻译初稿，未经修订。本次只修了数据与受保护区：
 
@@ -62,3 +62,23 @@
 - H1、index 链接显示名、正文机翻（含 `** Broker**` 一类被误译的字段名）**未动**，例：`佐佐木明希` 正文原写 `Zhengxi (since 2025), former Zhifu (2015-2019)`。
 
 重译需单独立项，规则见 `TRANSLATION.md`。
+
+**执行记录（2026-09-24，一次会话内完成）**：357 个英文文件正文全部依据中文源重写完毕；`check_i18n.py`、三语 strict 构建（`scripts/build_site.sh`）与 `check_site.py` 全绿（1065 pages）。配套新增 `scripts/en_display_names.py`、`scripts/en_index_pages.py`、`scripts/assemble_actress.py`，规范见 `TRANSLATION.md`「英文：依据中文源重写（2026-09-24）」。以下为过程存档。
+
+**进度（2026-09-24 开始执行，按可见度分批）**：
+
+- ✅ 确定性部分：人名显示统一。新增 `scripts/en_display_names.py`（从中文源 `英文名` 字段生成 181 个英文显示名，无字段的 9 条用 override；应用到 H1、`alt`、链接显示名、`_meta/list.{md,yaml}`）与 `scripts/en_index_pages.py`（重建 47 个行/段索引页与 list.md 标题，约定：`# A row (あ行)` / `# A column (あ段) — A row (あ行)`）。
+- ✅ 站点级页面：`index.md`、`女优/`、`术语/`、`番号/`、`排名/`、`_meta/`（4）、`专题/`（2）。
+- ✅ 分类索引 11 个：经纪公司、厂商、协会、法律、活动、奖项、组合、作品、导演、男优、系列。
+- ✅ `作品/` 13 个条目（受保护区逐字拷贝，已过 check）。
+- ✅ `经纪公司/` 22 个条目。
+- ✅ 分类条目全部完成（2026-09-24）：厂商 7、协会 4、法律 10、活动 6、奖项 3、组合 8、系列 26、导演 2、男优 3。
+- ✅ 女优条目 181 条已全部完成（2026-09-24，按行/段顺序分批，每批 6-8 个、批后跑 check_i18n）。
+  - ✅ あ行40 条已完（2026-09-24）：あ18、い8、う2、え0、お12；装配脚本 `scripts/assemble_actress.py`（正文以 `%%IMG%%` 占位，脚本合并 front matter/图行并结构校验）。
+  - ✅ か行27 条已完（2026-09-24）：か7、き10、く3、け0、こ7。累计 67/181。
+  - ✅ さ行22 条 + た行21 条已完（2026-09-24）→ 累计 109/181。
+  - ✅ な 14、は 17、ま 23、や 16、ら 2 条已完（2026-09-24）→ 181/181。
+
+**女优条目翻译口径**（沿用）：H1/链接显示名已由脚本统一为英文名；字段标签译（姓名→Name、日文名→Japanese name、读音→Reading、英文名→English name、曾用名/别名→Former stage name/Aliases、出生日期→Date of birth、三围→Measurements、罩杯→Cup、血型→Blood type、类别→Category、活跃年代→Active、经纪公司→Agency、主要片商→Main studios）；章节：基本信息→Basic information、简介→Introduction、人物→Personal notes、作品特征→Work features、经历年表→Career timeline、获奖记录→Awards、参考资料→References、相关条目→Related entries；日期译成英文格式；`tags`/`thumbnail` 等 front matter 除 title 外逐字节保留；正文人名：中文文件名形式→英文名（查映射），官方日文形式→保留原文；不新增事实与链接。
+
+口径备忘：人名有 `英文名` 用英文名；数据单元格（出演者、官网原文括注）保留官方原文；无来源读音的人名/系列名/法律名不臆造罗马字，保留官方写法；不新增中文源没有的事实与链接。
