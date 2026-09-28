@@ -107,11 +107,11 @@ def normalized_href(href: str) -> str | None:
 def page_route(path: Path, site: Path) -> tuple[str, str] | None:
     relative = path.relative_to(site)
     parts = relative.parts
-    if parts and parts[0] in {"ja", "en"}:
+    if parts and parts[0] in {"zh", "en"}:
         language = parts[0]
         parts = parts[1:]
     else:
-        language = "zh"
+        language = "ja"
     if parts == ("404.html",):
         return None
     is_directory_url = (
@@ -132,15 +132,15 @@ def alternate_problems(site: Path, pages: dict[Path, Page]) -> list[str]:
         identity = page_route(path, site)
         if identity is None:
             expected = {
-                ("zh", "/"),
-                ("ja", "/ja/"),
+                ("ja", "/"),
+                ("zh", "/zh/"),
                 ("en", "/en/"),
             }
         else:
             _, route = identity
             expected = {
-                ("zh", route),
-                ("ja", "/ja" + route),
+                ("ja", route),
+                ("zh", "/zh" + route),
                 ("en", "/en" + route),
             }
         actual_head = {

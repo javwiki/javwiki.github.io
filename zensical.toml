@@ -1,19 +1,19 @@
 [project]
 site_name = "JAV 百科"
-site_url = "https://javwiki.github.io/"
+site_url = "https://javwiki.github.io/zh/"
 site_description = "JAV（日本成人视频）综合百科。"
 site_author = "javwiki contributors"
 repo_url = "https://github.com/javwiki/javwiki.github.io"
 repo_name = "javwiki/javwiki.github.io"
 edit_uri = "edit/main/docs/zh/"
 docs_dir = "docs/zh"
-site_dir = "site"
+site_dir = "site/zh"
 use_directory_urls = true
 
 [project.extra]
 alternate = [
-  { name = "中文", link = "/", lang = "zh" },
-  { name = "日本語", link = "/ja/", lang = "ja" },
+  { name = "日本語", link = "/", lang = "ja" },
+  { name = "中文", link = "/zh/", lang = "zh" },
   { name = "English", link = "/en/", lang = "en" },
 ]
 

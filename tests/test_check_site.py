@@ -9,7 +9,7 @@ def write_page(path: Path, body: str) -> None:
 
 
 def language_links(route: str) -> str:
-    targets = {"zh": route, "ja": "/ja" + route, "en": "/en" + route}
+    targets = {"ja": route, "zh": "/zh" + route, "en": "/en" + route}
     head = "".join(
         f'<link rel="alternate" href="{target}" hreflang="{language}">'
         for language, target in targets.items()
@@ -40,10 +40,10 @@ def make_site(tmp_path: Path) -> Path:
         f"<head>{language_links('/other/')}</head>"
         '<a href="../">Home</a><h1 id="target">Target</h1>',
     )
-    write_page(site / "ja" / "index.html", f"<head>{language_links('/')}</head>")
+    write_page(site / "zh" / "index.html", f"<head>{language_links('/')}</head>")
     write_page(site / "en" / "index.html", f"<head>{language_links('/')}</head>")
     write_page(
-        site / "ja" / "other" / "index.html",
+        site / "zh" / "other" / "index.html",
         f"<head>{language_links('/other/')}</head>",
     )
     write_page(

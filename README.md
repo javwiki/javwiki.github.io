@@ -16,10 +16,10 @@ uv sync --locked --no-dev
 构建结果位于 `site/`。启动本地预览：
 
 ```bash
-uv run --locked --no-dev zensical serve --config-file zensical.toml
+uv run --locked --no-dev zensical serve --config-file zensical.ja.toml
 ```
 
-日文和英文可分别使用 `zensical.ja.toml`、`zensical.en.toml` 预览。中文版继续发布在 `/`，日文版发布在 `/ja/`，英文版发布在 `/en/`，页眉语言选择器可在三个版本间切换。三份配置启用 `navigation.prune` 以避免每个页面嵌入完整站点导航；`overrides/` 负责生成逐页语言对应链接。
+中文和英文可分别使用 `zensical.toml`、`zensical.en.toml` 预览。日文版发布在 `/`（默认语言），中文版发布在 `/zh/`，英文版发布在 `/en/`，页眉语言选择器可在三个版本间切换。三份配置启用 `navigation.prune` 以避免每个页面嵌入完整站点导航；`overrides/` 负责生成逐页语言对应链接。
 
 中文（`docs/zh/`）是源内容，日文与英文目录是它的翻译，三者相对路径、文件名完全一致。
 

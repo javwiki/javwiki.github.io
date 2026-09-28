@@ -8,11 +8,13 @@
 
 | 语言 | 内容目录 | 构建配置 | 发布路径 |
 |---|---|---|---|
-| 中文 | `docs/zh/` | `zensical.toml` | `/` |
-| 日文 | `docs/ja/` | `zensical.ja.toml` | `/ja/` |
+| 日文 | `docs/ja/` | `zensical.ja.toml` | `/` |
+| 中文 | `docs/zh/` | `zensical.toml` | `/zh/` |
 | 英文 | `docs/en/` | `zensical.en.toml` | `/en/` |
 
-中文版继续发布在站点根路径，以保持迁移前的公开 URL 不变。各版本通过页眉语言选择器切换，编辑链接分别指向对应的语言目录。三个构建共用 `scripts/build_site.sh`，CI 在推送到 `main` 后执行同一脚本并部署到 GitHub Pages。
+日文版发布在站点根路径，作为默认语言；中文版发布在 `/zh/`，英文版发布在 `/en/`。各版本通过页眉语言选择器切换，编辑链接分别指向对应的语言目录。三个构建共用 `scripts/build_site.sh`，CI 在推送到 `main` 后执行同一脚本并部署到 GitHub Pages。
+
+> **2026-09-28 变更**：此前中文版发布在根路径、日文版在 `/ja/`。改为日文接管根路径后，中文的公开 URL 全部迁移到 `/zh/` 前缀下（如 `/な/な/…` → `/zh/な/な/…`）。旧路径无法用重定向保留——它们已成为日文页面的路径，因此历史中文链接会指向同名的日文页面。中文**内容源**仍是 `docs/zh/`（`check_i18n.py` 的 `SOURCE` 不变），只有发布路径改变。
 
 ## 内容树结构
 
@@ -26,11 +28,11 @@ docs/en/法律/民法.md
 
 文件名和目录名一律不翻译。这使三棵树可以直接逐文件比对，也避免语言切换时维护额外的路径映射。代价是中文目录名（如 `../女优/index.md`）会出现在日文和英文页面的链接里。
 
-每个语言目录共 357 个文件，按主题分布如下：
+每个语言目录共 358 个文件，按主题分布如下：
 
 | 目录 | 文件数 | 说明 |
 |---|---:|---|
-| `あ` `か` `さ` `た` `な` `は` `ま` `や` `ら` `わ` | 228 | 女优条目，按五十音两级索引 |
+| `あ` `か` `さ` `た` `な` `は` `ま` `や` `ら` `わ` | 229 | 女优条目，按五十音两级索引 |
 | `系列` | 27 | 系列作品条目 |
 | `作品` | 14 | 单个作品条目（按番号） |
 | `经纪公司` | 23 | 经纪公司条目 |
@@ -196,8 +198,8 @@ docs/zh/は/は/米倉穂香.md   →  [KBI-001](../../作品/KBI-001.md)  # 同
 
 `scripts/check_i18n.py` 是内容校验的入口，依赖由根目录 `pyproject.toml` 与 `uv.lock` 固定。执行四类检查：
 
-1. **文件集合**：三个语言目录的文件相对路径必须完全一致，多一个或少一个都报错（覆盖全部 357 × 3 个文件）。
-2. **结构一致**：逐页比对 `docs/ja/`、`docs/en/` 与 `docs/zh/` 的 Markdown 页面——front matter（除 `title:`）、标题层级序列、按文档顺序排列的链接/自动链接/图片目标、表格形状（每行竖线数）、代码块数量与开启围栏的语言标记。共 708 页。
+1. **文件集合**：三个语言目录的文件相对路径必须完全一致，多一个或少一个都报错（覆盖全部 358 × 3 个文件）。
+2. **结构一致**：逐页比对 `docs/ja/`、`docs/en/` 与 `docs/zh/` 的 Markdown 页面——front matter（除 `title:`）、标题层级序列、按文档顺序排列的链接/自动链接/图片目标、表格形状（每行竖线数）、代码块数量与开启围栏的语言标记。共 710 页。
 3. **链接与索引完整性**（按语言独立检查，不与中文源比对）：
    - 链接目的地不得含裸空格——正则若截断成 `Bambi Promotion.md` → `Bambi`，比对两侧反而一致，属于静默盲区；
    - 所有相对链接必须能解析到文件或含 `index.md` 的目录，二级目录页的 `../../` 层级由此兜住；
@@ -218,7 +220,7 @@ uv run --locked --no-dev python scripts/check_i18n.py
 实测输出：
 
 ```text
-i18n trees match (357 files per language, 708 pages structurally checked)
+i18n trees match (358 files per language, 710 pages structurally checked)
 ```
 
 `./scripts/build_site.sh` 会先跑上述检查，再依次以 Zensical 0.0.62 的 strict 模式构建三个语言版本，最后用 `check_site.py` 扫描全部生成页面的内部文件链接、锚点、逐页语言链接，并执行 HTML 160 KiB / 导航 320 链接的体积预算：
@@ -228,12 +230,12 @@ i18n trees match (357 files per language, 708 pages structurally checked)
 ```
 
 ```text
-i18n trees match (357 files per language, 708 pages structurally checked)
+i18n trees match (358 files per language, 710 pages structurally checked)
 Build started
 No issues found
 Build finished in 3.18s
 （日文 3.23s，英文 3.81s；均为已预热依赖的本地实测）
-site links OK (1065 pages, 226638 link elements)
+site links OK (1068 pages, 227364 link elements)
 ```
 
 CI（`.github/workflows/zensical.yml`）在推送到 `main`、面向 `main` 的 `pull_request` 以及手动触发时运行测试、依赖审计和同一构建脚本。只有 `main` 的非 PR 事件才上传并部署 Pages；手动选择其它分支仍可验证构建，但不能发布。workflow 的权限收敛到 job 级（默认 `contents: read`，deploy 才授予 `pages: write` + `id-token: write`），全部 actions 固定到 commit SHA，runner、uv 与 Python 版本也固定。
@@ -242,7 +244,7 @@ CI（`.github/workflows/zensical.yml`）在推送到 `main`、面向 `main` 的 
 
 1. 扫描旧机翻残留词与重复退化模式（`とりあえず`、`全て正しいです`、`アパート`、`年 年 年`、`ヒエナ` 等）：日文正文中为 0。仍会命中的中文串只落在受保护区域——链接目标（如 `zh.wikipedia.org/wiki/AIKA_(AV女优)`）、front matter 的 `tags` 值、示例代码块内的路径、`### 中国語訳` 的中文对照正文。
 2. 扫描日文页面的中文残留词（`信息`、`视频`、`片商`、`女优`、`导演`、`出道` 等）：正文中为 0。
-3. 用 Playwright 渲染 `site/ja/` 抽查女优页、作品页、法令页、奖项页、厂商页与索引页，确认页面标题、章节名与正文均为日语。
+3. 用 Playwright 渲染 `site/`（日文即根路径）抽查女优页、作品页、法令页、奖项页、厂商页与索引页，确认页面标题、章节名与正文均为日语。
 4. **自动回归测试**：`tests/test_check_i18n.py` 固化链接顺序、围栏语言、列表映射和排名 schema 的正反例；`tests/test_workflow.py` 锁定生产部署分支、runner 与锁文件构建约束。CI 每次执行 `pytest`、Ruff 和 `pip-audit`。
 
 以上检查只能确认结构一致、数据完整与站点可构建，都不能证明译文准确。
