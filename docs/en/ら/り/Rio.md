@@ -36,7 +36,7 @@ Rio is one of the most representative mixed-race actresses in the Japanese AV in
 - Studied in the economics faculty of Dokkyo University (on leave).
 - Personal hobby: karaoke.
 - Won the actress of the year award in 2008.
-- Was a member of 惠比寿麝香葡萄.
+- Was a member of Ebisu Muscats.
 - In 2010 she co-starred with Akiho Yoshizawa and Mihiro on a single by the band SKELT 8 BAMBINO.
 
 ## Work features

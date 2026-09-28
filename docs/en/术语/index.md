@@ -41,17 +41,17 @@ This document collects the common industry terms and abbreviations used in this 
 
 | Term | Description |
 | --- | --- |
-| Studio (片商) | The company that produces and distributes AV releases |
-| Agency (事务所) | The talent agency that manages actresses |
-| Label (厂牌) | A brand or series line under a studio |
+| Studio (メーカー) | The company that produces and distributes AV releases |
+| Agency (事務所) | The talent agency that manages actresses |
+| Label (レーベル) | A brand or series line under a studio |
 
 ## Product-code-related
 
 | Term | Description |
 | --- | --- |
 | Product code (番号) | The unique identification number of a release |
-| Prefix (前缀) | The letter part of the code, usually the studio or series |
-| Sequence number (序号) | The numeric part of the code, showing the release order |
+| Prefix (プレフィックス) | The letter part of the code, usually the studio or series |
+| Sequence number (シリアル番号) | The numeric part of the code, showing the release order |
 
 ## Common abbreviations
 

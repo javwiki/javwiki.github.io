@@ -4,7 +4,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tana
 ---
 # Hitomi
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tanaka_2017.jpg/500px-Hitomi_Tanaka_2017.jpg" alt="Hitomi Tanaka（海外名义）" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tanaka_2017.jpg/500px-Hitomi_Tanaka_2017.jpg" alt="Hitomi" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
 
 
 ## Basic information
@@ -64,7 +64,7 @@ Hitomi (real name: 田中瞳, born 18 July 1986) is a former Japanese AV actress
 | 2016 | Long cooperation with OPPAI and MOODYZ, with many representative O-cup titles. |
 | 2018 | Revealed her relationship with Emmure vocalist Palmeri on Instagram in May. |
 | 2019 | Broke up in April. |
-| 2022 | Announced her retirement in April... in February; released the retirement title 《Hitomiラスト作品！全力でファンの為にセックスします！！》 in April. |
+| 2022 | Announced her retirement in February; released the retirement title 《Hitomiラスト作品！全力でファンの為にセックスします！！》 in April. |
 
 ## Awards
 
