@@ -168,6 +168,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](./五�
 - Ichika Nagano
 - Hikari Nagisa
 - Nagi Hikaru
+- Nanao Nakano
 ### Ni column (に段)
 
 - Hikaru Ninomiya

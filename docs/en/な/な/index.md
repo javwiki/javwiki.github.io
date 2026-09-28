@@ -13,3 +13,4 @@ This column lists actresses whose stage name begins with な (row な, column �
 - [Ichika Nagano](永野一夏.md)
 - [Nanase Iori](七瀬いおり.md)
 - [Nanami Hina](七海ひな.md)
+- [Nanao Nakano](中野七绪.md)
