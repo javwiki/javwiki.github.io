@@ -19,3 +19,4 @@
 | --- | --- | --- | --- | --- |
 | [actress-ranking-202606.yaml](actress-ranking-202606.yaml) | 女优月间排名 | FANZA | 2026年6月 | 100 |
 | [actress-ranking-202607.yaml](actress-ranking-202607.yaml) | 女优月间排名 | FANZA | 2026年7月 | 100 |
+| [actress-ranking-202610.yaml](actress-ranking-202610.yaml) | 女优月间排名 | FANZA | 2026年10月 | 100 |

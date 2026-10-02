@@ -19,3 +19,4 @@ Ranking data is stored as YAML. Each file contains the following fields:
 | --- | --- | --- | --- | --- |
 | [actress-ranking-202606.yaml](actress-ranking-202606.yaml) | Monthly actress ranking | FANZA | June 2026 | 100 |
 | [actress-ranking-202607.yaml](actress-ranking-202607.yaml) | Monthly actress ranking | FANZA | July 2026 | 100 |
+| [actress-ranking-202610.yaml](actress-ranking-202610.yaml) | Monthly actress ranking | FANZA | October 2026 | 100 |
