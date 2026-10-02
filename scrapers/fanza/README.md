@@ -2,6 +2,8 @@
 
 通过 Playwright 抓取 FANZA 女优月度排名，并将结果写入三语内容树。
 
+日本代理的订阅格式、启动与验证命令、抓取发布流程及实际执行记录见 [通过日本代理抓取 FANZA 月榜](JAPAN_PROXY.md)。
+
 ## 工作方式
 
 1. 打开 `https://video.dmm.co.jp/av/ranking/?term=monthly&type=actress`。

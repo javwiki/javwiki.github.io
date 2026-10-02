@@ -8,6 +8,8 @@ This repository uses Zensical to build Chinese, Japanese, and English editions w
 
 需要日本出口代理的本地工具或抓取任务，可使用 [Docker 日本代理配置](docker/japan-vpn/README.md)，并提供自己的日本节点订阅。
 
+FANZA 月榜的代理抓取、校验与发布步骤及执行记录见 [日本代理抓取文档](scrapers/fanza/JAPAN_PROXY.md)。
+
 项目使用 Python 3.12.14 与 uv 0.12.5。首次使用先安装锁文件中的依赖：
 
 ```bash
