@@ -6,6 +6,8 @@ This repository uses Zensical to build Chinese, Japanese, and English editions w
 
 ## 本地预览
 
+需要日本出口代理的本地工具或抓取任务，可使用 [Docker 日本代理配置](docker/japan-vpn/README.md)，并提供自己的日本节点订阅。
+
 项目使用 Python 3.12.14 与 uv 0.12.5。首次使用先安装锁文件中的依赖：
 
 ```bash
