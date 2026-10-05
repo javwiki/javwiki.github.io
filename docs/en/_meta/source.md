@@ -20,6 +20,7 @@ The main information sources consulted when writing encyclopedia entries.
 | [JAVDB](https://javdb.com) | Chinese-language AV database | Product codes, actress and studio information, rating data |
 | [Javlibrary](https://www.javlibrary.com) | Multilingual AV database | Ratings and comments, release lists |
 | [AV-Wiki](https://av-wiki.net) | Japanese AV database | Studio and release information |
+| [AVFAN](https://avfan.mixh.jp/archives/top/) | Japanese aggregator of AV actress and release information | Actress, release and tag searches; birthday, debut and social account leads. Cross-check dates and profile details with the performer, agency or studio’s official sources |
 | [Seesaa Wiki](https://wiki.seesaa.jp/adult/) | Japanese AV wiki | Detailed actress material (age verification required) |
 | [みんなの AV](https://www.minnano-av.com) | Japanese AV database | Actress information, release lists |
 | [Xslist](https://www.xslist.org) | Multilingual AV database | Actress information, release lists, agency information |
