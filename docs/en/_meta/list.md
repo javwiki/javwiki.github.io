@@ -63,6 +63,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](./五�
 - Asuna Kawai
 - Shiori Kamisaki
 - Yumi Kazama
+- Yuma Kanzaki
 - Jun Kosui
 ### Ki column (き段)
 
