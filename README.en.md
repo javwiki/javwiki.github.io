@@ -49,24 +49,27 @@ CI follows the [official Zensical GitHub Pages workflow](https://zensical.org/do
 
 Build Japanese into `site/` first, then Chinese into `site/zh/` and English into `site/en/`. CI does not invoke maintenance scripts or run index checks, cross-language validation, HTML link checks, pytest, Ruff, or dependency audits. It also omits `--strict` and build caching. Maintainers run these checks manually. CI uses `ubuntu-latest`, Python `3.x`, and Actions major-version tags, and runs `pip install zensical` directly. It does not use `uv.lock`, exact version pins, manual triggers, or additional branch guards. The only adaptation of the official example is expanding its single build into three language builds.
 
-## Manual validation and tests
+## Validation before pushing
+
+Before every `git push`, finish your changes. If pages were added or moved, or classification metadata changed, regenerate indexes and navigation first. Run the following checks in order from the repository root. Once all checks pass, inspect the working tree, stage only the intended files, commit, and push. Fix any failed check and rerun it. If you make further edits after validation, rerun the affected checks. CI only builds and publishes after a push; it does not replace validation before pushing.
 
 `./scripts/build_site.sh` is the manual full-validation entry point: check that indexes and navigation are up to date, validate the three content trees, build all editions in strict mode, then check generated links, anchors, language switching, and size budgets. It does not deploy and is not called by CI.
 
 ```bash
 ./scripts/build_site.sh
+uv run --locked --group dev --group scraper pytest
+uv run --locked --group dev ruff format --check scripts/checks scripts/content scrapers/fanza/spider.py tests
+uv run --locked --group dev ruff check scripts/checks scripts/content scrapers/fanza/spider.py tests
+uv run --locked --group dev --group scraper pip-audit
+git diff --check
 ```
 
-Checks, tests, formatting checks, and dependency audits can also be run individually. Build all three editions before running `check_site.py`:
+Use these individual checks to investigate problems. Build all three editions before running `check_site.py`:
 
 ```bash
 uv run --locked --no-dev python scripts/content/generate_indexes.py --check
 uv run --locked --no-dev python scripts/checks/check_i18n.py
 uv run --locked --no-dev python scripts/checks/check_site.py
-uv run --locked --group dev --group scraper pytest
-uv run --locked --group dev ruff format --check scripts/checks scripts/content scrapers/fanza/spider.py tests
-uv run --locked --group dev ruff check scripts/checks scripts/content scrapers/fanza/spider.py tests
-uv run --locked --group dev --group scraper pip-audit
 ```
 
 `check_i18n.py` verifies that files correspond across the three language directories, and compares Japanese and English pages against their Chinese sources for front matter, heading hierarchy, link targets, table shape, and code blocks. It also checks relative links, complete syllabary index coverage, mappings between performer lists and actual pages, ranking schemas and their copies in all three languages, and exact matches for protected sections of work pages. `./scripts/build_site.sh` runs this check first, then uses `check_site.py` to validate internal links and anchors after building all three editions. Both checks are run manually.

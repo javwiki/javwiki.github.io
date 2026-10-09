@@ -311,9 +311,10 @@ site links OK (1068 pages, 227364 link elements)
 3. 新增女优条目时，按 `maintenance/zh/五十音排序规则.md` 定位 `{行}/{段}/`，并把链接插入 `docs/{lang}/人物/女优/{行}/{段}/index.md` 与该语言的 `maintenance/{lang}/list.md`、`maintenance/{lang}/list.yaml`（`list.yaml` 三语条数必须一致，否则校验失败）。
 4. 新增或删除文件后，确认相应 `index.md` 能到达该页；二级目录页跨分类链接写 `../../`。
 5. 改 tag 或经纪公司写法时，按「事务所 tag 命名规范」三语同步，并同步 `经纪公司/{公司}.md` 的成员表。
-6. 运行完整校验：
+6. 在 push 前先生成索引和导航，再运行完整校验：
 
    ```bash
+   uv run --locked --no-dev python scripts/content/generate_indexes.py
    ./scripts/build_site.sh
    ```
 
@@ -322,6 +323,8 @@ site links OK (1068 pages, 227364 link elements)
    ```bash
    uv run --locked --no-dev python scripts/checks/check_i18n.py
    ```
+
+7. 在 push 前执行 pytest、Ruff、依赖审计和 `git diff --check`，完整命令见 [脚本文档](../scripts/README.md)。以上检查全部通过后，检查工作区，只暂存本次修改的文件，提交并 push。失败时先修复并重跑；校验后继续修改时，重跑受影响的检查。快速单项检查用于排查问题，不能代替完整流程。
 
 ### 人工校订清单
 

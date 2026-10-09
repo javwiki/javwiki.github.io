@@ -49,24 +49,27 @@ CI 采用 [Zensical 官方 GitHub Pages 流程](https://zensical.org/docs/publis
 
 日文先构建到 `site/`，再将中文和英文构建到 `site/zh/`、`site/en/`。CI 不调用维护脚本，不执行索引检查、三语校验、HTML 链接检查、pytest、Ruff 或依赖审计，也不启用 `--strict` 或构建缓存。这些检查由维护者手动执行。CI 使用 `ubuntu-latest`、Python `3.x` 和 Actions 主版本标签，直接执行 `pip install zensical`；不使用 `uv.lock`、精确版本、手动触发或额外分支判断。相较官方示例，仅将单次构建展开为三语构建。
 
-## 手动校验与测试
+## Push 前校验
+
+每次 `git push` 前，先完成修改；涉及新增、移动页面或分类元数据时，先生成索引和导航，再从仓库根目录依次执行下列校验。全部通过后检查工作区，只暂存本次修改的文件，提交并 push。任何检查失败都应先修复并重新运行；校验后若继续修改，应重跑受影响的检查。CI 在 push 后只负责构建和发布，不能代替 push 前校验。
 
 `./scripts/build_site.sh` 是手动完整校验入口：检查索引和导航是否已更新、校验三语内容、严格构建三个版本，再检查生成页面的链接、锚点、语言切换和体积预算。它不负责部署，也不由 CI 调用。
 
 ```bash
 ./scripts/build_site.sh
+uv run --locked --group dev --group scraper pytest
+uv run --locked --group dev ruff format --check scripts/checks scripts/content scrapers/fanza/spider.py tests
+uv run --locked --group dev ruff check scripts/checks scripts/content scrapers/fanza/spider.py tests
+uv run --locked --group dev --group scraper pip-audit
+git diff --check
 ```
 
-也可按需分别运行检查、测试、格式检查和依赖审计。`check_site.py` 需要先完成三语构建：
+以下是单项检查命令，用于定位问题；`check_site.py` 需要先完成三语构建：
 
 ```bash
 uv run --locked --no-dev python scripts/content/generate_indexes.py --check
 uv run --locked --no-dev python scripts/checks/check_i18n.py
 uv run --locked --no-dev python scripts/checks/check_site.py
-uv run --locked --group dev --group scraper pytest
-uv run --locked --group dev ruff format --check scripts/checks scripts/content scrapers/fanza/spider.py tests
-uv run --locked --group dev ruff check scripts/checks scripts/content scrapers/fanza/spider.py tests
-uv run --locked --group dev --group scraper pip-audit
 ```
 
 `check_i18n.py` 检查三个语言目录的文件一一对应，并逐页比对日文、英文与中文源的 front matter、标题层级、链接目标、表格形状和代码块；此外校验相对链接可解析、段索引覆盖完整、演员列表与真实页面映射、排名 schema 与三语镜像、作品页受保护区逐字一致。`./scripts/build_site.sh` 会先执行这项检查，三语构建完成后再由 `check_site.py` 校验生成页面的内部链接和锚点；两项检查均为手动执行。

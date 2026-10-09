@@ -61,10 +61,11 @@ relationships:
 
 1. 同步修改三语对应页面与正文链接。女优条目还需要更新行段索引及各语言的 `list.md`、`list.yaml`。
 2. 执行 `uv run --locked --no-dev python scripts/content/generate_indexes.py`，更新分类索引和三份配置中的导航。
-3. 手动执行 `./scripts/build_site.sh` 和相关测试、Ruff、依赖审计，命令见 [脚本文档](../scripts/README.md)。这些检查不在 CI 中自动运行。
+3. 在 push 前手动执行 `./scripts/build_site.sh`、pytest、Ruff、依赖审计和 `git diff --check`，完整命令见 [脚本文档](../scripts/README.md)。失败时先修复并重跑；校验后继续修改时，重跑受影响的检查。
+4. 全部通过后检查工作区，只暂存本次修改的文件，提交并 push；这些检查不在 CI 中自动运行。
 
 2026-10-09 已迁移到上述目录。按本轮要求不保留旧 URL，也不生成重定向。当前相对链接及语言切换仍须可用。
 
 ## 自动发布与手动校验
 
-[发布 workflow](../.github/workflows/zensical.yml) 采用 [Zensical 官方 GitHub Pages 流程](https://zensical.org/docs/publish-your-site/)，在推送到 `master` 或 `main` 时依次构建日文、中文、英文，上传 `site/` 并部署。除三语构建外，workflow 与官方示例一致：使用 `ubuntu-latest`、Python `3.x`、Actions 主版本标签和 `pip install zensical`，不读取 `uv.lock`，不增加手动触发或分支判断。CI 只构建和发布，不自动检查索引、三语结构、生成页面链接，不运行 pytest、Ruff、pip-audit 或 `--strict`。`scripts/build_site.sh` 保留为手动完整校验入口；维护者应在发布前自行运行所需检查。
+[发布 workflow](../.github/workflows/zensical.yml) 采用 [Zensical 官方 GitHub Pages 流程](https://zensical.org/docs/publish-your-site/)，在推送到 `master` 或 `main` 时依次构建日文、中文、英文，上传 `site/` 并部署。除三语构建外，workflow 与官方示例一致：使用 `ubuntu-latest`、Python `3.x`、Actions 主版本标签和 `pip install zensical`，不读取 `uv.lock`，不增加手动触发或分支判断。CI 只构建和发布，不自动检查索引、三语结构、生成页面链接，不运行 pytest、Ruff、pip-audit 或 `--strict`。`scripts/build_site.sh` 保留为手动完整校验入口；维护者须在每次 push 前完成上述校验，通过后再提交、推送。

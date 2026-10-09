@@ -24,7 +24,7 @@ scripts/
 
 CI 按官方示例通过 `pip install zensical` 安装并直接执行三语普通构建、部署，不读取本地维护的 `uv.lock`，不调用本目录中的校验脚本。`build_site.sh` 保留为手动完整校验入口。
 
-新增或移动页面、调整标题或关系元数据后，手动更新索引与导航，再执行校验：
+每次 push 前，先完成修改；新增或移动页面、调整标题或关系元数据后，先生成索引与导航。随后从仓库根目录依次执行完整校验、测试、Ruff、依赖审计和差异检查：
 
 ```bash
 uv run --locked --no-dev python scripts/content/generate_indexes.py
@@ -33,7 +33,10 @@ uv run --locked --group dev --group scraper pytest
 uv run --locked --group dev ruff format --check scripts/checks scripts/content scrapers/fanza/spider.py tests
 uv run --locked --group dev ruff check scripts/checks scripts/content scrapers/fanza/spider.py tests
 uv run --locked --group dev --group scraper pip-audit
+git diff --check
 ```
+
+全部通过后检查工作区，只暂存本次修改的文件，提交并 push。失败时先修复并重跑；校验后继续修改时，重跑受影响的检查。单项检查用于定位问题，不能代替 push 前的完整流程。CI 在 push 后只构建和部署，不代替本地校验。
 
 三语共用相对路径；女优页面位于 `docs/{lang}/人物/女优/{行}/{段}/`。维护资料和姓名映射见 [maintenance](../maintenance/README.md)，翻译约定见 [TRANSLATION.md](../maintenance/TRANSLATION.md)。
 
