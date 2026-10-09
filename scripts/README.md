@@ -22,7 +22,7 @@ scripts/
 | `i18n/en_fix_name_openings.py` | 修正文首的英文显示名；`--check` 只报告。 |
 | `i18n/assemble_actress.py` | 装配英文女优条目的 front matter 和图片，再检查结构；`--check` 只报告。 |
 
-CI 在 workflow 中直接执行三语普通构建并部署，不调用本目录中的校验脚本。`build_site.sh` 保留为手动完整校验入口。
+CI 按官方示例通过 `pip install zensical` 安装并直接执行三语普通构建、部署，不读取本地维护的 `uv.lock`，不调用本目录中的校验脚本。`build_site.sh` 保留为手动完整校验入口。
 
 新增或移动页面、调整标题或关系元数据后，手动更新索引与导航，再执行校验：
 

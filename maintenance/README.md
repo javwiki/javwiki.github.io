@@ -67,4 +67,4 @@ relationships:
 
 ## 自动发布与手动校验
 
-[发布 workflow](../.github/workflows/zensical.yml) 采用 [Zensical 官方 GitHub Pages 流程](https://zensical.org/docs/publish-your-site/)，在 `main` 上依次构建日文、中文、英文，上传 `site/` 并部署。CI 只构建和发布，不自动检查索引、三语结构、生成页面链接，不运行 pytest、Ruff、pip-audit 或 `--strict`。`scripts/build_site.sh` 保留为手动完整校验入口；维护者应在发布前自行运行所需检查。
+[发布 workflow](../.github/workflows/zensical.yml) 采用 [Zensical 官方 GitHub Pages 流程](https://zensical.org/docs/publish-your-site/)，在推送到 `master` 或 `main` 时依次构建日文、中文、英文，上传 `site/` 并部署。除三语构建外，workflow 与官方示例一致：使用 `ubuntu-latest`、Python `3.x`、Actions 主版本标签和 `pip install zensical`，不读取 `uv.lock`，不增加手动触发或分支判断。CI 只构建和发布，不自动检查索引、三语结构、生成页面链接，不运行 pytest、Ruff、pip-audit 或 `--strict`。`scripts/build_site.sh` 保留为手动完整校验入口；维护者应在发布前自行运行所需检查。

@@ -22,7 +22,7 @@ uv run --locked --no-dev python scripts/content/generate_indexes.py
 
 FANZA 月間ランキングのプロキシ経由での取得、検証、公開手順と実行記録は、[日本向けプロキシによる取得ガイド](scrapers/fanza/JAPAN_PROXY.md)を参照してください。
 
-Python 3.12.14 と uv 0.12.5 を使用します。初回はロックファイルに従って依存関係をインストールします。
+ローカル保守環境では Python 3.12.14 と uv 0.12.5 を使用します。初回はロックファイルに従って依存関係をインストールします。
 
 ```bash
 uv sync --locked --no-dev
@@ -45,9 +45,9 @@ uv run --locked --no-dev zensical serve --config-file zensical.ja.toml
 
 ## 自動公開
 
-CI は [Zensical 公式の GitHub Pages 手順](https://zensical.org/docs/publish-your-site/)を採用し、[.github/workflows/zensical.yml](.github/workflows/zensical.yml) に定義している。Pages の設定、リポジトリの取得、Python と依存関係のインストール、3言語の順次ビルド、`site/` 全体のアップロード、デプロイを行う。`main` への push、または `main` を選択した手動実行で公開する。リポジトリの Pages の公開元は **GitHub Actions** に設定する。
+CI は [Zensical 公式の GitHub Pages 手順](https://zensical.org/docs/publish-your-site/)を採用し、[.github/workflows/zensical.yml](.github/workflows/zensical.yml) に定義している。Pages の設定、リポジトリの取得、Python と依存関係のインストール、3言語の順次ビルド、`site/` 全体のアップロード、デプロイを行う。`master` または `main` への push で公開する。リポジトリの Pages の公開元は **GitHub Actions** に設定する。
 
-最初に日本語を `site/` にビルドし、その後、中国語を `site/zh/`、英語を `site/en/` にビルドする。CI は保守スクリプトを呼び出さず、索引確認、3言語の検証、HTML リンク検証、pytest、Ruff、依存関係の監査を実行しない。`--strict` とビルドキャッシュも使用しない。これらの確認は保守担当者が手動で行う。
+最初に日本語を `site/` にビルドし、その後、中国語を `site/zh/`、英語を `site/en/` にビルドする。CI は保守スクリプトを呼び出さず、索引確認、3言語の検証、HTML リンク検証、pytest、Ruff、依存関係の監査を実行しない。`--strict` とビルドキャッシュも使用しない。これらの確認は保守担当者が手動で行う。CI は `ubuntu-latest`、Python `3.x`、Actions のメジャーバージョンタグを使用し、`pip install zensical` を直接実行する。`uv.lock`、厳密なバージョン固定、手動トリガー、追加のブランチ判定は使用しない。公式例との違いは、単一のビルドを3言語のビルドに展開した点のみである。
 
 ## 手動の検証とテスト
 
@@ -73,4 +73,4 @@ uv run --locked --group dev --group scraper pip-audit
 
 `check_i18n.py` が検証するのは構造であり、意味の一致は対象外です。本文の行対応、数値・日付の比較、固有名詞の統一、未翻訳語句の確認など、言語間の内容校正は現在手作業で行っています。方法と翻訳校正の結果は、[翻訳と保守のガイド](maintenance/TRANSLATION.md)の「跨语言校对」節に記録しています。英語本文の表示名は `python3 scripts/i18n/en_fix_name_openings.py` で一括調整できます。この処理は何度実行しても同じ結果になり、`--check` を付けると変更を適用せずに報告します。
 
-Python、Zensical、検証ツール、スクレイパーの依存関係は `pyproject.toml` にまとめ、具体的なバージョンは `uv.lock` で固定しています。CI は `--locked` を使用し、ビルド時に依存関係を自動更新しません。
+ローカル保守用の Python、Zensical、検証ツール、スクレイパーの依存関係は `pyproject.toml` にまとめ、具体的なバージョンは `uv.lock` で固定しています。自動公開では公式の pip によるインストールを採用し、このロックファイルは読み込みません。

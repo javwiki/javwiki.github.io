@@ -22,7 +22,7 @@ uv run --locked --no-dev python scripts/content/generate_indexes.py
 
 FANZA 月榜的代理抓取、校验与发布步骤及执行记录见 [日本代理抓取文档](scrapers/fanza/JAPAN_PROXY.md)。
 
-项目使用 Python 3.12.14 与 uv 0.12.5。首次使用先安装锁文件中的依赖：
+本地维护环境使用 Python 3.12.14 与 uv 0.12.5。首次使用先安装锁文件中的依赖：
 
 ```bash
 uv sync --locked --no-dev
@@ -45,9 +45,9 @@ uv run --locked --no-dev zensical serve --config-file zensical.ja.toml
 
 ## 自动发布
 
-CI 采用 [Zensical 官方 GitHub Pages 流程](https://zensical.org/docs/publish-your-site/)，配置位于 [.github/workflows/zensical.yml](.github/workflows/zensical.yml)：设置 Pages、检出仓库、安装 Python 和依赖、依次构建三语、上传整个 `site/`，最后部署。推送到 `main` 或手动选择 `main` 触发发布；仓库 Pages 的发布来源需设为 **GitHub Actions**。
+CI 采用 [Zensical 官方 GitHub Pages 流程](https://zensical.org/docs/publish-your-site/)，配置位于 [.github/workflows/zensical.yml](.github/workflows/zensical.yml)：设置 Pages、检出仓库、安装 Python 和依赖、依次构建三语、上传整个 `site/`，最后部署。推送到 `master` 或 `main` 时触发发布；仓库 Pages 的发布来源需设为 **GitHub Actions**。
 
-日文先构建到 `site/`，再将中文和英文构建到 `site/zh/`、`site/en/`。CI 不调用维护脚本，不执行索引检查、三语校验、HTML 链接检查、pytest、Ruff 或依赖审计，也不启用 `--strict` 或构建缓存。这些检查由维护者手动执行。
+日文先构建到 `site/`，再将中文和英文构建到 `site/zh/`、`site/en/`。CI 不调用维护脚本，不执行索引检查、三语校验、HTML 链接检查、pytest、Ruff 或依赖审计，也不启用 `--strict` 或构建缓存。这些检查由维护者手动执行。CI 使用 `ubuntu-latest`、Python `3.x` 和 Actions 主版本标签，直接执行 `pip install zensical`；不使用 `uv.lock`、精确版本、手动触发或额外分支判断。相较官方示例，仅将单次构建展开为三语构建。
 
 ## 手动校验与测试
 
@@ -73,4 +73,4 @@ uv run --locked --group dev --group scraper pip-audit
 
 `check_i18n.py` 只覆盖结构，不覆盖语义。跨语言内容校对（正文行对齐、数字与日期比对、专名一致性、未翻译残词）目前是人工流程，方法与本轮结果记录在 [翻译与维护约定](maintenance/TRANSLATION.md) 的「跨语言校对」小节。英文正文显示名的批量对齐由 `python3 scripts/i18n/en_fix_name_openings.py`（加 `--check` 只报告）保证幂等。
 
-Python、Zensical、校验工具和抓取器依赖统一记录在 `pyproject.toml`，具体版本由 `uv.lock` 固定；CI 使用 `--locked`，不会在构建时静默更新依赖。
+本地维护所用的 Python、Zensical、校验工具和抓取器依赖记录在 `pyproject.toml`，具体版本由 `uv.lock` 固定。自动发布采用官方的 pip 安装方式，不读取这个锁文件。

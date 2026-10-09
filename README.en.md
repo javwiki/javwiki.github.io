@@ -22,7 +22,7 @@ Local tools or scraping tasks that need a proxy with a Japanese exit IP can use 
 
 For the proxy-based scraping, validation, and publication of FANZA monthly rankings, including execution records, see the [Japanese proxy scraping guide](scrapers/fanza/JAPAN_PROXY.md).
 
-The project uses Python 3.12.14 and uv 0.12.5. On first use, install dependencies from the lockfile:
+The local maintenance environment uses Python 3.12.14 and uv 0.12.5. On first use, install dependencies from the lockfile:
 
 ```bash
 uv sync --locked --no-dev
@@ -45,9 +45,9 @@ Translation methods, structural requirements, quality limitations, and ongoing m
 
 ## Automatic publishing
 
-CI follows the [official Zensical GitHub Pages workflow](https://zensical.org/docs/publish-your-site/), defined in [.github/workflows/zensical.yml](.github/workflows/zensical.yml): configure Pages, check out the repository, install Python and dependencies, build the three editions sequentially, upload the entire `site/` directory, and deploy. Publishing runs on pushes to `main` or manual runs selecting `main`. Set the repository’s Pages publishing source to **GitHub Actions**.
+CI follows the [official Zensical GitHub Pages workflow](https://zensical.org/docs/publish-your-site/), defined in [.github/workflows/zensical.yml](.github/workflows/zensical.yml): configure Pages, check out the repository, install Python and dependencies, build the three editions sequentially, upload the entire `site/` directory, and deploy. Publishing runs on pushes to `master` or `main`. Set the repository’s Pages publishing source to **GitHub Actions**.
 
-Build Japanese into `site/` first, then Chinese into `site/zh/` and English into `site/en/`. CI does not invoke maintenance scripts or run index checks, cross-language validation, HTML link checks, pytest, Ruff, or dependency audits. It also omits `--strict` and build caching. Maintainers run these checks manually.
+Build Japanese into `site/` first, then Chinese into `site/zh/` and English into `site/en/`. CI does not invoke maintenance scripts or run index checks, cross-language validation, HTML link checks, pytest, Ruff, or dependency audits. It also omits `--strict` and build caching. Maintainers run these checks manually. CI uses `ubuntu-latest`, Python `3.x`, and Actions major-version tags, and runs `pip install zensical` directly. It does not use `uv.lock`, exact version pins, manual triggers, or additional branch guards. The only adaptation of the official example is expanding its single build into three language builds.
 
 ## Manual validation and tests
 
@@ -73,4 +73,4 @@ uv run --locked --group dev --group scraper pip-audit
 
 `check_i18n.py` checks structure, not meaning. Cross-language content review—aligning body text, comparing numbers and dates, checking proper names, and finding untranslated text—is currently manual. The method and results of the translation review are recorded in the cross-language proofreading section (「跨语言校对」) of the [translation and maintenance guide](maintenance/TRANSLATION.md). `python3 scripts/i18n/en_fix_name_openings.py` aligns display names in English body text and is idempotent; add `--check` to report changes without applying them.
 
-Dependencies for Python, Zensical, validation tools, and scrapers are declared in `pyproject.toml`, with exact versions pinned in `uv.lock`. CI uses `--locked`, so dependencies are not silently updated during builds.
+Local maintenance dependencies for Python, Zensical, validation tools, and scrapers are declared in `pyproject.toml`, with exact versions pinned in `uv.lock`. Automatic publishing uses the official pip installation method and does not read this lockfile.

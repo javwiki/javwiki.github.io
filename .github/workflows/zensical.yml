@@ -1,46 +1,35 @@
-name: Deploy Zensical site to Pages
+name: Documentation
 
 on:
   push:
-    branches: ["main"]
-  workflow_dispatch:
+    branches:
+      - master
+      - main
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
-concurrency:
-  group: github-pages
-  cancel-in-progress: false
-
 jobs:
   deploy:
-    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-24.04
-    timeout-minutes: 15
+    runs-on: ubuntu-latest
     steps:
-      - name: Setup Pages
-        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
-      - name: Set up Python
-        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+      - uses: actions/configure-pages@v6
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v6
         with:
-          python-version: "3.12.14"
-      - name: Install uv
-        run: python -m pip install uv==0.12.5
-      - name: Build multilingual site with Zensical
-        run: |
-          uv run --locked --no-dev zensical build --config-file zensical.ja.toml --clean
-          uv run --locked --no-dev zensical build --config-file zensical.toml --clean
-          uv run --locked --no-dev zensical build --config-file zensical.en.toml --clean
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
+          python-version: 3.x
+      - run: pip install zensical
+      - run: |
+          zensical build --config-file zensical.ja.toml --clean
+          zensical build --config-file zensical.toml --clean
+          zensical build --config-file zensical.en.toml --clean
+      - uses: actions/upload-pages-artifact@v5
         with:
-          path: ./site
-      - name: Deploy to GitHub Pages
+          path: site
+      - uses: actions/deploy-pages@v5
         id: deployment
-        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5

@@ -6,32 +6,42 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 WORKFLOW = ROOT / ".github" / "workflows" / "zensical.yml"
 BUILD_SCRIPT = ROOT / "scripts" / "build_site.sh"
-MAIN_REF_GUARD = "github.ref == 'refs/heads/main'"
 
 
 def load_workflow() -> dict:
     return yaml.load(WORKFLOW.read_text(encoding="utf-8"), Loader=yaml.BaseLoader)
 
 
-def test_production_deployment_is_restricted_to_main() -> None:
+def test_publication_uses_the_official_push_triggers() -> None:
     workflow = load_workflow()
     deploy = workflow["jobs"]["deploy"]
 
-    assert workflow["on"]["push"]["branches"] == ["main"]
-    assert "pull_request" not in workflow["on"]
-    assert MAIN_REF_GUARD in deploy["if"]
+    assert workflow["on"] == {"push": {"branches": ["master", "main"]}}
+    assert "if" not in deploy
+    assert "concurrency" not in workflow
     assert deploy["environment"]["name"] == "github-pages"
 
 
-def test_ci_uses_a_fixed_python_and_runner() -> None:
+def test_ci_uses_the_official_runtime_and_actions() -> None:
     workflow = load_workflow()
     deploy = workflow["jobs"]["deploy"]
+    steps = deploy["steps"]
     setup_python = next(
-        step for step in deploy["steps"] if step.get("name") == "Set up Python"
+        step for step in steps if step.get("uses") == "actions/setup-python@v6"
     )
 
-    assert setup_python["with"]["python-version"] == "3.12.14"
-    assert deploy["runs-on"] == "ubuntu-24.04"
+    assert setup_python["with"]["python-version"] == "3.x"
+    assert deploy["runs-on"] == "ubuntu-latest"
+    assert [step["uses"] for step in steps if "uses" in step] == [
+        "actions/configure-pages@v6",
+        "actions/checkout@v7",
+        "actions/setup-python@v6",
+        "actions/upload-pages-artifact@v5",
+        "actions/deploy-pages@v5",
+    ]
+    assert (
+        next(step["run"] for step in steps if "run" in step) == "pip install zensical"
+    )
 
 
 def test_ci_builds_all_languages_without_running_manual_checks() -> None:
@@ -40,10 +50,7 @@ def test_ci_builds_all_languages_without_running_manual_checks() -> None:
     commands = "\n".join(step.get("run", "") for step in steps)
 
     for config in ("zensical.ja.toml", "zensical.toml", "zensical.en.toml"):
-        assert (
-            f"uv run --locked --no-dev zensical build --config-file {config} --clean"
-            in commands
-        )
+        assert f"zensical build --config-file {config} --clean" in commands
     for manual_command in (
         "build_site.sh",
         "check_i18n.py",
@@ -53,6 +60,8 @@ def test_ci_builds_all_languages_without_running_manual_checks() -> None:
         "ruff",
         "pip-audit",
         "--strict",
+        "uv ",
+        "--locked",
     ):
         assert manual_command not in commands
     assert all("cache" not in step.get("with", {}) for step in steps)
