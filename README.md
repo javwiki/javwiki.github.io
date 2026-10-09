@@ -1,8 +1,8 @@
-# JAV 百科 / JAV百科事典 / JAV Encyclopedia
+# JAV 百科
+
+[中文](README.md) | [日本語](README.ja.md) | [English](README.en.md)
 
 本仓库使用 Zensical 构建中文、日文和英文三语百科。对应内容位于 `docs/zh/`、`docs/ja/` 和 `docs/en/`，并使用相同的相对路径。
-
-This repository uses Zensical to build Chinese, Japanese, and English editions with matching paths under `docs/zh/`, `docs/ja/`, and `docs/en/`.
 
 ## 目录与维护
 
