@@ -15,7 +15,7 @@ An agency (jimusho) is the intermediary that represents an AV actress, handling 
 | [LINX](LINX.md) | Kana Momonogi, Yurika Aoi |
 | [Mine's](Mine_S.md) | Tsukasa Aoi, Ayami Shunka, Ai Uehara |
 | [ARROWS](ARROWS.md) | Eimi Fukada |
-| [8MAN / SO MODEL AGENT](8MAN.md) | Nagi Hikaru, Kanna Fuji, Mino Suzume |
+| [SO MODEL AGENT (formerly 8MAN)](8MAN.md) | Nagi Hikaru, Kanna Fuji, Mino Suzume |
 | [Bambi Promotion](Bambi%20Promotion.md) | Kaoru Yasui, Kanon Kimiiro, Emika Shirakami |
 | [LIFE PROMOTION](LIFE%20PROMOTION.md) | Mei Itsukaichi |
 | [ACT Promotion](ACT%20Promotion.md) | Sakino Oto |
@@ -101,11 +101,11 @@ An agency (jimusho) is the intermediary that represents an AV actress, handling 
 - **Services**: Actress management, release production, etc.
 - **Notable actresses**: Kaoru Yasui, Emika Shirakami, Kanon Kimiiro, etc.
 
-### 8MAN / SO MODEL AGENT
+### SO MODEL AGENT (formerly 8MAN)
 
-- **Full name**: 8MAN (エイトマン); now SO MODEL AGENT (ソウ モデルエージェント)
-- **Profile**: Well-known industry agency known for managing popular actresses; the old site 8man.jp now 301-redirects to so-agent.jp
-- **Services**: Actress management, release production, etc.
+- **Full name**: SO MODEL AGENT (ソウ モデルエージェント, formerly 8MAN; So Model Agency refers to this entry)
+- **Profile**: Founded in Osaka in 2006, with an Osaka headquarters and a Tokyo branch
+- **Services**: Management of AV actresses, models, entertainers and gravure idols
 - **Notable actresses**: Nagi Hikaru, Kanna Fuji, Mino Suzume, etc.
 
 ### [Prime Agency](Prime%20Agency.md)

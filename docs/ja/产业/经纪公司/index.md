@@ -15,7 +15,7 @@ title: プロダクション
 | [LINX](LINX.md) | 桃乃木かな、葵百合香 |
 | [Mine's](Mine_S.md) | 葵つかさ、彩美旬果、上原亜衣 |
 | [ARROWS](ARROWS.md) | 深田えいみ |
-| [8MAN / SO MODEL AGENT](8MAN.md) | 凪ひかる、藤かんな、美乃すずめ |
+| [SO MODEL AGENT（旧称 8MAN）](8MAN.md) | 凪ひかる、藤かんな、美乃すずめ |
 | [Bambi Promotion](Bambi%20Promotion.md) | 安位薫、君色花音、白上咲花 |
 | [LIFE PROMOTION](LIFE%20PROMOTION.md) | 五日市芽依 |
 | [ACT Promotion](ACT%20Promotion.md) | 乙都咲乃 |
@@ -101,11 +101,11 @@ title: プロダクション
 - **業務**: 女優のマネジメント、作品製作など
 - **主な所属女優**: 安位薫、白上咲花、君色花音など
 
-### 8MAN / SO MODEL AGENT
+### SO MODEL AGENT（旧称 8MAN）
 
-- **正式名称**: 8MAN（エイトマン）、現称 SO MODEL AGENT（ソウ モデルエージェント）
-- **特徴**: 業界で知られるプロダクションで、人気女優のマネジメントで知られる。旧公式サイト 8man.jp は現在 so-agent.jp へ 301 リダイレクトされる
-- **業務**: 女優のマネジメント、作品製作など
+- **正式名称**: SO MODEL AGENT（ソウ モデルエージェント、旧称 8MAN。So Model Agency は本記事に対応）
+- **特徴**: 2006年に大阪で創業し、大阪本社と東京支社を展開
+- **業務**: AV女優、モデル、タレント、グラビアアイドルのマネジメント
 - **主な所属女優**: 凪ひかる、藤かんな、美乃すずめなど
 
 ### [Prime Agency](Prime%20Agency.md)
