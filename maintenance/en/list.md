@@ -220,6 +220,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 
 - Miru
 - Yua Mikami
+- Airi Minami
 - Riona Minami
 - Reina Miyashita
 - Mei Miyajima

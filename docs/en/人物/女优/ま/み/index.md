@@ -18,3 +18,4 @@ This column lists actresses whose stage name begins with み (row ま, column �
 - [Mei Miura](三浦芽依.md)
 - [Riona Minami](南梨央奈.md)
 - [An Mitsumi](蜜美杏.md)
+- [Airi Minami](美波あいり.md)
