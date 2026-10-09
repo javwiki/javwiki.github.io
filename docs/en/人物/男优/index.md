@@ -18,13 +18,6 @@ This category covers the professional biographies of male AV performers, ordered
 - [Genjin Moribayashi](森林.md)
 - [Taku Yoshimura](吉村卓.md)
 
-## Entries awaiting identification
-
-These existing entries contain only surnames and lack sufficient identification:
-
-- [大島](大島.md)
-- [松岡](松岡.md)
-
 ## Scope
 
 Acting careers, exclusive contracts, apprenticeships, and event appearances are recorded separately. Ending an exclusive contract does not establish retirement. Performance totals depend on the date and counting method; unverified promotional figures are not treated as current totals.
