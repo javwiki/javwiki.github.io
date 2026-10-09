@@ -16,7 +16,7 @@
 | 中文 | `docs/zh/` | `zensical.toml` | `/zh/` |
 | 英文 | `docs/en/` | `zensical.en.toml` | `/en/` |
 
-日文版发布在站点根路径，作为默认语言；中文版发布在 `/zh/`，英文版发布在 `/en/`。各版本通过页眉语言选择器切换，编辑链接分别指向对应的语言目录。三个构建共用 `scripts/build_site.sh`，CI 在推送到 `main` 后执行同一脚本并部署到 GitHub Pages。
+日文版发布在站点根路径，作为默认语言；中文版发布在 `/zh/`，英文版发布在 `/en/`。各版本通过页眉语言选择器切换，编辑链接分别指向对应的语言目录。CI 在推送到 `main` 后直接执行三语普通构建并部署到 GitHub Pages；`scripts/build_site.sh` 保留为手动严格构建与完整校验入口。
 
 > **2026-09-28 变更**：此前中文版发布在根路径、日文版在 `/ja/`。改为日文接管根路径后，中文的公开 URL 全部迁移到 `/zh/` 前缀下（如 `/な/な/…` → `/zh/な/な/…`）。旧路径无法用重定向保留——它们已成为日文页面的路径，因此历史中文链接会指向同名的日文页面。中文**内容源**仍是 `docs/zh/`（`check_i18n.py` 的 `SOURCE` 不变），只有发布路径改变。
 
@@ -250,14 +250,14 @@ Build finished in 3.18s
 site links OK (1068 pages, 227364 link elements)
 ```
 
-CI（`.github/workflows/zensical.yml`）在推送到 `main`、面向 `main` 的 `pull_request` 以及手动触发时运行测试、依赖审计和同一构建脚本。只有 `main` 的非 PR 事件才上传并部署 Pages；手动选择其它分支仍可验证构建，但不能发布。workflow 的权限收敛到 job 级（默认 `contents: read`，deploy 才授予 `pages: write` + `id-token: write`），全部 actions 固定到 commit SHA，runner、uv 与 Python 版本也固定。
+2026-10-09 起，CI（`.github/workflows/zensical.yml`）采用 Zensical 官方 GitHub Pages 发布流程，以一个 deploy job 完成配置 Pages、检出仓库、设置 Python、三语构建、上传和部署。推送到 `main` 或手动选择 `main` 时运行，其它分支不能发布；不再监听 `pull_request`。Actions 固定到 commit SHA，runner、uv 与 Python 版本固定，依赖由 `uv.lock` 锁定。CI 不调用 `build_site.sh`，不运行索引／三语／HTML 链接校验、pytest、Ruff、pip-audit 或 strict 构建；这些操作保留为手动执行，当前命令见 [脚本文档](../scripts/README.md)。
 
 除仓库校验器外，以下辅助检查用于验证迁移结果：
 
 1. 扫描旧机翻残留词与重复退化模式（`とりあえず`、`全て正しいです`、`アパート`、`年 年 年`、`ヒエナ` 等）：日文正文中为 0。仍会命中的中文串只落在受保护区域——链接目标（如 `zh.wikipedia.org/wiki/AIKA_(AV女优)`）、front matter 的 `tags` 值、示例代码块内的路径、`### 中国語訳` 的中文对照正文。
 2. 扫描日文页面的中文残留词（`信息`、`视频`、`片商`、`女优`、`导演`、`出道` 等）：正文中为 0。
 3. 用 Playwright 渲染 `site/`（日文即根路径）抽查女优页、作品页、法令页、奖项页、厂商页与索引页，确认页面标题、章节名与正文均为日语。
-4. **自动回归测试**：`tests/test_check_i18n.py` 固化链接顺序、围栏语言、列表映射和排名 schema 的正反例；`tests/test_workflow.py` 锁定生产部署分支、runner 与锁文件构建约束。CI 每次执行 `pytest`、Ruff 和 `pip-audit`。
+4. **手动回归测试**：`tests/test_check_i18n.py` 固化链接顺序、围栏语言、列表映射和排名 schema 的正反例；`tests/test_workflow.py` 锁定生产部署分支、runner 与锁文件构建约束。`pytest`、Ruff 和 `pip-audit` 由维护者手动执行，不在发布 CI 中运行。
 
 以上检查只能确认结构一致、数据完整与站点可构建，都不能证明译文准确。
 

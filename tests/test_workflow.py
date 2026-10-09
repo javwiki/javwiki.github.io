@@ -15,29 +15,47 @@ def load_workflow() -> dict:
 
 def test_production_deployment_is_restricted_to_main() -> None:
     workflow = load_workflow()
-    build = workflow["jobs"]["build"]
     deploy = workflow["jobs"]["deploy"]
 
-    guarded_steps = {
-        step["name"]: step.get("if")
-        for step in build["steps"]
-        if step.get("name") in {"Setup Pages", "Upload artifact"}
-    }
-
-    assert set(guarded_steps) == {"Setup Pages", "Upload artifact"}
-    assert all(MAIN_REF_GUARD in condition for condition in guarded_steps.values())
+    assert workflow["on"]["push"]["branches"] == ["main"]
+    assert "pull_request" not in workflow["on"]
     assert MAIN_REF_GUARD in deploy["if"]
+    assert deploy["environment"]["name"] == "github-pages"
 
 
 def test_ci_uses_a_fixed_python_and_runner() -> None:
     workflow = load_workflow()
-    build_steps = workflow["jobs"]["build"]["steps"]
-    setup_uv = next(step for step in build_steps if step.get("name") == "Set up uv")
+    deploy = workflow["jobs"]["deploy"]
+    setup_python = next(
+        step for step in deploy["steps"] if step.get("name") == "Set up Python"
+    )
 
-    assert setup_uv["with"]["version"] == "0.12.5"
-    assert setup_uv["with"]["python-version"] == "3.12.14"
-    assert workflow["jobs"]["build"]["runs-on"] == "ubuntu-24.04"
-    assert workflow["jobs"]["deploy"]["runs-on"] == "ubuntu-24.04"
+    assert setup_python["with"]["python-version"] == "3.12.14"
+    assert deploy["runs-on"] == "ubuntu-24.04"
+
+
+def test_ci_builds_all_languages_without_running_manual_checks() -> None:
+    workflow = load_workflow()
+    steps = workflow["jobs"]["deploy"]["steps"]
+    commands = "\n".join(step.get("run", "") for step in steps)
+
+    for config in ("zensical.ja.toml", "zensical.toml", "zensical.en.toml"):
+        assert (
+            f"uv run --locked --no-dev zensical build --config-file {config} --clean"
+            in commands
+        )
+    for manual_command in (
+        "build_site.sh",
+        "check_i18n.py",
+        "check_site.py",
+        "generate_indexes.py",
+        "pytest",
+        "ruff",
+        "pip-audit",
+        "--strict",
+    ):
+        assert manual_command not in commands
+    assert all("cache" not in step.get("with", {}) for step in steps)
 
 
 def test_build_uses_the_locked_runtime_without_development_tools() -> None:

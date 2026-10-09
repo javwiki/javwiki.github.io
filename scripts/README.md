@@ -4,7 +4,7 @@
 
 ```text
 scripts/
-├── build_site.sh         # 三语构建与校验入口
+├── build_site.sh         # 手动三语严格构建与校验入口
 ├── checks/               # 源内容和生成站点的校验
 ├── content/              # 分类索引与导航生成
 ├── i18n/                 # 翻译装配、显示名和五十音索引维护
@@ -22,12 +22,17 @@ scripts/
 | `i18n/en_fix_name_openings.py` | 修正文首的英文显示名；`--check` 只报告。 |
 | `i18n/assemble_actress.py` | 装配英文女优条目的 front matter 和图片，再检查结构；`--check` 只报告。 |
 
-新增或移动页面、调整标题或关系元数据后，先更新索引与导航：
+CI 在 workflow 中直接执行三语普通构建并部署，不调用本目录中的校验脚本。`build_site.sh` 保留为手动完整校验入口。
+
+新增或移动页面、调整标题或关系元数据后，手动更新索引与导航，再执行校验：
 
 ```bash
 uv run --locked --no-dev python scripts/content/generate_indexes.py
 ./scripts/build_site.sh
 uv run --locked --group dev --group scraper pytest
+uv run --locked --group dev ruff format --check scripts/checks scripts/content scrapers/fanza/spider.py tests
+uv run --locked --group dev ruff check scripts/checks scripts/content scrapers/fanza/spider.py tests
+uv run --locked --group dev --group scraper pip-audit
 ```
 
 三语共用相对路径；女优页面位于 `docs/{lang}/人物/女优/{行}/{段}/`。维护资料和姓名映射见 [maintenance](../maintenance/README.md)，翻译约定见 [TRANSLATION.md](../maintenance/TRANSLATION.md)。

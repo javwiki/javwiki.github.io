@@ -26,7 +26,9 @@ The project uses Python 3.12.14 and uv 0.12.5. On first use, install dependencie
 
 ```bash
 uv sync --locked --no-dev
-./scripts/build_site.sh
+uv run --locked --no-dev zensical build --config-file zensical.ja.toml --clean
+uv run --locked --no-dev zensical build --config-file zensical.toml --clean
+uv run --locked --no-dev zensical build --config-file zensical.en.toml --clean
 ```
 
 The build output is in `site/`. Start a local preview:
@@ -41,17 +43,33 @@ Chinese (`docs/zh/`) is the source content; the Japanese and English directories
 
 Translation methods, structural requirements, quality limitations, and ongoing maintenance conventions are documented in the [translation and maintenance guide](maintenance/TRANSLATION.md).
 
-## Validation and tests
+## Automatic publishing
+
+CI follows the [official Zensical GitHub Pages workflow](https://zensical.org/docs/publish-your-site/), defined in [.github/workflows/zensical.yml](.github/workflows/zensical.yml): configure Pages, check out the repository, install Python and dependencies, build the three editions sequentially, upload the entire `site/` directory, and deploy. Publishing runs on pushes to `main` or manual runs selecting `main`. Set the repository’s Pages publishing source to **GitHub Actions**.
+
+Build Japanese into `site/` first, then Chinese into `site/zh/` and English into `site/en/`. CI does not invoke maintenance scripts or run index checks, cross-language validation, HTML link checks, pytest, Ruff, or dependency audits. It also omits `--strict` and build caching. Maintainers run these checks manually.
+
+## Manual validation and tests
+
+`./scripts/build_site.sh` is the manual full-validation entry point: check that indexes and navigation are up to date, validate the three content trees, build all editions in strict mode, then check generated links, anchors, language switching, and size budgets. It does not deploy and is not called by CI.
 
 ```bash
+./scripts/build_site.sh
+```
+
+Checks, tests, formatting checks, and dependency audits can also be run individually. Build all three editions before running `check_site.py`:
+
+```bash
+uv run --locked --no-dev python scripts/content/generate_indexes.py --check
 uv run --locked --no-dev python scripts/checks/check_i18n.py
+uv run --locked --no-dev python scripts/checks/check_site.py
 uv run --locked --group dev --group scraper pytest
 uv run --locked --group dev ruff format --check scripts/checks scripts/content scrapers/fanza/spider.py tests
 uv run --locked --group dev ruff check scripts/checks scripts/content scrapers/fanza/spider.py tests
 uv run --locked --group dev --group scraper pip-audit
 ```
 
-`check_i18n.py` verifies that files correspond across the three language directories, and compares Japanese and English pages against their Chinese sources for front matter, heading hierarchy, link targets, table shape, and code blocks. It also checks relative links, complete syllabary index coverage, mappings between performer lists and actual pages, ranking schemas and their copies in all three languages, and exact matches for protected sections of work pages. Both `./scripts/build_site.sh` and CI run this check first. After all three editions are built, `check_site.py` validates internal links and anchors in the generated pages.
+`check_i18n.py` verifies that files correspond across the three language directories, and compares Japanese and English pages against their Chinese sources for front matter, heading hierarchy, link targets, table shape, and code blocks. It also checks relative links, complete syllabary index coverage, mappings between performer lists and actual pages, ranking schemas and their copies in all three languages, and exact matches for protected sections of work pages. `./scripts/build_site.sh` runs this check first, then uses `check_site.py` to validate internal links and anchors after building all three editions. Both checks are run manually.
 
 `check_i18n.py` checks structure, not meaning. Cross-language content review—aligning body text, comparing numbers and dates, checking proper names, and finding untranslated text—is currently manual. The method and results of the translation review are recorded in the cross-language proofreading section (「跨语言校对」) of the [translation and maintenance guide](maintenance/TRANSLATION.md). `python3 scripts/i18n/en_fix_name_openings.py` aligns display names in English body text and is idempotent; add `--check` to report changes without applying them.
 

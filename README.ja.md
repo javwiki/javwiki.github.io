@@ -26,7 +26,9 @@ Python 3.12.14 と uv 0.12.5 を使用します。初回はロックファイル
 
 ```bash
 uv sync --locked --no-dev
-./scripts/build_site.sh
+uv run --locked --no-dev zensical build --config-file zensical.ja.toml --clean
+uv run --locked --no-dev zensical build --config-file zensical.toml --clean
+uv run --locked --no-dev zensical build --config-file zensical.en.toml --clean
 ```
 
 ビルド結果は `site/` に出力されます。ローカルプレビューを起動するには、次のコマンドを実行します。
@@ -41,17 +43,33 @@ uv run --locked --no-dev zensical serve --config-file zensical.ja.toml
 
 翻訳方法、構造上の要件、品質面の制約、今後の保守規約については、[翻訳と保守のガイド](maintenance/TRANSLATION.md)を参照してください。
 
-## 検証とテスト
+## 自動公開
+
+CI は [Zensical 公式の GitHub Pages 手順](https://zensical.org/docs/publish-your-site/)を採用し、[.github/workflows/zensical.yml](.github/workflows/zensical.yml) に定義している。Pages の設定、リポジトリの取得、Python と依存関係のインストール、3言語の順次ビルド、`site/` 全体のアップロード、デプロイを行う。`main` への push、または `main` を選択した手動実行で公開する。リポジトリの Pages の公開元は **GitHub Actions** に設定する。
+
+最初に日本語を `site/` にビルドし、その後、中国語を `site/zh/`、英語を `site/en/` にビルドする。CI は保守スクリプトを呼び出さず、索引確認、3言語の検証、HTML リンク検証、pytest、Ruff、依存関係の監査を実行しない。`--strict` とビルドキャッシュも使用しない。これらの確認は保守担当者が手動で行う。
+
+## 手動の検証とテスト
+
+`./scripts/build_site.sh` は手動での一括検証用である。索引とナビゲーションの更新状況、3言語の内容を確認し、3言語を strict モードでビルドしてから、生成ページのリンク、アンカー、言語切り替え、サイズの上限を検証する。デプロイは行わず、CI からも呼び出さない。
 
 ```bash
+./scripts/build_site.sh
+```
+
+必要に応じて、検証、テスト、書式チェック、依存関係の監査を個別に実行できる。`check_site.py` の実行前には3言語をビルドする。
+
+```bash
+uv run --locked --no-dev python scripts/content/generate_indexes.py --check
 uv run --locked --no-dev python scripts/checks/check_i18n.py
+uv run --locked --no-dev python scripts/checks/check_site.py
 uv run --locked --group dev --group scraper pytest
 uv run --locked --group dev ruff format --check scripts/checks scripts/content scrapers/fanza/spider.py tests
 uv run --locked --group dev ruff check scripts/checks scripts/content scrapers/fanza/spider.py tests
 uv run --locked --group dev --group scraper pip-audit
 ```
 
-`check_i18n.py` は3言語のファイルが一対一で対応していることを確認し、日本語・英語の各ページと中国語の原文について、front matter、見出し階層、リンク先、表の構造、コードブロックを比較します。相対リンクの解決、五十音の段別索引の網羅性、出演者リストと実際のページの対応、ランキングのスキーマと3言語の複製、作品ページの保護領域の完全一致も検証します。`./scripts/build_site.sh` と CI は最初にこの検証を実行し、3言語のビルド完了後に `check_site.py` で生成ページの内部リンクとアンカーを検証します。
+`check_i18n.py` は3言語のファイルが一対一で対応していることを確認し、日本語・英語の各ページと中国語の原文について、front matter、見出し階層、リンク先、表の構造、コードブロックを比較します。相対リンクの解決、五十音の段別索引の網羅性、出演者リストと実際のページの対応、ランキングのスキーマと3言語の複製、作品ページの保護領域の完全一致も検証します。`./scripts/build_site.sh` は最初にこの検証を実行し、3言語のビルド完了後に `check_site.py` で生成ページの内部リンクとアンカーを検証する。いずれも手動で実行する。
 
 `check_i18n.py` が検証するのは構造であり、意味の一致は対象外です。本文の行対応、数値・日付の比較、固有名詞の統一、未翻訳語句の確認など、言語間の内容校正は現在手作業で行っています。方法と翻訳校正の結果は、[翻訳と保守のガイド](maintenance/TRANSLATION.md)の「跨语言校对」節に記録しています。英語本文の表示名は `python3 scripts/i18n/en_fix_name_openings.py` で一括調整できます。この処理は何度実行しても同じ結果になり、`--check` を付けると変更を適用せずに報告します。
 
