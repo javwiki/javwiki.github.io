@@ -36,5 +36,5 @@ select = ["B", "E4", "E7", "E9", "F", "I", "RUF", "SIM", "UP"]
 [tool.ruff.lint.per-file-ignores]
 # These scripts intentionally match full-width Japanese/Chinese punctuation and
 # protected-section headings.
-"scripts/check_i18n.py" = ["RUF001"]
-"scripts/en_fix_name_openings.py" = ["RUF001"]
+"scripts/checks/check_i18n.py" = ["RUF001"]
+"scripts/i18n/en_fix_name_openings.py" = ["RUF001"]

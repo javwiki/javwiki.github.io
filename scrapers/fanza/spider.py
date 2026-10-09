@@ -20,7 +20,7 @@ RANKING_OPERATION = "ActressRankingPage"
 PAGE_SIZE = 100
 MAX_LIMIT = 100
 DEFAULT_OUTPUT_DIR = (
-    Path(__file__).resolve().parent.parent.parent / "docs" / "zh" / "排名"
+    Path(__file__).resolve().parent.parent.parent / "docs" / "zh" / "资料" / "排名"
 )
 
 
@@ -244,9 +244,12 @@ class FanzaActressRankingSpider:
             raise ValueError("filename must be a plain .yaml filename")
         targets = [self.output_dir]
         if self.output_dir == DEFAULT_OUTPUT_DIR:
-            root = DEFAULT_OUTPUT_DIR.parent.parent.parent
+            root = DEFAULT_OUTPUT_DIR.parents[3]
             targets.extend(
-                [root / "docs" / "ja" / "排名", root / "docs" / "en" / "排名"]
+                [
+                    root / "docs" / "ja" / "资料" / "排名",
+                    root / "docs" / "en" / "资料" / "排名",
+                ]
             )
         return targets
 
@@ -291,7 +294,7 @@ class FanzaActressRankingSpider:
         destination = directories[0] / filename
         print(f"Saved {len(data)} entries to {destination}")
         if len(directories) == 3:
-            print("Mirrored ranking to docs/ja/排名 and docs/en/排名")
+            print("Mirrored ranking to docs/ja/资料/排名 and docs/en/资料/排名")
         return destination
 
     def run(self, limit: int = PAGE_SIZE) -> Path:
@@ -325,7 +328,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--output",
         default=str(DEFAULT_OUTPUT_DIR),
-        help="Output directory (default: repository docs/zh/排名)",
+        help="Output directory (default: repository docs/zh/资料/排名)",
     )
     parser.add_argument(
         "--proxy",

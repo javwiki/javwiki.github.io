@@ -3,7 +3,7 @@ from __future__ import annotations
 from copy import deepcopy
 from pathlib import Path
 
-from scripts import check_i18n as checker
+from scripts.checks import check_i18n as checker
 
 
 def ranking_payload() -> dict:
@@ -140,7 +140,14 @@ def make_list_tree(root: Path) -> tuple[list[dict], list[dict]]:
     for language in checker.LANGUAGES:
         base = root / language
         for item in source_items:
-            path = base / item["row"] / item["col"] / f"{item['name']}.md"
+            path = (
+                base
+                / "人物"
+                / "女优"
+                / item["row"]
+                / item["col"]
+                / f"{item['name']}.md"
+            )
             path.parent.mkdir(parents=True, exist_ok=True)
             path.write_text("# entry\n", encoding="utf-8")
     return source_items, target_items
@@ -164,7 +171,7 @@ def test_list_mapping_allows_translated_display_names(tmp_path: Path) -> None:
 
 def test_list_mapping_reports_missing_page(tmp_path: Path) -> None:
     source_items, target_items = make_list_tree(tmp_path)
-    (tmp_path / "ja" / "あ" / "あ" / "天海翼.md").unlink()
+    (tmp_path / "ja" / "人物" / "女优" / "あ" / "あ" / "天海翼.md").unlink()
     list_text = "\n".join(f"- {item['name']}" for item in target_items)
 
     problems = checker.list_mapping_problems(
@@ -180,7 +187,7 @@ def test_list_mapping_reports_markdown_and_metadata_drift(tmp_path: Path) -> Non
     ]
     target_items = deepcopy(source_items)
     target_items[0]["completeness"] = "80%"
-    path = tmp_path / "ja" / "あ" / "あ" / "天海翼.md"
+    path = tmp_path / "ja" / "人物" / "女优" / "あ" / "あ" / "天海翼.md"
     path.parent.mkdir(parents=True)
     path.write_text("# entry\n", encoding="utf-8")
 
@@ -206,3 +213,50 @@ def test_active_html_is_rejected_but_code_examples_are_allowed() -> None:
 
 def test_repository_satisfies_extended_data_contracts() -> None:
     assert checker.yaml_problems() == []
+
+
+def test_segment_validation_checks_only_actress_columns(
+    tmp_path: Path, monkeypatch
+) -> None:
+    monkeypatch.setattr(checker, "ROOT", tmp_path)
+    segment = tmp_path / "zh" / "人物" / "女优" / "あ" / "あ"
+    segment.mkdir(parents=True)
+    (segment / "index.md").write_text("# Index\n", encoding="utf-8")
+    (segment / "天海翼.md").write_text("# Entry\n", encoding="utf-8")
+    unrelated = tmp_path / "zh" / "产业" / "制作公司"
+    unrelated.mkdir(parents=True)
+    (unrelated / "WILL.md").write_text("# WILL\n", encoding="utf-8")
+
+    problems = checker.segment_index_problems("zh")
+    assert len(problems) == 1
+    assert "天海翼.md not listed" in problems[0]
+    (segment / "index.md").write_text(
+        "# Index\n\n- [Entry](天海翼.md)\n", encoding="utf-8"
+    )
+    assert checker.segment_index_problems("zh") == []
+
+
+def test_organization_relationship_rejects_missing_company_and_source(
+    tmp_path: Path,
+) -> None:
+    page = tmp_path / "zh" / "产业" / "厂牌" / "KANBi.md"
+    page.parent.mkdir(parents=True)
+    page.write_text(
+        "---\nentity_type: brand\nrelationships:\n"
+        "- type: published_by\n  target: ../制作公司/missing.md\n---\n# KANBi\n",
+        encoding="utf-8",
+    )
+
+    problems = checker.organization_problems(tmp_path)
+    assert any("source missing" in p for p in problems)
+    assert any("not a production company page" in p for p in problems)
+
+
+def test_missing_maintenance_lists_cannot_silently_skip_validation(
+    tmp_path: Path,
+) -> None:
+    for language in checker.LANGUAGES:
+        (tmp_path / "docs" / language).mkdir(parents=True)
+    problems = checker.yaml_problems(tmp_path / "docs")
+    assert len(problems) == len(checker.LANGUAGES)
+    assert all("list.yaml: missing" in p for p in problems)

@@ -1,0 +1,39 @@
+---
+type: studio
+name: MOODYZ
+short_name: MD
+company: 株式会社WILL
+entity_type: brand
+relationships:
+- type: production_lineage
+  target: ../制作公司/WILL.md
+  source: https://ja.wikipedia.org/wiki/CA_(アダルトビデオ)
+---
+
+# MOODYZ
+
+## 基本信息
+
+- **简称**: MD
+- **全名**: MOODYZ
+- **所属**: [WILL](../制作公司/WILL.md)
+- **特点**: 业界最大厂牌之一，作品数量庞大，旗下有多个子品牌
+- **风格**: 多元化，涵盖各种题材
+
+## 历代专属女优
+
+- [深田咏美](../../人物/女优/は/ふ/深田咏美.md)
+- [天使萌](../../人物/女优/た/て/天使萌.md)
+- [石原希望](../../人物/女优/あ/い/石原希望.md)
+- [红音萤](../../人物/女优/か/く/红音萤.md)
+- [荒木レナ](../../人物/女优/あ/あ/荒木レナ.md)
+
+## 历史与集团关系
+
+MOODYZ 于 **2000 年 9 月**发足，历史资料将其记为由北都的“Mr.プレジデント”改组而来的综合厂牌。它的历史早于现 WILL 法人的设立。[CA 厂牌史（二手资料）](https://ja.wikipedia.org/wiki/CA_(アダルトビデオ))
+
+MOODYZ 与 [S1](S1%20NO.1%20STYLE.md)是同一制作体系内的不同品牌；不能将 MOODYZ 写成 S1 的母公司。北都、CA 与现 [WILL](../制作公司/WILL.md)之间的承继，以及历史制作与发行关系，见集团条目。
+
+## 参考资料
+
+- [官方网站](https://www.moodyz.com/)

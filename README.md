@@ -4,6 +4,18 @@
 
 This repository uses Zensical to build Chinese, Japanese, and English editions with matching paths under `docs/zh/`, `docs/ja/`, and `docs/en/`.
 
+## 目录与维护
+
+公开内容按人物、作品、产业、资料和专题组织，三语保留相同路径。女优五十音条目位于 `docs/{lang}/人物/女优/{行}/{段}/`；制作公司与厂牌分开存放在 `产业/制作公司/`、`产业/厂牌/`。
+
+维护资料、翻译约定、名单和姓名映射统一在 [maintenance/](maintenance/README.md)，不发布到站点。脚本按用途分为 `scripts/checks/`、`scripts/content/`、`scripts/i18n/` 和 `scripts/legacy/`，说明见 [脚本文档](scripts/README.md)。
+
+新增、移动页面或修改分类元数据后，先生成索引和完整导航：
+
+```bash
+uv run --locked --no-dev python scripts/content/generate_indexes.py
+```
+
 ## 本地预览
 
 需要日本出口代理的本地工具或抓取任务，可使用 [Docker 日本代理配置](docker/japan-vpn/README.md)，并提供自己的日本节点订阅。
@@ -27,20 +39,20 @@ uv run --locked --no-dev zensical serve --config-file zensical.ja.toml
 
 中文（`docs/zh/`）是源内容，日文与英文目录是它的翻译，三者相对路径、文件名完全一致。
 
-翻译方法、结构契约、质量限制和后续维护约定见 [TRANSLATION.md](TRANSLATION.md)。
+翻译方法、结构契约、质量限制和后续维护约定见 [翻译与维护约定](maintenance/TRANSLATION.md)。
 
 ## 校验与测试
 
 ```bash
-uv run --locked --no-dev python scripts/check_i18n.py
+uv run --locked --no-dev python scripts/checks/check_i18n.py
 uv run --locked --group dev --group scraper pytest
-uv run --locked --group dev ruff format --check scripts/check_i18n.py scripts/check_site.py scrapers/fanza/spider.py tests
-uv run --locked --group dev ruff check scripts/check_i18n.py scripts/check_site.py scrapers/fanza/spider.py tests
+uv run --locked --group dev ruff format --check scripts/checks scripts/content scrapers/fanza/spider.py tests
+uv run --locked --group dev ruff check scripts/checks scripts/content scrapers/fanza/spider.py tests
 uv run --locked --group dev --group scraper pip-audit
 ```
 
 `check_i18n.py` 检查三个语言目录的文件一一对应，并逐页比对日文、英文与中文源的 front matter、标题层级、链接目标、表格形状和代码块；此外校验相对链接可解析、段索引覆盖完整、演员列表与真实页面映射、排名 schema 与三语镜像、作品页受保护区逐字一致。`./scripts/build_site.sh` 与 CI 都会先执行这项检查，三语构建完成后再由 `check_site.py` 校验生成页面的内部链接和锚点。
 
-`check_i18n.py` 只覆盖结构，不覆盖语义。跨语言内容校对（正文行对齐、数字与日期比对、专名一致性、未翻译残词）目前是人工流程，方法与本轮结果记录在 [TRANSLATION.md](TRANSLATION.md) 的「跨语言校对」小节。英文正文显示名的批量对齐由 `python3 scripts/en_fix_name_openings.py`（加 `--check` 只报告）保证幂等。
+`check_i18n.py` 只覆盖结构，不覆盖语义。跨语言内容校对（正文行对齐、数字与日期比对、专名一致性、未翻译残词）目前是人工流程，方法与本轮结果记录在 [翻译与维护约定](maintenance/TRANSLATION.md) 的「跨语言校对」小节。英文正文显示名的批量对齐由 `python3 scripts/i18n/en_fix_name_openings.py`（加 `--check` 只报告）保证幂等。
 
 Python、Zensical、校验工具和抓取器依赖统一记录在 `pyproject.toml`，具体版本由 `uv.lock` 固定；CI 使用 `--locked`，不会在构建时静默更新依赖。

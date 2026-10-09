@@ -43,7 +43,7 @@ def test_ci_uses_a_fixed_python_and_runner() -> None:
 def test_build_uses_the_locked_runtime_without_development_tools() -> None:
     build_script = BUILD_SCRIPT.read_text(encoding="utf-8")
 
-    assert build_script.count("uv run --locked --no-dev") == 5
+    assert build_script.count("uv run --locked --no-dev") == 6
     assert "uvx" not in build_script
 
 
@@ -55,3 +55,29 @@ def test_all_site_configs_enable_pruned_navigation_and_custom_templates() -> Non
         assert theme["custom_dir"] == "overrides"
         assert "navigation.prune" in theme["features"]
         assert "navigation.expand" not in theme["features"]
+
+
+def nav_paths(entries: list) -> list[str]:
+    paths = []
+    for entry in entries:
+        if isinstance(entry, str):
+            paths.append(entry)
+        else:
+            for value in entry.values():
+                paths.extend(nav_paths(value) if isinstance(value, list) else [value])
+    return paths
+
+
+def test_navigation_covers_every_page_once_in_each_language() -> None:
+    for language, filename in (
+        ("zh", "zensical.toml"),
+        ("ja", "zensical.ja.toml"),
+        ("en", "zensical.en.toml"),
+    ):
+        config = tomllib.loads((ROOT / filename).read_text(encoding="utf-8"))
+        paths = nav_paths(config["project"]["nav"])
+        base = ROOT / "docs" / language
+        expected = {p.relative_to(base).as_posix() for p in base.rglob("*.md")}
+        assert set(paths) == expected
+        assert len(paths) == len(expected)
+        assert not (base / "_meta").exists()

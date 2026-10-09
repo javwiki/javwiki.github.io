@@ -216,7 +216,7 @@ def test_fetch_waits_for_exact_response_and_closes_browser() -> None:
 def test_default_output_mirrors_identical_files_and_uses_utc(
     tmp_path: Path, monkeypatch
 ) -> None:
-    default = tmp_path / "docs" / "zh" / "排名"
+    default = tmp_path / "docs" / "zh" / "资料" / "排名"
     monkeypatch.setattr(spider_module, "DEFAULT_OUTPUT_DIR", default)
     spider = FanzaActressRankingSpider(output_dir=str(default))
     now = datetime(2026, 8, 1, 1, 0, tzinfo=timezone(timedelta(hours=9)))
@@ -226,8 +226,8 @@ def test_default_output_mirrors_identical_files_and_uses_utc(
     assert destination == default / "actress-ranking-202607.yaml"
     paths = [
         destination,
-        tmp_path / "docs" / "ja" / "排名" / destination.name,
-        tmp_path / "docs" / "en" / "排名" / destination.name,
+        tmp_path / "docs" / "ja" / "资料" / "排名" / destination.name,
+        tmp_path / "docs" / "en" / "资料" / "排名" / destination.name,
     ]
     assert all(path.is_file() for path in paths)
     assert len({path.read_bytes() for path in paths}) == 1
@@ -252,7 +252,7 @@ def test_custom_output_does_not_touch_repository(tmp_path: Path) -> None:
 def test_source_file_is_not_replaced_when_mirror_fails(
     tmp_path: Path, monkeypatch
 ) -> None:
-    default = tmp_path / "docs" / "zh" / "排名"
+    default = tmp_path / "docs" / "zh" / "资料" / "排名"
     monkeypatch.setattr(spider_module, "DEFAULT_OUTPUT_DIR", default)
     spider = FanzaActressRankingSpider(output_dir=str(default))
     destination = default / "actress-ranking-202607.yaml"

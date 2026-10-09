@@ -4,36 +4,37 @@ A comprehensive encyclopedia of JAV (Japanese adult video).
 
 ## Content categories
 
-### Performers
+### [People](人物/index.md)
 
-- **[AV actresses](./女优/index.md)** — actress entries, ordered by the Japanese syllabary
-- **[AV actors](./男优/index.md)** — actor entries
+- [Actresses](人物/女优/index.md)
+- [Actors](人物/男优/index.md)
+- [Directors](人物/导演/index.md)
+- [Groups](人物/组合/index.md)
 
-### Works
+### [Works](作品/index.md)
 
-- **[Works](./作品/)** — individual releases (by product code)
-- **[Series](./系列/)** — series entries
-- **[Groups](./组合/)** — group entries
-- **[Directors](./导演/)** — director entries
-- **[Product codes](./番号/)** — how the product-code system works
+- [Individual releases](作品/单部/index.md)
+- [Series](作品/系列/index.md)
+- [Product codes](作品/番号/index.md)
 
-### Organizations
+### [Industry and organizations](产业/index.md)
 
-- **[Studios](./厂商/)** — production companies (studios)
-- **[Agencies](./经纪公司/)** — talent agencies (jimusho)
-- **[Associations](./协会/)** — industry associations and self-regulatory bodies
+- [Production groups and companies](产业/制作公司/index.md)
+- [Production brands](产业/厂牌/index.md)
+- [Talent agencies](产业/经纪公司/index.md)
+- [Industry associations](产业/协会/index.md)
 
-### Reference
+### [Reference](资料/index.md)
 
-- **[Awards](./奖项/)** — AV industry awards (FANZA Adult Award, Adult Broadcasting Award, etc.)
-- **[Events](./活动/)** — overseas adult exhibitions and photo expos (TRE Taipei International Adult Expo, TSE Taiwan Sexy Expo, etc.)
-- **[Rankings](./排名/)** — actress ranking data
-- **[Glossary](./术语/)** — common terms and abbreviations
-- **[Laws](./法律/)** — relevant laws and regulations
+- [Awards](资料/奖项/index.md)
+- [Events](资料/活动/index.md)
+- [Rankings](资料/排名/index.md)
+- [Laws](资料/法律/index.md)
+- [Terminology](资料/术语/index.md)
 
-### Features
+### [Features](专题/index.md)
 
-- **[Features](./专题/)** — in-depth articles on industry trends and business observation
+- [Production companies and group relationships](专题/制作公司与集团.md)
 
 ## Indexing scheme
 
@@ -56,7 +57,7 @@ Each entry is filed under the column that holds the **first kana** of the name's
 
 ## References
 
-- [FANZA rankings](./排名/)
+- [FANZA rankings](资料/排名/)
 
 ## Build status
 

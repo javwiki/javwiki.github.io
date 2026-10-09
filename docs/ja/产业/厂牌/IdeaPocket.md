@@ -1,0 +1,40 @@
+---
+type: studio
+name: IdeaPocket
+short_name: IP
+company: 株式会社WILL
+entity_type: brand
+relationships:
+- type: production_lineage
+  target: ../制作公司/WILL.md
+  source: https://ja.wikipedia.org/wiki/CA_(アダルトビデオ)
+---
+
+# IdeaPocket
+
+## 基本情報
+
+- **略称**: IP
+- **正式名称**: IdeaPocket
+- **運営**: [WILL](../制作公司/WILL.md)
+- **特徴**: 高品質な制作と美少女系で知られる
+- **作風**: 美少女系、恋人感、高品質
+
+## 歴代専属女優
+
+- [桃乃木かな](../../人物/女优/ま/も/桃乃木香奈.md)
+- [希島あいり](../../人物/女优/か/き/希岛爱理.md)
+- [天海つばさ](../../人物/女优/あ/あ/天海翼.md)
+- 希崎ジェシカ（記事未作成）
+
+## 歴史とグループの関係
+
+- **1998年**：歴史はAttackers系統のブランドと「ANGEL」シリーズにさかのぼる。
+- **2002年以降**：北都傘下の独立した社内メーカーとして活動。「独立」はブランドや制作組織の区別であり、グループからの離脱を意味しない。
+- **2005年4月**：レンタル向け商品を発売。同年10月には北都系統がTISを通じてレンタル販売を拡大。
+
+これらは[IdeaPocketの歴史資料（二次資料）](https://ja.wikipedia.org/wiki/アイデアポケット)に基づく。IdeaPocketと[Attackers](Attackers.md)には初期ブランドのつながりと、後に同じ[WILL](../制作公司/WILL.md)制作系統に属した関係の両方があり、初期の由来と現在のブランドの位置づけは分けて記述する。
+
+## 参考資料
+
+- [公式サイト](https://www.ideapocket.com/)

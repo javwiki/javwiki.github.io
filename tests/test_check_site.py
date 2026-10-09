@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from scripts.check_site import check_site, load_pages, resolve_href
+from scripts.checks.check_site import check_site, load_pages, resolve_href
 
 
 def write_page(path: Path, body: str) -> None:

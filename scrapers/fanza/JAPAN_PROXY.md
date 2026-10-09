@@ -58,15 +58,15 @@ uv run --locked --group scraper python scrapers/fanza/spider.py \
 
 抓取器显式为 Chromium 设置代理，等待 FANZA 页面实际发出的 `ActressRankingPage` GraphQL 响应，验证月榜查询、连续排名、唯一演员 ID 与必填字段，再保存数据。不依赖终端的代理环境变量。
 
-默认保存 `docs/zh/排名/actress-ranking-YYYYMM.yaml`，并逐字节同步至 `docs/ja/排名/` 和 `docs/en/排名/`。`YYYYMM` 来自 UTC 抓取时间；同月再次运行会覆盖该月快照。文件记录抓取时页面返回的月榜，不代表该自然月结束后的最终榜单。
+默认保存 `docs/zh/资料/排名/actress-ranking-YYYYMM.yaml`，并逐字节同步至 `docs/ja/资料/排名/` 和 `docs/en/资料/排名/`。`YYYYMM` 来自 UTC 抓取时间；同月再次运行会覆盖该月快照。文件记录抓取时页面返回的月榜，不代表该自然月结束后的最终榜单。
 
 ## 4. 更新索引、校验与发布
 
 新月份抓取完成后，在以下索引中加入对应 YAML 链接、本地化月份及条目数量：
 
-- [中文榜单索引](../../docs/zh/排名/index.md)
-- [日文榜单索引](../../docs/ja/排名/index.md)
-- [英文榜单索引](../../docs/en/排名/index.md)
+- [中文榜单索引](../../docs/zh/资料/排名/index.md)
+- [日文榜单索引](../../docs/ja/资料/排名/index.md)
+- [英文榜单索引](../../docs/en/资料/排名/index.md)
 
 ```bash
 ./scripts/build_site.sh
@@ -85,7 +85,7 @@ git status --short
 | 出口验证 | HTTP 与 SOCKS5 均成功；`203.10.99.59`，国家 `JP`；Cloudflare 接入点 `NRT` |
 | 抓取时间 | `2026-10-02T06:28:13.283809Z` |
 | 榜单 | FANZA 女优月榜 Top 100，排名连续，演员 ID 唯一 |
-| 数据文件 | [actress-ranking-202610.yaml](../../docs/zh/排名/actress-ranking-202610.yaml) |
+| 数据文件 | [actress-ranking-202610.yaml](../../docs/zh/资料/排名/actress-ranking-202610.yaml) |
 | 三语数据 | 中文、日文、英文 YAML 逐字节一致 |
 | 校验 | 三语结构校验、三语严格构建、站点链接校验全部通过 |
 | 发布提交 | `982a926`，已推送 `main` |

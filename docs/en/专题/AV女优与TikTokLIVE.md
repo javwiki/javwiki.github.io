@@ -61,6 +61,6 @@ There is also an interesting phenomenon here: **the more A-list, young and inten
 
 ## Related entries
 
-- [AV actresses](../女优/index.md)
-- [Agencies](../经纪公司/index.md)
-- [Events](../活动/index.md)
+- [AV actresses](../人物/女优/index.md)
+- [Agencies](../产业/经纪公司/index.md)
+- [Events](../资料/活动/index.md)

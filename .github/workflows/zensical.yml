@@ -33,8 +33,8 @@ jobs:
         run: uv run --locked --group dev --group scraper pytest
       - name: Lint active Python code
         run: |
-          uv run --locked --group dev ruff format --check scripts/check_i18n.py scripts/check_site.py scrapers/fanza/spider.py tests
-          uv run --locked --group dev ruff check scripts/check_i18n.py scripts/check_site.py scrapers/fanza/spider.py tests
+          uv run --locked --group dev ruff format --check scripts/checks scripts/content scrapers/fanza/spider.py tests
+          uv run --locked --group dev ruff check scripts/checks scripts/content scrapers/fanza/spider.py tests
       - name: Audit locked Python dependencies
         run: uv run --locked --group dev --group scraper pip-audit
       - name: Build multilingual site with Zensical

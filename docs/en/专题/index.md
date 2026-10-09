@@ -10,6 +10,10 @@ In-depth articles on JAV industry trends, business models and sector observation
 
 ## Related entries
 
-- [AV actresses](../女优/index.md)
-- [Agencies](../经纪公司/index.md)
-- [Events](../活动/index.md)
+- [AV actresses](../人物/女优/index.md)
+- [Agencies](../产业/经纪公司/index.md)
+- [Events](../资料/活动/index.md)
+
+- [Production companies and group relationships](制作公司与集团.md)
+
+- [Studio overview](厂商概览.md)

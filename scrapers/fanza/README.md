@@ -52,15 +52,15 @@ uv run --locked --group scraper python scrapers/fanza/spider.py \
   --output ./output
 ```
 
-`--limit` 必须是 1–100 的整数。默认输出为 `docs/zh/排名/actress-ranking-YYYYMM.yaml`，并自动写入内容完全相同的：
+`--limit` 必须是 1–100 的整数。默认输出为 `docs/zh/资料/排名/actress-ranking-YYYYMM.yaml`，并自动写入内容完全相同的：
 
-- `docs/ja/排名/actress-ranking-YYYYMM.yaml`
-- `docs/en/排名/actress-ranking-YYYYMM.yaml`
+- `docs/ja/资料/排名/actress-ranking-YYYYMM.yaml`
+- `docs/en/资料/排名/actress-ranking-YYYYMM.yaml`
 
 任一目标写入失败时命令返回非零；随后仍应运行内容校验：
 
 ```bash
-uv run --locked --no-dev python scripts/check_i18n.py
+uv run --locked --no-dev python scripts/checks/check_i18n.py
 ```
 
 ## 输出格式
