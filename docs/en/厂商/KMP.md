@@ -36,6 +36,12 @@ company: ケイ・エム・プロデュース
 | [Erika Kitagawa](../か/き/北川绘里香.md) | Ka row | Appears |
 | [Serina Tachibana](../た/た/橘芹那.md) | Ta row | Appears |
 
+## Company and brand relationships
+
+KMP abbreviates the company name; million, Uchu Kikaku and Real Works are brand names encountered in its release history. Historical sources also discuss formerly separate operators Media Station and Real Works, and brands that later entered KMP's catalogue. These relationships should be described by period rather than treating every brand as a subsidiary present at the company's 2002 founding.[KM Produce historical brand information (secondary source)](https://en.wikipedia.org/wiki/KM_Produce)
+
+This article does not infer equity relationships between KMP and [WILL](WILL.md), [SOD](SOD.md) or [Prestige](Prestige.md) from platform lists of “related manufacturers.” See [production companies and group relationships](制作公司与集团.md) for the different relationship levels.
+
 ## References
 
 - <https://www.km-produce.com/>

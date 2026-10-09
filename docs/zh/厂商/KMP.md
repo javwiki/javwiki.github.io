@@ -36,6 +36,12 @@ company: ケイ・エム・プロデュース
 | [北川绘里香](../か/き/北川绘里香.md) | か行 | 出演 |
 | [橘芹那](../た/た/橘芹那.md) | た行 | 出演 |
 
+## 公司与厂牌关系
+
+KMP 是公司简称，million、宇宙企画及レアル・ワークス则是阅读其发行史时出现的厂牌名称。历史资料还涉及原先分别运营的 Media Station 与 Real Works，以及后来进入 KMP 发行目录的品牌；应按时期描述，不能把所有品牌都当作 2002 年创业时即存在的子公司。[KM Produce 历史厂牌资料（二手）](https://en.wikipedia.org/wiki/KM_Produce)
+
+本文未根据平台上的“相关厂商”名单推定 KMP 与 [WILL](WILL.md)、[SOD](SOD.md)或 [Prestige](Prestige.md)之间的持股关系。关系层级参见 [制作公司与集团关系](制作公司与集团.md)。
+
 ## 参考资料
 
 - <https://www.km-produce.com/>

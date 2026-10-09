@@ -2,12 +2,20 @@
 
 JAV studios produce and distribute the releases; different studios stand for different content styles, production values and market positions. Knowing the major studios makes it quick to judge a title's type and quality.
 
+## Company groups and history
+
+- [Production companies and group relationships](制作公司与集团.md): Legal companies, brands, distribution agencies and sales platforms.
+- [WILL (Hokuto / CA)](WILL.md): Hokuto and CA history, business succession and changing DMM connections.
+- [SOD (Soft On Demand)](SOD.md): The history and roles of sales, production and other group companies.
+
+The profiles below focus on brands; see individual articles for historical and relationship sources. Actress examples include past performers or exclusives and are not current contract lists.
+
 ## Major studios
 
 ### [S1 NO.1 STYLE](S1%20NO.1%20STYLE.md)
 
 - **Short name**: S1
-- **Company**: エスワン ナンバーワンスタイル
+- **Company**: [WILL](WILL.md)
 - **Features**: A top-tier studio known for high production values and a top-class roster
 - **Style**: Pure bishoujo, innocent look, high production values
 - **Notable actresses**: Yua Mikami, Arina Hashimoto, Saika Kawakita, Mio Ishikawa, Tsukasa Aoi, etc.
@@ -15,7 +23,7 @@ JAV studios produce and distribute the releases; different studios stand for dif
 ### [Moodyz](MOODYZ.md)
 
 - **Short name**: MD
-- **Company**: ムーディーズ
+- **Company**: [WILL](WILL.md)
 - **Features**: One of the largest studios in the industry, with a huge output and several sub-labels
 - **Style**: Diverse, covering all kinds of themes
 - **Notable actresses**: Eimi Fukada, Kaede Fua, etc.
@@ -23,7 +31,7 @@ JAV studios produce and distribute the releases; different studios stand for dif
 ### [IdeaPocket](IdeaPocket.md)
 
 - **Short name**: IP
-- **Company**: アイデアポケット
+- **Company**: [WILL](WILL.md)
 - **Features**: Known for high production values and bishoujo-style titles
 - **Style**: Bishoujo, girlfriend feel, high production values
 - **Notable actresses**: Kana Momonogi, Airi Kijima, etc.
@@ -31,7 +39,7 @@ JAV studios produce and distribute the releases; different studios stand for dif
 ### [Attackers](Attackers.md)
 
 - **Short name**: AT
-- **Company**: アタッカーズ
+- **Company**: [WILL](WILL.md)
 - **Features**: Known for story-driven and subjugation-themed releases
 - **Style**: Story-driven, subjugation, dark themes
 - **Notable actresses**: Kurea Hasumi, etc.
@@ -39,7 +47,7 @@ JAV studios produce and distribute the releases; different studios stand for dif
 ### [Prestige](Prestige.md)
 
 - **Short name**: PG
-- **Company**: プレステージ
+- **Company**: 有限会社プレステージ
 - **Features**: Known for amateur-style and concept-driven releases
 - **Style**: Amateur-style, concept-driven, varied
 - **Notable actresses**: Mia Nanasawa, Rikka Ono, etc.
@@ -47,9 +55,8 @@ JAV studios produce and distribute the releases; different studios stand for dif
 ### [KANBi](KANBi.md)
 
 - **Short name**: KB
-- **Company**: Prestige group
-- **Founded**: 2018
-- **Features**: A Prestige brand dedicated to married women and mature models
+- **Company**: [Prestige](Prestige.md) release network (brand)
+- **Features**: A brand released by Prestige, focusing on married and mature women
 - **Style**: Married-woman, mature women, elegant mature looks
 
 ### [KMP](KMP.md)
@@ -92,10 +99,10 @@ JAV studios produce and distribute the releases; different studios stand for dif
 - **Features**: Known for creampie releases
 - **Style**: Creampie, story-driven
 
-### SOD (Soft On Demand)
+### [SOD (Soft On Demand)](SOD.md)
 
 - **Short name**: SOD
-- **Company**: SODクリエイト
+- **Company**: Soft On Demand (sales) / SOD Create (production)
 - **Features**: Known for creative concepts and amateur-style releases, with several sub-labels
 - **Style**: Concept-driven, amateur-style, heavy on ideas
 - **Notable actresses**: Makoto Toda, Suzu Honjo, etc.
