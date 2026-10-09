@@ -1,20 +1,30 @@
 ---
-title: Actors
+title: AV actors
 ---
 
 # AV actors
 
-Actor entries, ordered by gojūon or Chinese pinyin.
+This category covers the professional biographies of male AV performers, ordered by the Japanese readings of their stage names. Profiles prioritize first-person accounts, production sources, and credited interviews, with specific records for works and publications.
 
-- [Back to the home page](../../index.md)
+- [Back to people](../index.md)
 
-## Index
+## Profiles
+
+- [Ittetsu](一徹.md)
+- [Joe Oshima](大島丈.md)
+- [Taka Kato](加藤鹰.md)
+- [Shimiken (Ken Shimizu)](清水健.md)
+- [Taito Tsukino](月野带人.md)
+- [Genjin Moribayashi](森林.md)
+- [Taku Yoshimura](吉村卓.md)
+
+## Entries awaiting identification
+
+These existing entries contain only surnames and lack sufficient identification:
 
 - [大島](大島.md)
 - [松岡](松岡.md)
-- [森林](森林.md)
 
-## Category notes
+## Scope
 
-- **AV actors**: male performers, including debut artists and kikaku performers, etc.
-- For the entry format, see the [actress entry format](../女优/あ/あ/荒木レナ.md).
+Acting careers, exclusive contracts, apprenticeships, and event appearances are recorded separately. Ending an exclusive contract does not establish retirement. Performance totals depend on the date and counting method; unverified promotional figures are not treated as current totals.
