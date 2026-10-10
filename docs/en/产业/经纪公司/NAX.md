@@ -1,19 +1,25 @@
 ---
 type: agency
 name: NAX
-company: NAX（New Actor Experience）
+company: NAX（ナックス）
 ---
 
 # NAX
 
 ## Basic information
 
-- **Full name**: NAX (New Actor Experience)
-- **Profile**: A well-known industry agency
+- **Name**: NAX（ナックス）
+- **Services**: Performer management; the official site publishes talent, event or recruitment information.
 
-## Roster
+## Examples listed on the official site
 
-| Name | Gojūon | Main studios |
-| --- | --- | --- |
-| Kanon Kanade | Ka row | MOODYZ, 本中, Fitch |
-| Mayuki Ito | A row | Kawaii* |
+These examples were checked on the official site on 10 October 2026 and are not a complete roster. Listing does not independently verify individual management or studio-exclusive contracts.
+
+| Official stage name | Source |
+| --- | --- |
+| 伊藤 舞雪 | [Official listing](https://official.nax-pro.com/model/56) |
+| 逢沢 みゆ | [Official listing](https://official.nax-pro.com/model/15063) |
+
+## References
+
+- [Official roster](https://official.nax-pro.com/model)

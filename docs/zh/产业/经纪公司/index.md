@@ -12,14 +12,14 @@ title: 经纪公司
 | --- | --- |
 | [T-POWERS](T-POWERS.md) | 三上悠亚、河北彩花、石川澪 |
 | [C-more](C-more.md) | 枫花、枫可怜 |
-| [LINX](LINX.md) | 桃乃木香奈、葵百合香 |
+| [LINX](LINX.md) | 参照官方名单 |
 | [Mine's](Mine_S.md) | 葵司、彩美旬果、上原亚衣 |
-| [ARROWS](ARROWS.md) | 深田咏美 |
+| [ARROWS](ARROWS.md) | 当前名单待核实 |
 | [SO MODEL AGENT（旧称 8MAN）](8MAN.md) | 凪ひかる、藤かんな、美乃すずめ |
-| [Bambi Promotion](Bambi%20Promotion.md) | 安位薰、君色花音、白上咲花 |
+| [Bambi Promotion](Bambi%20Promotion.md) | 白上咲花、清宮仁愛 |
 | [LIFE PROMOTION](LIFE%20PROMOTION.md) | 五日市芽依 |
-| [ACT Promotion](ACT%20Promotion.md) | 乙都咲乃 |
-| [NAX](NAX.md) | 奏音花音、伊藤舞雪 |
+| [ACT Promotion](ACT%20Promotion.md) | 新ありな、木下ひまり |
+| [NAX](NAX.md) | 伊藤 舞雪、逢沢 みゆ |
 | [CRUSE GROUP](CRUSE%20GROUP.md) | 美谷朱音（前） |
 | [Diaz Group](Diaz%20Group.md) | 友田彩也香、由爱可奈、明日花绮罗（前） |
 | [LIGHT](LIGHT.md) | 西宫梦、松本一香、弥生みづき、石原希望、椎名空、千乃あずみ |
@@ -47,7 +47,7 @@ title: 经纪公司
 - **全称**: ARROWS
 - **特点**: 业界知名经纪公司，规模较大
 - **业务**: 女优经纪、作品制作等
-- **知名女优**: 深田咏美等
+- **所属资料**: 当前名单待核实
 
 ### Mine's
 
@@ -67,7 +67,7 @@ title: 经纪公司
 - **全称**: LINX
 - **特点**: 业界知名经纪公司
 - **业务**: 女优经纪、作品制作等
-- **知名女优**: 桃乃木香奈等
+- **所属资料**: 参照官方名单
 
 ### LIFE PROMOTION
 
@@ -99,7 +99,7 @@ title: 经纪公司
 - **全称**: Bambi Promotion
 - **特点**: 业界知名经纪公司
 - **业务**: 女优经纪、作品制作等
-- **知名女优**: 安位薰、白上咲花、君色花音等
+- **所属资料**: 白上咲花、清宮仁愛（官网掲載例）
 
 ### SO MODEL AGENT（旧称 8MAN）
 

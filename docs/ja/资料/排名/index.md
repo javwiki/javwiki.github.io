@@ -19,11 +19,13 @@ title: ランキング
 
 ## ランキング一覧
 
-| ファイル | 種類 | 出典 | 日付 | 件数 |
+| ファイル | 種類 | 出典 | 取得日 | 件数 |
 | --- | --- | --- | --- | --- |
-| [actress-ranking-202606.yaml](actress-ranking-202606.yaml) | 女優月間ランキング | FANZA | 2026年6月 | 100 |
-| [actress-ranking-202607.yaml](actress-ranking-202607.yaml) | 女優月間ランキング | FANZA | 2026年7月 | 100 |
-| [actress-ranking-202610.yaml](actress-ranking-202610.yaml) | 女優月間ランキング | FANZA | 2026年10月 | 100 |
+| [actress-ranking-202606.yaml](actress-ranking-202606.yaml) | 女優月間ランキング | FANZA | 2026-06-26 | 100 |
+| [actress-ranking-202607.yaml](actress-ranking-202607.yaml) | 女優月間ランキング | FANZA | 2026-07-04 | 100 |
+| [actress-ranking-202610.yaml](actress-ranking-202610.yaml) | 女優月間ランキング | FANZA | 2026-10-02 | 100 |
+
+各ファイルはFANZA動画フロアの `term=monthly&type=actress` が取得時に返した順位のスナップショットで、ファイル名の月は取得月を示し、その月の確定順位ではない。表の日付は各ファイルの `fetched_at` に基づく。6月・7月の旧記録はタイムゾーンを保存しておらず、10月の `Z` はUTCを示す。旧記録のタイムゾーンは推測で補わない。現在は3回分のみで連続した月次データではなく、年間順位全体や月ごとの売上変化の算出には使えない。
 
 ## FANZAの過去ランキングを調べる出典
 

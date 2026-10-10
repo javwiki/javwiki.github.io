@@ -19,11 +19,13 @@ Ranking data is stored as YAML. Each file contains the following fields:
 
 ## Ranking list
 
-| File | Type | Source | Date | Rows |
+| File | Type | Source | Fetch date | Rows |
 | --- | --- | --- | --- | --- |
-| [actress-ranking-202606.yaml](actress-ranking-202606.yaml) | Monthly actress ranking | FANZA | June 2026 | 100 |
-| [actress-ranking-202607.yaml](actress-ranking-202607.yaml) | Monthly actress ranking | FANZA | July 2026 | 100 |
-| [actress-ranking-202610.yaml](actress-ranking-202610.yaml) | Monthly actress ranking | FANZA | October 2026 | 100 |
+| [actress-ranking-202606.yaml](actress-ranking-202606.yaml) | Monthly actress ranking | FANZA | 2026-06-26 | 100 |
+| [actress-ranking-202607.yaml](actress-ranking-202607.yaml) | Monthly actress ranking | FANZA | 2026-07-04 | 100 |
+| [actress-ranking-202610.yaml](actress-ranking-202610.yaml) | Monthly actress ranking | FANZA | 2026-10-02 | 100 |
+
+These files preserve snapshots returned by FANZA’s video-floor `term=monthly&type=actress` ranking at collection time. Filename months identify collection months, not final monthly rankings. Table dates come from each file’s `fetched_at`. The older June and July timestamps have no timezone; October’s `Z` means UTC. Do not infer missing timezones. There are only three snapshots, not a continuous monthly series; they cannot establish a complete annual ranking or changes in monthly sales.
 
 ## Sources for historical FANZA rankings
 

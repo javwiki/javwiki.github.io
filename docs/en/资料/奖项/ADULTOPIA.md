@@ -5,22 +5,17 @@ title: ADULTOPIA 大人国
 
 # ADULTOPIA 大人国
 
-ADULTOPIA (大人国成人展) is an adult exhibition held in Taiwan, taking place in Kaohsiung and Taoyuan from 2024. The event carries awards such as the BEST HEALING SMILE AWARD and invites AV actresses from Japan and across Asia.
+This entry records ADULTOPIA award information. XCITY published results for the ADULTOPIA ADULT CEREMONY held in Taiwan on 27 March 2026, with an eligibility period of 1 November 2024–31 October 2025. Ceremony dates, eligibility periods and exhibition history should be recorded separately.
 
-## Event information
+## Award records
 
-| Year | Venue | Notes |
+This is an example of a verified award record; the complete awards list and exhibition history still need expansion.
+
+| Year | Award | Recipients (official stage names) |
 | --- | --- | --- |
-| 2024 | Kaohsiung | First edition |
-| 2025 | Taipei | |
-| 2026 | Taoyuan · MESS桃園 | Several Japanese actresses attended |
-
-## Awards
-
-| Award | Notes |
-| --- | --- |
-| BEST HEALING SMILE AWARD | The most healing smile |
+| 2026 | BEST HEALING SMILE AWARD | 未歩なな、沙月恵奈、美ノ嶋めぐり |
 
 ## References
 
-- Coverage of Japanese actresses attending Taiwan's ADULTOPIA
+- [XCITY: official 2026 results](https://xcity.co.jp/award_result/)
+- [XCITY: Traditional Chinese results](https://xcity.co.jp/award_result_taiwan/)

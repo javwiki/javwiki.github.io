@@ -5,17 +5,8 @@ name: ARROWS
 
 # ARROWS
 
-## Basic information
-
-- **Full name**: ARROWS
-- **Profile**: A well-known industry agency of considerable size
-
-## Roster
-
-| Name | Gojūon | Main studios |
-| --- | --- | --- |
-| Eimi Fukada | Ha row | S1/MOODYZ |
+The Japan Production Guild’s organization page, dated July 2025, lists ARROWS and the address arrowsweb.net. That address could not be accessed during the check on 10 October 2026; the current roster remains unverified.
 
 ## References
 
-- [Official website](https://www.arrow-s.jp/)
+- [Japan Production Guild: organization](https://jpg-tokyo.com/%E7%B5%84%E7%B9%94%E6%A6%82%E8%A6%81/)

@@ -61,7 +61,7 @@ Each entry is filed under the column that holds the **first kana** of the name's
 
 ## Build status
 
-- Actress entries: in progress
-- Actor entries: not yet started
-- Works / series: not yet started
-- Directors: not yet started
+- Actress entries: available; profiles and sources are being expanded
+- Actor entries: available; coverage still needs expansion
+- Works / series: available; release information and sources are being checked
+- Directors: available; biographies and filmographies need expansion

@@ -8,9 +8,11 @@ company: Allpro（オールプロモーション / ALL PROMOTION）
 - **Full name**: Allpro (オールプロモーション / ALL PROMOTION)
 - **Profile**: An entertainment agency whose business is mainly AV actress management
 - **Services**: Actress management, release production, etc.
-- **Association**: Formerly a member of the Japan Production Association; withdrew in 2025
+- **Association record**: Not listed in the association’s July 2025 public roster; the exact withdrawal date remains unverified
 
 ## Roster
+
+The affiliation examples retained here still need individual official profiles and verification dates; they should not be used as a complete current roster.
 
 | Name | Gojūon | Main studios |
 | --- | --- | --- |
@@ -23,3 +25,4 @@ Former members (with entries on this site): [Aki Sasaki](../../人物/女优/さ
 ## References
 
 - [List of withdrawn members of the Japan Production Association](../协会/日本プロダクション協会.md)
+- [Japan Production Guild: July 2025 organization page](https://jpg-tokyo.com/%E7%B5%84%E7%B9%94%E6%A6%82%E8%A6%81/)

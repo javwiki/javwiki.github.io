@@ -5,19 +5,8 @@ name: LINX
 
 # LINX
 
-## Basic information
-
-- **Full name**: LINX
-- **Profile**: A well-known industry agency
-
-## Roster
-
-| Name | Gojūon | Main studios |
-| --- | --- | --- |
-| Kana Momonogi | Ma row | IdeaPocket |
-| Yurika Aoi | A row | Madonna |
-| Sara Uruki | A row | Madonna |
+LINX is a Japanese performer agency. Its official information site uses the Team LINX name and publishes model, release and event information. Consult the official site for affiliations; unverified roster examples have been removed.
 
 ## References
 
-- [Official website](https://www.linx.jp/)
+- [Official information site](https://pub.linx.live/contents/)

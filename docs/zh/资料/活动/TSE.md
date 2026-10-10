@@ -33,6 +33,7 @@ TSE（Taiwan Shot Expo，台灣寫真博覽會）是台湾台北市举办的写�
 
 ## 参考资料
 
-- 中央社、NOWnews、ETtoday 等台湾媒体历年报道
-- 官方社群（shotexpo.com.tw 相关账号）
-- 日媒及日本粉丝站对 TSE 的报道
+本次补充的官方售票页确认2024年1月26日至28日于松山文创园区举行的场次；其他历史场次、停办原因与阵容仍需逐项补充对应报道。
+
+- [2024年1月场次：官方售票页](https://jkface.net/shotexpo/2024/event)
+- [TSE 官方网站](https://shotexpo.com.tw/)

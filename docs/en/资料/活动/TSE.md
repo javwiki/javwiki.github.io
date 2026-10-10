@@ -33,6 +33,7 @@ Because the venue (Taipei World Trade Center Hall 3) was demolished, the event w
 
 ## References
 
-- Years of coverage by Taiwan media such as Central News Agency, NOWnews and ETtoday
-- Official social accounts (shotexpo.com.tw related accounts)
-- Coverage of TSE by Japanese media and Japanese fan sites
+The official ticket page added here confirms the 26–28 January 2024 edition at Songshan Cultural and Creative Park. Other historical editions, reasons for the hiatus and lineups still need individual supporting sources.
+
+- [January 2024 edition: official ticket page](https://jkface.net/shotexpo/2024/event)
+- [TSE official site](https://shotexpo.com.tw/)

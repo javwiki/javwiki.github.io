@@ -12,14 +12,14 @@ An agency (jimusho) is the intermediary that represents an AV actress, handling 
 | --- | --- |
 | [T-POWERS](T-POWERS.md) | Yua Mikami, Saika Kawakita, Mio Ishikawa |
 | [C-more](C-more.md) | Kaede Fua, 枫可怜 |
-| [LINX](LINX.md) | Kana Momonogi, Yurika Aoi |
+| [LINX](LINX.md) | See official roster |
 | [Mine's](Mine_S.md) | Tsukasa Aoi, Ayami Shunka, Ai Uehara |
-| [ARROWS](ARROWS.md) | Eimi Fukada |
+| [ARROWS](ARROWS.md) | Current roster unverified |
 | [SO MODEL AGENT (formerly 8MAN)](8MAN.md) | Nagi Hikaru, Kanna Fuji, Mino Suzume |
-| [Bambi Promotion](Bambi%20Promotion.md) | Kaoru Yasui, Kanon Kimiiro, Emika Shirakami |
+| [Bambi Promotion](Bambi%20Promotion.md) | 白上咲花、清宮仁愛 |
 | [LIFE PROMOTION](LIFE%20PROMOTION.md) | Mei Itsukaichi |
-| [ACT Promotion](ACT%20Promotion.md) | Sakino Oto |
-| [NAX](NAX.md) | Kanon Kanade, Mayuki Ito |
+| [ACT Promotion](ACT%20Promotion.md) | 新ありな、木下ひまり |
+| [NAX](NAX.md) | 伊藤 舞雪、逢沢 みゆ |
 | [CRUSE GROUP](CRUSE%20GROUP.md) | Akari Mitani (former) |
 | [Diaz Group](Diaz%20Group.md) | Ayaka Tomoda, Jun Mizukawa, Kirara Asuka (former) |
 | [LIGHT](LIGHT.md) | Yume Nishinomiya, Ichika Matsumoto, Mizuki Yayoi, Nozomi Ishihara, Sora Shiina, Azumi Chino |
@@ -47,7 +47,7 @@ An agency (jimusho) is the intermediary that represents an AV actress, handling 
 - **Full name**: ARROWS
 - **Profile**: Well-known industry agency of considerable size
 - **Services**: Actress management, release production, etc.
-- **Notable actresses**: Eimi Fukada, etc.
+- **Roster information**: Current roster unverified
 
 ### Mine's
 
@@ -67,7 +67,7 @@ An agency (jimusho) is the intermediary that represents an AV actress, handling 
 - **Full name**: LINX
 - **Profile**: Well-known industry agency
 - **Services**: Actress management, release production, etc.
-- **Notable actresses**: Kana Momonogi, etc.
+- **Roster information**: See official roster
 
 ### LIFE PROMOTION
 
@@ -99,7 +99,7 @@ An agency (jimusho) is the intermediary that represents an AV actress, handling 
 - **Full name**: Bambi Promotion
 - **Profile**: Well-known industry agency
 - **Services**: Actress management, release production, etc.
-- **Notable actresses**: Kaoru Yasui, Emika Shirakami, Kanon Kimiiro, etc.
+- **Roster information**: 白上咲花, 清宮仁愛 (official listing examples)
 
 ### SO MODEL AGENT (formerly 8MAN)
 

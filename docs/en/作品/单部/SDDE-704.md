@@ -8,6 +8,8 @@ release_date: 2023年9月19日
 
 # SDDE-704
 
+**Source verification (2026-10-10)**: This entry still lacks a verifiable product-detail source. Release information, plot summaries and the older text labelled as a Japanese original with its Chinese translation have not been source-checked and should not be cited as verified official copy. A studio or authorized-distributor product link is needed, with digital and physical release dates distinguished.
+
 ## Basic information
 
 | Item | Content |
@@ -27,7 +29,6 @@ Produced by SOD Create. 夏目みらい plays an arrogant, charismatic gyaru who
 - SOD Create anal theme
 - Charismatic gyaru × anal creampie
 - A solo release by 夏目みらい
-- JavDB rating 4.24 (424 ratings)
 
 ### Original Japanese (missAV / FANZA)
 

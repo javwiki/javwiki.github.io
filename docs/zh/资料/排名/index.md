@@ -19,11 +19,13 @@ title: 排名
 
 ## 排名列表
 
-| 文件 | 类型 | 来源 | 日期 | 数量 |
+| 文件 | 类型 | 来源 | 采集日期 | 数量 |
 | --- | --- | --- | --- | --- |
-| [actress-ranking-202606.yaml](actress-ranking-202606.yaml) | 女优月间排名 | FANZA | 2026年6月 | 100 |
-| [actress-ranking-202607.yaml](actress-ranking-202607.yaml) | 女优月间排名 | FANZA | 2026年7月 | 100 |
-| [actress-ranking-202610.yaml](actress-ranking-202610.yaml) | 女优月间排名 | FANZA | 2026年10月 | 100 |
+| [actress-ranking-202606.yaml](actress-ranking-202606.yaml) | 女优月间排名 | FANZA | 2026-06-26 | 100 |
+| [actress-ranking-202607.yaml](actress-ranking-202607.yaml) | 女优月间排名 | FANZA | 2026-07-04 | 100 |
+| [actress-ranking-202610.yaml](actress-ranking-202610.yaml) | 女优月间排名 | FANZA | 2026-10-02 | 100 |
+
+这些文件保存 FANZA 视频区 `term=monthly&type=actress` 在采集时返回的榜单快照，文件名月份为采集月份，不能视作该月最终排名。上表日期取自各文件的 `fetched_at`；6月、7月的旧记录未保存时区，10月记录的 `Z` 表示 UTC，不能为旧记录补猜时区。当前仅有三次快照，未形成连续月度序列；不宜据此计算完整年度排名或跨月销量变化。
 
 ## FANZA 历史排名查询来源
 

@@ -8,6 +8,8 @@ release_date: 2019年1月
 
 # AVOP-404
 
+**Source verification (2026-10-10)**: This entry still lacks a verifiable product-detail source. Release information, plot summaries and the older text labelled as a Japanese original with its Chinese translation have not been source-checked and should not be cited as verified official copy. A studio or authorized-distributor product link is needed, with digital and physical release dates distinguished.
+
 ## Basic information
 
 | Item | Content |

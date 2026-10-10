@@ -12,14 +12,14 @@ title: プロダクション
 | --- | --- |
 | [T-POWERS](T-POWERS.md) | 三上悠亜、河北彩花、石川澪 |
 | [C-more](C-more.md) | 楓ふうあ、楓カレン |
-| [LINX](LINX.md) | 桃乃木かな、葵百合香 |
+| [LINX](LINX.md) | 公式一覧を参照 |
 | [Mine's](Mine_S.md) | 葵つかさ、彩美旬果、上原亜衣 |
-| [ARROWS](ARROWS.md) | 深田えいみ |
+| [ARROWS](ARROWS.md) | 現在の所属者は未確認 |
 | [SO MODEL AGENT（旧称 8MAN）](8MAN.md) | 凪ひかる、藤かんな、美乃すずめ |
-| [Bambi Promotion](Bambi%20Promotion.md) | 安位薫、君色花音、白上咲花 |
+| [Bambi Promotion](Bambi%20Promotion.md) | 白上咲花、清宮仁愛 |
 | [LIFE PROMOTION](LIFE%20PROMOTION.md) | 五日市芽依 |
-| [ACT Promotion](ACT%20Promotion.md) | 乙都咲乃 |
-| [NAX](NAX.md) | 奏音かのん、伊藤舞雪 |
+| [ACT Promotion](ACT%20Promotion.md) | 新ありな、木下ひまり |
+| [NAX](NAX.md) | 伊藤 舞雪、逢沢 みゆ |
 | [CRUSE GROUP](CRUSE%20GROUP.md) | 美谷朱音（元所属） |
 | [Diaz Group](Diaz%20Group.md) | 友田彩也香、由愛可奈、明日花キララ（元所属） |
 | [LIGHT](LIGHT.md) | 西宮ゆめ、松本いちか、弥生みづき、石原希望、椎名そら、千乃あずみ |
@@ -47,7 +47,7 @@ title: プロダクション
 - **正式名称**: ARROWS
 - **特徴**: 業界で知られるプロダクションで、規模が大きい
 - **業務**: 女優のマネジメント、作品製作など
-- **主な所属女優**: 深田えいみなど
+- **所属情報**: 現在の所属者は未確認
 
 ### Mine's
 
@@ -67,7 +67,7 @@ title: プロダクション
 - **正式名称**: LINX
 - **特徴**: 業界で知られるプロダクション
 - **業務**: 女優のマネジメント、作品製作など
-- **主な所属女優**: 桃乃木かななど
+- **所属情報**: 公式一覧を参照
 
 ### LIFE PROMOTION
 
@@ -99,7 +99,7 @@ title: プロダクション
 - **正式名称**: Bambi Promotion
 - **特徴**: 業界で知られるプロダクション
 - **業務**: 女優のマネジメント、作品製作など
-- **主な所属女優**: 安位薫、白上咲花、君色花音など
+- **所属情報**: 白上咲花、清宮仁愛（公式掲載例）
 
 ### SO MODEL AGENT（旧称 8MAN）
 

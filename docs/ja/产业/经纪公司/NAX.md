@@ -1,19 +1,25 @@
 ---
 type: agency
 name: NAX
-company: NAX（New Actor Experience）
+company: NAX（ナックス）
 ---
 
 # NAX
 
 ## 基本情報
 
-- **正式名称**: NAX（New Actor Experience）
-- **特徴**: 業界で知られるプロダクション
+- **名称**: NAX（ナックス）
+- **事業**: 女優のマネジメント。公式サイトでタレント、イベント、募集などの情報を公開する。
 
-## 所属女優
+## 公式サイト掲載例
 
-| 名前 | 五十音 | 主要メーカー |
-| --- | --- | --- |
-| 奏音かのん | か行 | MOODYZ/本中/Fitch |
-| 伊藤舞雪 | あ行 | Kawaii* |
+以下は2026年10月10日に公式サイトで確認した掲載例で、全員の一覧ではない。掲載自体は個別のマネジメント契約やメーカー専属契約を独立に検証したことを意味しない。
+
+| 公式芸名 | 出典 |
+| --- | --- |
+| 伊藤 舞雪 | [公式情報](https://official.nax-pro.com/model/56) |
+| 逢沢 みゆ | [公式情報](https://official.nax-pro.com/model/15063) |
+
+## 参考資料
+
+- [公式一覧](https://official.nax-pro.com/model)
