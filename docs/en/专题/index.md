@@ -6,6 +6,7 @@ In-depth articles on JAV industry trends, business models and sector observation
 
 | Feature | Area | Description |
 | --- | --- | --- |
+| [AV actresses reported to have died by suicide](自杀女优.md) | People and source verification | Reported cases, evidentiary limits and distinctions between causes of death |
 | [AV actresses and TikTok LIVE](AV女优与TikTokLIVE.md) | Industry trends | Why more and more AV actresses are joining TikTok to stream LIVE |
 
 ## Related entries
