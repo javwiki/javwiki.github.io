@@ -4,6 +4,11 @@ title: JUFD-387
 number: JUFD-387
 studio: Fitch
 release_date: 待核实
+verification_status: secondary_only
+secondary_source_url: https://www.javdatabase.com/movies/jufd-387/
+secondary_release_date: '2014-07-26'
+secondary_release_date_type: unspecified
+verified_at: '2026-10-11'
 ---
 
 # JUFD-387
@@ -16,7 +21,15 @@ release_date: 待核实
 | 作品名 | 淫語で誘う寸止め焦らし痴女 ～僕を生殺しにして愉しむ部下の爆乳奥さん～ |
 | 制作／厂牌 | Fitch |
 | 发行日期（实体） | 待核实 |
+| 资料站发行日（口径未说明） | 2014-07-26 |
+| 出演者（资料站列名） | Ayumi Shinoda |
+| 导演（资料站列名） | SANDMAN |
+| 片长（资料站） | 156 min |
 
 ## 核验范围
 
-2026-10-11 核查：Fitch 的该品番详情页返回404内容，FANZA 视频详情查询未返回作品，旧 DVD 地址亦返回404。标题与厂牌仅保留为旧稿检索线索，尚未获得可核对的片商或授权发行商记录；发行日、出演者、系列和剧情不作为已核实信息发布。
+2026-10-11补查：JAVDatabase提供该番号的目录记录，列片商为Fitch、出演者为Ayumi Shinoda（篠田あゆみ）。上表新增日期、导演和片长均按该二手资料站列名，不恢复无来源剧情或原文。其Release Date字段未注明配信／实体口径，因此实体发行日继续待核实。此前Fitch详情页返回404内容，FANZA视频详情查询未返回作品，旧DVD地址亦不可用；目前尚无可独立核对的官方详情。JavLibrary的中文搜索及日文浏览器访问均返回403安全验证页，未读取到作品资料，不作为第二份佐证。
+
+## 参考资料
+
+- [JAVDatabase](https://www.javdatabase.com/movies/jufd-387/)

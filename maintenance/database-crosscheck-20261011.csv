@@ -1,0 +1,15 @@
+name,source_url,database_birth_date,database_height_cm,database_debut_date,existing_debut_record,comparison_status,checked_at
+逢沢みゆ,https://www.javdatabase.com/idols/miyu-aizawa/,2003-03-03,155,2023-12-08,2023-12-12,birth_date_conflict,2026-10-11T13:06:18Z
+瀬戸環奈,https://www.javdatabase.com/idols/kanna-seto/,2004-05-10,170,2025-01-24,2025-01-28,different_date_basis_unconfirmed,2026-10-11T13:06:18Z
+北岡果林,https://www.javdatabase.com/idols/karin-kitaoka/,2003-10-30,160,2024-04-05,2024-04-09,birth_date_conflict,2026-10-11T13:06:18Z
+木下ひまり,https://www.javdatabase.com/idols/himari-kinoshita/,1996-05-21,169,2020-04-17,2020-04-17,date_matches_secondary,2026-10-11T13:06:18Z
+沙月恵奈,https://www.javdatabase.com/idols/ena-satsuki/,1999-06-11,152,2020-10-22,2020-09,debut_month_conflict,2026-10-11T13:06:18Z
+乙アリス,https://www.javdatabase.com/idols/alice-otsu/,1993-12-19,161,2016-11-23,2013,debut_conflict,2026-10-11T13:06:18Z
+柏木こなつ,https://www.javdatabase.com/idols/konatsu-kashiwagi/,2003-07-13,155,2021-11-11,2021-11,different_date_basis_unconfirmed,2026-10-11T13:06:18Z
+彩月七緒,https://www.javdatabase.com/idols/nao-satsuki/,2002-06-16,164,2024-01-25,2024-01-25,same_date_or_month,2026-10-11T13:06:18Z
+森日向子,https://www.javdatabase.com/idols/hinako-mori/,2000-09-09,166,2020-06-23,2020-06,same_month_more_precise_unverified,2026-10-11T13:06:18Z
+花守夏歩,https://www.javdatabase.com/idols/kaho-hanamori/,2004-10-27,158,2025-02-07,2025-02-11,different_date_basis_unconfirmed,2026-10-11T13:06:18Z
+北野未奈,https://www.javdatabase.com/idols/mina-kitano/,2000-05-20,162,2021-04-09,2021-04-13,different_date_basis_unconfirmed,2026-10-11T13:06:18Z
+宍戸里帆,https://www.javdatabase.com/idols/riho-shishido/,2001-10-14,153,2022-02-25,2022-03-01,different_date_basis_unconfirmed,2026-10-11T13:06:18Z
+椿りか,https://www.javdatabase.com/idols/rika-tsubaki/,1996-06-05,157,2020-06-11,2020-06-13,different_date_basis_unconfirmed,2026-10-11T13:06:18Z
+月野かすみ,https://www.javdatabase.com/idols/kasumi-tsukino/,2002-01-26,151,2020-10-03,2020-10-07,different_date_basis_unconfirmed,2026-10-11T13:06:18Z
