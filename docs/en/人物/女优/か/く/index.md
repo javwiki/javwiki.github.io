@@ -7,3 +7,5 @@ This column lists actresses whose stage name begins with く (row か, column �
 - [Hotaru Akane](红音萤.md)
 - [Kaoru Kuroki](黑木香.md)
 - [Lala Kudo](工藤ララ.md)
+
+- [Sumire Kuramoto](倉本すみれ.md)

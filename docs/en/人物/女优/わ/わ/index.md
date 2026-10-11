@@ -4,4 +4,4 @@ This column lists actresses whose stage name begins with わ.
 
 ## Entries
 
-No entries.
+- [Mei Washio](鷲尾めい.md)

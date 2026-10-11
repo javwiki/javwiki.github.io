@@ -76,6 +76,14 @@ items:
     row: あ
     col: あ
     completeness: 50%
+  - name: 浅野こころ
+    row: あ
+    col: あ
+    completeness: 50%
+  - name: 新井リマ
+    row: あ
+    col: あ
+    completeness: 50%
   - name: 一条みお
     row: あ
     col: い
@@ -268,6 +276,10 @@ items:
     row: か
     col: く
     completeness: 100%
+  - name: 倉本すみれ
+    row: か
+    col: く
+    completeness: 50%
   - name: 五条恋
     row: か
     col: こ
@@ -296,6 +308,10 @@ items:
     row: か
     col: こ
     completeness: 100%
+  - name: 小日向みゆう
+    row: か
+    col: こ
+    completeness: 50%
   - name: 佐佐木明希
     row: さ
     col: さ
@@ -385,6 +401,10 @@ items:
     col: し
     completeness: 100%
   - name: 宍戸里帆
+    row: さ
+    col: し
+    completeness: 50%
+  - name: 神宮寺ナオ
     row: さ
     col: し
     completeness: 50%
@@ -584,6 +604,10 @@ items:
     row: は
     col: は
     completeness: 50%
+  - name: 春陽モカ
+    row: は
+    col: は
+    completeness: 50%
   - name: Hitomi
     row: は
     col: ひ
@@ -688,6 +712,10 @@ items:
     row: ま
     col: み
     completeness: 100%
+  - name: 皆月ひかる
+    row: ま
+    col: み
+    completeness: 50%
   - name: 惠理
     row: ま
     col: め
@@ -792,6 +820,10 @@ items:
     row: ら
     col: り
     completeness: 100%
+  - name: 鷲尾めい
+    row: わ
+    col: わ
+    completeness: 50%
 
 # 五十音排序规则：参见 maintenance/zh/五十音排序规则.md
 # 条目顺序：あ行 → か行 → さ行 → た行 → な行 → は行 → ま行 → や行 → ら行 → わ行

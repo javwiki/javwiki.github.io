@@ -25,6 +25,8 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Yurika Aoi
 - Yuma Asami
 - Miyu Aizawa
+- Kokoro Asano
+- Rima Arai
 
 ### I column (い段)
 
@@ -89,6 +91,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Lala Kudo
 - Hotaru Akane
 - Kaoru Kuroki
+- Sumire Kuramoto
 
 ### Ko column (こ段)
 
@@ -99,6 +102,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Minami Kojima
 - Yotsuha Kominato
 - Minako Komukai
+- Miyu Kohinata
 ## Sa row (さ行)
 
 ### Sa column (さ段)
@@ -128,6 +132,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Yu Shinoda
 - Shinoda Ayumi
 - Riho Shishido
+- Nao Jinguji
 ### Su column (す段)
 
 - Airi Suzumura
@@ -207,6 +212,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Ai Haneda
 - Kurea Hasumi
 - Kaho Hanamori
+- Moka Haruhi
 
 ### Hi column (ひ段)
 
@@ -249,6 +255,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Akari Mitani
 - Otoha Miyabi
 - An Mitsumi
+- Hikaru Minazuki
 ### Me column (め段)
 
 - Meguri
@@ -292,3 +299,9 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Rio
 - Rinne Touka
 
+
+## Wa row (わ行)
+
+### Wa column (わ段)
+
+- Mei Washio

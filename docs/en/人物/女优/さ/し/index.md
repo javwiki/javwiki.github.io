@@ -18,3 +18,5 @@ This column lists actresses whose stage name begins with し (row さ, column �
 - [Shinoda Ayumi](篠田步美.md)
 
 - [Riho Shishido](宍戸里帆.md)
+
+- [Nao Jinguji](神宮寺ナオ.md)

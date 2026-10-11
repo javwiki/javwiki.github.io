@@ -76,6 +76,14 @@ items:
     row: あ
     col: あ
     completeness: 50%
+  - name: Kokoro Asano
+    row: あ
+    col: あ
+    completeness: 50%
+  - name: Rima Arai
+    row: あ
+    col: あ
+    completeness: 50%
   - name: Mio Ichijou
     row: あ
     col: い
@@ -268,6 +276,10 @@ items:
     row: か
     col: く
     completeness: 100%
+  - name: Sumire Kuramoto
+    row: か
+    col: く
+    completeness: 50%
   - name: Ren Gojo
     row: か
     col: こ
@@ -296,6 +308,10 @@ items:
     row: か
     col: こ
     completeness: 100%
+  - name: Miyu Kohinata
+    row: か
+    col: こ
+    completeness: 50%
   - name: Aki Sasaki
     row: さ
     col: さ
@@ -385,6 +401,10 @@ items:
     col: し
     completeness: 100%
   - name: Riho Shishido
+    row: さ
+    col: し
+    completeness: 50%
+  - name: Nao Jinguji
     row: さ
     col: し
     completeness: 50%
@@ -584,6 +604,10 @@ items:
     row: は
     col: は
     completeness: 50%
+  - name: Moka Haruhi
+    row: は
+    col: は
+    completeness: 50%
   - name: Hitomi Tanaka（海外名义）
     row: は
     col: ひ
@@ -688,6 +712,10 @@ items:
     row: ま
     col: み
     completeness: 100%
+  - name: Hikaru Minazuki
+    row: ま
+    col: み
+    completeness: 50%
   - name: Meguri
     row: ま
     col: め
@@ -792,6 +820,10 @@ items:
     row: ら
     col: り
     completeness: 100%
+  - name: Mei Washio
+    row: わ
+    col: わ
+    completeness: 50%
 
 # 五十音排序规则：参见 maintenance/en/五十音排序规则.md
 # 条目顺序：あ行 → か行 → さ行 → た行 → な行 → は行 → ま行 → や行 → ら行 → わ行

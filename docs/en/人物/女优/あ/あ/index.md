@@ -24,3 +24,7 @@ This column lists actresses whose stage name begins with あ (row あ, column �
 - [Yuma Asami](麻美由真.md)
 
 - [Miyu Aizawa](逢沢みゆ.md)
+
+- [Kokoro Asano](浅野こころ.md)
+
+- [Rima Arai](新井リマ.md)

@@ -19,3 +19,5 @@ This column lists actresses whose stage name begins with み (row ま, column �
 - [Riona Minami](南梨央奈.md)
 - [An Mitsumi](蜜美杏.md)
 - [Airi Minami](美波あいり.md)
+
+- [Hikaru Minazuki](皆月ひかる.md)

@@ -14,3 +14,5 @@ This column lists actresses whose stage name begins with は (row は, column �
 - [Kurea Hasumi](莲实克蕾儿.md)
 
 - [Kaho Hanamori](花守夏歩.md)
+
+- [Moka Haruhi](春陽モカ.md)
