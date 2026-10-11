@@ -13,7 +13,7 @@ A Japanese adult-video brand. The official site establishes the brand identity, 
 
 ## Verification scope
 
-The operating entity, founding date, parent company and name changes have not been verified through corporate records or an official history and are not inferred. 
+The operating entity, founding date, parent company and name changes have not been verified through corporate records or an official history and are not inferred.
 
 ## References
 
