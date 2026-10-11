@@ -480,6 +480,7 @@ nav = [
     ] },
     { "Rankings" = [
       "资料/排名/index.md",
+      "资料/排名/fanza-history-202604-202609.md",
     ] },
     { "Laws" = [
       "资料/法律/index.md",

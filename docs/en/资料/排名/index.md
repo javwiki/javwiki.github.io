@@ -6,6 +6,8 @@ title: Rankings
 
 This directory collects AV-related ranking data, such as monthly actress popularity rankings.
 
+[Historical monthly rankings for the last six months (April–September 2026, TOP100 each month)](fanza-history-202604-202609.md)
+
 ## Data files
 
 Ranking data is stored as YAML. Each file contains the following fields:
