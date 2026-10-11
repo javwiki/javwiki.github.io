@@ -20,6 +20,7 @@ scripts/
 | `i18n/en_display_names.py` | 从中文源生成英文显示名，更新英文页面与 `maintenance/en/list.{md,yaml}`；`--check` 只报告。 |
 | `i18n/en_index_pages.py` | 重建英文五十音行段索引和维护列表标题。 |
 | `i18n/en_fix_name_openings.py` | 修正文首的英文显示名；`--check` 只报告。 |
+| `checks/audit_images.py` | 清点当前三语全部 Markdown 中的 thumbnail、HTML、srcset、Markdown图片及引用式图片，报告缺图、三语差异、缩略图与正文不一致、缺少alt。拒绝空内容树；不把清点结果当作远程或视觉审查。`--output /tmp/image-inventory.json`可导出逐页记录。 |
 | `i18n/assemble_actress.py` | 装配英文女优条目的 front matter 和图片，再检查结构；`--check` 只报告。 |
 
 CI 按官方示例通过 `pip install zensical` 安装并直接执行三语普通构建、部署，不读取本地维护的 `uv.lock`，不调用本目录中的校验脚本。`build_site.sh` 保留为手动完整校验入口。
@@ -41,3 +42,13 @@ git diff --check
 三语共用相对路径；女优页面位于 `docs/{lang}/人物/女优/{行}/{段}/`。维护资料和姓名映射见 [maintenance](../maintenance/README.md)，翻译约定见 [TRANSLATION.md](../maintenance/TRANSLATION.md)。
 
 `legacy/` 中的脚本依赖已不存在的旧输入目录，保留作历史参考，不纳入日常构建。复用前需先调整输入、输出与依赖。
+
+## 图片审查
+
+严格构建已加入离线图片清点。无图片本身不导致构建失败；缺少alt、缩略图与正文不一致、三语图片引用不同会失败。缺图与外部访问失败均须保留在审查清单中，不能按文件名、扩展名或HTTP失败推定人物正确、内容适合或图片失效。
+
+```bash
+uv run --locked --no-dev python scripts/checks/audit_images.py --output /tmp/image-inventory.json
+```
+
+[2026-10-11审查记录](../maintenance/image-audit-20261011.md)分别保存清点、访问、实际查看与来源核验范围。旧`legacy/audit_images.py`已转到当前入口，不再扫描迁移前的`src/`目录。

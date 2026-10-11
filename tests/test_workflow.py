@@ -70,7 +70,8 @@ def test_ci_builds_all_languages_without_running_manual_checks() -> None:
 def test_build_uses_the_locked_runtime_without_development_tools() -> None:
     build_script = BUILD_SCRIPT.read_text(encoding="utf-8")
 
-    assert build_script.count("uv run --locked --no-dev") == 6
+    assert build_script.count("uv run --locked --no-dev") == 7
+    assert "python scripts/checks/audit_images.py" in build_script
     assert "uvx" not in build_script
 
 
