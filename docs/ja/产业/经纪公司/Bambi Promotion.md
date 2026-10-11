@@ -27,6 +27,12 @@ company: バンビプロモーション
 - [北川ゆず](../../人物/女优/か/き/北川ゆず.md)（現 アクト / ACT）
 - [秋葉もも](../../人物/女优/あ/あ/あきばもも.md)（現 ARCHE-Production）
 
+
+2026-10-11再確認：T-POWERS の名簿に楪カレン、ARCHE の公式サイトにあきばももを確認した。出典が示すのは確認時の公式掲載である。天使もえの Bstar、北川ゆずの ACT、および4名の旧 Bambi 所属には個別の歴史資料が必要で、上記の旧記録全体が確認済みという意味ではない。
+
+- [T-POWERS](https://www.t-powers.co.jp/talent/)
+- [ARCHE](https://www.arche-pro.com/)
+
 ## 参考資料
 
 - [公式一覧](https://bambi.ne.jp/models.html)

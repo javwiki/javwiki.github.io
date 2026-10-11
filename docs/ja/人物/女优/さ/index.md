@@ -7,3 +7,5 @@
 - [さ](さ/index.md)
 - [し](し/index.md)
 - [す](す/index.md)
+
+- [せ](せ/index.md)

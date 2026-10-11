@@ -260,3 +260,20 @@ def test_missing_maintenance_lists_cannot_silently_skip_validation(
     problems = checker.yaml_problems(tmp_path / "docs")
     assert len(problems) == len(checker.LANGUAGES)
     assert all("list.yaml: missing" in p for p in problems)
+
+
+def test_unverified_brand_requires_source_and_date(tmp_path: Path) -> None:
+    page = tmp_path / "zh" / "产业" / "厂牌" / "Brand.md"
+    page.parent.mkdir(parents=True)
+    base = "---\nentity_type: brand\nrelationship_status: unverified\n"
+    page.write_text(base + "---\n# Brand\n", encoding="utf-8")
+    assert any(
+        "brand relationship missing" in p
+        for p in checker.organization_problems(tmp_path)
+    )
+    page.write_text(
+        base
+        + "source_url: https://example.test/\nverified_at: 2026-10-11\n---\n# Brand\n",
+        encoding="utf-8",
+    )
+    assert checker.organization_problems(tmp_path) == []

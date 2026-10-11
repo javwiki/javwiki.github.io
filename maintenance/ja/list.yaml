@@ -72,6 +72,10 @@ items:
     row: あ
     col: あ
     completeness: 100%
+  - name: 逢沢みゆ
+    row: あ
+    col: あ
+    completeness: 50%
   - name: 一条みお
     row: あ
     col: い
@@ -160,6 +164,10 @@ items:
     row: あ
     col: お
     completeness: 100%
+  - name: 乙アリス
+    row: あ
+    col: お
+    completeness: 50%
   - name: 奏音かのん
     row: か
     col: か
@@ -192,6 +200,10 @@ items:
     row: か
     col: か
     completeness: 100%
+  - name: 柏木こなつ
+    row: か
+    col: か
+    completeness: 50%
   - name: 希咲 エマ
     row: か
     col: き
@@ -232,6 +244,18 @@ items:
     row: か
     col: き
     completeness: 100%
+  - name: 北岡果林
+    row: か
+    col: き
+    completeness: 50%
+  - name: 北野未奈
+    row: か
+    col: き
+    completeness: 50%
+  - name: 木下ひまり
+    row: か
+    col: き
+    completeness: 50%
   - name: 工藤ララ
     row: か
     col: く
@@ -304,6 +328,14 @@ items:
     row: さ
     col: さ
     completeness: 80%
+  - name: 沙月恵奈
+    row: さ
+    col: さ
+    completeness: 50%
+  - name: 彩月七緒
+    row: さ
+    col: さ
+    completeness: 50%
   - name: Julia
     row: さ
     col: し
@@ -352,10 +384,18 @@ items:
     row: さ
     col: し
     completeness: 100%
+  - name: 宍戸里帆
+    row: さ
+    col: し
+    completeness: 50%
   - name: 鈴村あいり
     row: さ
     col: す
     completeness: 100%
+  - name: 瀬戸環奈
+    row: さ
+    col: せ
+    completeness: 50%
   - name: 壇玲奈
     row: た
     col: た
@@ -412,6 +452,14 @@ items:
     row: た
     col: つ
     completeness: 100%
+  - name: 椿りか
+    row: た
+    col: つ
+    completeness: 50%
+  - name: 月野かすみ
+    row: た
+    col: つ
+    completeness: 50%
   - name: ティア
     row: た
     col: て
@@ -532,6 +580,10 @@ items:
     row: は
     col: は
     completeness: 100%
+  - name: 花守夏歩
+    row: は
+    col: は
+    completeness: 50%
   - name: Hitomi
     row: は
     col: ひ
@@ -664,6 +716,10 @@ items:
     row: ま
     col: も
     completeness: 100%
+  - name: 森日向子
+    row: ま
+    col: も
+    completeness: 50%
   - name: 八掛うみ
     row: や
     col: や

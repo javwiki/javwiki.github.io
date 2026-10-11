@@ -22,6 +22,8 @@ The affiliation examples retained here still need individual official profiles a
 
 Former members (with entries on this site): [Aki Sasaki](../../人物/女优/さ/さ/佐佐木明希.md) (now リスタープロ), [Akari Mitani](../../人物/女优/ま/み/美谷朱音.md) (now リスタープロ), [Kurea Hasumi](../../人物/女优/は/は/莲实克蕾儿.md) (now ガールールプロ).
 
+
+A recheck on 2026-10-11 did not obtain usable official individual profiles for these three performers; attempted official-site connections returned no usable content. The older roster is an unverified lead, not proof of current affiliation. Connection failures do not establish a closure or departure.
 ## References
 
 - [List of withdrawn members of the Japan Production Association](../协会/日本プロダクション協会.md)

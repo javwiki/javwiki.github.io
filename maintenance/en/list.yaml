@@ -72,6 +72,10 @@ items:
     row: あ
     col: あ
     completeness: 100%
+  - name: Miyu Aizawa
+    row: あ
+    col: あ
+    completeness: 50%
   - name: Mio Ichijou
     row: あ
     col: い
@@ -160,6 +164,10 @@ items:
     row: あ
     col: お
     completeness: 100%
+  - name: Arisu Otsu
+    row: あ
+    col: お
+    completeness: 50%
   - name: Kanon Kanade
     row: か
     col: か
@@ -192,6 +200,10 @@ items:
     row: か
     col: か
     completeness: 100%
+  - name: Konatsu Kashiwagi
+    row: か
+    col: か
+    completeness: 50%
   - name: Ema Kisaki
     row: か
     col: き
@@ -232,6 +244,18 @@ items:
     row: か
     col: き
     completeness: 100%
+  - name: Karin Kitaoka
+    row: か
+    col: き
+    completeness: 50%
+  - name: Mina Kitano
+    row: か
+    col: き
+    completeness: 50%
+  - name: Himari Kinoshita
+    row: か
+    col: き
+    completeness: 50%
   - name: Lala Kudo
     row: か
     col: く
@@ -304,6 +328,14 @@ items:
     row: さ
     col: さ
     completeness: 80%
+  - name: Ena Satsuki
+    row: さ
+    col: さ
+    completeness: 50%
+  - name: Nao Satsuki
+    row: さ
+    col: さ
+    completeness: 50%
   - name: Julia
     row: さ
     col: し
@@ -352,10 +384,18 @@ items:
     row: さ
     col: し
     completeness: 100%
+  - name: Riho Shishido
+    row: さ
+    col: し
+    completeness: 50%
   - name: Airi Suzumura
     row: さ
     col: す
     completeness: 100%
+  - name: Kanna Seto
+    row: さ
+    col: せ
+    completeness: 50%
   - name: Dan Reina
     row: た
     col: た
@@ -412,6 +452,14 @@ items:
     row: た
     col: つ
     completeness: 100%
+  - name: Rika Tsubaki
+    row: た
+    col: つ
+    completeness: 50%
+  - name: Kasumi Tsukino
+    row: た
+    col: つ
+    completeness: 50%
   - name: Tia
     row: た
     col: て
@@ -532,6 +580,10 @@ items:
     row: は
     col: は
     completeness: 100%
+  - name: Kaho Hanamori
+    row: は
+    col: は
+    completeness: 50%
   - name: Hitomi Tanaka（海外名义）
     row: は
     col: ひ
@@ -664,6 +716,10 @@ items:
     row: ま
     col: も
     completeness: 100%
+  - name: Hinako Mori
+    row: ま
+    col: も
+    completeness: 50%
   - name: Yatsugake Umi
     row: や
     col: や

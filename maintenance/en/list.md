@@ -24,6 +24,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Tsukasa Aoi
 - Yurika Aoi
 - Yuma Asami
+- Miyu Aizawa
 
 ### I column (い段)
 
@@ -53,6 +54,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Aya Onami
 - Rikka Ono
 - Orihara Honoka
+- Arisu Otsu
 ## Ka row (か行)
 
 ### Ka column (か段)
@@ -65,6 +67,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Yumi Kazama
 - Yuma Kanzaki
 - Jun Kosui
+- Konatsu Kashiwagi
 ### Ki column (き段)
 
 - Ema Kisaki
@@ -77,6 +80,9 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Rino Kirishima
 - Airi Kijima
 - Kimura Ako
+- Karin Kitaoka
+- Mina Kitano
+- Himari Kinoshita
 
 ### Ku column (く段)
 
@@ -105,6 +111,8 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Momo Sakura
 - An Sasakura
 - Saijo Ruri
+- Ena Satsuki
+- Nao Satsuki
 ### Shi column (し段)
 
 - Julia
@@ -119,9 +127,14 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Kaho Shibuya
 - Yu Shinoda
 - Shinoda Ayumi
+- Riho Shishido
 ### Su column (す段)
 
 - Airi Suzumura
+
+### Se column (せ段)
+
+- Kanna Seto
 ## Ta row (た行)
 
 ### Ta column (た段)
@@ -144,6 +157,8 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Mei Tsukumo
 - Yoru Tsukumo
 - Tsubomi
+- Rika Tsubaki
+- Kasumi Tsukino
 ### Te column (て段)
 
 - Tia
@@ -191,6 +206,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Arisa Hanyu
 - Ai Haneda
 - Kurea Hasumi
+- Kaho Hanamori
 
 ### Hi column (ひ段)
 
@@ -244,6 +260,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Kana Morisawa
 - Hotaru Mori
 - Sarina Momonaga
+- Hinako Mori
 ## Ya row (や行)
 
 ### Ya column (や段)

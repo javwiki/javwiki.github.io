@@ -22,3 +22,5 @@ This column lists actresses whose stage name begins with あ (row あ, column �
 - [Asagiri Akari](朝桐光.md)
 - [Mihiro](朝美穗香.md)
 - [Yuma Asami](麻美由真.md)
+
+- [Miyu Aizawa](逢沢みゆ.md)

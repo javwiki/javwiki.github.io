@@ -27,6 +27,12 @@ These examples were checked on the official site on 10 October 2026 and are not 
 - [Yuzu Kitagawa](../../人物/女优/か/き/北川ゆず.md) (now アクト / ACT)
 - [Akiba Momo](../../人物/女优/あ/あ/あきばもも.md) (now ARCHE-Production)
 
+
+Rechecked on 2026-10-11: T-POWERS lists 楪カレン, and ARCHE lists あきばもも. These sources establish official listings on the verification date. The Bstar record for 天使もえ, the ACT record for 北川ゆず, and the former Bambi relationship of all four still require individual historical evidence; the older list is not fully verified.
+
+- [T-POWERS](https://www.t-powers.co.jp/talent/)
+- [ARCHE](https://www.arche-pro.com/)
+
 ## References
 
 - [Official roster](https://bambi.ne.jp/models.html)

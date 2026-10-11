@@ -2,30 +2,35 @@
 type: work
 title: SDMUA-070
 number: SDMUA-070
-release_date: 2025年
+release_date: '2023-11-09'
+release_date_type: physical
+verified_at: '2026-10-11'
+source_url: https://video.dmm.co.jp/av/content/?id=1sdmua00070
+digital_release_date: '2023-10-03'
+date_timezone: Asia/Tokyo
+studio: SODクリエイト
 ---
 
 # SDMUA-070
 
-**Source verification (2026-10-10)**: This entry still lacks a verifiable product-detail source. Release information, plot summaries and the older text labelled as a Japanese original with its Chinese translation have not been source-checked and should not be cited as verified official copy. A studio or authorized-distributor product link is needed, with digital and physical release dates distinguished.
-
 ## Basic information
 
-| Item | Content |
+| Field | Value |
 | --- | --- |
-| Product code | SDMUA-070 |
+| Code | SDMUA-070 |
 | Title | ロ○乳牧場モノガタリ 秘密の牧場と種付け繁殖される奴○少女たち |
-| Performers | 田中寧寧、沙月惠奈、乙愛麗絲 |
+| Maker / brand | SODクリエイト |
+| Physical release date | 2023-11-09 |
+| Digital release date | 2023-10-03 |
+| Actresses listed by source | 田中ねね、乙アリス、沙月恵奈 |
+| Directors listed by source | いろり牧場 |
+| Series field | Source field is empty |
+| Label | SOD |
 
-## Storyline
+## Verification scope
 
-Behind a remote countryside ranch lies a secret unknown to anyone — the girls sent here are stripped of their freedom and, in a closed environment, reduced to tools of breeding. 田中寧寧, 沙月惠奈 and 乙愛麗絲 each play a girl trapped on the ranch, forced by its owner into inhumane insemination and breeding.
+The specific official maker or authorized sales-platform page below was checked on 2026-10-11. Physical and digital release dates are distinguished; FANZA timestamps are converted to Japan time (Asia/Tokyo). Listed names may not cover every performer, and missing directors are not inferred. Unsupported plot elaborations, representative-work claims and long quotations not checked verbatim have been removed. This page retains verifiable catalog information.
 
-### Original Japanese (missAV / FANZA)
+## References
 
-> 【断面図】実写映像×アニメーション断面図【中出しアニメーション】実写映像に膣内断面アニメーションを合成。新しい表現方法を採用。ぜひご体験くださいませ。【田中ねね×乙アリス×沙月恵奈】が織りなす、排他的凌●ストーリー。アンモラルな秘密の牧場内で少女たちを犯し尽くす。アナタは誰を孕ませたいか。
-
-### Chinese translation
-
-【断面图】实拍影像×动画断面图【中出动画】将阴道内部断面动画合成到实拍影像中，采用全新表现手法，敬请体验。【田中ねね×乙アリス×沙月恵奈】演绎的排他性凌●故事。在不道德的秘密牧场中将少女们侵犯殆尽。——你想让谁怀孕？
-
+- [FANZA](https://video.dmm.co.jp/av/content/?id=1sdmua00070)

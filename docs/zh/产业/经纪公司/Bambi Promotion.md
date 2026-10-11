@@ -27,6 +27,12 @@ company: バンビプロモーション
 - [北川ゆず](../../人物/女优/か/き/北川ゆず.md)（现 アクト / ACT）
 - [あきばもも](../../人物/女优/あ/あ/あきばもも.md)（现 ARCHE-Production）
 
+
+2026-10-11复核：T-POWERS 官网名单可查楪カレン，ARCHE 官网可查あきばもも。以下来源仅证实核查时的官方掲載；天使萌的 Bstar 归属、北川ゆず的 ACT 归属以及四人的原 Bambi 关系仍需逐人历史来源，不将上列旧记录视为已经全部核实。
+
+- [T-POWERS](https://www.t-powers.co.jp/talent/)
+- [ARCHE](https://www.arche-pro.com/)
+
 ## 参考资料
 
 - [官方名单](https://bambi.ne.jp/models.html)

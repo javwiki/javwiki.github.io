@@ -2,40 +2,35 @@
 type: work
 title: STARS-979
 number: STARS-979
-studio: SOD Create
-release_date: 2024年1月
+studio: SODクリエイト
+release_date: '2024-01-11'
+release_date_type: physical
+verified_at: '2026-10-11'
+source_url: https://video.dmm.co.jp/av/content/?id=1stars00979
+digital_release_date: '2023-12-19'
+date_timezone: Asia/Tokyo
 ---
 
 # STARS-979
 
-**Source verification (2026-10-10)**: This entry still lacks a verifiable product-detail source. Release information, plot summaries and the older text labelled as a Japanese original with its Chinese translation have not been source-checked and should not be cited as verified official copy. A studio or authorized-distributor product link is needed, with digital and physical release dates distinguished.
-
 ## Basic information
 
-| Item | Content |
+| Field | Value |
 | --- | --- |
-| Product code | STARS-979 |
+| Code | STARS-979 |
 | Title | 美人ホテリエの隠れた趣味は、妻や恋人がいるお客様を囁き淫語で誘惑して寝取ることです。 |
-| Label | SOD Create |
-| Release date | January 2024 |
-| Performers | 神木麗 |
+| Maker / brand | SODクリエイト |
+| Physical release date | 2024-01-11 |
+| Digital release date | 2023-12-19 |
+| Actresses listed by source | 神木麗 |
+| Directors listed by source | 木村浩之 |
+| Series field | Source field is empty |
+| Label | SODSTAR |
 
-## Storyline
+## Verification scope
 
-神木麗 plays a senior hotel hôtelière: poised and elegant on the surface, she hides a secret hobby — singling out male guests who have wives or girlfriends, tempting them with whispered dirty talk and dragging them, step by step, into an affair. In the hidden corners of the hotel she uses her mature body and teasing words to savour the pleasure of NTR.
+The specific official maker or authorized sales-platform page below was checked on 2026-10-11. Physical and digital release dates are distinguished; FANZA timestamps are converted to Japan time (Asia/Tokyo). Listed names may not cover every performer, and missing directors are not inferred. Unsupported plot elaborations, representative-work claims and long quotations not checked verbatim have been removed. This page retains verifiable catalog information.
 
-## Features
+## References
 
-- Hôtelière × NTR theme
-- A solo release by 神木麗
-- Seduction in pantyhose
-- Director: 木村弘幸
-
-### Original Japanese (missAV / FANZA)
-
-> 有名ホテルで‘ホテリエ’として働く麗は職場で彼女持ちや既婚者の男性を誘惑して寝取るという誰にも話せない趣味がある。ホテルの空部屋で、ワークススペースで、倉庫で…時間場所問わず、自分がムラムラした時は痴女って寝取る。そんな彼女のエスカレートしていく日常を覗き見ていく。
-
-### Chinese translation
-
-在知名酒店担任酒店职员的麗，有一个无法对任何人说出口的癖好：在职场诱惑有女友或已婚的男性客人，把他们寝取（NTR）。酒店的空房间、办公区、仓库……不论时间地点，只要欲火上头就化身痴女下手。本作窥视她日益升级的日常。
-
+- [FANZA](https://video.dmm.co.jp/av/content/?id=1stars00979)

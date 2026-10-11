@@ -10,3 +10,5 @@ This column lists actresses whose stage name begins with も (row ま, column �
 - [Hotaru Mori](森ほたる.md)
 - [Yoshino Moriya](守屋よしの.md)
 - [Sarina Momonaga](百永さりな.md)
+
+- [Hinako Mori](森日向子.md)

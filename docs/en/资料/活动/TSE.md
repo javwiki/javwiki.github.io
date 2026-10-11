@@ -5,35 +5,19 @@ title: TSE Taiwan Shot Expo
 
 # TSE Taiwan Shot Expo
 
-TSE (Taiwan Shot Expo, 台灣寫真博覽會) is a photo expo held in Taipei, Taiwan, first held in 2017 and centred on gravure idols (寫真女星) and AV actresses, with cosplayers and influencers from Taiwan, South Korea, Thailand and similar places also taking part. The event is built around close-range interaction such as photo shoots and signing sessions.
+TSE (Taiwan Shot Expo) is a photography exhibition held in Taiwan. The records below use official ticket pages for the corresponding editions, checked on 2026-10-11. No organizer statement explaining the hiatus has been verified, so the earlier claim attributing it directly to demolition of World Trade Center Hall 3 has been removed. Lineups require edition-specific evidence and are not inferred from other editions or the current homepage.
 
-Because the venue (Taipei World Trade Center Hall 3) was demolished, the event was suspended for a time; it resumed in 2024 after roughly seven years, and shares an organizing system with TRE (the late-2024 edition carried a 「TRE AV EVENT」 feature).
+## Event history
 
-## Basic information
-
-- **Full name**: TSE 台灣寫真博覽會 (Taiwanese photo expo)
-- **English name**: Taiwan Shot Expo
-- **Venue**: Taipei (Taipei World Trade Center Hall 3, Songshan Cultural and Creative Park, Nangang Exhibition Center, etc.)
-- **First held**: 2017
-- **Format**: photo shoots, signing and photo sessions, themed hall interaction
-
-## Past editions
-
-| Year | Date | Venue | Notes |
-| --- | --- | --- | --- |
-| 2017 | 2–5 November | Taipei World Trade Center Hall 3 | First edition; over a hundred gravure idols and actresses from Taiwan, Japan and Korea attended |
-| 2024 | 26–28 January | Warehouses 2–5, Songshan Cultural and Creative Park, Taipei | Resumed after roughly seven years; 凉森玲梦, Mayuki Ito and others attended |
-| 2024 | 27–29 December | 4F, Nangang Exhibition Center Hall 2, Taipei | Themed 「學服祭」; Miru, Reina Miyashita, 天木纯, 长泽茉里奈, 森咲智美 and others attended |
-
-## Main features
-
-- **Photo shoots**: several themed halls and shooting scenes where visitors can shoot and collect photos
-- **A line-up beyond Japan**: besides Japanese gravure idols and AV actresses, cosplayers and influencers from Taiwan, South Korea, Thailand and similar places are invited
-- **Themed features**: past editions have carried themes such as a school festival, with joint features with other adult expos (such as TRE)
+| Dates | Venue | Source |
+| --- | --- | --- |
+| 2017-11-02–2017-11-05 | 台北世貿三館 | [KKTIX](https://lctech.kktix.cc/events/tse-6119ba) |
+| 2024-01-26–2024-01-28 | 松山文創園區 | [JKFace](https://jkface.net/shotexpo/2024/event) |
+| 2024-12-27–2024-12-29 | 南港展覽館二館4F | [JKFace](https://jkface.net/shotexpo/2024/JKfestival?policy=true) |
 
 ## References
 
-The official ticket page added here confirms the 26–28 January 2024 edition at Songshan Cultural and Creative Park. Other historical editions, reasons for the hiatus and lineups still need individual supporting sources.
-
-- [January 2024 edition: official ticket page](https://jkface.net/shotexpo/2024/event)
-- [TSE official site](https://shotexpo.com.tw/)
+- [KKTIX 2017-11-02](https://lctech.kktix.cc/events/tse-6119ba)
+- [JKFace 2024-01-26](https://jkface.net/shotexpo/2024/event)
+- [JKFace 2024-12-27](https://jkface.net/shotexpo/2024/JKfestival?policy=true)
+- [TSE](https://shotexpo.com.tw/)

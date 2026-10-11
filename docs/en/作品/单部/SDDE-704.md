@@ -2,39 +2,36 @@
 type: work
 title: SDDE-704
 number: SDDE-704
-studio: SOD Create
-release_date: 2023年9月19日
+studio: SODクリエイト
+release_date: '2023-10-26'
+release_date_type: physical
+verified_at: '2026-10-11'
+source_url: https://video.dmm.co.jp/av/content/?id=1sdde00704
+digital_release_date: '2023-09-19'
+date_timezone: Asia/Tokyo
+series: アナル洗脳
 ---
 
 # SDDE-704
 
-**Source verification (2026-10-10)**: This entry still lacks a verifiable product-detail source. Release information, plot summaries and the older text labelled as a Japanese original with its Chinese translation have not been source-checked and should not be cited as verified official copy. A studio or authorized-distributor product link is needed, with digital and physical release dates distinguished.
-
 ## Basic information
 
-| Item | Content |
+| Field | Value |
 | --- | --- |
-| Product code | SDDE-704 |
-| Title | アナル●● 生意気なカリスマギャルにけつあな中出しで●●完了 ガバアナルを求愛見せつけ配信事故！ |
-| Label | SOD Create |
-| Release date | 19 September 2023 |
-| Performers | 夏目みらい |
+| Code | SDDE-704 |
+| Title | アナル洗脳 生意気なカリスマギャルにけつあな中出しで洗脳完了 ガバアナルを求愛見せつけ配信事故！ 夏目みらい |
+| Maker / brand | SODクリエイト |
+| Physical release date | 2023-10-26 |
+| Digital release date | 2023-09-19 |
+| Actresses listed by source | 夏目みらい |
+| Directors listed by source | 苺原 |
+| Series field | アナル洗脳 |
+| Label | SENZ |
 
-## Storyline
+## Verification scope
 
-Produced by SOD Create. 夏目みらい plays an arrogant, charismatic gyaru who, in a streaming accident, is forced into an anal creampie (anal intercourse with ejaculation), flaunting her "gaba-anal" (gaping anus) as a courtship display — a sharp contrast from arrogance to submission.
+The specific official maker or authorized sales-platform page below was checked on 2026-10-11. Physical and digital release dates are distinguished; FANZA timestamps are converted to Japan time (Asia/Tokyo). Listed names may not cover every performer, and missing directors are not inferred. Unsupported plot elaborations, representative-work claims and long quotations not checked verbatim have been removed. This page retains verifiable catalog information.
 
-## Features
+## References
 
-- SOD Create anal theme
-- Charismatic gyaru × anal creampie
-- A solo release by 夏目みらい
-
-### Original Japanese (missAV / FANZA)
-
-> カリスマギャルインフルエンサーとして活躍していたミライはある日、案件担当の営業に勧められたとあるサプリによって身体を硬直化され、アナル調教催●をされてしまう。洗脳により常にアナルが疼き、居ても立っても居られないミライは放送中にも関わらず、アナル剥き出しで大量浣腸をライブ配信してしまうのであった。
-
-### Chinese translation
-
-作为辣妹网红大放异彩的ミライ某天被负责项目的业务员推荐服用了某种补剂，身体僵直，遭到肛门调教催○。洗脑后肛门时刻瘙痒难耐，坐立难安的ミライ竟在直播中露出肛门，进行了大量灌肠的直播事故。
-
+- [FANZA](https://video.dmm.co.jp/av/content/?id=1sdde00704)

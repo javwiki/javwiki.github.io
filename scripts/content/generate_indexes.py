@@ -109,7 +109,15 @@ def organization_index(base: Path, directory: str, language: str) -> str:
             )
         lines.append(
             f"| [{title(page)}]({quote(page.name)}) | {types[data['entity_type']]} | "
-            + ("; ".join(relations) if relations else "—")
+            + (
+                "; ".join(relations)
+                if relations
+                else (
+                    {"zh": "待核实", "ja": "未確認", "en": "Unverified"}[language]
+                    if data.get("relationship_status") == "unverified"
+                    else "—"
+                )
+            )
             + " |"
         )
     return "\n".join(lines) + "\n"

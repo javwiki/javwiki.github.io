@@ -9,3 +9,7 @@ This column lists actresses whose stage name begins with つ (row た, column �
 - [Mei Tsukumo](九十九メイ.md)
 - [Yoru Tsukumo](月雲よる.md)
 - [Tsubomi](蕾.md)
+
+- [Rika Tsubaki](椿りか.md)
+
+- [Kasumi Tsukino](月野かすみ.md)

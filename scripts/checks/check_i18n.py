@@ -612,8 +612,19 @@ def organization_problems(root: Path | None = None) -> list[str]:
                 if not isinstance(relations, list):
                     problems.append(f"{label}: relationships must be a list")
                     continue
-                if directory == "厂牌" and not relations:
-                    problems.append(f"{label}: brand relationship missing")
+                if (
+                    directory == "厂牌"
+                    and not relations
+                    and (
+                        data.get("relationship_status") != "unverified"
+                        or not str(data.get("source_url", "")).startswith("https://")
+                        or not data.get("verified_at")
+                    )
+                ):
+                    problems.append(
+                        f"{label}: brand relationship missing; an unverified "
+                        "status requires a profile source and verification date"
+                    )
                 for relation in relations:
                     if not isinstance(relation, dict):
                         problems.append(f"{label}: relationship must be a mapping")
