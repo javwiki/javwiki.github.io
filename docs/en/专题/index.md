@@ -21,3 +21,5 @@ In-depth articles on JAV industry trends, business models and sector observation
 - [Studio overview](厂商概览.md)
 
 - [Host Clubs and the AV Industry](牛郎与AV产业.md)
+
+- [Life After Retiring from AV](退役女优的生活.md)
