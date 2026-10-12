@@ -19,3 +19,5 @@ In-depth articles on JAV industry trends, business models and sector observation
 - [Production companies and group relationships](制作公司与集团.md)
 
 - [Studio overview](厂商概览.md)
+
+- [Host Clubs and the AV Industry](牛郎与AV产业.md)
