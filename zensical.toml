@@ -582,6 +582,18 @@ features = [
   "search.highlight",
 ]
 
+[project.theme.icon]
+menu = "lucide/menu"
+search = "lucide/search"
+alternate = "lucide/languages"
+repo = "simple/github"
+top = "lucide/circle-arrow-up"
+edit = "lucide/file-pen"
+view = "lucide/file-code-2"
+previous = "lucide/arrow-left"
+next = "lucide/arrow-right"
+close = "lucide/x"
+
 # Follow the user's system color preference by default.
 [[project.theme.palette]]
 media = "(prefers-color-scheme)"
