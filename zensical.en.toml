@@ -570,6 +570,8 @@ alternate = [
 variant = "classic"
 language = "en"
 custom_dir = "overrides"
+logo = "assets/images/logo.svg"
+favicon = "assets/images/icon.svg"
 features = [
   "navigation.instant",
   "navigation.prune",
