@@ -18,6 +18,7 @@
 | [IAFD](https://www.iafd.com) | Internet Adult Film Database | 英語のAVデータベース。作品と女優の情報が比較的充実している |
 | [Babepedia](https://www.babepedia.com) | 英語の女優資料サイト | グラビアと基本資料 |
 | [JAVDB](https://javdb.com) | 中国語のAVデータベース | 品番、女優、メーカーの情報と評価データ |
+| [WhatsAV](https://whatsav.net/zh) | 多言語対応のAVデータベース | 品番・出演者・作品・シリーズ・メーカー・レーベル・監督の検索。作品情報や人物情報はメーカー・事務所・本人の公式情報と照合する |
 | [Javlibrary](https://www.javlibrary.com) | 多言語対応のAVデータベース | 評価とレビュー、作品一覧 |
 | [AV-Wiki](https://av-wiki.net) | 日本語のAVデータベース | メーカーと作品の情報 |
 | [AVFAN](https://avfan.mixh.jp/archives/top/) | 日本語のAV女優・作品情報の集約サイト | 女優・作品・タグの検索、誕生日・デビュー情報・SNSの手がかり。日付や人物情報は本人・事務所・メーカーの公式情報と照合する |

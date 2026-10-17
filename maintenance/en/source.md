@@ -18,6 +18,7 @@ The main information sources consulted when writing encyclopedia entries.
 | [IAFD](https://www.iafd.com) | Internet Adult Film Database | English AV database with extensive release and actress information |
 | [Babepedia](https://www.babepedia.com) | English-language actress database | Gravure and basic profile information |
 | [JAVDB](https://javdb.com) | Chinese-language AV database | Product codes, actress and studio information, rating data |
+| [WhatsAV](https://whatsav.net/zh) | Multilingual AV database | Product code, performer, release, series, studio, label and director searches. Cross-check release and profile details with official studio, agency or performer sources |
 | [Javlibrary](https://www.javlibrary.com) | Multilingual AV database | Ratings and comments, release lists |
 | [AV-Wiki](https://av-wiki.net) | Japanese AV database | Studio and release information |
 | [AVFAN](https://avfan.mixh.jp/archives/top/) | Japanese aggregator of AV actress and release information | Actress, release and tag searches; birthday, debut and social account leads. Cross-check dates and profile details with the performer, agency or studio’s official sources |
