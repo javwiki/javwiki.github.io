@@ -4,19 +4,22 @@ title: Awards
 
 # Awards
 
-The main awards of the Japanese AV industry.
+This section covers awards associated with the Japanese AV industry and Taiwan’s ADULTOPIA ceremony. Individual awards, work awards and promotional-unit selection are described separately.
 
 ## Major awards
 
-| Award | Organiser | Years | Notes |
-| --- | --- | --- | --- |
-| [FANZA Adult Award](fanza.md) | FANZA (formerly DMM.R18) | 2014-2019 | The most important award in the Japanese AV industry; not held after 2020 |
-| [Adult Broadcasting Awards](skypa.md) | Sky PerfecTV! | 2005–present | The adult-broadcasting industry awards; changed to the EX Girls selection from 2022 |
-| [AV OPEN](https://av-open.com) | DMM | Irregular | An AV release competition |
-| [ADULTOPIA 大人国](ADULTOPIA.md) | Taiwan | 2024–present | An adult exhibition event held in Taiwan |
+| Award | Coverage on this site | Notes |
+| --- | --- | --- |
+| [FANZA Adult Award](fanza.md) | Main individual winners for 2014–2019; detailed 2019 results | Formerly DMM / DMM.R18 Adult Award; work awards listed separately |
+| [Adult Broadcasting Awards](skypa.md) | Best Actress for 2006–2020; 2020 and 2022 results; EX Girls for 2022–2024 | EX Girls is a promotional unit; membership selection is recorded separately from historical individual awards |
+| [ADULTOPIA 大人国](ADULTOPIA.md) | All 17 categories of the 2026 ceremony | Taiwan ceremony with actress, actor, director and work categories; ceremony and exhibition interaction dates are listed separately |
+
+## Related release competitions
+
+[AV OPEN](https://av-open.com) is a separate AV release competition and should be distinguished from the FANZA Adult Award. Contemporary reporting on the 2018 edition explains that it ran into the following year, with results announced in May 2019. Fan voting covered Work, Actress and VR-1 Grand Prix Work awards. [TECHNÉ report](https://www.art-techne.com/entertainment/news201902030015.html)
 
 ## Sources
 
-- [FANZA Adult Award official site](https://www.dmm.co.jp/adultaward/)
-- [Adult Broadcasting Awards official site](https://adult-awards.com/)
-- [AV OPEN](https://av-open.com)
+- [FANZA 2019 ceremony report](https://www.art-techne.com/entertainment/news201905151345.amp)
+- [Adult Broadcasting Awards official site](https://adult-awards.com/top/)
+- [ADULTOPIA 2026 official results](https://xcity.co.jp/award_result/)

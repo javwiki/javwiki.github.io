@@ -4,19 +4,22 @@ title: 賞
 
 # 賞
 
-日本AV業界の主要な賞。
+日本AV業界に関連する賞と、台湾のADULTOPIA授賞式を扱う。個人賞、作品賞、PRユニットのメンバー選抜を区別して記録する。
 
-## 主要な賞
+## 主な賞
 
-| 賞 | 主催 | 年 | 説明 |
-| --- | --- | --- | --- |
-| [FANZAアダルトアワード](fanza.md) | FANZA（旧DMM.R18） | 2014-2019 | 日本AV業界でもっとも重要な賞で、2020年以降は開催されていない |
-| [スカパー!アダルト放送大賞](skypa.md) | Sky PerfecTV! | 2005年〜現在 | 成人向け放送業界の賞で、2022年からEXガールズ選抜に変更 |
-| [AV OPEN](https://av-open.com) | DMM | 不定期 | AV作品のコンテスト |
-| [ADULTOPIA 大人国](ADULTOPIA.md) | 台湾 | 2024年〜現在 | 台湾の成人向け展示イベント |
+| 賞 | 本サイトの収録範囲 | 説明 |
+| --- | --- | --- |
+| [FANZAアダルトアワード](fanza.md) | 2014–2019年の主な個人賞、2019年の詳細結果 | 旧DMM／DMM.R18アダルトアワード。作品賞と個人賞を分けて掲載 |
+| [スカパー!アダルト放送大賞](skypa.md) | 2006–2020年の女優賞、2020年・2022年の結果、2022–2024年のEXガールズ | EXガールズはPRユニット。メンバー選抜と従来の個人賞を区別 |
+| [ADULTOPIA 大人国](ADULTOPIA.md) | 2026年授賞式の全17部門 | 台湾での授賞式。女優・男優・監督・作品部門を含み、式典と展示会交流イベントの日程を分けて掲載 |
+
+## 関連する作品コンテスト
+
+[AV OPEN](https://av-open.com)は別のAV作品コンテストであり、FANZAアダルトアワードと混同しない。2018年大会の当時の報道によると、年をまたいで開催され、2019年5月に結果を発表。ファン投票は作品賞・女優賞・VR-1グランプリ作品賞を対象とした。[TECHNÉの報道](https://www.art-techne.com/entertainment/news201902030015.html)
 
 ## 参考資料
 
-- [FANZAアダルトアワード公式サイト](https://www.dmm.co.jp/adultaward/)
-- [スカパー!アダルト放送大賞公式サイト](https://adult-awards.com/)
-- [AV OPEN](https://av-open.com)
+- [FANZA 2019年授賞式の報道](https://www.art-techne.com/entertainment/news201905151345.amp)
+- [スカパー!アダルト放送大賞公式サイト](https://adult-awards.com/top/)
+- [ADULTOPIA 2026年公式結果](https://xcity.co.jp/award_result/)
