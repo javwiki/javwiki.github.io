@@ -8,7 +8,7 @@ agency: Million
 
 # Million Girls Z
 
-Million Girls Z（日语：ミリオンガールズZ，简称 MGZ）是由 Million 旗下 AV 女优组成的日本女子偶像组合。组合于 2014 年为纪念 Million 品牌成立 10 周年而结成，主要从事歌唱、舞蹈、综艺节目及现场演出活动，2017 年初解散。
+Million Girls Z（日语：ミリオンガールズZ，简称 MGZ）是由 Million 旗下 AV女优组成的日本女子偶像组合。组合于 2014 年为纪念 Million 品牌成立 10 周年而结成，主要从事歌唱、舞蹈、综艺节目及现场演出活动，2017 年初解散。
 
 ## 基本信息
 

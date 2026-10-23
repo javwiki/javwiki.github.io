@@ -20,7 +20,7 @@ verified_at: '2026-10-11'
 | Code | JUFD-387 |
 | Title | 淫語で誘う寸止め焦らし痴女 ～僕を生殺しにして愉しむ部下の爆乳奥さん～ |
 | Maker / brand | Fitch |
-| Physical release date | 待核实 |
+| Physical release date | Unverified |
 | Database release date (basis unspecified) | 2014-07-26 |
 | Performer (database credit) | Ayumi Shinoda |
 | Director (database credit) | SANDMAN |

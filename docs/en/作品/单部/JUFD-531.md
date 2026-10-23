@@ -20,7 +20,7 @@ verified_at: '2026-10-11'
 | Code | JUFD-531 |
 | Title | 狂おしいほど受精したがるあゆみと朝から晩までえげつない生中出しSEX |
 | Maker / brand | Fitch |
-| Physical release date | 待核实 |
+| Physical release date | Unverified |
 | Database release date (basis unspecified) | 2015-10-29 |
 | Performer (database credit) | Ayumi Shinoda |
 | Director (database credit) | Mametaro Mamezawa |

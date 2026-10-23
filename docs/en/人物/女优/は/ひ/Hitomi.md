@@ -10,7 +10,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tana
 ## Basic information
 
 - **Name**: Hitomi (田中瞳)
-- **Japanese name**: ひとみ
+- **Japanese name**: Hitomi
 - **Reading**: ひとみ
 - **English name**: Hitomi Tanaka (overseas name)
 - **Former stage name**: 田中 瞳 (gravure era; overseas still uses Hitomi Tanaka)

@@ -10,7 +10,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Trend_Girls
 ## Basic information
 
 - **Name**: AIKA
-- **Japanese name**: あいか
+- **Japanese name**: AIKA
 - **Reading**: あいか
 - **English name**: AIKA
 - **Date of birth**: 25 August 1990
@@ -40,7 +40,6 @@ AIKA is a Japanese AV actress affiliated with T-POWERS. She worked as a beautici
 ## Work features
 
 - Early on centred on a gyaru image, later gradually trying more varied roles.
-- Her work is known for high quality, with story-driven titles particularly strong.
 - A large catalogue across many labels: MOODYZ, S1, kira☆kira, Madonna, 溜池ゴロー, ワンズファクトリー and others.
 
 ## Awards

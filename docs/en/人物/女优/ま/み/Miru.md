@@ -10,8 +10,8 @@ thumbnail: https://cmore.jp/official/img/model/miru/miru.jpg
 ## Basic information
 
 - **Name**: Miru
-- **Japanese name**: みる
-- **Reading**: Miru
+- **Japanese name**: Miru
+- **Reading**: みる
 - **English name**: Miru
 - **Former name**: 坂道みる (さかみち みる)
 - **Nickname**: みるみる

@@ -10,8 +10,8 @@ thumbnail: https://cmore.jp/official/img/model/miru/miru.jpg
 ## 基本信息
 
 - **姓名**: Miru
-- **日文名**: みる
-- **读音**: Miru
+- **日文名**: Miru
+- **读音**: みる
 - **英文名**: Miru
 - **曾用名**: 坂道みる（さかみち みる）
 - **昵称**: みるみる

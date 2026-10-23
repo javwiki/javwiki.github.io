@@ -41,6 +41,6 @@ thumbnail: https://c0.jdbstatic.com/samples/9d/9DBm6_l_0.jpg
 
 ## 参考资料
 
-- [missAV 页面](https://missav.com/ebod-613)
+- [missAV页面](https://missav.com/ebod-613)
 - [JavDB 页面](https://javdb.com/v/9DBm6)
 - [E-BODY 官网](https://www.ebody.jp/)

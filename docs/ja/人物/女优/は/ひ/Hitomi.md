@@ -9,7 +9,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tana
 
 ## 基本情報
 
-- **名前**: Hitomi（田中瞳）
+- **名前**: Hitomi
 - **読み**: ひとみ
 - **英語名**: Hitomi Tanaka（海外名義）
 - **旧芸名**: 田中 瞳（グラビア時代；海外では Hitomi Tanaka を使用）

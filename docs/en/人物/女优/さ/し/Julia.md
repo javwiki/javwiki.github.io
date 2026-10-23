@@ -25,7 +25,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Julia,_Japa
 
 ## Introduction
 
-Julia is one of the most representative big-breast actresses in the Japanese AV industry, celebrated as the "queen of huge breasts". She debuted as an E-BODY exclusive in April 2010 and quickly rose to the top of the industry with her 101cm (J-cup) bust and 55cm waist. Her "seductive tease" image struck deep, and her releases are known for their high quality and much loved by fans. After resuming activity in 2012 she has remained active ever since, and is one of the few active actresses to keep high popularity over a long period.
+Julia is a Japanese AV actress. She debuted as an E-BODY exclusive in April 2010 and quickly rose to the top of the industry with her 101cm (J-cup) bust and 55cm waist. Her "seductive tease" image struck deep, and her releases are known for their high quality and much loved by fans. After resuming activity in 2012 she has remained active ever since, and is one of the few active actresses to keep high popularity over a long period.
 
 ## Personal notes
 

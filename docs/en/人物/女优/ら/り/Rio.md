@@ -10,7 +10,7 @@ thumbnail: https://i.namu.wiki/i/_4XxbpPbgO-XuGaqKIK7eFfgEk369tcMWuXQbHw6GQ-ngU5
 ## Basic information
 
 - **Name**: Rio
-- **Japanese name**: りお
+- **Japanese name**: Rio
 - **Reading**: りお
 - **English name**: Rio
 - **Real name**: 柚木蒂娜 (柚木ティナ), real name 铃木光子
@@ -27,7 +27,7 @@ thumbnail: https://i.namu.wiki/i/_4XxbpPbgO-XuGaqKIK7eFfgEk369tcMWuXQbHw6GQ-ngU5
 
 ## Introduction
 
-Rio is one of the most representative mixed-race actresses in the Japanese AV industry. Her original name was 柚木蒂娜; she debuted in 2005 and changed her name to Rio at the end of 2007. Her father is Japanese and her mother Portuguese, and she speaks Portuguese. She studied in the economics faculty of Dokkyo University (on leave), and her personal hobby is karaoke. In 2008 her enormous popularity earned her the chance to host her own TV programme, crossing into general entertainment work. Rio is one of the few actresses in the industry to keep high popularity over a long period; her career spans nearly ten years.
+Rio is a Japanese AV actress. Her original name was 柚木蒂娜; she debuted in 2005 and changed her name to Rio at the end of 2007. Her father is Japanese and her mother Portuguese, and she speaks Portuguese. She studied in the economics faculty of Dokkyo University (on leave), and her personal hobby is karaoke. In 2008 her enormous popularity earned her the chance to host her own TV programme, crossing into general entertainment work. Rio is one of the few actresses in the industry to keep high popularity over a long period; her career spans nearly ten years.
 
 ## Personal notes
 
@@ -42,7 +42,6 @@ Rio is one of the most representative mixed-race actresses in the Japanese AV in
 ## Work features
 
 - Early on centred on a mixed-race beauty image, later gradually trying more varied roles.
-- Her work is known for high quality, with story-driven titles particularly strong.
 - A large catalogue across her career, covering many types.
 
 ## Career timeline

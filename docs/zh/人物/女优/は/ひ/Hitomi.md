@@ -10,10 +10,10 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tana
 ## 基本信息
 
 - **姓名**: Hitomi（田中瞳）
-- **日文名**: ひとみ
+- **日文名**: Hitomi
 - **读音**: ひとみ
-- **英文名**: Hitomi Tanaka（海外名义）
-- **旧艺名**: 田中 瞳（写真时代；海外沿用 Hitomi Tanaka）
+- **英文名**: Hitomi
+- **曾用名**: 田中 瞳（写真时代；海外沿用 Hitomi Tanaka）
 - **昵称**: みんご（日维 infobox；pixiv 辞典同记）
 - **出生日期**: 1986年7月18日
 - **出生地**: 日本熊本県
@@ -22,7 +22,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hitomi_Tana
 - **罩杯**: Q（原J罩，2014年增至O，后至Q）
 - **血型**: AB型
 - **瞳孔颜色**: 茶色
-- **鞋尺码**: 23.5 cm
+- **鞋码**: 23.5 cm
 - **类别**: Censored（有码系）
 - **活跃年代**: 2007年（写真）– 2022年4月（AV引退）
 - **经纪公司**: ハーベスターズ（旧称 ALLURE / アリュール）

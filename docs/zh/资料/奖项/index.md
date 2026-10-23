@@ -4,7 +4,7 @@ title: 奖项
 
 # 奖项
 
-本节收录日本 AV 行业相关奖项，以及台湾 ADULTOPIA 颁奖记录。个人奖、作品奖与宣传成员选拔分别说明。
+本节收录日本AV行业相关奖项，以及台湾 ADULTOPIA 颁奖记录。个人奖、作品奖与宣传成员选拔分别说明。
 
 ## 主要奖项
 
@@ -16,7 +16,7 @@ title: 奖项
 
 ## 相关作品竞赛
 
-[AV OPEN](https://av-open.com) 是另一项 AV 作品竞赛，不能与 FANZA 成人奖混用。关于2018届的当年报道说明，该届跨年举办，结果于2019年5月发表，粉丝投票涵盖作品奖、女优奖及 VR-1 Grand Prix 作品奖。[TECHNÉ 报道](https://www.art-techne.com/entertainment/news201902030015.html)
+[AV OPEN](https://av-open.com) 是另一项 AV作品竞赛，不能与 FANZA 成人奖混用。关于2018届的当年报道说明，该届跨年举办，结果于2019年5月发表，粉丝投票涵盖作品奖、女优奖及 VR-1 Grand Prix 作品奖。[TECHNÉ 报道](https://www.art-techne.com/entertainment/news201902030015.html)
 
 ## 参考来源
 

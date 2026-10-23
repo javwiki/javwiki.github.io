@@ -4,7 +4,7 @@ title: 术语
 
 # 常见术语
 
-本文档收录 AV 女优百科中常见的专业术语和缩写。
+本文档收录 AV女优百科中常见的专业术语和缩写。
 
 ## 女优相关
 
@@ -13,7 +13,7 @@ title: 术语
 | 专属女优 | 与特定厂商签订专属合约，只在该厂商发行作品 |
 | 企划单体女优 | 无专属合约，可在多家厂商发行作品 |
 | 写真偶像 | 拍摄写真集、形象视频的模特 |
-| 引退 | 女优结束 AV 生涯 |
+| 引退 | 女优结束 AV生涯 |
 | 活动休止 | 女优暂停活动，但未正式引退 |
 | 移籍 | 女优从一家经纪公司转到另一家 |
 | 复出 | 引退后重新开始活动 |
@@ -45,7 +45,7 @@ title: 术语
 
 | 术语 | 说明 |
 | --- | --- |
-| 片商 | AV 作品的制作和发行商 |
+| 片商 | AV作品的制作和发行商 |
 | 事务所 | 经纪公司，管理女优的中介机构 |
 | 厂牌 | 片商旗下的品牌或系列 |
 
@@ -63,21 +63,21 @@ title: 术语
 | --- | --- | --- |
 | AV | Adult Video | 成人视频 |
 | JAV | Japanese AV | 日本成人视频 |
-| S1 | S1 NO.1 STYLE | 日本 AV 厂商 |
-| IP | IdeaPocket | 日本 AV 厂商 |
-| MD | MOODYZ | 日本 AV 厂商 |
-| AT | Attackers | 日本 AV 厂商 |
-| PG | PRESTIGE | 日本 AV 厂商 |
-| WF | Wanz Factory | 日本 AV 厂商 |
-| FL | FALENO | 日本 AV 厂商 |
-| SOD | SODクリエイト | 日本 AV 厂商 |
-| EB | E-BODY | 日本 AV 厂商 |
-| KW | kawaii* | 日本 AV 厂商 |
-| MK | MUTEKI | 日本 AV 厂商（无码转有码专属） |
-| JU | Madonna | 日本 AV 厂商（熟女系） |
-| HM | 本中 | 日本 AV 厂商（中出系） |
-| DAS | ダスッ! | 日本 AV 厂商（中出系） |
-| BF | BeFree | 日本 AV 厂商 |
-| AK | アリスJAPAN | 日本 AV 厂商 |
-| MX | MAXING | 日本 AV 厂商 |
-| MA | MAX-A | 日本 AV 厂商 |
+| S1 | S1 NO.1 STYLE | 日本AV厂商 |
+| IP | IdeaPocket | 日本AV厂商 |
+| MD | MOODYZ | 日本AV厂商 |
+| AT | Attackers | 日本AV厂商 |
+| PG | PRESTIGE | 日本AV厂商 |
+| WF | Wanz Factory | 日本AV厂商 |
+| FL | FALENO | 日本AV厂商 |
+| SOD | SODクリエイト | 日本AV厂商 |
+| EB | E-BODY | 日本AV厂商 |
+| KW | kawaii* | 日本AV厂商 |
+| MK | MUTEKI | 日本AV厂商（无码转有码专属） |
+| JU | Madonna | 日本AV厂商（熟女系） |
+| HM | 本中 | 日本AV厂商（中出系） |
+| DAS | ダスッ! | 日本AV厂商（中出系） |
+| BF | BeFree | 日本AV厂商 |
+| AK | アリスJAPAN | 日本AV厂商 |
+| MX | MAXING | 日本AV厂商 |
+| MA | MAX-A | 日本AV厂商 |

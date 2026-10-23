@@ -23,7 +23,7 @@ website: https://spa-japan.net/
 
 ## Overview
 
-プロダクション協会 (below, "SPA" or "第二プロダクション協会") is an industry group set up at the end of March 2018 by a group of volunteer AV agencies. Unlike the 日本プロダクション協会 (JPG) established in 2017, SPA is not itself a voluntary organization and does not admit groups or individuals outside corporate bodies.
+プロダクション協会 (below, "SPA" or "第二プロダクション協会") is an industry group set up at the end of March 2018 by a group of volunteer AV agencies. Unlike the 日本プロダクション協会 (JPG) established in 2017, SPA is a voluntary organization and does not admit groups or individuals outside corporate bodies.
 
 Its purpose is to advance the sound operation of the AV agency business, protect the human rights of performers, respect self-determination to the fullest, push for standardized and rule-based contracts, and further refresh and sound the industry.
 
