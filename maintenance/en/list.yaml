@@ -75,15 +75,15 @@ items:
   - name: Miyu Aizawa
     row: あ
     col: あ
-    completeness: 50%
+    completeness: 100%
   - name: Kokoro Asano
     row: あ
     col: あ
-    completeness: 50%
+    completeness: 100%
   - name: Rima Arai
     row: あ
     col: あ
-    completeness: 50%
+    completeness: 100%
   - name: Mio Ichijou
     row: あ
     col: い
@@ -175,7 +175,7 @@ items:
   - name: Arisu Otsu
     row: あ
     col: お
-    completeness: 50%
+    completeness: 100%
   - name: Kanon Kanade
     row: か
     col: か
@@ -203,7 +203,7 @@ items:
   - name: Yuma Kanzaki
     row: か
     col: か
-    completeness: 50%
+    completeness: 100%
   - name: Jun Kosui
     row: か
     col: か
@@ -211,7 +211,7 @@ items:
   - name: Konatsu Kashiwagi
     row: か
     col: か
-    completeness: 50%
+    completeness: 100%
   - name: Ema Kisaki
     row: か
     col: き
@@ -255,15 +255,15 @@ items:
   - name: Karin Kitaoka
     row: か
     col: き
-    completeness: 50%
+    completeness: 100%
   - name: Mina Kitano
     row: か
     col: き
-    completeness: 50%
+    completeness: 100%
   - name: Himari Kinoshita
     row: か
     col: き
-    completeness: 50%
+    completeness: 100%
   - name: Lala Kudo
     row: か
     col: く
@@ -279,7 +279,7 @@ items:
   - name: Sumire Kuramoto
     row: か
     col: く
-    completeness: 50%
+    completeness: 100%
   - name: Ren Gojo
     row: か
     col: こ
@@ -311,7 +311,7 @@ items:
   - name: Miyu Kohinata
     row: か
     col: こ
-    completeness: 50%
+    completeness: 100%
   - name: Aki Sasaki
     row: さ
     col: さ
@@ -343,15 +343,15 @@ items:
   - name: Saijo Ruri
     row: さ
     col: さ
-    completeness: 80%
+    completeness: 100%
   - name: Ena Satsuki
     row: さ
     col: さ
-    completeness: 50%
+    completeness: 100%
   - name: Nao Satsuki
     row: さ
     col: さ
-    completeness: 50%
+    completeness: 100%
   - name: Julia
     row: さ
     col: し
@@ -403,11 +403,11 @@ items:
   - name: Riho Shishido
     row: さ
     col: し
-    completeness: 50%
+    completeness: 100%
   - name: Nao Jinguji
     row: さ
     col: し
-    completeness: 50%
+    completeness: 100%
   - name: Airi Suzumura
     row: さ
     col: す
@@ -415,7 +415,7 @@ items:
   - name: Kanna Seto
     row: さ
     col: せ
-    completeness: 50%
+    completeness: 100%
   - name: Dan Reina
     row: た
     col: た
@@ -475,11 +475,11 @@ items:
   - name: Rika Tsubaki
     row: た
     col: つ
-    completeness: 50%
+    completeness: 100%
   - name: Kasumi Tsukino
     row: た
     col: つ
-    completeness: 50%
+    completeness: 100%
   - name: Tia
     row: た
     col: て
@@ -603,11 +603,11 @@ items:
   - name: Kaho Hanamori
     row: は
     col: は
-    completeness: 50%
+    completeness: 100%
   - name: Moka Haruhi
     row: は
     col: は
-    completeness: 50%
+    completeness: 100%
   - name: Hitomi Tanaka（海外名义）
     row: は
     col: ひ
@@ -639,7 +639,7 @@ items:
   - name: Beatrix
     row: は
     col: べ
-    completeness: 80%
+    completeness: 100%
   - name: Suzu Honjo
     row: は
     col: ほ
@@ -663,7 +663,7 @@ items:
   - name: Airi Minami
     row: ま
     col: み
-    completeness: 50%
+    completeness: 100%
   - name: Riona Minami
     row: ま
     col: み
@@ -715,7 +715,7 @@ items:
   - name: Hikaru Minazuki
     row: ま
     col: み
-    completeness: 50%
+    completeness: 100%
   - name: Meguri
     row: ま
     col: め
@@ -747,7 +747,7 @@ items:
   - name: Hinako Mori
     row: ま
     col: も
-    completeness: 50%
+    completeness: 100%
   - name: Yatsugake Umi
     row: や
     col: や
@@ -823,7 +823,7 @@ items:
   - name: Mei Washio
     row: わ
     col: わ
-    completeness: 50%
+    completeness: 100%
 
 # 五十音排序规则：参见 maintenance/en/五十音排序规则.md
 # 条目顺序：あ行 → か行 → さ行 → た行 → な行 → は行 → ま行 → や行 → ら行 → わ行

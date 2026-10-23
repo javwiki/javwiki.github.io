@@ -75,15 +75,15 @@ items:
   - name: 逢沢みゆ
     row: あ
     col: あ
-    completeness: 50%
+    completeness: 100%
   - name: 浅野こころ
     row: あ
     col: あ
-    completeness: 50%
+    completeness: 100%
   - name: 新井リマ
     row: あ
     col: あ
-    completeness: 50%
+    completeness: 100%
   - name: 一条みお
     row: あ
     col: い
@@ -175,7 +175,7 @@ items:
   - name: 乙アリス
     row: あ
     col: お
-    completeness: 50%
+    completeness: 100%
   - name: 奏音花音
     row: か
     col: か
@@ -203,7 +203,7 @@ items:
   - name: 神崎ゆま
     row: か
     col: か
-    completeness: 50%
+    completeness: 100%
   - name: 香水纯
     row: か
     col: か
@@ -211,7 +211,7 @@ items:
   - name: 柏木こなつ
     row: か
     col: か
-    completeness: 50%
+    completeness: 100%
   - name: 希咲エマ
     row: か
     col: き
@@ -255,15 +255,15 @@ items:
   - name: 北岡果林
     row: か
     col: き
-    completeness: 50%
+    completeness: 100%
   - name: 北野未奈
     row: か
     col: き
-    completeness: 50%
+    completeness: 100%
   - name: 木下ひまり
     row: か
     col: き
-    completeness: 50%
+    completeness: 100%
   - name: 工藤ララ
     row: か
     col: く
@@ -279,7 +279,7 @@ items:
   - name: 倉本すみれ
     row: か
     col: く
-    completeness: 50%
+    completeness: 100%
   - name: 五条恋
     row: か
     col: こ
@@ -311,7 +311,7 @@ items:
   - name: 小日向みゆう
     row: か
     col: こ
-    completeness: 50%
+    completeness: 100%
   - name: 佐佐木明希
     row: さ
     col: さ
@@ -343,15 +343,15 @@ items:
   - name: 西条琉璃
     row: さ
     col: さ
-    completeness: 80%
+    completeness: 100%
   - name: 沙月恵奈
     row: さ
     col: さ
-    completeness: 50%
+    completeness: 100%
   - name: 彩月七緒
     row: さ
     col: さ
-    completeness: 50%
+    completeness: 100%
   - name: Julia
     row: さ
     col: し
@@ -403,11 +403,11 @@ items:
   - name: 宍戸里帆
     row: さ
     col: し
-    completeness: 50%
+    completeness: 100%
   - name: 神宮寺ナオ
     row: さ
     col: し
-    completeness: 50%
+    completeness: 100%
   - name: 鈴村あいり
     row: さ
     col: す
@@ -415,7 +415,7 @@ items:
   - name: 瀬戸環奈
     row: さ
     col: せ
-    completeness: 50%
+    completeness: 100%
   - name: 壇玲奈
     row: た
     col: た
@@ -475,11 +475,11 @@ items:
   - name: 椿りか
     row: た
     col: つ
-    completeness: 50%
+    completeness: 100%
   - name: 月野かすみ
     row: た
     col: つ
-    completeness: 50%
+    completeness: 100%
   - name: ティア
     row: た
     col: て
@@ -603,11 +603,11 @@ items:
   - name: 花守夏歩
     row: は
     col: は
-    completeness: 50%
+    completeness: 100%
   - name: 春陽モカ
     row: は
     col: は
-    completeness: 50%
+    completeness: 100%
   - name: Hitomi
     row: は
     col: ひ
@@ -639,7 +639,7 @@ items:
   - name: ベアトリクス
     row: は
     col: べ
-    completeness: 80%
+    completeness: 100%
   - name: 本庄铃
     row: は
     col: ほ
@@ -663,7 +663,7 @@ items:
   - name: 美波あいり
     row: ま
     col: み
-    completeness: 50%
+    completeness: 100%
   - name: 南梨央奈
     row: ま
     col: み
@@ -715,7 +715,7 @@ items:
   - name: 皆月ひかる
     row: ま
     col: み
-    completeness: 50%
+    completeness: 100%
   - name: 惠理
     row: ま
     col: め
@@ -747,7 +747,7 @@ items:
   - name: 森日向子
     row: ま
     col: も
-    completeness: 50%
+    completeness: 100%
   - name: 八掛うみ
     row: や
     col: や
@@ -823,7 +823,7 @@ items:
   - name: 鷲尾めい
     row: わ
     col: わ
-    completeness: 50%
+    completeness: 100%
 
 # 五十音排序规则：参见 maintenance/zh/五十音排序规则.md
 # 条目顺序：あ行 → か行 → さ行 → た行 → な行 → は行 → ま行 → や行 → ら行 → わ行

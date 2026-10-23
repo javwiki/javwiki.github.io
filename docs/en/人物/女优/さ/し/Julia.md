@@ -25,7 +25,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Julia,_Japa
 
 ## Introduction
 
-Julia is a Japanese AV actress. She debuted as an E-BODY exclusive in April 2010 and quickly rose to the top of the industry with her 101cm (J-cup) bust and 55cm waist. Her "seductive tease" image struck deep, and her releases are known for their high quality and much loved by fans. After resuming activity in 2012 she has remained active ever since, and is one of the few active actresses to keep high popularity over a long period.
+Julia was born on 25 May 1987 in Tokyo and belongs to C-more Entertainment. She debuted as an E-BODY exclusive in April 2010, moved to non-exclusive work after three titles and paused activity in 2011. She resumed in February 2012 as a dual exclusive of MOODYZ and Tameike Goro, became an OPPAI exclusive in November 2013, and from May 2018 was a dual exclusive of Wanz Factory and OPPAI. In October 2018 she launched a self-produced photobook project and raised ¥6,104,000 through crowdfunding. In 2025 she marked 15 years since her debut with a nationwide tour covering Sendai, Nagoya, Kobe and Sapporo.
 
 ## Personal notes
 
@@ -43,16 +43,17 @@ Julia is a Japanese AV actress. She debuted as an E-BODY exclusive in April 2010
 
 ## Work features
 
-- Known for a huge-breast figure and a varied catalogue.
-- Strong at tease roles, and able to handle many other themes.
-- A large catalogue across her career, covering many types.
+- Studio phases: E-BODY (April 2010), non-exclusive work, a MOODYZ and Tameike Goro dual exclusive (February 2012), OPPAI (November 2013), and a Wanz Factory and OPPAI dual exclusive (May 2018).
+- Roles: mainly seductress, wife, mother-in-law and female-teacher parts, with titles that often state her J-cup measurements outright, such as the debut 《B100 W55 H84 DEBUT JULIA!!!》 and the 2026 《美魔女ママの乳首ビンっ!》.
+- Photobooks and image work: after resuming in 2012 she expanded into photobooks, image videos, calendars and events; the crowdfunded 2018 photobooks were made in four themes — "NO NUDE", "cosplay", "bondage" and "body paint".
+- Signed comment: writer 杜哲哉 noted that her exotic looks give her many fans overseas; みうらじゅん praised the photobook 《secret J》 (2022) and リリー・フランキー called her 「胸と乳首が最高峰」.
 
 ## Career timeline
 | Year | Events |
 | --- | --- |
 | 2010 | Debuted as an E-BODY exclusive in April; her debut title's name was literally her measurements, 《B100 W55 H84 DEBUT JULIA!!!》; after three titles she became non-exclusive. |
 | 2011 | Activity suspended (later mistakenly reported as a retirement). |
-| 2012 | Resumed activity in February as a dual exclusive of MOODYZ and 溜池ゴロー; 29th in the AV30 popularity poll. |
+| 2012 | Resumed activity in February as a dual exclusive of MOODYZ and 溜池ゴロー; 29th in the AV30 anniversary poll. |
 | 2013 | Attended an event in Taiwan in July; went to Australia with her junior 美里有紗 in October to shoot a photobook; ended her 溜池ゴロー exclusive in October and became an OPPAI exclusive in November. |
 | 2014 | Opened Twitter and Sina Weibo in February; appeared at the Shanghai adult expo as a Men's Max image girl in April; nominated for Best Actress at the DMM Adult Awards (nominated three years running from, up to 2016 — a record at the time). |
 | 2016 | Won the special award at the DMM.R18 Adult Awards. |
@@ -75,6 +76,10 @@ Julia is a Japanese AV actress. She debuted as an E-BODY exclusive in April 2010
 - **Twitter/X**: [@JULIA_2ndid](https://x.com/JULIA_2ndid) (secondary account)
 - **Instagram**: [@julia_cmore_official](https://instagram.com/julia_cmore_official)
 - **Weibo**: [JULIA_Cmore](https://weibo.com/u/5032694046)
+
+## Sources and scope
+
+The introduction and timeline draw mainly on the Japanese Wikipedia article "JULIA (AV actress)" and the C-more official sources listed on this page (accessed 23 October 2026); secondary citations were not traced one by one. The total number of titles and the full award record are not exhaustive.
 
 ## References
 

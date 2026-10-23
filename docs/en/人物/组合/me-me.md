@@ -23,7 +23,7 @@ me-me* (ミーム) is a Japanese girls' idol music group made up of actresses af
 
 ## Introduction
 
-me-me* was selected from T-POWERS-affiliated actresses who loved music and dance and had considerable popularity. Live activities began properly in February 2012, with the four singles 《You are addicted》《星になるのだっ！》《mirror》《I♡愛》 released at the same time. The group took part in the Taiwan adult expo and a solo show in Taiwan, and was also invited to hold a charity concert in Manila, Philippines.
+me-me* was selected from T-POWERS-affiliated actresses who loved music and dance. Live activities began properly in February 2012, with the four singles 《You are addicted》《星になるのだっ！》《mirror》《I♡愛》 released at the same time. The group took part in the Taiwan adult expo and a solo show in Taiwan, and was also invited to hold a charity concert in Manila, Philippines.
 
 After 藤北彩香 graduated in September 2015, the group continued as a four: Maika, 神咲诗织, 佳苗琉花 and Yui Hatano. Its final show was held at 南青山 Future SEVEN on 20 March 2016, where the four members and 成瀬心美, who had earlier suspended activities, graduated together, ending me-me*'s activities.
 

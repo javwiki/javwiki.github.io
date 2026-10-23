@@ -27,7 +27,7 @@ thumbnail: https://i.namu.wiki/i/_4XxbpPbgO-XuGaqKIK7eFfgEk369tcMWuXQbHw6GQ-ngU5
 
 ## Introduction
 
-Rio is a Japanese AV actress. Her original name was 柚木蒂娜; she debuted in 2005 and changed her name to Rio at the end of 2007. Her father is Japanese and her mother Portuguese, and she speaks Portuguese. She studied in the economics faculty of Dokkyo University (on leave), and her personal hobby is karaoke. In 2008 her enormous popularity earned her the chance to host her own TV programme, crossing into general entertainment work. Rio is one of the few actresses in the industry to keep high popularity over a long period; her career spans nearly ten years.
+Rio is a Japanese AV actress. Her original name was 柚木蒂娜; she debuted in 2005 and changed her name to Rio at the end of 2007. Her father is Japanese and her mother Portuguese, and she speaks Portuguese. She studied in the economics faculty of Dokkyo University (on leave), and her personal hobby is karaoke. In 2008 she got the chance to host her own TV programme, crossing into general entertainment work. Her career spans nearly ten years.
 
 ## Personal notes
 
@@ -42,7 +42,6 @@ Rio is a Japanese AV actress. Her original name was 柚木蒂娜; she debuted in
 ## Work features
 
 - Early on centred on a mixed-race beauty image, later gradually trying more varied roles.
-- A large catalogue across her career, covering many types.
 
 ## Career timeline
 
