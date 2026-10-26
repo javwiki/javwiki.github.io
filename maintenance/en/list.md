@@ -103,6 +103,8 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Yotsuha Kominato
 - Minako Komukai
 - Miyu Kohinata
+- Momona Koibuchi
+- Koyoi Konan
 ## Sa row (さ行)
 
 ### Sa column (さ段)
