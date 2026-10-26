@@ -387,7 +387,7 @@ items:
   - name: 白浜果歩
     row: さ
     col: し
-    completeness: 80%
+    completeness: 100%
   - name: 白石茉莉奈
     row: さ
     col: し
@@ -455,7 +455,7 @@ items:
   - name: 鷹宮ゆい
     row: た
     col: た
-    completeness: 80%
+    completeness: 100%
   - name: 千乃あずみ
     row: た
     col: ち

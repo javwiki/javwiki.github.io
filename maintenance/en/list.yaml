@@ -387,7 +387,7 @@ items:
   - name: Kaho Shirahama
     row: さ
     col: し
-    completeness: 80%
+    completeness: 100%
   - name: Marina Shiraishi
     row: さ
     col: し
@@ -455,7 +455,7 @@ items:
   - name: Yui Takanomiya
     row: た
     col: た
-    completeness: 80%
+    completeness: 100%
   - name: Azumi Chino
     row: た
     col: ち
