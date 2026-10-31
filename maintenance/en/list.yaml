@@ -648,6 +648,10 @@ items:
     row: は
     col: べ
     completeness: 100%
+  - name: Hoshikana
+    row: は
+    col: ほ
+    completeness: 100%
   - name: Suzu Honjo
     row: は
     col: ほ

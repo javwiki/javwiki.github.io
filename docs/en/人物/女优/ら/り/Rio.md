@@ -2,10 +2,10 @@
 tags: [C杯, T-POWERS, MAX-A, S1, IdeaPocket]
 thumbnail: https://i.namu.wiki/i/_4XxbpPbgO-XuGaqKIK7eFfgEk369tcMWuXQbHw6GQ-ngU5AjaQsUJdPg4MDwye8g-JZh9ZOntHgLDAYJlYrvWKjUUn_M43UGjk7yYRg7aU_hysTTHwUdIqSHX3FAJ_fSMJ-Moo8gm5oclIxvCTqKQ.webp
 ---
+
 # Rio
 
 <img src="https://i.namu.wiki/i/_4XxbpPbgO-XuGaqKIK7eFfgEk369tcMWuXQbHw6GQ-ngU5AjaQsUJdPg4MDwye8g-JZh9ZOntHgLDAYJlYrvWKjUUn_M43UGjk7yYRg7aU_hysTTHwUdIqSHX3FAJ_fSMJ-Moo8gm5oclIxvCTqKQ.webp" alt="Rio" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
-
 
 ## Basic information
 
@@ -13,50 +13,55 @@ thumbnail: https://i.namu.wiki/i/_4XxbpPbgO-XuGaqKIK7eFfgEk369tcMWuXQbHw6GQ-ngU5
 - **Japanese name**: Rio
 - **Reading**: りお
 - **English name**: Rio
-- **Real name**: 柚木蒂娜 (柚木ティナ), real name 铃木光子
-- **Nicknames**: ティナっち, Rioっち
+- **Former stage name**: 柚木ティナ (2005–2007)
+- **Nickname**: ティナっち, Rioっち
 - **Date of birth**: 29 October 1986
 - **Place of birth**: Tokyo, Japan
 - **Height**: 154cm
 - **Measurements**: B84 W58 H83
 - **Cup**: C
 - **Category**: Censored (with code)
-- **Active**: 2005–2016
+- **Active**: 2005–2010s (AV)
 - **Agency**: T-POWERS
 - **Main studios**: MAX-A, S1, IdeaPocket
 
 ## Introduction
 
-Rio is a Japanese AV actress. Her original name was 柚木蒂娜; she debuted in 2005 and changed her name to Rio at the end of 2007. Her father is Japanese and her mother Portuguese, and she speaks Portuguese. She studied in the economics faculty of Dokkyo University (on leave), and her personal hobby is karaoke. In 2008 she got the chance to host her own TV programme, crossing into general entertainment work. Her career spans nearly ten years.
+Rio is a Japanese entertainer, actress, former AV actress, gravure idol and singer, born on 29 October 1986 in Tokyo and represented by T-POWERS. She made her AV debut in November 2005 at MAX-A as 柚木ティナ, announced the name change to Rio on her blog on 28 July 2007 and started a new blog on 10 August. She became an S1 exclusive in February 2008 and moved to IdeaPocket in March 2009 while returning to MAX-A. On 25 March 2009 she won the actress award at the スカパー!アダルト放送大賞, and in 2012 she placed 10th in the AV30 popularity poll. On 4 December 2013 she debuted as a singer under the name RIO. On 29 April 2023 she appeared on 《オールナイトフジコ》, with reports that she was then working in visiting-nurse counselling and as an accessory designer.
 
 ## Personal notes
 
-- Rio is of mixed Japanese and Portuguese descent; her father is Japanese and her mother Portuguese.
-- She speaks Portuguese, learned from her mother.
-- Studied in the economics faculty of Dokkyo University (on leave).
-- Personal hobby: karaoke.
-- Won the actress of the year award in 2008.
-- Was a member of Ebisu Muscats.
-- In 2010 she co-starred with Akiho Yoshizawa and Mihiro on a single by the band SKELT 8 BAMBINO.
+- Her father is Japanese and her mother Portuguese, making her half Japanese and half Portuguese.
+- Her speciality is Portuguese; her hobbies are golf and mahjong, and she likes sweets.
+- Her dogs are called チーズ and チャマ.
+- Her first experience was in her first year of high school (aged 16) with a boyfriend of the same age; she had five partners during high school.
+- Her favourite comedian is 三村マサカズ.
+- From 2008 she appeared on 《Rioの楽園》 and other programmes and was a member of 恵比寿マスカッツ.
+- On 28 February 2010 she was appointed a 六本木Red Dragon goodwill ambassador.
 
 ## Work features
 
-- Early on centred on a mixed-race beauty image, later gradually trying more varied roles.
+- Early work centred on a half-Japanese beauty image; later she tried a wider range of roles.
+- Exclusive to MAX-A as 柚木ティナ in 2005–2007, moved to S1 in 2008 and worked at IdeaPocket and MAX-A from 2009.
+- Beyond AV she appeared in young-men's magazine gravure, V-cinema, television dramas and variety, and released music.
+- Singer debut as RIO on 4 December 2013.
 
 ## Career timeline
 
 | Year | Events |
 | --- | --- |
-| 2005 | Debuted at MAX-A in November as 柚木蒂娜. |
-| 2006 | Hailed by the Japanese AV industry as the best newcomer of 2006. |
-| 2007 | Changed her name to Rio at the end of the year. |
-| 2008 | Won the actress of the year award; got the chance to host her own TV programme 《Rioの楽園》. |
-| 2009 | Moved from MAX-A to IdeaPocket. |
-| 2016 | Formally retired in January, ending her AV actress career. |
+| 2005 | Scouted at 南越谷駅 in November; AV debut as 柚木ティナ, exclusive to MAX-A. |
+| 2007 | Announced the change to Rio on her blog on 28 July; new blog from 10 August. |
+| 2008 | S1 exclusive from February; 《Rioの楽園》 from January and 《おねがい!マスカット》 from April. |
+| 2009 | Moved to IdeaPocket and returned to MAX-A in March; actress award at the スカパー!アダルト放送大賞 on 25 March. |
+| 2010 | Appointed a 六本木Red Dragon goodwill ambassador on 28 February. |
+| 2012 | 10th in the AV30 popularity poll. |
+| 2013 | Singer debut as RIO on 4 December. |
+| 2023 | Appeared on 《オールナイトフジコ》 on 29 April; reported to be working in visiting-nurse counselling and as an accessory designer. |
 
-## Awards
+## Source coverage
 
-- 2008 actress of the year award
+This entry is based mainly on the Japanese and Chinese Wikipedia articles "Rio (AV女優)" (consulted 2026-10-30). The date of birth, birthplace, agency, mixed heritage, debut and renaming, award, AV30 placing, singer debut and the 2023 report come from those articles. The 154cm height, measurements and C cup carry over from the existing entry and are not in either article. The existing entry's "real name 鈴木光子" and "retired January 2016" have no counterpart in either Wikipedia article, so they are not included in the body; the end of her AV activity is given only as "the 2010s", with no confirmed date. The total number of works and the full awards record were not obtained.
 
 ## References
 

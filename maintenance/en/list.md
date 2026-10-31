@@ -233,6 +233,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Beatrix
 ### Ho column (ほ段)
 
+- Hoshikana
 - Suzu Honjo
 ## Ma row (ま行)
 

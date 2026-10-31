@@ -69,6 +69,10 @@ Miru is an active Japanese AV actress known for her technique. She debuted at S1
 
 - **Twitter/X**: [@miruteer_29](https://twitter.com/miruteer_29)
 
+## Source coverage
+
+This entry has been compiled from the sources listed under References, mainly Japanese Wikipedia, Chinese Wikipedia, Wikidata and the subject’s social media accounts; their own secondary citations have not been traced one by one. Apart from official pages already listed there, figures such as height, measurements and date of birth, as well as the total number of works, awards and details of personal history, have not been checked individually, and coverage is limited to the listed sources.
+
 ## References
 
 - <https://ja.wikipedia.org/wiki/Miru_(AV女優)>

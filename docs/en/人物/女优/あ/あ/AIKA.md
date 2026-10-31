@@ -62,6 +62,10 @@ AIKA is a Japanese AV actress affiliated with T-POWERS. She worked as a beautici
 | 2025 | In September a 2024-title BEST disc surged to #8 on the FANZA weekly video chart. |
 | 2026 | In March appeared at Taiwan's ADULTOPIA adult expo, where she won the BEST BREAKAWAY award citing a billion TikTok plays. |
 
+## Source coverage
+
+This entry has been compiled from the sources listed under References, mainly Japanese Wikipedia, Chinese Wikipedia and Wikidata; their own secondary citations have not been traced one by one. Apart from official pages already listed there, figures such as height, measurements and date of birth, as well as the total number of works, awards and details of personal history, have not been checked individually, and coverage is limited to the listed sources.
+
 ## References
 
 - <https://zh.wikipedia.org/wiki/AIKA_(AV女优)>
