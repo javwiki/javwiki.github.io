@@ -11,6 +11,7 @@ This directory collects the reference documents used to maintain the encyclopedi
 - [Actress list](list.md) — plain-text list (kept in sync with list.yaml)
 - [Gojūon sorting rules](五十音排序规则.md) — the item standard behind list.yaml's sorting rules
 - [Sources](source.md)
+- [Data site accessibility test](资料站可访问性.md) — tested sources and usage notes
 
 ## Awards
 
