@@ -5,6 +5,7 @@ company: Allpro（オールプロモーション / ALL PROMOTION）
 ---
 # Allpro
 ## 基本信息
+
 - **全称**: Allpro（オールプロモーション / ALL PROMOTION）
 - **特点**: 芸能经纪公司，以 AV女优经纪业务为主
 - **业务**: 女优经纪、作品制作等

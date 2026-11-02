@@ -23,7 +23,6 @@ relationships:
 ## Current and former exclusive actresses
 
 - [Eimi Fukada](../../人物/女优/は/ふ/深田咏美.md)
-- [Moe Amatsuka](../../人物/女优/た/て/天使萌.md)
 - [Nozomi Ishihara](../../人物/女优/あ/い/石原希望.md)
 - [Hotaru Akane](../../人物/女优/か/く/红音萤.md)
 - [Araki Rena](../../人物/女优/あ/あ/荒木レナ.md)

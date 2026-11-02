@@ -5,6 +5,7 @@ company: Prime Agency（プライムエージェンシー）
 ---
 # Prime Agency
 ## Basic information
+
 - **Full name**: Prime Agency (プライムエージェンシー)
 - **Profile**: An entertainment agency whose models are mainly AV actresses; it also runs an AV management business
 - **Services**: Actress management, release production, event planning, etc.

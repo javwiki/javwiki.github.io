@@ -49,6 +49,7 @@ Julia was born on 25 May 1987 in Tokyo and belongs to C-more Entertainment. She 
 - Signed comment: writer 杜哲哉 noted that her exotic looks give her many fans overseas; みうらじゅん praised the photobook 《secret J》 (2022) and リリー・フランキー called her 「胸と乳首が最高峰」.
 
 ## Career timeline
+
 | Year | Events |
 | --- | --- |
 | 2010 | Debuted as an E-BODY exclusive in April; her debut title's name was literally her measurements, 《B100 W55 H84 DEBUT JULIA!!!》; after three titles she became non-exclusive. |
@@ -77,7 +78,7 @@ Julia was born on 25 May 1987 in Tokyo and belongs to C-more Entertainment. She 
 - **Instagram**: [@julia_cmore_official](https://instagram.com/julia_cmore_official)
 - **Weibo**: [JULIA_Cmore](https://weibo.com/u/5032694046)
 
-## Sources and scope
+## Source coverage
 
 The introduction and timeline draw mainly on the Japanese Wikipedia article "JULIA (AV actress)" and the C-more official sources listed on this page (accessed 23 October 2026); secondary citations were not traced one by one. The total number of titles and the full award record are not exhaustive.
 

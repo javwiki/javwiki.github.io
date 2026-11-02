@@ -17,7 +17,7 @@ scripts/
 | `checks/check_i18n.py` | 检查三语结构、相对链接、女优索引覆盖、维护列表、排名镜像、作品受保护区和制作公司关系元数据。 |
 | `checks/check_site.py` | 检查生成 HTML 的内部文件链接、锚点、语言切换和体积预算。 |
 | `content/generate_indexes.py` | 从制作公司／厂牌元数据生成分类索引，从目录和本语页面标题生成三个配置中的完整导航；`--check` 只检查漂移。 |
-| `i18n/en_display_names.py` | 从中文源生成英文显示名，更新英文页面与 `maintenance/en/list.{md,yaml}`；`--check` 只报告。 |
+| `i18n/en_display_names.py` | 从中文源生成英文显示名，更新英文页面与 `maintenance/en/list.{md,yaml}`；列头含 `(Japanese)` 的表格列保留日文显示名；`--check` 只报告。 |
 | `i18n/en_index_pages.py` | 重建英文五十音行段索引和维护列表标题。 |
 | `i18n/en_fix_name_openings.py` | 修正文首的英文显示名；`--check` 只报告。 |
 | `checks/audit_images.py` | 清点当前三语全部 Markdown 中的 thumbnail、HTML、srcset、Markdown图片及引用式图片，报告缺图、三语差异、缩略图与正文不一致、缺少alt。拒绝空内容树；不把清点结果当作远程或视觉审查。`--output /tmp/image-inventory.json`可导出逐页记录。 |

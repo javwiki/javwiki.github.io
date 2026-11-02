@@ -5,6 +5,7 @@ company: Allpro（オールプロモーション / ALL PROMOTION）
 ---
 # Allpro
 ## Basic information
+
 - **Full name**: Allpro (オールプロモーション / ALL PROMOTION)
 - **Profile**: An entertainment agency whose business is mainly AV actress management
 - **Services**: Actress management, release production, etc.

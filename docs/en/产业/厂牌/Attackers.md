@@ -23,7 +23,6 @@ relationships:
 
 ## Current and former exclusive actresses
 
-- [Kurea Hasumi](../../人物/女优/は/は/莲实克蕾儿.md)
 - [Airi Kijima](../../人物/女优/か/き/希岛爱理.md)
 
 ## History and group relationships

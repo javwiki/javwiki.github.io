@@ -5,6 +5,7 @@ company: LIGHT（ライトプロモーション）
 ---
 # LIGHT
 ## Basic information
+
 - **Full name**: LIGHT (ライトプロモーション)
 - **Location**: Shinjuku, Tokyo
 - **Divisions**: The agency's work is run through two business units, ELTRA (エルトラ) and EST

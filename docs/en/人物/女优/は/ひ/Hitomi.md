@@ -70,7 +70,7 @@ Hitomi (real name: 田中瞳, born 18 July 1986) is a former Japanese AV actress
 | 2019 | The relationship ended in April; on 2 December she voiced a role in the game 《新宿スカウトバトル》. |
 | 2022 | Announced her retirement on 28 February; released the retirement title 《Hitomiラスト作品！全力でファンの為にセックスします！！》 in April. |
 
-## Sources and scope
+## Source coverage
 
 The introduction and timeline draw mainly on Japanese Wikipedia and the official sources listed (accessed 23 October 2026); Wikipedia's secondary citations were not traced one by one. The total number of titles, the full award record and private-life details are not exhaustive. The timeline drops older nodes that could not be traced back to Japanese Wikipedia or official material (the 2011 E-BODY entry, the 2013 co-starring title, the 2014 Tameike Goro appearances and the 2016 wording that judged the titles' standing), keeping only years verifiable in the article text.
 

@@ -108,7 +108,12 @@ def rewrite_links(text: str, names: dict[str, str]) -> tuple[str, int]:
     out: list[str] = []
     fence: str | None = None
     protected = False
+    japanese_column = False
     for line in text.split("\n"):
+        if not line.startswith("|"):
+            japanese_column = False
+        elif re.search(r"\|[^|]*\(Japanese\)", line):
+            japanese_column = True
         marker = FENCE.match(line)
         if marker:
             fence = None if fence and line.startswith(fence) else (fence or marker.group(0))
@@ -123,7 +128,8 @@ def rewrite_links(text: str, names: dict[str, str]) -> tuple[str, int]:
             continue
         if protected and NEXT_HEADING.match(line):
             protected = False
-        out.append(line if protected else replace_line(line, replace))
+        skip = protected or japanese_column
+        out.append(line if skip else replace_line(line, replace))
     return "\n".join(out), count
 
 

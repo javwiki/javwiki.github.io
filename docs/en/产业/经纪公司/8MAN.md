@@ -30,10 +30,6 @@ The official [model list](https://so-agent.jp/model.php) lists 16 models as chec
 
 Other members on the roster (no entry yet): つばさ舞, 八蜜凛, 藤井蘭々, 女神ジュン, 七海ティナ, 一色桃子, 鳳みゆ, 中森ななみ, 与田りん, 月乃ルナ, 星まりあ, 三浦奈々, 恋れん.
 
-### Former members
-
-- [Minami Aizawa](../../人物/女优/あ/あ/相泽南.md) (retired)
-
 ## References
 
 - [Official website](https://so-agent.jp/) (formerly <https://www.8man.jp/>)

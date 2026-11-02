@@ -25,7 +25,6 @@ relationships:
 - [Yua Mikami](../../人物/女优/ま/み/三上悠亚.md)
 - [Arina Hashimoto](../../人物/女优/は/は/桥本有菜.md)
 - [Saika Kawakita](../../人物/女优/か/か/河北彩花.md)
-- [Mio Ishikawa](../../人物/女优/あ/い/石川澪.md)
 - [Tsukasa Aoi](../../人物/女优/あ/あ/葵司.md)
 - [Kirara Asuka](../../人物/女优/あ/あ/明日花绮罗.md)
 - [Nagi Hikaru](../../人物/女优/な/な/凪ひかる.md)

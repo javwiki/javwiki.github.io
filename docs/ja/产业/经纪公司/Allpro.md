@@ -5,6 +5,7 @@ company: Allpro（オールプロモーション / ALL PROMOTION）
 ---
 # Allpro
 ## 基本情報
+
 - **正式名称**: Allpro（オールプロモーション / ALL PROMOTION）
 - **特徴**: AV 女優のマネジメントを中心とする芸能プロダクション
 - **業務**: 女優のマネジメント、作品製作など
