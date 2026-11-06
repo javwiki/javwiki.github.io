@@ -35,8 +35,9 @@
       {% set suffix = "" %}
     {% endif %}
     {% for alt in config.extra.alternate %}
+      {# Trailing space keeps the rel token for crawlers but hides page-level links from the theme's exact [rel=alternate] sitemap lookup. #}
       {% set target = alt.link ~ suffix %}
-      <link rel="alternate" href="{{ target | url }}" hreflang="{{ alt.lang | d(lang.t('language')) }}">
+      <link rel="alternate " href="{{ target | url }}" hreflang="{{ alt.lang | d(lang.t('language')) }}">
     {% endfor %}
   {% endif %}
   {% set href = config.theme.favicon | d("assets/images/favicon.png") %}

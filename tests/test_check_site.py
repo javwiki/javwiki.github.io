@@ -116,3 +116,12 @@ def test_link_escaping_site_is_reported(tmp_path: Path) -> None:
     problems = check_site(site)
 
     assert any("link escapes site" in problem for problem in problems)
+
+
+def test_page_alternates_stay_hidden_from_theme_sitemap_lookup() -> None:
+    template = (Path(__file__).parents[1] / "overrides/main.html").read_text(
+        encoding="utf-8"
+    )
+
+    assert '<link rel="alternate " href="{{ target | url }}"' in template
+    assert '<link rel="alternate" href="{{ target' not in template

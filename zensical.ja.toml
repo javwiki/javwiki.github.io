@@ -574,6 +574,7 @@ alternate = [
 [project.theme]
 variant = "classic"
 language = "ja"
+font = false
 custom_dir = "overrides"
 logo = "assets/images/logo.svg"
 favicon = "assets/images/icon.svg"
