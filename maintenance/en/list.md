@@ -282,6 +282,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 ### Yu column (ゆ段)
 
 - Yuzuki Marina
+- Eve Yumeshiro
 - Aika Yumeno
 - Himawari Yuzuki
 - Karen Yuzuriha

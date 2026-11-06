@@ -5,6 +5,7 @@ This column lists actresses whose stage name begins with ゆ (row や, column �
 ## Entries
 
 - [Yuzuki Marina](优月真里奈.md)
+- [Eve Yumeshiro](夢城イヴ.md)
 - [Jun Mizukawa](由爱可奈.md)
 - [Yura Chitose](由來千歲.md)
 - [Kana Yura](由良かな.md)
