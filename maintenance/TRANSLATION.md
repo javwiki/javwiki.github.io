@@ -235,7 +235,7 @@ uv run --locked --no-dev python scripts/checks/check_i18n.py
 i18n trees match (358 files per language, 710 pages structurally checked)
 ```
 
-`./scripts/build_site.sh` 会先跑上述检查，再依次以 Zensical 0.0.62 的 strict 模式构建三个语言版本，最后用 `check_site.py` 扫描全部生成页面的内部文件链接、锚点、逐页语言链接，并执行 HTML 160 KiB / 导航 320 链接的体积预算：
+`./scripts/build_site.sh` 会先跑上述检查，再依次以 Zensical 0.1.0 的 strict 模式构建三个语言版本，最后用 `check_site.py` 扫描全部生成页面的内部文件链接、锚点、逐页语言链接，并执行 HTML 160 KiB / 导航 320 链接的体积预算：
 
 ```bash
 ./scripts/build_site.sh
