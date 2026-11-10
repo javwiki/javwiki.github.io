@@ -75,3 +75,4 @@ As of the source review on **10 November 2026**, the cited material establishes 
 - [AV actresses and overseas “work”](AV女优海外打工.md)
 - [Life after retiring from AV](退役女优的生活.md)
 - [Talent agencies](../产业/经纪公司/index.md)
+- [History and development of the doujin AV industry](同人AV产业的历史和发展.md)
