@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -33,3 +34,5 @@ jobs:
           path: site
       - uses: actions/deploy-pages@v5
         id: deployment
+        with:
+          timeout: 1800000
