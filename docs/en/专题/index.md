@@ -6,6 +6,7 @@ In-depth articles on JAV industry trends, business models and sector observation
 
 | Feature | Area | Description |
 | --- | --- | --- |
+| [Effects of Japan’s AV performer protection law](AV新法的影响.md) | Law and industry change | Performer rights, scheduling and finance, work opportunities, consultations, and causal evidence |
 | [AV actresses and overseas “work”](AV女优海外打工.md) | Cross-border work and industry | Public appearances, paid sexual services, intermediaries, earnings claims, and coercive control |
 | [AI's impact on the AV industry](AI对AV产业的影响.md) | Technology and industry change | Production costs, synthetic content, identity licensing, distribution and deepfake risks |
 | [Restrictions on overseas access to Japanese websites：current policies and contributing factors](日本网站对海外提供服务的限制.md) | Platforms and cross-border services | Overseas policies, restriction stages, rights, compliance and operational effects |

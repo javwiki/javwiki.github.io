@@ -98,3 +98,4 @@ Public schedules, overseas photographs, displays of wealth, and intermediaries' 
 - [Life after retiring from AV](退役女优的生活.md)
 - [Talent agencies](../产业/经纪公司/index.md)
 - [Events](../资料/活动/index.md)
+- [Effects of Japan’s AV performer protection law](AV新法的影响.md)
