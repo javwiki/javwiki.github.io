@@ -83,3 +83,4 @@ Further observation can ask whether creators sustain paying audiences, whether p
 - [Production companies and group relationships](制作公司与集团.md)
 - [Restrictions on Japanese websites serving overseas users](日本网站对海外提供服务的限制.md)
 - [AV performer protection and relief law](../资料/法律/AV出演被害防止・救済法.md)
+- [History and development of uncensored AV](无码AV产业的历史和发展.md)

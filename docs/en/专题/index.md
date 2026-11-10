@@ -6,6 +6,7 @@ In-depth articles on JAV industry trends, business models and sector observation
 
 | Feature | Area | Description |
 | --- | --- | --- |
+| [History and development of uncensored AV](无码AV产业的历史和发展.md) | Media history and cross-border distribution | Ura video, overseas websites, creator platforms, law, and authorization |
 | [History and development of the doujin AV industry](同人AV产业的历史和发展.md) | Independent production and platform economy | Physical and digital distribution, subscriptions, social media, commercial talent, and regulation |
 | [Effects of Japan’s AV performer protection law](AV新法的影响.md) | Law and industry change | Performer rights, scheduling and finance, work opportunities, consultations, and causal evidence |
 | [AV actresses and overseas “work”](AV女优海外打工.md) | Cross-border work and industry | Public appearances, paid sexual services, intermediaries, earnings claims, and coercive control |
