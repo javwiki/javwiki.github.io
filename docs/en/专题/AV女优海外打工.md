@@ -55,6 +55,36 @@ A jurisdiction's treatment of sexual services does not automatically authorize f
 
 Japan's National Police Agency lists forced prostitution to repay debt and forced labor following passport confiscation as examples of trafficking victimization. Coercion and control are central: voluntarily traveling or having performed in AV does not rule out subsequent victimization. [National Police Agency: trafficking and examples of abuse](https://www.npa.go.jp/bureau/safetylife/hoan/jinshintorihiki/index.html)
 
+## Visa refusals and difficulties at the border
+
+Reports of actresses being unable to travel abroad require identifying the stage involved. Online references to a “visa refusal” sometimes conflate these different outcomes:
+
+| Situation | Stage | What needs confirmation |
+| --- | --- | --- |
+| Visa application refused | Embassy or consulate adjudication | Reason, legal provision, and whether further documents were requested |
+| Admission refused and traveler sent back | Border inspection after arrival | Admission decision and reasons; this is distinct from consular visa refusal |
+| Further questioning or a lengthy wait | Additional border checks | Whether admission was ultimately granted or refused, rather than waiting time alone |
+
+The US Department of State explains that consular officers adjudicate visas. Missing information or failure to qualify for the requested category can lead to refusal; occupation alone does not establish the reason. [US Department of State: visa denials](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/visa-denials.html) A visa also does not guarantee admission, which Customs and Border Protection (CBP) determines on arrival. [US Department of State: visas and admission](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/frequently-asked-questions.html)
+
+### Yua Fukuda: her account of refusal of entry to New Zealand
+
+In an interview published on **17 August 2026**, Yua Fukuda said she traveled to New Zealand to see the stars but was sent back after nearly six hours of questioning. According to her account, the document she signed cited an unclear travel purpose that could not be accepted as tourism. [Nikkan SPA!: interview with Yua Fukuda](https://nikkan-spa.jp/2180698)
+
+This is a personal account, not a complete case file released by immigration authorities. It is included as an individual border incident, without establishing that she engaged in or intended sexual transactions. The reporting's term for forced return also does not, by itself, establish a particular legal procedure.
+
+### Mana Sakura: released after lengthy questioning
+
+ORICON reported on **25 June 2026** that Mana Sakura recalled visiting the United States for a photo book shoot at age 23, being held for about five hours, and being released after presenting the shooting schedule. This was a recollection, not a visa refusal occurring in 2026. [ORICON: Mana Sakura's televised account](https://www.oricon.co.jp/news/2463777/full/)
+
+The publication date, timing of the incident, and final outcome must remain distinct. Her speculation about the background to the questioning cannot be treated as the border authority's confirmed reason.
+
+### Occupational labels and applicable rules
+
+Immigration New Zealand's operational manual E7.40 prohibits temporary entry class visa holders from providing commercial sexual services, operating a prostitution business, or investing in one while in New Zealand; breaches may lead to liability for deportation. These activity restrictions do not establish a blanket ban on AV actresses entering as tourists. [Immigration New Zealand: E7.40](https://www.immigration.govt.nz/opsmanual/34359.htm)
+
+Assessing whether occupation caused a refusal requires the application category, travel purpose, submitted evidence, and decision reasons. These cases and rules do not establish that every country bans AV actresses from entering, nor do they provide visa-refusal or admission-refusal rates for actresses as a group.
+
 ## What the reporting establishes and what remains unknown
 
 These sources document terminology, some people's experiences or observations, and institutional issues. They do not supply a population sample from which to estimate participation among active or retired AV actresses. Japanese women, sex-industry workers, AV actresses, and identified trafficking victims are different statistical populations; their counts are not interchangeable.
