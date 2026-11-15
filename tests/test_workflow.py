@@ -12,11 +12,14 @@ def load_workflow() -> dict:
     return yaml.load(WORKFLOW.read_text(encoding="utf-8"), Loader=yaml.BaseLoader)
 
 
-def test_publication_uses_the_official_push_triggers() -> None:
+def test_publication_uses_push_and_manual_triggers() -> None:
     workflow = load_workflow()
     deploy = workflow["jobs"]["deploy"]
 
-    assert workflow["on"] == {"push": {"branches": ["master", "main"]}}
+    assert workflow["on"] == {
+        "push": {"branches": ["master", "main"]},
+        "workflow_dispatch": "",
+    }
     assert "if" not in deploy
     assert "concurrency" not in workflow
     assert deploy["environment"]["name"] == "github-pages"
