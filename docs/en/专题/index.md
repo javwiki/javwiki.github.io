@@ -14,6 +14,8 @@ In-depth articles on JAV industry trends, business models and sector observation
 | [Restrictions on overseas access to Japanese websites：current policies and contributing factors](日本网站对海外提供服务的限制.md) | Platforms and cross-border services | Overseas policies, restriction stages, rights, compliance and operational effects |
 | [AV actresses reported to have died by suicide](自杀女优.md) | People and source verification | Reported cases, evidentiary limits and distinctions between causes of death |
 | [AV actresses and TikTok LIVE](AV女优与TikTokLIVE.md) | Industry trends | Why more and more AV actresses are joining TikTok to stream LIVE |
+| [AV actresses and contraception](AV女优与避孕.md) | Occupational health and industry practice | Condoms, oral contraceptives, STI testing, law and consent |
+| [AV actresses and hiding their work from family](AV女优与家人隐瞒职业.md) | People and family relationships | Stage names, discovery by family, family meetings, estrangement and limited support |
 | [The Koyoi Konan controversy](小宵虎南炎上事件.md) | People and commercial disputes | The September 2025 dispute over marriage, an affiliated company, unauthorized merchandise and fan-club revenue |
 
 ## Related entries
