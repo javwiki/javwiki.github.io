@@ -15,8 +15,12 @@ In-depth articles on JAV industry trends, business models and sector observation
 | [AV actresses reported to have died by suicide](自杀女优.md) | People and source verification | Reported cases, evidentiary limits and distinctions between causes of death |
 | [AV actresses and TikTok LIVE](AV女优与TikTokLIVE.md) | Industry trends | Why more and more AV actresses are joining TikTok to stream LIVE |
 | [AV actresses and contraception](AV女优与避孕.md) | Occupational health and industry practice | Condoms, oral contraceptives, STI testing, law and consent |
+| [AV actresses and cosmetic surgery](AV女优与整容.md) | Occupational health and industry practice | Appearance as a product, cosmetic medicine, cover retouching, disclosure and silence |
+| [AV actresses and drugs](AV女优与毒品.md) | Law, health and industry | Use and drug-spiking, penalties, cases, industry defences and media labels |
+| [AV actresses and the fūzoku industry](AV女优与风俗业.md) | Sex industry and labour | Legal differences, side-work routes, title premiums, recruitment and control |
 | [AV actresses and hiding their work from family](AV女优与家人隐瞒职业.md) | People and family relationships | Stage names, discovery by family, family meetings, estrangement and limited support |
 | [The Koyoi Konan controversy](小宵虎南炎上事件.md) | People and commercial disputes | The September 2025 dispute over marriage, an affiliated company, unauthorized merchandise and fan-club revenue |
+| [The “forced retirement” controversy around Akari Mitani](美谷朱里被退役事件.md) | People and source verification | Origin of the “eight-agency boycott” claim, her account, timeline and evidentiary limits |
 
 ## Related entries
 
