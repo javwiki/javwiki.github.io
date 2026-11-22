@@ -3,13 +3,13 @@ tags: [J杯, C-more, E-BODY, MOODYZ, 溜池ゴロー, OPPAI, ワンズファク�
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Julia,_Japanese_porn_actress.jpg/500px-Julia,_Japanese_porn_actress.jpg
 ---
 
-# Julia
+# JULIA
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Julia,_Japanese_porn_actress.jpg/500px-Julia,_Japanese_porn_actress.jpg" alt="Julia" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Julia,_Japanese_porn_actress.jpg/500px-Julia,_Japanese_porn_actress.jpg" alt="JULIA" class="actress-photo" style="float: right; max-width: 280px; margin-left: 20px; border-radius: 8px;" />
 
 ## 基本情報
 
-- **名前**: Julia
+- **名前**: JULIA
 - **読み**: じゅりあ
 - **英語名**: Julia
 - **生年月日**: 1987年5月25日

@@ -20,7 +20,7 @@ items:
     row: あ
     col: あ
     completeness: 100%
-  - name: 彩美旬果
+  - name: あやみ旬果
     row: あ
     col: あ
     completeness: 100%
@@ -364,11 +364,11 @@ items:
     row: さ
     col: さ
     completeness: 100%
-  - name: Julia
+  - name: JULIA
     row: さ
     col: し
     completeness: 100%
-  - name: 東雲美玲
+  - name: 東雲みれい
     row: さ
     col: し
     completeness: 100%
@@ -480,7 +480,7 @@ items:
     row: た
     col: つ
     completeness: 100%
-  - name: 蕾
+  - name: つぼみ
     row: た
     col: つ
     completeness: 100%
@@ -704,7 +704,7 @@ items:
     row: ま
     col: み
     completeness: 100%
-  - name: 水菜麗
+  - name: みづなれい
     row: ま
     col: み
     completeness: 100%

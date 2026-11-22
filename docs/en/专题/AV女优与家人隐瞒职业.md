@@ -19,7 +19,7 @@ These are the accounts of interviewers and subjects, not incidence statistics. W
 
 Common measures include using a stage name, limiting how much of the face is shown, separating work and private accounts, keeping hometown and school out of public view, and letting the agency handle outside communication. Some tell their parents they do modelling, acting or video work, removing AV from the job description.
 
-Akiho Yoshizawa recalls telling her mother she had joined an agency to become an actress and was then only doing television reconstructions and magazine modelling; about four months after her debut, her mother still grew suspicious from media coverage and people around her. [Money Gendai: Akiho Yoshizawa on being found out](https://gendai.media/articles/-/105307)
+Akiho Yoshizawa recalls telling her mother she had joined an agency to become an actress and was then only doing television reconstructions and magazine modelling; less than four months after her debut, her mother still grew suspicious from media coverage and people around her. [Money Gendai: Akiho Yoshizawa on being found out](https://gendai.media/articles/-/105307)
 
 Concealment is not one person's secret either. Once parents know, they may keep it from grandparents, relatives and neighbours; a spouse may be left outside the information loop. Marina Shiraishi says in the interview collection that she entered AV after marriage and childbirth without telling her family, was found out quickly and a family meeting followed. Her mother was badly shaken; her father said, “You only get one life. You're an adult; try it within what we can support.” Her husband was working overseas and, at the time of the interview, still did not know. [Maidona News: Shiraishi and others on family](https://maidonanews.jp/article/13463262)
 
@@ -30,7 +30,7 @@ Concealment is not one person's secret either. Once parents know, they may keep 
 | Route | Public case | What it shows |
 | --- | --- | --- |
 | Debut publicity and magazines | Maria Ozawa appeared in a weekly magazine's gravure soon after debuting; her parents found out quickly | Publicity itself breaks anonymity |
-| Family suspicion and questioning | Akiho Yoshizawa's mother called to confront her about four months after debut | Media, people around her and intuition can all trigger it |
+| Family suspicion and questioning | Akiho Yoshizawa's mother called to confront her less than four months after debut | Media, people around her and intuition can all trigger it |
 | Home internet and DVDs | Yuki Tōma's daughter found her work online and on DVD in the sixth grade | Children can also be the ones who find out |
 | Schools and local networks | Azusa Itagaki's younger brother was bullied at school | Stigma reaches family members |
 
@@ -51,7 +51,7 @@ The cases below describe publicly verifiable individual experiences; they do not
 
 Akiho Yoshizawa debuted in 2003 and was suspected by her mother less than four months later. She denied everything on the phone; her father said, “Your parents are worried. Come home.” She later wrote repeatedly in her notebooks that she might not have valued the most important people in her life. [Money Gendai: Akiho Yoshizawa on being found out](https://gendai.media/articles/-/105307)
 
-In the end she did not choose between quitting and cutting ties. She wrote a five-page letter and sent it home. Two days later her mother called: “I cannot approve of what you are doing, and I cannot support it. But this is the life your daughter chose and is working hard at, and I want to believe in it.” Her father never mentioned her work again; she suspects her mother may have been shielding her. [Money Gendai: the five-page letter and her mother's words](https://gendai.media/articles/-/105309)
+In the end she did not choose between quitting and cutting ties. She wrote a five-page letter and sent it home. Two days later her mother called: “I cannot approve of what you are doing, and I cannot support it. But this is the life you chose and are working hard at, and I want to believe in it.” Her father never mentioned her work again; she suspects her mother may have been shielding her. [Money Gendai: the five-page letter and her mother's words](https://gendai.media/articles/-/105309)
 
 The case also suggests that the end of concealment is not necessarily full understanding: someone may reluctantly accept, someone may stay silent, or the conflict may be postponed for years.
 

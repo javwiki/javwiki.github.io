@@ -94,7 +94,7 @@ Some companies terminate contracts or stop working with a performer after a scan
 
 ## Media labels and the “AV actress = drugs” stereotype
 
-Arrest reports use labels such as “former AV actress” or “sex actress” even when the person retired or changed careers long ago. This encourages readers to read an individual case as a trait of the profession.
+Arrest reports use labels such as “former AV actress” or “セクシー女優” (sexy actress) even when the person retired or changed careers long ago. This encourages readers to read an individual case as a trait of the profession.
 
 Exposure bias is also strong: arrests are reported, but use that does not lead to arrest is not; people who recover do not become news. Estimating prevalence from the number of reports therefore systematically overstates it.
 

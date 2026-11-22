@@ -24,7 +24,7 @@ One work may involve several dimensions, but one label cannot answer the other q
 
 In a retrospective published on **20 June 2021**, Gyokusen Hashimoto connected 1980s ura video with home equipment, copies of foreign films, and Japanese independent production, recalling lending and copying among acquaintances. This is an author's historical recollection, useful for understanding circulation settings rather than national market statistics. [Gyokusen Hashimoto: ura video retrospective](https://www.menscyzo.com/2021/06/post_195599-2.html)
 
-*Sentakuya Ken-chan* is a representative title in this cultural memory. LOFT scheduled a historical event on **18 March 2022**, listing its lead performer, directors, and a former video-shop operator. This documents continuing historical interest, not contemporary sales figures or the origin of all uncensored works. [LOFT: historical event on Showa-era ura video](https://www.loft-prj.co.jp/schedule/lofta/202907)
+*Sentakuya Ken-chan* is a representative title in this cultural memory. LOFT scheduled a historical event on **18 March 2022**, listing its lead performer, directors, and a former video-shop operator. This documents continuing historical interest, not sales figures at the time or the origin of all uncensored works. [LOFT: historical event on Showa-era ura video](https://www.loft-prj.co.jp/schedule/lofta/202907)
 
 Physical duplication allowed footage to circulate beyond a single screening while separating original producers, duplicators, and final sellers. The same title may refer to different generations or versions; a file available today does not automatically represent the original release.
 

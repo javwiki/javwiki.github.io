@@ -10,7 +10,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Julia,_Japa
 ## 基本信息
 
 - **姓名**: Julia
-- **日文名**: ジュリア
+- **日文名**: JULIA
 - **读音**: じゅりあ
 - **英文名**: Julia
 - **出生日期**: 1987年5月25日

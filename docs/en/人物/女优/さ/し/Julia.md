@@ -10,7 +10,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Julia,_Japa
 ## Basic information
 
 - **Name**: Julia
-- **Japanese name**: ジュリア
+- **Japanese name**: JULIA
 - **Reading**: じゅりあ
 - **English name**: Julia
 - **Date of birth**: 25 May 1987
