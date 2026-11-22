@@ -5,6 +5,7 @@ This column lists actresses whose stage name begins with い (row あ, column �
 ## Entries
 
 - [Mio Ichijou](一条みお.md)
+- [Ameri Ichinose](一之濑亚美莉.md)
 - [Mayuki Ito](伊藤舞雪.md)
 - [Masami Ichikawa](市川雅美.md)
 - [Mio Ishikawa](石川澪.md)

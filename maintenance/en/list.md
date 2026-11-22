@@ -31,6 +31,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 ### I column (い段)
 
 - Mio Ichijou
+- Ameri Ichinose
 - Mei Itsukaichi
 - Mayuki Ito
 - Masami Ichikawa
