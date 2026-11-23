@@ -12,3 +12,6 @@ This column lists actresses whose stage name begins with ゆ (row や, column �
 - [Himawari Yuzuki](柚月向日葵.md)
 - [Aika Yumeno](夢乃あいか.md)
 - [Karen Yuzuriha](楪可怜.md)
+- [Maina Yuuri](優梨まいな.md)
+- [Itsuki Yukimura](幸村泉希.md)
+- [Rino Yuuki](結城りの.md)

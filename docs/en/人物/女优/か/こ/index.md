@@ -11,7 +11,8 @@ This column lists actresses whose stage name begins with こ (row か, column �
 - [Minami Kojima](小島みなみ.md)
 - [Yotsuha Kominato](小凑四叶.md)
 - [Minako Komukai](小向美奈子.md)
-
 - [Miyu Kohinata](小日向みゆう.md)
 - [Momona Koibuchi](恋渕桃奈.md)
 - [Koyoi Konan](小宵虎南.md)
+- [Nanami Kodama](兒玉七海.md)
+- [Hana Kotone](琴音華.md)

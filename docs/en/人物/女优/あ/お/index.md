@@ -16,5 +16,8 @@ This column lists actresses whose stage name begins with お (row あ, column �
 - [Rikka Ono](小野六花.md)
 - [Orihara Honoka](折原ほのか.md)
 - [Orin](おりん.md)
-
 - [Arisu Otsu](乙アリス.md)
+- [Non Ohana](小花のん.md)
+- [Yuika Onosaka](小野坂ゆいか.md)
+- [Erika Ozaki](尾崎えりか.md)
+- [Yuuri Oshikawa](推川ゆうり.md)

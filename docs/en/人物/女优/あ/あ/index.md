@@ -22,9 +22,19 @@ This column lists actresses whose stage name begins with あ (row あ, column �
 - [Asagiri Akari](朝桐光.md)
 - [Mihiro](朝美穗香.md)
 - [Yuma Asami](麻美由真.md)
-
 - [Miyu Aizawa](逢沢みゆ.md)
-
 - [Kokoro Asano](浅野こころ.md)
-
 - [Rima Arai](新井リマ.md)
+- [Mizuki Amane](天然美月.md)
+- [Yuuri Adachi](安達夕莉.md)
+- [Ryou Ayumi](愛弓りょう.md)
+- [Mitsuha Ashitaba](明日葉みつは.md)
+- [Tsumugi Akari](明里つむぎ.md)
+- [Nozomi Arimura](有村のぞみ.md)
+- [Kokoro Ayase](綾瀬こころ.md)
+- [Suzu Aoi](蒼井すず.md)
+- [Rika Aimi](逢見リカ.md)
+- [Azu Amatsuki](天月あず.md)
+- [Ria Aise](愛才りあ.md)
+- [Noa Araki](新木希空.md)
+- [Hikari Aozora](青空ひかり.md)

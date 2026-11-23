@@ -7,5 +7,4 @@ This row lists actresses whose stage name begins with a kana of the さ row.
 - [さ](さ/index.md)
 - [し](し/index.md)
 - [す](す/index.md)
-
 - [せ](せ/index.md)

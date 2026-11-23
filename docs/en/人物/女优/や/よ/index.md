@@ -9,3 +9,5 @@ This column lists actresses whose stage name begins with よ (row や, column �
 - [Akiho Yoshizawa](吉泽明步.md)
 - [Nene Yoshitaka](吉高宁宁.md)
 - [Honoka Yonekura](米倉穂香.md)
+- [Shiori Yorimoto](依本しおり.md)
+- [Nanami Yokomiya](横宮七海.md)

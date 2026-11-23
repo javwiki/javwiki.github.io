@@ -5,3 +5,5 @@ This column lists actresses whose stage name begins with す (row さ, column �
 ## Entries
 
 - [Airi Suzumura](鈴村あいり.md)
+- [Jun Suehiro](末広純.md)
+- [Mayu Suzuki](鈴木真夕.md)

@@ -13,3 +13,4 @@ This column lists actresses whose stage name begins with い (row あ, column �
 - [Ai Iijima](饭岛爱.md)
 - [Haru Imaga](今賀はる.md)
 - [Mei Itsukaichi](五日市芽依.md)
+- [Ruka Itoi](糸井瑠花.md)

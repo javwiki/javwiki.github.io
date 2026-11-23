@@ -14,9 +14,8 @@ This column lists actresses whose stage name begins with き (row か, column �
 - [Rino Kirishima](桐嶋りの.md)
 - [Airi Kijima](希岛爱理.md)
 - [Kimura Ako](木村愛心.md)
-
 - [Karin Kitaoka](北岡果林.md)
-
 - [Mina Kitano](北野未奈.md)
-
 - [Himari Kinoshita](木下ひまり.md)
+- [Ririko Kinoshita](木下凛々子.md)
+- [Toa Kiyomiya](清宮仁愛.md)

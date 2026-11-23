@@ -84,6 +84,58 @@ items:
     row: あ
     col: あ
     completeness: 100%
+  - name: Rika Aimi
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: Suzu Aoi
+    row: あ
+    col: あ
+    completeness: 80%
+  - name: Tsumugi Akari
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: Mitsuha Ashitaba
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: Yuuri Adachi
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: Mizuki Amane
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: Kokoro Ayase
+    row: あ
+    col: あ
+    completeness: 80%
+  - name: Ryou Ayumi
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: Nozomi Arimura
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: Ria Aise
+    row: あ
+    col: あ
+    completeness: 80%
+  - name: Hikari Aozora
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: Azu Amatsuki
+    row: あ
+    col: あ
+    completeness: 100%
+  - name: Noa Araki
+    row: あ
+    col: あ
+    completeness: 80%
   - name: Mio Ichijou
     row: あ
     col: い
@@ -120,11 +172,19 @@ items:
     row: あ
     col: い
     completeness: 100%
+  - name: Ruka Itoi
+    row: あ
+    col: い
+    completeness: 80%
   - name: Ai Uehara
     row: あ
     col: う
     completeness: 100%
   - name: Sara Uruki
+    row: あ
+    col: う
+    completeness: 100%
+  - name: Unpai
     row: あ
     col: う
     completeness: 100%
@@ -180,6 +240,22 @@ items:
     row: あ
     col: お
     completeness: 100%
+  - name: Erika Ozaki
+    row: あ
+    col: お
+    completeness: 100%
+  - name: Yuika Onosaka
+    row: あ
+    col: お
+    completeness: 100%
+  - name: Non Ohana
+    row: あ
+    col: お
+    completeness: 100%
+  - name: Yuuri Oshikawa
+    row: あ
+    col: お
+    completeness: 100%
   - name: Kanon Kanade
     row: か
     col: か
@@ -213,6 +289,26 @@ items:
     col: か
     completeness: 100%
   - name: Konatsu Kashiwagi
+    row: か
+    col: か
+    completeness: 100%
+  - name: Karen Kaede
+    row: か
+    col: か
+    completeness: 100%
+  - name: Mai Kagari
+    row: か
+    col: か
+    completeness: 100%
+  - name: Kiho Kanematsu
+    row: か
+    col: か
+    completeness: 100%
+  - name: Yura Kano
+    row: か
+    col: か
+    completeness: 100%
+  - name: Niko Kawagoe
     row: か
     col: か
     completeness: 100%
@@ -268,6 +364,14 @@ items:
     row: か
     col: き
     completeness: 100%
+  - name: Ririko Kinoshita
+    row: か
+    col: き
+    completeness: 100%
+  - name: Toa Kiyomiya
+    row: か
+    col: き
+    completeness: 100%
   - name: Lala Kudo
     row: か
     col: く
@@ -281,6 +385,38 @@ items:
     col: く
     completeness: 100%
   - name: Sumire Kuramoto
+    row: か
+    col: く
+    completeness: 100%
+  - name: Kana Kusakabe
+    row: か
+    col: く
+    completeness: 100%
+  - name: Shiori Kuraki
+    row: か
+    col: く
+    completeness: 80%
+  - name: Hana Kuraki
+    row: か
+    col: く
+    completeness: 100%
+  - name: Mao Kurata
+    row: か
+    col: く
+    completeness: 80%
+  - name: Sakura Kurumi
+    row: か
+    col: く
+    completeness: 100%
+  - name: Sumire Kurokawa
+    row: か
+    col: く
+    completeness: 100%
+  - name: Rei Kuroshima
+    row: か
+    col: く
+    completeness: 80%
+  - name: Aoi Kururugi
     row: か
     col: く
     completeness: 100%
@@ -324,6 +460,14 @@ items:
     row: か
     col: こ
     completeness: 100%
+  - name: Nanami Kodama
+    row: か
+    col: こ
+    completeness: 100%
+  - name: Hana Kotone
+    row: か
+    col: こ
+    completeness: 100%
   - name: Aki Sasaki
     row: さ
     col: さ
@@ -361,6 +505,30 @@ items:
     col: さ
     completeness: 100%
   - name: Nao Satsuki
+    row: さ
+    col: さ
+    completeness: 100%
+  - name: Amiri Saitou
+    row: さ
+    col: さ
+    completeness: 100%
+  - name: Moe Sakakibara
+    row: さ
+    col: さ
+    completeness: 100%
+  - name: Mei Satsuki
+    row: さ
+    col: さ
+    completeness: 100%
+  - name: Mana Sakura
+    row: さ
+    col: さ
+    completeness: 100%
+  - name: Saki Sasaki
+    row: さ
+    col: さ
+    completeness: 100%
+  - name: Sachiko
     row: さ
     col: さ
     completeness: 100%
@@ -420,7 +588,19 @@ items:
     row: さ
     col: し
     completeness: 100%
+  - name: Iyo Shinohara
+    row: さ
+    col: し
+    completeness: 80%
   - name: Airi Suzumura
+    row: さ
+    col: す
+    completeness: 100%
+  - name: Jun Suehiro
+    row: さ
+    col: す
+    completeness: 100%
+  - name: Mayu Suzuki
     row: さ
     col: す
     completeness: 100%
@@ -460,6 +640,14 @@ items:
     row: た
     col: た
     completeness: 100%
+  - name: Nene Tanaka
+    row: た
+    col: た
+    completeness: 100%
+  - name: Mary Tachibana
+    row: た
+    col: た
+    completeness: 100%
   - name: Azumi Chino
     row: た
     col: ち
@@ -492,6 +680,18 @@ items:
     row: た
     col: つ
     completeness: 100%
+  - name: Luna Tsukino
+    row: た
+    col: つ
+    completeness: 100%
+  - name: Sui Tsukinoe
+    row: た
+    col: つ
+    completeness: 100%
+  - name: Honoka Tsujii
+    row: た
+    col: つ
+    completeness: 100%
   - name: Tia
     row: た
     col: て
@@ -517,6 +717,18 @@ items:
     col: と
     completeness: 100%
   - name: Kotone Tōa
+    row: た
+    col: と
+    completeness: 100%
+  - name: Miho Toono
+    row: た
+    col: と
+    completeness: 100%
+  - name: Ruisa Totsuki
+    row: た
+    col: と
+    completeness: 80%
+  - name: Maki Tomoda
     row: た
     col: と
     completeness: 100%
@@ -560,6 +772,26 @@ items:
     row: な
     col: な
     completeness: 100%
+  - name: Fumika Nakayama
+    row: な
+    col: な
+    completeness: 100%
+  - name: Aika Nagisa
+    row: な
+    col: な
+    completeness: 100%
+  - name: Riri Nanatsumori
+    row: な
+    col: な
+    completeness: 100%
+  - name: Mitsuki Nagisa
+    row: な
+    col: な
+    completeness: 100%
+  - name: Alice Nanase
+    row: な
+    col: な
+    completeness: 100%
   - name: Hikaru Ninomiya
     row: な
     col: に
@@ -573,6 +805,14 @@ items:
     col: に
     completeness: 100%
   - name: Yume Nishinomiya
+    row: な
+    col: に
+    completeness: 100%
+  - name: Akari Niimura
+    row: な
+    col: に
+    completeness: 100%
+  - name: Yumi Nijimura
     row: な
     col: に
     completeness: 100%
@@ -620,6 +860,18 @@ items:
     row: は
     col: は
     completeness: 100%
+  - name: Mao Hamasaki
+    row: は
+    col: は
+    completeness: 100%
+  - name: Noa Haruna
+    row: は
+    col: は
+    completeness: 100%
+  - name: Iroha Hakata
+    row: は
+    col: は
+    completeness: 80%
   - name: Hitomi Tanaka（海外名义）
     row: は
     col: ひ
@@ -629,6 +881,14 @@ items:
     col: ひ
     completeness: 100%
   - name: Yuuna Himekawa
+    row: は
+    col: ひ
+    completeness: 100%
+  - name: Yuna Hinata
+    row: は
+    col: ひ
+    completeness: 80%
+  - name: Natsu Hinata
     row: は
     col: ひ
     completeness: 100%
@@ -648,6 +908,14 @@ items:
     row: は
     col: ふ
     completeness: 100%
+  - name: Yua Fukuda
+    row: は
+    col: ふ
+    completeness: 100%
+  - name: Riho Fujimori
+    row: は
+    col: ふ
+    completeness: 100%
   - name: Beatrix
     row: は
     col: べ
@@ -660,11 +928,31 @@ items:
     row: は
     col: ほ
     completeness: 100%
+  - name: Maria Hoshi
+    row: は
+    col: ほ
+    completeness: 100%
+  - name: Yuri Honma
+    row: は
+    col: ほ
+    completeness: 80%
+  - name: Ai Hongou
+    row: は
+    col: ほ
+    completeness: 100%
   - name: Ichika Matsumoto
     row: ま
     col: ま
     completeness: 100%
   - name: Kyoko Maki
+    row: ま
+    col: ま
+    completeness: 100%
+  - name: Hinako Matsui
+    row: ま
+    col: ま
+    completeness: 100%
+  - name: Nanami Matsumoto
     row: ま
     col: ま
     completeness: 100%
@@ -732,6 +1020,42 @@ items:
     row: ま
     col: み
     completeness: 100%
+  - name: Kanna Misaki
+    row: ま
+    col: み
+    completeness: 100%
+  - name: Sumire Mizukawa
+    row: ま
+    col: み
+    completeness: 100%
+  - name: Misono Mizuhara
+    row: ま
+    col: み
+    completeness: 100%
+  - name: Marin Mita
+    row: ま
+    col: み
+    completeness: 100%
+  - name: Akari Minase
+    row: ま
+    col: み
+    completeness: 80%
+  - name: Rie Miyagi
+    row: ま
+    col: み
+    completeness: 100%
+  - name: Hikaru Miyanishi
+    row: ま
+    col: み
+    completeness: 100%
+  - name: Haru Minami
+    row: ま
+    col: み
+    completeness: 80%
+  - name: MINAMO
+    row: ま
+    col: み
+    completeness: 100%
   - name: Meguri
     row: ま
     col: め
@@ -764,6 +1088,10 @@ items:
     row: ま
     col: も
     completeness: 100%
+  - name: Yuka Murakami
+    row: ま
+    col: む
+    completeness: 100%
   - name: Yatsugake Umi
     row: や
     col: や
@@ -777,6 +1105,10 @@ items:
     col: や
     completeness: 100%
   - name: Mizuki Yayoi
+    row: や
+    col: や
+    completeness: 100%
+  - name: Ayaka Yamagishi
     row: や
     col: や
     completeness: 100%
@@ -812,6 +1144,18 @@ items:
     row: や
     col: ゆ
     completeness: 100%
+  - name: Rino Yuuki
+    row: や
+    col: ゆ
+    completeness: 80%
+  - name: Maina Yuuri
+    row: や
+    col: ゆ
+    completeness: 100%
+  - name: Itsuki Yukimura
+    row: や
+    col: ゆ
+    completeness: 100%
   - name: Aimi Yoshikawa
     row: や
     col: よ
@@ -832,11 +1176,23 @@ items:
     row: や
     col: よ
     completeness: 100%
+  - name: Nanami Yokomiya
+    row: や
+    col: よ
+    completeness: 80%
+  - name: Shiori Yorimoto
+    row: や
+    col: よ
+    completeness: 80%
   - name: Rio
     row: ら
     col: り
     completeness: 100%
   - name: Rinne Touka
+    row: ら
+    col: り
+    completeness: 100%
+  - name: Haruka Riri
     row: ら
     col: り
     completeness: 100%

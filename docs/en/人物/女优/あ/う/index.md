@@ -6,3 +6,4 @@ This column lists actresses whose stage name begins with う (row あ, column �
 
 - [Ai Uehara](上原亚衣.md)
 - [Sara Uruki](宇流木さら.md)
+- [Unpai](うんぱい.md)

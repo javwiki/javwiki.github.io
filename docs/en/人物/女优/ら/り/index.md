@@ -6,3 +6,4 @@ This column lists actresses whose stage name begins with り (row ら, column �
 
 - [Rinne Touka](凛音とうか.md)
 - [Rio](Rio.md)
+- [Haruka Riri](莉々はるか.md)

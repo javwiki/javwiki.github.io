@@ -12,3 +12,5 @@ This column lists actresses whose stage name begins with た (row た, column �
 - [Dan Reina](壇玲奈.md)
 - [Rie Tachikawa](立川理恵.md)
 - [Mai Tamaki](玉城マイ.md)
+- [Nene Tanaka](田中ねね.md)
+- [Mary Tachibana](橘メアリー.md)

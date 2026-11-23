@@ -8,3 +8,5 @@ This column lists actresses whose stage name begins with ふ (row は, column �
 - [Kaede Fuyutsuki](冬月枫.md)
 - [Iori Kogawa](古川伊织.md)
 - [Kanna Fuji](藤かんな.md)
+- [Yua Fukuda](福田ゆあ.md)
+- [Riho Fujimori](藤森里穂.md)

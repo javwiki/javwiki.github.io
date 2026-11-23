@@ -7,3 +7,5 @@ This column lists actresses whose stage name begins with ひ (row は, column �
 - [Hitomi](Hitomi.md)
 - [Hana Himesaki](姫咲はな.md)
 - [Yuuna Himekawa](姫川ゆうな.md)
+- [Yuna Hinata](日向由奈.md)
+- [Natsu Hinata](ひなたなつ.md)

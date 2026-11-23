@@ -12,7 +12,8 @@ This column lists actresses whose stage name begins with は (row は, column �
 - [Ai Haneda](羽田爱.md)
 - [Saki Hatsumi](初美沙希.md)
 - [Kurea Hasumi](莲实克蕾儿.md)
-
 - [Kaho Hanamori](花守夏歩.md)
-
 - [Moka Haruhi](春陽モカ.md)
+- [Mao Hamasaki](浜崎真緒.md)
+- [Noa Haruna](羽月乃蒼.md)
+- [Iroha Hakata](博多彩葉.md)

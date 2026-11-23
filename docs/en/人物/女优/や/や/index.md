@@ -8,3 +8,4 @@ This column lists actresses whose stage name begins with や (row や, column �
 - [Yatsugake Umi](八掛うみ.md)
 - [Ria Yamate](山手梨爱.md)
 - [Mizuki Yayoi](弥生みづき.md)
+- [Ayaka Yamagishi](山岸あや花.md)
