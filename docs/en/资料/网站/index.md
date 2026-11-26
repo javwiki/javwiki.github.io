@@ -6,7 +6,7 @@ title: Websites
 
 This page lists third-party forums and subtitle sites focused on JAV and explains what each one is for, what it offers and what access requires. Every site listed is run independently and has no affiliation with this encyclopedia; this site does not host their content and cannot guarantee that links or interfaces stay unchanged.
 
-Checked on 26 November 2026. Interfaces and permissions change without notice, so the descriptions below reflect the public pages as they appeared on that date.
+Checked on 26 November 2026. The descriptions below reflect the public pages as they appeared on that date; membership levels, pricing and regional restrictions may change at any time.
 
 ## At a glance
 
@@ -14,7 +14,10 @@ Checked on 26 November 2026. Interfaces and permissions change without notice, s
 | --- | --- | --- | --- | --- |
 | [JAV-Forum.com](https://www.jav-forum.com/) | Forum | English | Browsing open; some boards and downloads need registration | JAV discussion, English subtitles, gravure idols, direct downloads |
 | [Akiba-Online.com](https://www.akiba-online.com/) | Forum | English | Registration required | Adult discussion, BitTorrent, file-hoster links, requests and trades |
+| [SexInSex](https://www.sexinsex.net/) | General forum | Chinese | Registration and email activation | General adult content, including AV actress discussion, censored/uncensored and magnet boards |
 | [JAV Subtitles](https://javzimu.com/) | Subtitle search | Chinese | Not required | Chinese subtitles by product code, SRT/ASS |
+| [AVSubtitles](https://www.avsubtitles.com/) | Subtitle community | English | Registration required | Uploading, downloading and rating subtitles for JAV and adult films |
+| [JAV-Subtitles](https://www.jav-subtitles.com/) | Subtitle store | English | Registration and purchase required | English subtitles, per title or by subscription, labelled No AI |
 | [Subtitle Cat](https://subtitlecat.com/) | Subtitle aggregator | Multilingual | Optional | General subtitle library, uploads and machine translation, 100+ languages |
 
 ## JAV forums
@@ -38,6 +41,15 @@ A long-running English-language otaku and adult community that calls itself “N
 - P2P, Request + Trade, Club Forums: other transfer protocols, requests and trades, and member group projects respectively.
 - Access: some boards and downloads are hidden from guests and require registration; membership level and site rules determine what is visible.
 
+### SexInSex
+
+A general adult forum mainly in Chinese. Its entry page shows an age and disclaimer warning; clicking “Agree And Enter” opens the board list.
+
+- JAV: boards such as “亚洲AV女优讨论区” (Asian AV actress discussion) and “AV女优百科” (AV actress wiki), with releases also shared in the Asian censored and uncensored boards.
+- Resources: BitTorrent torrents, magnet links, file-hoster links and similar; some boards open only at a certain membership level.
+- Account: registration requires email activation before full access; coins and levels govern permissions.
+- Scope: JAV is only part of the forum; other boards cover general adult content, images and fiction.
+
 ## Subtitle platforms
 
 ### JAV Subtitles (javzimu.com)
@@ -47,6 +59,24 @@ A Chinese-language subtitle search site for JAV. It searches subtitles by produc
 - Use: enter a product code on the home page, open the matching search page and choose a subtitle entry; a CAPTCHA may appear before download.
 - Scope: subtitle files only, not video; the source and proofreading status of each subtitle are not labelled.
 - Funding: free access supported by third-party advertising; the page loads several ad scripts, so pop-ups or redirects can occur.
+
+### AVSubtitles (avsubtitles.com)
+
+A community site for adult-film subtitles that calls itself “The #1 Community for Porn Subtitles and JAV Captions”, covering JAV, adult animation, amateur and softcore.
+
+- Search: by product code or title; results list the languages and number of subtitles available for each film.
+- Languages: the interface is English, and entries include Chinese, Japanese, Korean and others, uploaded by members with ratings and comments.
+- Account: guests can browse films and subtitle lists; uploading and rating require registration.
+- Funding: community contributions and donations, with no per-title pricing shown.
+
+### JAV-Subtitles (jav-subtitles.com)
+
+A paid store for English subtitles for JAV and adult animation, labelled “No AI”, meaning human translation.
+
+- Products: the catalogue is split into censored, uncensored and adult animation; a single subtitle costs about $9.99.
+- Subscription: $19.99 a month allows 10 downloads from a catalogue of 2,000+ subtitles, with a discount on extras.
+- Services: translation for JAV and doujinshi plus custom orders; the site also has a blog.
+- Account: buying and downloading require registration and login; payment and refunds follow the site's terms.
 
 ### Subtitle Cat (subtitlecat.com)
 
@@ -60,6 +90,7 @@ A multilingual subtitle aggregator and translation service for film and televisi
 ## Caveats
 
 - Rights: download boards, file-hoster links and subtitles are largely user-uploaded, and sites usually do not state their rights status. Downloading and redistributing may raise copyright issues; legality depends on the licence, local law and the site's terms.
+- Cost: paid subtitles are priced per title or by subscription; check the language, matching version and refund policy before buying. Paying does not guarantee that the timing matches your copy.
 - Law and region: Japan and the user's country differ in rules on adult content and copyright, and some networks or regions cannot reach these sites.
 - Accounts and privacy: registration usually needs an email address. Use a dedicated address and a distinct password, and do not reuse credentials for important accounts.
 - Safety: such sites carry many ads and redirects; downloading executables, players or purported “codecs” is risky, and subtitle files should come from a source you trust.
