@@ -6,6 +6,7 @@ This column lists actresses whose stage name begins with か (row か, column �
 
 - [Saika Kawakita](河北彩花.md)
 - [Asuna Kawai](河合明日菜.md)
+- [Anna Kami](加美杏奈.md)
 - [Shiori Kamisaki](神咲诗织.md)
 - [Yumi Kazama](风间由美.md)
 - [Yuma Kanzaki](神崎ゆま.md)

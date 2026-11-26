@@ -66,6 +66,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Sakino Oto
 - Anri Okita
 - Hibiki Otsuki
+- Reina O'Hara
 - Anna Okina
 - Saki Okuda
 - Yuna Ogura
@@ -88,6 +89,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Kaede Fua
 - Saika Kawakita
 - Asuna Kawai
+- Anna Kami
 - Shiori Kamisaki
 - Yumi Kazama
 - Yuma Kanzaki
@@ -175,6 +177,7 @@ The following entries are ordered by gojūon. See [Gojūon sorting rules](五十
 - Seri Kizuki
 - Sora Shiina
 - Emika Shirakami
+- Mirei Shirakawa
 - Miu Shiramine
 - Kaho Shirahama
 - Marina Shiraishi

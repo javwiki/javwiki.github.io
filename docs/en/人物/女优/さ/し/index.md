@@ -10,6 +10,7 @@ This column lists actresses whose stage name begins with し (row さ, column �
 - [Marina Shiraishi](白石茉莉奈.md)
 - [Miu Shiramine](白峰美羽.md)
 - [Emika Shirakami](白上咲花.md)
+- [Mirei Shirakawa](白川美玲.md)
 - [Karina Shiratori](白鳥香里奈.md)
 - [Mirei Shinonome](东云美玲.md)
 - [Julia](Julia.md)

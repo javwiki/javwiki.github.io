@@ -5,6 +5,7 @@ This column lists actresses whose stage name begins with お (row あ, column �
 ## Entries
 
 - [Hibiki Otsuki](大槻响.md)
+- [Reina O'Hara](大原伶菜.md)
 - [Anna Okina](奥菜アンナ.md)
 - [Saki Okuda](奥田咲.md)
 - [Maria Ozawa](小泽玛利亚.md)

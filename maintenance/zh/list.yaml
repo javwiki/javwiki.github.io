@@ -204,6 +204,10 @@ items:
     row: あ
     col: お
     completeness: 100%
+  - name: 大原伶菜
+    row: あ
+    col: お
+    completeness: 100%
   - name: 奥菜アンナ
     row: あ
     col: お
@@ -269,6 +273,10 @@ items:
     col: か
     completeness: 100%
   - name: 河合明日菜
+    row: か
+    col: か
+    completeness: 100%
+  - name: 加美杏奈
     row: か
     col: か
     completeness: 100%
@@ -549,6 +557,10 @@ items:
     col: し
     completeness: 100%
   - name: 白上咲花
+    row: さ
+    col: し
+    completeness: 100%
+  - name: 白川美玲
     row: さ
     col: し
     completeness: 100%

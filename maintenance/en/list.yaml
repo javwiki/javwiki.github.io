@@ -204,6 +204,10 @@ items:
     row: あ
     col: お
     completeness: 100%
+  - name: Reina O'Hara
+    row: あ
+    col: お
+    completeness: 100%
   - name: Anna Okina
     row: あ
     col: お
@@ -269,6 +273,10 @@ items:
     col: か
     completeness: 100%
   - name: Asuna Kawai
+    row: か
+    col: か
+    completeness: 100%
+  - name: Anna Kami
     row: か
     col: か
     completeness: 100%
@@ -549,6 +557,10 @@ items:
     col: し
     completeness: 100%
   - name: Emika Shirakami
+    row: さ
+    col: し
+    completeness: 100%
+  - name: Mirei Shirakawa
     row: さ
     col: し
     completeness: 100%
