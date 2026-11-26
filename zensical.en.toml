@@ -630,6 +630,9 @@ nav = [
     { "Terminology" = [
       "资料/术语/index.md",
     ] },
+    { "Websites" = [
+      "资料/网站/index.md",
+    ] },
   ] },
   { "Features" = [
     "专题/index.md",
